@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Simulado 1 de 25 | Instrutor Micael Lucas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+  <link href="assets/simulados.css" rel="stylesheet">
+</head>
+<body>
+  <header class="topbar"><div class="shell nav"><a class="brand" href="index.html"><img src="logomicaellucas.jpeg" alt="Logo Instrutor Micael Lucas" class="brand-logo"><span><small>INSTRUTOR AUTÔNOMO</small><strong>MICAEL LUCAS</strong></span></a><span class="credential"><i class="fa-solid fa-shield-halved"></i> Instrutor credenciado pelo Detran</span></div></header>
+  <main id="app">
+    <header class="sim-hdr"><div class="sim-hdr-inner"><button class="back-btn" id="sexit"><i class="fa-solid fa-arrow-left"></i> Sair</button><span class="sim-title"><i class="fa-solid fa-clipboard-check"></i> <span id="sim-title">Carregando simulado...</span></span><div class="sim-timer-box"><i class="fa-solid fa-clock"></i><span class="sim-clock" id="sclock">60:00</span></div></div></header>
+    <div class="sim-body"><div class="sim-q-card" id="sqa"></div><aside class="sim-side"><div class="sim-side-card"><div class="sim-side-head"><span class="sim-side-title">Questões</span><span class="sim-side-prog" id="spg">0/30 respondidas</span></div><div class="sim-q-grid" id="sgd"></div><p class="sim-side-legend"><b>Verde</b> = respondida · <b>Azul</b> = atual<br>Clique em um número para ir diretamente à questão.</p></div></aside></div>
+  </main>
+  <script src="assets/carregar-simulado.js"></script>
+</body>
+</html>
