@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<rect width="1200" height="760" rx="28" fill="#f4f7fb"/>
+<text x="60" y="70" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#13213a">Exemplos de exercícios para treinar</text>
+<text x="60" y="104" font-family="Arial,sans-serif" font-size="17" fill="#64748b">A avaliação pode trabalhar atenção, memória, raciocínio e percepção visual.</text>
+<g font-family="Arial,sans-serif">
+<rect x="50" y="140" width="530" height="240" rx="22" fill="#fff" stroke="#dbe5f0" stroke-width="2"/>
+<text x="80" y="185" font-size="22" font-weight="700" fill="#2563eb">Atenção</text>
+<text x="80" y="215" font-size="15" fill="#64748b">Localize todos os símbolos iguais ao modelo.</text>
+<circle cx="105" cy="260" r="17" fill="none" stroke="#13213a" stroke-width="4"/><path d="M170 243v34m-17-17h34" stroke="#13213a" stroke-width="4"/><circle cx="235" cy="260" r="17" fill="#f7bd2f"/><path d="M300 243v34m-17-17h34" stroke="#e11d48" stroke-width="4"/><circle cx="365" cy="260" r="17" fill="none" stroke="#13213a" stroke-width="4"/><path d="M430 243v34m-17-17h34" stroke="#13213a" stroke-width="4"/><circle cx="495" cy="260" r="17" fill="#f7bd2f"/><rect x="342" y="237" width="46" height="46" rx="8" fill="none" stroke="#2563eb" stroke-width="3"/>
+<text x="80" y="325" font-size="15" fill="#455268">Modelo: círculo amarelo. Conte apenas os iguais.</text>
+<rect x="620" y="140" width="530" height="240" rx="22" fill="#fff" stroke="#dbe5f0" stroke-width="2"/>
+<text x="650" y="185" font-size="22" font-weight="700" fill="#059669">Memória visual</text>
+<text x="650" y="215" font-size="15" fill="#64748b">Observe a sequência e tente lembrá-la.</text>
+<g stroke="#fff" stroke-width="3"><rect x="675" y="245" width="58" height="58" rx="10" fill="#2563eb"/><circle cx="792" cy="274" r="29" fill="#f7bd2f"/><path d="M873 245l29 29-29 29-29-29z" fill="#e11d48"/><rect x="950" y="245" width="58" height="58" rx="10" fill="#059669"/></g>
+<text x="650" y="340" font-size="15" fill="#455268">Depois, identifique a ordem correta entre várias opções.</text>
+<rect x="50" y="410" width="530" height="240" rx="22" fill="#fff" stroke="#dbe5f0" stroke-width="2"/>
+<text x="80" y="455" font-size="22" font-weight="700" fill="#7c3aed">Raciocínio</text>
+<text x="80" y="485" font-size="15" fill="#64748b">Complete a sequência de formas.</text>
+<circle cx="120" cy="550" r="24" fill="#2563eb"/><rect x="190" y="526" width="48" height="48" rx="8" fill="#2563eb"/><path d="M300 526l24 48 24-48z" fill="#2563eb"/><circle cx="420" cy="550" r="24" fill="#2563eb"/><rect x="490" y="526" width="48" height="48" rx="8" fill="none" stroke="#7c3aed" stroke-width="4" stroke-dasharray="7 6"/>
+<text x="80" y="615" font-size="15" fill="#455268">Perceba o padrão: círculo, quadrado, triângulo...</text>
+<rect x="620" y="410" width="530" height="240" rx="22" fill="#fff" stroke="#dbe5f0" stroke-width="2"/>
+<text x="650" y="455" font-size="22" font-weight="700" fill="#0891b2">Percepção visual</text>
+<text x="650" y="485" font-size="15" fill="#64748b">Encontre a diferença entre os desenhos.</text>
+<g fill="none" stroke="#13213a" stroke-width="4"><path d="M700 570l35-55 35 55z"/><path d="M900 570l35-55 35 55z"/><path d="M935 515v55" stroke="#e11d48"/></g>
+<text x="650" y="615" font-size="15" fill="#455268">Compare detalhes, posições e orientações.</text>
+<text x="600" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#7c5d00">Exemplos de treino — não são testes oficiais do Detran-BA</text>
+</g></svg>
