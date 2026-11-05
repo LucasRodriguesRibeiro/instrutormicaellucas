@@ -23,12 +23,12 @@ window.PROVA_ATUAL = {
     {
       "n": 2,
       "mat": "Legislação",
-      "txt": "Motorista dirigindo o veículo e manuseando",
+      "txt": "O condutor que for flagrado dirigindo o veículo segurando ou manuseando telefone celular comete infração de natureza:",
       "ops": [
-        "A) Todas as afirmativas acima estão corretas.",
-        "B) Todas as afirmativas acima estão corretas.",
-        "C) Todas as afirmativas acima estão corretas.",
-        "D) Todas as afirmativas acima estão corretas."
+        "A) Grave — 5 pontos.",
+        "B) Leve — 3 pontos.",
+        "C) Gravíssima — 7 pontos.",
+        "D) Média — 4 pontos."
       ],
       "img": null,
       "ok": 2

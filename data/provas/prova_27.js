@@ -49,12 +49,12 @@ window.PROVA_ATUAL = {
     {
       "n": 4,
       "mat": "Legislação",
-      "txt": "O limite entre a área urbana e área rural, denomina-se:",
+      "txt": "Constitui equipamento obrigatório dos ciclomotores:",
       "ops": [
-        "A) Todas as afirmativas acima estão corretas.",
-        "B) Todas as afirmativas acima estão corretas.",
-        "C) Todas as afirmativas acima estão corretas.",
-        "D) Todas as afirmativas acima estão corretas."
+        "A) Indicador luminoso de mudança de direção na dianteira apenas.",
+        "B) Lanterna de freios de cor branca.",
+        "C) Iluminação de placa traseira.",
+        "D) Espelhos retrovisores de ambos os lados e buzina."
       ],
       "img": null,
       "ok": 3
@@ -62,12 +62,12 @@ window.PROVA_ATUAL = {
     {
       "n": 5,
       "mat": "Legislação",
-      "txt": "Na infração “estacionar sobre a faixa de pedestres”",
+      "txt": "No caso de infração em que seja aplicada a penalidade de suspensão ou recolhimento, a medida administrativa cabível é:",
       "ops": [
-        "A) Todas as afirmativas acima estão corretas.",
-        "B) Todas as afirmativas acima estão corretas.",
-        "C) Todas as afirmativas acima estão corretas.",
-        "D) Todas as afirmativas acima estão corretas."
+        "A) Recolhimento do documento de habilitação (CNH ou PPD).",
+        "B) Advertência verbal pelo agente.",
+        "C) Multa multiplicada por dez.",
+        "D) Cancelamento do registro do veículo."
       ],
       "img": null,
       "ok": 0

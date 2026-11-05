@@ -49,12 +49,12 @@
     {
       "n": 4,
       "mat": "Legislação",
-      "txt": "Complete a alternativa que responde a questão: A cada infração são computados números de pontos, sendo: média ____ pontos; grave ___ pontos; leve ____pontos e gravíssima _____pontos.",
+      "txt": "Complete a questão: A cada infração de trânsito são computados números de pontos no prontuário do infrator, sendo: média ____ pontos; grave ___ pontos; leve ____ pontos e gravíssima _____ pontos.",
       "ops": [
-        "A) 7; 4; 5; 3 C) 3; 7; 5; 4",
-        "B) 7; 5; 4; 3 D) 4; 5; 3; 7 NORMAS DE CIRCULAÇÃO E CONDUTA",
-        "C) Todas as afirmativas acima estão corretas.",
-        "D) Todas as afirmativas acima estão corretas."
+        "A) 7; 4; 5; 3",
+        "B) 7; 5; 4; 3",
+        "C) 3; 7; 5; 4",
+        "D) 4; 5; 3; 7"
       ],
       "img": null,
       "ok": 3

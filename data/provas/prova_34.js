@@ -140,12 +140,12 @@ window.PROVA_ATUAL = {
     {
       "n": 11,
       "mat": "Legislação",
-      "txt": "Dirigindo um veículo em uma via dotada de acostamento,",
+      "txt": "Dirigindo um veículo em rodovia ou via provida de acostamento, o condutor que queira entrar à esquerda ou fazer retorno deverá:",
       "ops": [
-        "A) Todas as afirmativas acima estão corretas.",
-        "B) Todas as afirmativas acima estão corretas.",
-        "C) Todas as afirmativas acima estão corretas.",
-        "D) Todas as afirmativas acima estão corretas."
+        "A) Entrar imediatamente sem parar para não atrasar o trânsito.",
+        "B) Parar na faixa central e aguardar.",
+        "C) Acelerar e realizar a conversão rapidamente.",
+        "D) Aguardar no acostamento, à direita, para cruzar a pista com segurança."
       ],
       "img": null,
       "ok": 3

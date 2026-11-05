@@ -49,12 +49,12 @@ window.PROVA_ATUAL = {
     {
       "n": 4,
       "mat": "Legislação",
-      "txt": "Dirigir veículo com Carteira Nacional de Habilitação",
+      "txt": "Dirigir veículo com Carteira Nacional de Habilitação ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir é infração gravíssima, gerando como penalidade:",
       "ops": [
-        "A) Todas as afirmativas acima estão corretas.",
-        "B) Todas as afirmativas acima estão corretas.",
-        "C) Todas as afirmativas acima estão corretas.",
-        "D) Todas as afirmativas acima estão corretas."
+        "A) Multa (cinco vezes) e apreensão do veículo.",
+        "B) Multa (duas vezes) e advertência por escrito.",
+        "C) Multa (três vezes) e retenção do veículo até apresentação de condutor habilitado.",
+        "D) Multa simples e frequência obrigatória em curso."
       ],
       "img": null,
       "ok": 2

@@ -114,12 +114,12 @@
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "Dirigindo um veículo em uma via de duplo sentido de",
+      "txt": "Dirigindo um veículo na via pública urbana de sentido duplo, o condutor que tenha o propósito de entrar à esquerda deverá:",
       "ops": [
-        "A) Todas as afirmativas acima estão corretas.",
-        "B) Todas as afirmativas acima estão corretas.",
-        "C) Todas as afirmativas acima estão corretas.",
-        "D) Todas as afirmativas acima estão corretas."
+        "A) Sinalizar e aguardar no acostamento a oportunidade de realizar a manobra com segurança.",
+        "B) Sinalizar e deslocar, com antecedência, o veículo para a faixa mais à esquerda da sua mão de direção.",
+        "C) Sinalizar e deslocar, com antecedência, o veículo para a esquerda ou mais à direita da sua mão de direção.",
+        "D) Sinalizar, observar e deslocar sempre com antecedência para a direita."
       ],
       "img": null,
       "ok": 1
@@ -197,11 +197,7 @@
         "A) Informar os usuários das condições, proibições, obrigações ou restrições no uso das vias.",
         "B) Alertar os usuários da via para condições potencialmente perigosas, indicando sua natureza.",
         "C) Identificar as vias, os destinos e os locais de interesse, bem como orientar condutores de veículos quanto aos percursos, os destinos, as distâncias e os serviços auxiliares.",
-        "D) Educar o usuário da via.",
-        "A) Siga em frente ou à direita.",
-        "B) Junções sucessivas contrárias primeira à direita.",
-        "C) Confluência à esquerda.",
-        "D) Junções sucessivas contrárias primeira à esquerda."
+        "D) Educar o usuário da via."
       ],
       "img": null,
       "ok": 0
@@ -209,12 +205,12 @@
     {
       "n": 16,
       "mat": "Legislação",
-      "txt": "Questão 16 da prova oficial de Legislação.",
+      "txt": "A placa de advertência de código A-11a adverte ao condutor a existência de:",
       "ops": [
-        "A) Alternativa A",
-        "B) Alternativa B",
-        "C) Alternativa C",
-        "D) Alternativa D"
+        "A) Siga em frente ou à direita.",
+        "B) Junções sucessivas contrárias, primeira à direita.",
+        "C) Confluência à esquerda.",
+        "D) Junções sucessivas contrárias, primeira à esquerda."
       ],
       "ok": 3,
       "img": null
@@ -222,16 +218,12 @@
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "O procedimento do pedestre diante da sinalização semafórica, identificada pelo código SS-07 é:",
+      "txt": "O procedimento do pedestre diante da sinalização semafórica, identificada pelo código SS-07 (luz vermelha para pedestres) é:",
       "ops": [
-        "A) Atenção.",
+        "A) Atenção — preparar para atravessar.",
         "B) Não pode atravessar.",
-        "C) Pode seguir.",
-        "D) Pare o veículo. regulamenta:",
-        "A) Proibido mudar de faixa ou pista de trânsito da direita para esquerda.",
-        "B) Proibido mudar de faixa ou pista de trânsito da esquerda para direita.",
-        "C) Mudança obrigatória de faixa ou pista de trânsito da esquerda para direita.",
-        "D) Mudança obrigatória de faixa ou pista de trânsito da direita para esquerda."
+        "C) Pode seguir normalmente.",
+        "D) Parar o veículo."
       ],
       "img": null,
       "ok": 1
@@ -239,12 +231,12 @@
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "Questão 18 da prova oficial de Legislação.",
+      "txt": "A placa de regulamentação de código R-8b regulamenta:",
       "ops": [
-        "A) Alternativa A",
-        "B) Alternativa B",
-        "C) Alternativa C",
-        "D) Alternativa D"
+        "A) Proibido mudar de faixa ou pista de trânsito da direita para a esquerda.",
+        "B) Proibido mudar de faixa ou pista de trânsito da esquerda para a direita.",
+        "C) Mudança obrigatória de faixa de trânsito da esquerda para a direita.",
+        "D) Mudança obrigatória de faixa de trânsito da direita para a esquerda."
       ],
       "ok": 1,
       "img": null

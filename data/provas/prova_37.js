@@ -348,12 +348,12 @@ window.PROVA_ATUAL = {
     {
       "n": 27,
       "mat": "Legislação",
-      "txt": "Questão 27 da prova oficial de Legislação.",
+      "txt": "O uso do dispositivo de controle de emissão de gases (catalisador) conectado ao escapamento dos veículos tem como objetivo:",
       "ops": [
-        "A) Alternativa A",
-        "B) Alternativa B",
-        "C) Alternativa C",
-        "D) Alternativa D"
+        "A) Economizar combustível.",
+        "B) Diminuir a emissão de gases poluentes.",
+        "C) Diminuir o ruído do motor.",
+        "D) Aumentar a potência do motor."
       ],
       "ok": 1,
       "img": null
@@ -361,12 +361,12 @@ window.PROVA_ATUAL = {
     {
       "n": 28,
       "mat": "Legislação",
-      "txt": "Questão 28 da prova oficial de Legislação.",
+      "txt": "As inspeções periódicas de emissão de gases podem ajudar a melhorar as condições de vida dos habitantes dos centros urbanos:",
       "ops": [
-        "A) Alternativa A",
-        "B) Alternativa B",
-        "C) Alternativa C",
-        "D) Alternativa D"
+        "A) Diminuindo o custo de manutenção dos veículos.",
+        "B) Diminuindo a emissão de ozônio.",
+        "C) Diminuindo o desgaste do motor.",
+        "D) Reduzindo as emissões de poluentes urbanos."
       ],
       "ok": 3,
       "img": null
@@ -374,12 +374,12 @@ window.PROVA_ATUAL = {
     {
       "n": 29,
       "mat": "Legislação",
-      "txt": "Questão 29 da prova oficial de Legislação.",
+      "txt": "O sistema de injeção eletrônica de combustível é composto basicamente por:",
       "ops": [
-        "A) Alternativa A",
-        "B) Alternativa B",
-        "C) Alternativa C",
-        "D) Alternativa D"
+        "A) Câmara de combustão para o ar aquecido e catalisadores.",
+        "B) Bomba mecânica de alta pressão para pulverização do combustível.",
+        "C) Sensores e atuadores, comandados por uma central eletrônica de injeção.",
+        "D) Injetores, relés e fusíveis do sistema de acessórios."
       ],
       "ok": 2,
       "img": null
@@ -387,12 +387,12 @@ window.PROVA_ATUAL = {
     {
       "n": 30,
       "mat": "Legislação",
-      "txt": "Questão 30 da prova oficial de Legislação.",
+      "txt": "A função básica do sistema de suspensão nos veículos automotores é:",
       "ops": [
-        "A) Alternativa A",
-        "B) Alternativa B",
-        "C) Alternativa C",
-        "D) Alternativa D"
+        "A) Absorver impactos no momento de um acidente grave.",
+        "B) Absorver os choques provocados pelo piso irregular com o veículo em movimento.",
+        "C) Absorver os balanços do veículo somente ao fazer uma curva.",
+        "D) Melhorar o controle do carro em pistas escorregadias."
       ],
       "ok": 1,
       "img": null

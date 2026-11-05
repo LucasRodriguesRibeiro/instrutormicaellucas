@@ -75,12 +75,12 @@ window.PROVA_ATUAL = {
     {
       "n": 6,
       "mat": "Legislação",
-      "txt": "A retenção do veículo dar-se-á quando: a Transportar carga, arrastando-a ) .",
+      "txt": "A retenção do veículo como medida administrativa dar-se-á quando o condutor:",
       "ops": [
+        "A) Transportar carga arrastando-a na via pública.",
         "B) Tiver falsificado os selos da placa.",
         "C) Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
-        "D) Não estiver devidamente licenciado ou registrado.",
-        "D) Todas as afirmativas acima estão corretas."
+        "D) Não estiver devidamente licenciado ou registrado."
       ],
       "img": null,
       "ok": 0
