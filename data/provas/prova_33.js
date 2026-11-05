@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 33,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Renovação da CNH e Exames — Simulado 33",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Quando da renovação da CNH o condutor do veículo auto- mor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+      "ops": [
+        "A) De 05 (cinco) em 05 (cinco) anos a partir dos 60 (sessenta) anos de idade.",
+        "B) De 03 (três) em 03 (três) anos a partir dos 40 (quarenta) anos de idade.",
+        "C) De 05 (cinco) em 05 (cinco) anos até completar 65 (sessenta e cinco) anos de idade.",
+        "D) De 05 (cinco) em 05 (cinco) anos até completar 60 (sessenta) anos de idade."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "O condutor de veículo automotor, após 65 (sessenta e cin- co) anos de idade, ao renovar sua CNH deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+      "ops": [
+        "A) De 03 (três) em 03 (três) anos.",
+        "B) De 05 (cinco) em 05 (cinco) anos.",
+        "C) De 02 (dois) em 02 (dois) anos.",
+        "D) De 10 (dez) em 10 (dez) anos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "A licença de aprendizagem para prática de direção vei- cular em via pública, ou em locais autorizados para este fim, será exigida pelo DETRAN ao candidato que:",
+      "ops": [
+        "A) Tenha completado 16 (dezesseis) anos de idade.",
+        "B) Tenha completado 18 (dezoito) anos de idade.",
+        "C) Tenha sido aprovado nos exames de aptidão física e mental, avaliação psicológica e de legislação de trânsito.",
+        "D) Tenha prestado o exame em veículo particular."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "A idade mínima para conduzir um veículo automotor com capacidade acima de 8 passageiros:",
+      "ops": [
+        "A) 19 anos.",
+        "B) 18 anos.",
+        "C) 20 anos.",
+        "D) 21 anos."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "A cópia fotostática ou a fotocópia da Carteira Nacional de Habilitação:",
+      "ops": [
+        "A) Não é válida para substituir documento original.",
+        "B) É válida quando autenticada em cartório.",
+        "C) É válida quando não plastificada.",
+        "D) É válida quando apresentada junto com o documento de iden- tificação do portador."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "A cópia fotostática (xérox) autenticada no DETRAN poderá ser utilizada, tratando-se de:",
+      "ops": [
+        "A) Certificado de Registro do Veículo.",
+        "B) Certificado de Licenciamento Anual.",
+        "C) Carteira Nacional de Habilitação.",
+        "D) Nenhuma das respostas acima."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Marca, modelo, ano de fabricação, cor, número do chassi, são:",
+      "ops": [
+        "A) Características legais e essenciais do veículo.",
+        "B) Equipamentos obrigatórios.",
+        "C) Acessórios do veículo.",
+        "D) Elementos utilizados, somente, para controle das montadoras de veículos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Caso o veículo tenha pendência de multa por infração de trânsito, não poderá:",
+      "ops": [
+        "A) Renovar o Certificado de Registro do Veículo.",
+        "B) Renovar o Seguro Obrigatório.",
+        "C) Adquirir novo veículo.",
+        "D) Renovar o Licenciamento Anual do Veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "De acordo com a legislação de trânsito, os veículos classificados quanto a espécie , são :",
+      "ops": [
+        "A) Oficial, particular, aluguel, de corrida.",
+        "B) Passageiros, carga, misto, competição, tração, especial e coleção.",
+        "C) Particular, aluguel e escolar.",
+        "D) Passageiros, carga, missão diplomática e aluguel."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Quando o condutor usar indevidamente aparelhos de alarme ou que produza sons, ruídos ou barulhos que perturbem o sossego público estará sujeito à penalidade:",
+      "ops": [
+        "A) Multa e retenção do veículo.",
+        "B) Multa, apreensão do veículo e da Carteira Nacional de Habili- tação.",
+        "C) Multa e apreensão do veículo.",
+        "D) Multa e suspensão da Carteira Nacional de Habilitação."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Quando uma pista de rolamento comportar várias faixas de trânsito no mesmo sentido ficarão as da:",
+      "ops": [
+        "A) Direita destinada à ultrapassagem e ao deslocamento de veícu- los de maior velocidade.",
+        "B) Esquerda destinada à ultrapassagem e ao deslocamento de",
+        "C) Direita destinada a veículos de socorro e de urgência.",
+        "D) Esquerda destinada à ultrapassagem e ao deslocamento de veículos lentos."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Quando em via de mão única, dotada de duas ou mais faix- as de trânsito, o condutor que estiver em sua frente sinalizar e posicionar o veículo corretamente para convergir à esquerda, você poderá:",
+      "ops": [
+        "A) Ultrapassar pela direita.",
+        "B) Diminiuir, porque é proibido ultrapassar nos cruzamentos.",
+        "C) Ultrapassar pela esquerda.",
+        "D) Ultilizar a área de acomodação."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "observe o desenho abaixo e indique qual veículo tem a preferência.",
+      "ops": [
+        "A) O veículo 1, porque trafega em uma avenida.",
+        "B) O veículo 2, porque trafega à direita da via.",
+        "C) O veículo 1, porque é de maior porte que os demais veículos na via.",
+        "D) O veículo 2, porque trafega à direita do veículo 1."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que responda a questão: o espaço destinado ao deslocamento de bicicleta (ciclovia) é identificado pela cor:",
+      "ops": [
+        "A) Vermelha.",
+        "B) Branca.",
+        "C) Amarela.",
+        "D) Preta."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-10b a dverte:",
+      "ops": [
+        "A) Via lateral à direita.",
+        "B) Confluência à direita.",
+        "C) Entroncamento oblíquo à direita.",
+        "D) Entroncamento oblíquo à esquerda."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-11b adverte:",
+      "ops": [
+        "A) Confluência à esquerda.",
+        "B) Junções sucessivas contrárias primeira a esquerda.",
+        "C) Entroncamento oblíquo à direita.",
+        "D) Junções sucessivas contrárias primeira à direita."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-11a a dverte :",
+      "ops": [
+        "A) Siga em frente à direita.",
+        "B) Junções sucessivas contrárias primeira à direita.",
+        "C) Confluência à esquerda.",
+        "D) Junções sucessivas contrárias primeira à es- querda."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A placa de Nº R-27 significa:",
+      "ops": [
+        "A) Proibido trânsito de caminhões.",
+        "B) Ônibus, caminhões e veículos de grande porte mantenham-se à direita.",
+        "C) Veículos de carga, usem faixa da esquerda.",
+        "D) Passagem obrigatória para veículos de carga."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Diante da placa de Nº “S AL -07” você entende que é um local com:",
+      "ops": [
+        "A) Serviço mecânico.",
+        "B) Loja de ferramentas.",
+        "C) Aeroporto nas proximidades.",
+        "D) Sanitários."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "A finalidade da direção defensiva é a condução:",
+      "ops": [
+        "A) Sem interferência do auto-controle.",
+        "B) Em alta velocidade.",
+        "C) De forma educada e segura.",
+        "D) De automatismos incorretos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "A condição insegura refere-se a:",
+      "ops": [
+        "A) Condição de meio ambiente.",
+        "B) Características das penalidades.",
+        "C) Características físicas do condutor.",
+        "D) Características emocionadas do condutor."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Não constitui fundamento da prevenção de acidente:",
+      "ops": [
+        "A) Decisão.",
+        "B) Atenção",
+        "C) Conhecimento.",
+        "D) Interação."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Fator que não altera a aderência é:",
+      "ops": [
+        "A) Calibragem dos pneus.",
+        "B) Tipo de solo.",
+        "C) Tipo de combustível.",
+        "D) Clima. NOÇÕES DE PRIMEIROS SOCORROS"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Não constitui procedimento correto, em caso de tempera- tura elevada:",
+      "ops": [
+        "A) Agasalhar bem a vítima para normalizar a temperatura.",
+        "B) Ao verificar a temperatura corporal nas axilas, as mesmas de- vem estar secas.",
+        "C) As compressas úmidas e frias no couro cabeludo ajudam a evitar convulções.",
+        "D) O banho de imersão está indicado para normalizar a tempera- tura elevada."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Assinale a opção incorreta:",
+      "ops": [
+        "A) O manuseio incorreto da vítima pode agravar sua situação.",
+        "B) Sensibilidade é a capacidade de não sentir dor.",
+        "C) A dormência nas extremidades pode ocorrer por lesões n a coluna cervical.",
+        "D) Paralisia é a incapacidade de movimentação dos membros. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Substâncias corrosivas são aquelas:",
+      "ops": [
+        "A) Que não oferecem perigo em contato com a pele.",
+        "B) Que não apresentam riscos para os seres vivos.",
+        "C) Que não contém microorganismos infecciosos.",
+        "D) Que causam danos ambientais."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Em casos de acidentes com produtos perigosos, são pro- cedimentos incorretos:",
+      "ops": [
+        "A) Identificar o risco, observando os rótulos e painéis de segurança.",
+        "B) Obter ajuda, comunicando o acidente às entidades envolvidas.",
+        "C) Aproximar-se do local o mais rápido possível e retirar as vítimas, se existirem.",
+        "D) Isolar o local para assegurar proteção às pessoas e ao ambiente. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "A peça que tampa a parte inferior do motor e serve como reservatório e coletor do óleo lubrificante chama-se:",
+      "ops": [
+        "A) Cárter.",
+        "B) Pistão.",
+        "C) Tampão.",
+        "D) Tanque de combustível."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "O tempo do motor no qual as misturas se inflamam, chama-se:",
+      "ops": [
+        "A) Descarga.",
+        "B) Explosão.",
+        "C) Admissão.",
+        "D) Compressão."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "O sistema que tem como finalidade evitar o desgaste das peças do motor chama-se:",
+      "ops": [
+        "A) Sistema de alimentação.",
+        "B) Sistema de distribuição.",
+        "C) Sistema elétrico.",
+        "D) Sistema de lubrificação."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+};

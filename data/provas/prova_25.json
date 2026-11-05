@@ -1,0 +1,401 @@
+{
+  "id": 25,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Infrações e Equipamentos — Simulado 25",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: Ao _____________ caberá sempre a responsabilidade pela infração referente a conservação e inalterabilidade das características e componentes agregados do veículo, habilitação legal e compatível de seus condutores, quando esta for exigida.",
+      "ops": [
+        "A) Condutor",
+        "B) Passageiro",
+        "C) Transportador",
+        "D) Proprietário"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Quanto à aprendizagem, assinale a alternativa correta:",
+      "ops": [
+        "A) A formação de condutor de veículo automotor será realizada por pessoa habilitada.",
+        "B) Os veículos destinados à formação de condutores serão identificados por uma faixa amarela de vinte centímetros de largura, pintada ao longo da carroceria, à meia altura, com a inscrição AUTOESCOLA na cor preta.",
+        "C) A Licença de Aprendizagem será expedida após aprovação no exame de direção veicular.",
+        "D) A aprendizagem poderá realizar-se, além do aprendiz e instrutor, com apenas mais dois acompanhantes."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Não é equipamento obrigatório de um veículo:",
+      "ops": [
+        "A) Cinto de segurança.",
+        "B) Chave de fenda ou outra ferramenta para remoção de calotas.",
+        "C) Desembaçador do vidro traseiro.",
+        "D) Macaco ."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "É equipamento obrigatório que tem por finalidade auxiliar o condutor em casos de ofuscamento:",
+      "ops": [
+        "A) Lavador de parabrisa.",
+        "B) Retrorrefletores (catadióptrico).",
+        "C) Dispositivo de sinalização luminosa ou refletora de emergência.",
+        "D) Pala de proteção interna contra o sol. NORMAS DE CIRCULAÇÃO E CONDUTA"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Observe o desenho abaixo e responda. Quanto à preferência de passagem, podemos afirmar que o: Rodovia",
+      "ops": [
+        "A) Veículo 3 tem a preferência em relação ao veículo 1.",
+        "B) Veículo 2 tem a preferência em relação ao veículo 3.",
+        "C) Veículo 1 tem a preferência em relação ao veículo 2.",
+        "D) Veículo 4 tem a preferência em relação ao veículo 2."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Nas rodovias sem local apropriado para o retorno ou para entrar à esquerda, o condutor deverá aguardar a oportunidade para cruzar a pista parando o veículo:",
+      "ops": [
+        "A) À esquerda da pista.",
+        "B) À direita da pista.",
+        "C) No acostamento, à direita.",
+        "D) No centro da pista, sobre a faixa divisória dos fluxos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Em uma rua de duplo sentido de circulação não sinalizada, o condutor que quiser virar à direita deverá:",
+      "ops": [
+        "A) Posicionar-se junto ao meio-fio da esquerda.",
+        "B) Atingir o ponto central do cruzamento.",
+        "C) Aproximar-se o máximo possível do bordo direito da pista.",
+        "D) Parar o seu veículo, observar e convergir, atingindo o eixo central."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta que completa a questão: Quando uma pista de rolamento comportar várias faixas de circulação no mesmo sentido, as da esquerda são destinadas à _____________ e ao ______________ dos veículos de maior velocidade.",
+      "ops": [
+        "A) Parada; estacionamento.",
+        "B) Ultrapassagem; deslocamento.",
+        "C) Ultrapassagem; cruzamento.",
+        "D) Passagem; retorno."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Verificar se o espaço é suficiente, sinalizar com antecedência e retornar à posição anterior, são procedimentos para executar uma:",
+      "ops": [
+        "A) Entrada em via arterial.",
+        "B) Ultrapassagem a outro veículo em movimento.",
+        "C) Passagem a outro veículo em movimento.",
+        "D) Deslocamento lateral."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Todo condutor deverá, antes de efetuar uma ultrapassagem, certificar-se de que:",
+      "ops": [
+        "A) Quem o precede na mesma faixa haja indicado o propósito de ultrapassar um terceiro.",
+        "B) O condutor que venha atrás haja começado uma manobra para ultrapassá-lo.",
+        "C) A faixa de trânsito que vai tomar esteja livre numa extensão suficiente para que sua manobra não ponha em perigo ou obstrua o trânsito que venha em sentido contrário.",
+        "D) Todas as alternativas estão corretas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Nas vias providas de acostamentos e sem locais apropriados para manobras de retorno, o condutor deverá:",
+      "ops": [
+        "A) Aproximar-se do eixo central da pista, sem atingir a contramão de direção e convergir com segurança.",
+        "B) Seguir em frente até encontrar um cruzamento.",
+        "C) Fazer o sinal regulamentar de braço, diminuir a velocidade na faixa da direita e convergir com segurança.",
+        "D) Aguardar no acostamento à direita para cruzar a pista com segurança."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Ao sair da via pelo lado esquerdo, em pista com circulação nos dois sentidos, o procedimento do condutor deverá ser:",
+      "ops": [
+        "A) Aproximar-se o máximo possível do bordo esquerdo e executar a manobra no menor espaço possível.",
+        "B) Aproximar-se do acostamento e executar a manobra no maior espaço de tempo.",
+        "C) Aproximar-se o máximo possível de seu eixo ou da linha divisória da pista",
+        "D) Em pista com circulação nos dois sentidos não é permitido sair pelo lado esquerdo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-1b adverte:",
+      "ops": [
+        "A) Curva em “S “à direita.",
+        "B) Curva à esquerda.",
+        "C) Curva acentuada à direita.",
+        "D) Vire à direita."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "A placa de nº R-3 regulamenta:",
+      "ops": [
+        "A) Proibido retornar.",
+        "B) Sentido proibido.",
+        "C) Sentido de circulação da via.",
+        "D) Sentido único."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de nº TNA-0 9 indica:",
+      "ops": [
+        "A) Local de realização de festas populares",
+        "B) Cachoeira",
+        "C) Estância Hidromineral.",
+        "D) Área natural protegida"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-32a adverte:",
+      "ops": [
+        "A) Área escolar.",
+        "B) Obras.",
+        "C) Trânsito de pedestres.",
+        "D) Crianças."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de nº R-21 regulamenta :",
+      "ops": [
+        "A) Passagem obrigatória.",
+        "B) Alfândega .",
+        "C) Pista interrompida.",
+        "D) Sentido de circulação da via."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "As marcas longitudinais que não permitem a ultrapassagem para os dois sentidos estão, identificadas na cartela, pelos códigos:",
+      "ops": [
+        "A) ML-01 e ML-03",
+        "B) ML-02 e ML-04",
+        "C) ML-01 e ML-05",
+        "D) ML-04 e ML-08"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa incorreta. Para efetuar a manobra de marcha a ré, com segurança, o condutor deve:",
+      "ops": [
+        "A) Fazer a manobra em alta velocidade.",
+        "B) Efetuar a manobra em velocidade reduzida.",
+        "C) Não dar marcha a ré em esquinas.",
+        "D) Deslocar-se utilizando o mínimo de espaço possível."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Para evitar colisão com veículo à frente, você deve:",
+      "ops": [
+        "A) Aumentar a velocidade.",
+        "B) Manter distância de segurança.",
+        "C) Trafegar mais à direita e sinalizar suas intenções.",
+        "D) Ultrapassá-lo imediatamente."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Ao aproximar-se de qualquer tipo de cruzamento, o condutor do veículo deve:",
+      "ops": [
+        "A) Acelerar, para passar rapidamente pelo perigo.",
+        "B) Fazer valer seu direito.",
+        "C) Parar o veículo.",
+        "D) Demonstrar prudência especial, transitando em velocidade moderada."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "O condutor ao aproximar de animais atravessando a via, deverá adotar os seguintes procedimentos:",
+      "ops": [
+        "A) Reduzir a velocidade, redobrar a atenção, não buzinar e não ligar a luz alta do farol.",
+        "B) Reduzir a velocidade, redobrar a atenção, buzinar e ligar a luz alta do farol.",
+        "C) Reduzir a velocidade, redobrar a atenção, não buzinar e ligar a luz alta do farol.",
+        "D) Aumentar a velocidade, redobrar a atenção, buzinar e ligar a luz alta do farol."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Ao trafegar por um trecho com neblina, mesmo durante o dia, o condutor deve manter aceso o componente:",
+      "ops": [
+        "A) Farol alto.",
+        "B) Dispositivo de mudança de direção.",
+        "C) Pisca-alerta.",
+        "D) Farol baixo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Ao se deparar com acidente identificado como colisão frontal, o socorrista, suspeitará primeiramente que as vítimas tiveram:",
+      "ops": [
+        "A) Afogamento.",
+        "B) Queimadura.",
+        "C) Escoriação.",
+        "D) Fratura de membros inferiores e lesão na coluna cervical."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Uma pessoa bateu a cabeça, perdeu a consciência, acordou e diz que está bem. O procedimento correto é:",
+      "ops": [
+        "A) Não há necessidade de levar a pessoa ao hospital.",
+        "B) L evar a pessoa ao hospital.",
+        "C) Recomendar que a pessoa fique acordada durante 24 horas.",
+        "D) Levar ao hospital, somente, se tiver que fazer curativo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Observar, rapidamente no local do acidente se existem perigos para o acidentado, como, por exemplo, fios elétricos, tráfego, andaimes, combustível derramado etc, é uma das ações do:",
+      "ops": [
+        "A) Motorista.",
+        "B) Pedestre.",
+        "C) Socorrista.",
+        "D) Ciclista."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "A poluição é causada por elementos que modificam as condições ambientais. São tipos de poluição:",
+      "ops": [
+        "A) Poluição do ar.",
+        "B) Poluição da água.",
+        "C) Poluição visual.",
+        "D) Todas as afirmativas são corretas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O condutor ao assumir o volante do veículo automotor deve:",
+      "ops": [
+        "A) Descarregar suas frustações e angústias.",
+        "B) Adotar atitudes agressivas.",
+        "C) Agir corretamente, somente quando lhe for conveniente.",
+        "D) Respeitar as Leis de Trânsito. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "Conforme a disposição dos fios de reforço das lonas, o pneu pode ser:",
+      "ops": [
+        "A) Com câmara ou sem câmara.",
+        "B) “Slick”(liso) ou para chuva.",
+        "C) Radial ou diagonal.",
+        "D) De perfil alto ou baixo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Amperímetro, odômetro, botão de luzes e do limpador de parabrisas são:",
+      "ops": [
+        "A) Componentes externos do painel.",
+        "B) Órgãos auxiliares do motor.",
+        "C) Instrumentos do painel.",
+        "D) Equipamentos obrigatórios."
+      ],
+      "img": null,
+      "ok": 2
+    }
+  ]
+}

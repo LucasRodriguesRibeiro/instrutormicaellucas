@@ -1,0 +1,401 @@
+{
+  "id": 31,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Velocidades Mínimas e Máximas — Simulado 31",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Respeitadas as condições operacionais de trânsito e da via, a velocidade mínima permitida para via não poderá ser:",
+      "ops": [
+        "A) superior à metade da velocidade máxima estabelecida.",
+        "B) inferior à metade da velocidade máxima estabelecida.",
+        "C) Oitenta por cento da velocidade máxima estabelecida. 7",
+        "D) não existe velocidade mínima determinada."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "As vias abertas à circulação, de acordo com sua utilização, classificam-se em:",
+      "ops": [
+        "A) rodovias e vias locais.",
+        "B) rodovias e estradas.",
+        "C) vias urbanas e vias rurais.",
+        "D) vias de trânsito rápido, vias coletoras e rodovias."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "A velocidade máxima permitida para motocicletas em rodovias 3 - A velocidade máxima permitida para motocicletas em rodo- de pista única, onde não existir sinalização regulamentadora, é de: vias, onde não existir sinalização regulamentadora, é de:",
+      "ops": [
+        "A) 80km/h.",
+        "B) 90km/h.",
+        "C) 60km/h.",
+        "D) 100 km/h. d) 110km/h."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "A fiscalização de gestão de trânsito poderá ser realizada com utilização de aparelhos que, quanto ao modo de ope- ração, podem ser classificados em:",
+      "ops": [
+        "A) automático e não automático.",
+        "B) fixo, estátil, móvel e portátil.",
+        "C) radar e medidor ótico.",
+        "D) eletrônico e audiovisual."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "A habilitação para conduzir veículo automotor e elétrico será apurada por meio de exames, que deverão ser realizados juntos ao:",
+      "ops": [
+        "A) órgão ou entidade executivo municipal de trânsito do Estado ou Distrito Federal, do domicílio ou residência do candidato.",
+        "B) órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal, do domicílio ou residência do candidato.",
+        "C) órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal, fora do domicílio ou residência do candidato.",
+        "D) órgão ou entidade executivo de trânsito da União."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "A autorização para conduzir veículos de propulsão humana e de tração animal ficará a cargo do:",
+      "ops": [
+        "A) Município.",
+        "B) Estado.",
+        "C) Detran.",
+        "D) Denatran."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CON- TRAN, é aquela obtida:",
+      "ops": [
+        "A) Em outro país.",
+        "B) No Brasil.",
+        "C) No seu Estado.",
+        "D) No seu Município."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "As categorias existentes à habilitação são:",
+      "ops": [
+        "A) A-B-C-D",
+        "B) B-C-D-E",
+        "C) B-C-D",
+        "D) A - B - C - D - E."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: A categoria ________________ habilita o condutor a dirigir veículo mo- torizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+      "ops": [
+        "A) D.",
+        "B) E.",
+        "C) C.",
+        "D) E."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Dirigindo por uma via urbana, a uma distância de cerca de 10 - Dirigindo por uma via urbana, a uma distância de cerca 50 metros de um cruzamento, você percebe a luz amarela do de 50km de um cruzamento, você percebe a luz amarela do semáforo. Nessa situação você deve: semáforo. Nessa situação você deve:",
+      "ops": [
+        "A) manter atenção, reduzir a marcha do veículo e parar.",
+        "B) aumentar a velocidade do seu veículo.",
+        "C) reduzir a velocidade do seu veículo e completar a travessia do cruzamento.",
+        "D) buzinar e completar a travessia."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Em um cruzamento, o veículo que se aproximar pela via à direita, terá preferência se:",
+      "ops": [
+        "A) estiver transitando em maior velocidade.",
+        "B) o cruzamento for sinalizado com semáforo ou placa “PARE”.",
+        "C) estiver transportando passageiro.",
+        "D) o cruzamento não for sinalizado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Observe o desenho abaixo e responda. O condutor do veículo 1 para ingresssar em outra via deverá: , ,",
+      "ops": [
+        "A) Aguardar a passagem dos veículos 3 e 4.",
+        "B) Apenas aguardar a passagem do veículo 2.",
+        "C) Entrar diretamente na via, sem utilizar a faixa de aceleração.",
+        "D) Utilizar a faixa de aceleração, dando preferência para os veícu- los que já estejam trafegando pela via na qual vai entrar."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A finalidade da utilização, na via pública, de cones de cores branca refletiva e laranja é:",
+      "ops": [
+        "A) todas as alternativas estão corretas.",
+        "B) alertar os condutores para situação de emergência ou perigo.",
+        "C) bloquear e/ou canalizar o trânsito.",
+        "D) proteger pedestres, trabalhadores de obras e equipamentos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-3b, adverte o condutor do veículo da existência, adiante de:",
+      "ops": [
+        "A) pista sinuosa à direita.",
+        "B) junções com entroncamentos perigosos à direita.",
+        "C) faixas com vias laterais à direita.",
+        "D) vias perigosas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-3a, adverte o condutor do veículo da existência, adiante de:",
+      "ops": [
+        "A) que, à esquerda, há uma pista interrompida.",
+        "B) vias perigosas.",
+        "C) junções com entroncamentos perigosos à esquerda.",
+        "D) pista sinuosa à esquerda."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de nº “R-6c”, assinala que:",
+      "ops": [
+        "A) é permitido estaciona r.",
+        "B) é permitido parar.",
+        "C) parar ou estacionar é proibido mesmo que seja para embarque e desembarque de passageiros.",
+        "D) é permitida a carga e descarga de mercadoria."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de nº “R-7”, assinala que:",
+      "ops": [
+        "A) é proibido o trânsito de veículos automotores.",
+        "B) os condudores dos veículos, quando em movimento, deverão permanecer na faixa em que se encontram.",
+        "C) a ultrapassagem é permitida, somente para veiculos automotores.",
+        "D) naquele local, é permitido mudar de faixa de trânsito."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "As placas de identificação de rodovias, em forma de brasão e nas cores preta e branca são de:",
+      "ops": [
+        "A) advertência.",
+        "B) educativas.",
+        "C) regulamentação.",
+        "D) indicação."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "O pneu deverá ter sulcos de no mínimo:",
+      "ops": [
+        "A) 1,6 milímetros de profundidade.",
+        "B) 0,5 milímetros de profundidade.",
+        "C) 1,0 milímetros de profundidade.",
+        "D) 1,06 milímetros de profundidade."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "O veículo automotor puxando a direção para um dos lados indica problema com:",
+      "ops": [
+        "A) balanceamento.",
+        "B) alinhamento.",
+        "C) estabilidade.",
+        "D) transmissão."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Pneus, devidamente, calibrados e direção alinhada, contribuem para uma:",
+      "ops": [
+        "A) deformação na carcaça.",
+        "B) redução da estabilidade.",
+        "C) diminuição da capacidade de frenagem.",
+        "D) frenagem segura."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Estepe é a denominação dada ao pneu:",
+      "ops": [
+        "A) dianteiro.",
+        "B) traseiro.",
+        "C) sobressalente.",
+        "D) deformado."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "O procedimento correto do motociclista no meio de uma curva é:",
+      "ops": [
+        "A) manter a aceleração constante não utilizando embreagem.",
+        "B) acelerar gradativamente.",
+        "C) reduzir a velocidade utilizando a embreagem.",
+        "D) frear bruscamente, para diminuir a velocidade."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Agir com prudência, respeitar os limites de seu conheci- mento, seguir os protocolos estabelecidos, prevenir e evitar danos maiores são entre outras ações de:",
+      "ops": [
+        "A) socorrista.",
+        "B) ciclista.",
+        "C) pedestre.",
+        "D) passageiro."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Assumir a situação de emergência, proteger, examinar e tranquilizar o acidente, é entre outras, ações do:",
+      "ops": [
+        "A) ciclista.",
+        "B) parente do acidente.",
+        "C) pedestre.",
+        "D) socorrista. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "A remoção do silenciador de um veículo caracteriza uma infração:",
+      "ops": [
+        "A) gravíssima.",
+        "B) grave.",
+        "C) média.",
+        "D) leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Ruído é um tipo de poluição:",
+      "ops": [
+        "A) radioativa.",
+        "B) aquática.",
+        "C) sonora.",
+        "D) atmosférica. NOÇÕES DE M CÂNICA E"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "Os dispositivos do veículo que permitem a comunicação com os outros usuários da via indicando conversões, freadas, marcha à ré, integram o sistema:",
+      "ops": [
+        "A) elétrico.",
+        "B) freios.",
+        "C) suspensão.",
+        "D) Transmissão."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "O estouro dos pneus é provocado, principalmente, por:",
+      "ops": [
+        "A) amortecedores velhos.",
+        "B) válvulas desreguladas.",
+        "C) baixa calibragem.",
+        "D) excesso de calibragem."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Um dos cuidados que se deve ter, periodicamente, com o veículo é:",
+      "ops": [
+        "A) lavar os pneus evitando derrapagens.",
+        "B) verificar o nível do óleo do motor.",
+        "C) lavar os tapetes para evitar ferrugem.",
+        "D) trocar a água do radiador mensalmente."
+      ],
+      "img": null,
+      "ok": 1
+    }
+  ]
+}

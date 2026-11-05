@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 27,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Conceitos do CTB — Simulado 27",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Quanto às definições, é correto afirmar:",
+      "ops": [
+        "A) Ciclo - veículo automotor de pelo menos duas rodas.",
+        "B) Charrete - veículo de tração animal destinado ao transporte de pessoas e de carga.",
+        "C) Cruzamento - interseção de duas vias em nível.",
+        "D) Estacionamento, imobilização do veículo pelo tempo estritamente necessário para efetuar embarque e desembarque de passageiros."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Quanto às definições, é correto afirmar:",
+      "ops": [
+        "A) Reboque - veículo de um ou mais eixos que se apóia na sua unidade tratora ou é a ela ligado por meio de articulação.",
+        "B) Veículo de carga - veículo destinado ao transporte de carga, podendo transportar dois passageiros, excluindo o condutor.",
+        "C) Retorno - movimento em ângulo, à esquerda ou à direita, de mudança de direção original do veículo.",
+        "D) Veículo Conjugado - veículo automotor destinado ao transporte simultâneo de carga e passageiros."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "São equipamentos obrigatórios do reboque e semirreboque:",
+      "ops": [
+        "A) Protetores das rodas traseiras.",
+        "B) Extintor de incêndio.",
+        "C) Buzina.",
+        "D) Velocimetro"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "O limite entre a área urbana e área rural, denomina-se:",
+      "ops": [
+        "A) Todas as afirmativas acima estão corretas.",
+        "B) Todas as afirmativas acima estão corretas.",
+        "C) Todas as afirmativas acima estão corretas.",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Na infração “estacionar sobre a faixa de pedestres”",
+      "ops": [
+        "A) Todas as afirmativas acima estão corretas.",
+        "B) Todas as afirmativas acima estão corretas.",
+        "C) Todas as afirmativas acima estão corretas.",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Quanto à aprendizagem, assinale a alternativa correta:",
+      "ops": [
+        "A) Os veículos destinados à formação de condutores serão identificados por uma faixa amarela de vinte centímetros de largura, pintada ao longo da carroceria, a meia altura, com a inscrição AUTOESCOLA na cor preta.",
+        "B) A formação de condutor de veículo automotor será realizada por qualquer pessoa habilitada.",
+        "C) A licença de Aprendizagem será expedida após aprovação no exame de direção veicular.",
+        "D) A aprendizagem poderá realizar-se, além do aprendiz e instrutor, com apenas mais dois acompanhantes."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Estando com seu veículo parado no semáforo vermelho, se este mudar para o estágio verde e ainda estiver pedestres atravessando, sua atitude será:",
+      "ops": [
+        "A) Buzinar para apressar os pedestres, pois é a sua vez de passar.",
+        "B) Iniciar uma conversão para não interferir no trânsito.",
+        "C) Esperar os pedestres terminarem a travessia para seguir.",
+        "D) Movimentar o seu veículo, desviar dos pedestres e passar."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "A expedição de novo Certificado de Registro de Veículo, dar-se-á quando:",
+      "ops": [
+        "A) De doze em doze meses.",
+        "B) Houver mudanças nos equipamentos obrigatórios.",
+        "C) Houver transferência de propriedade.",
+        "D) Após o pagamaento do I P V A."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Não constitui equipamento obrigatório para as motocicletas:",
+      "ops": [
+        "A) Lanterna de freio de cor vermelha.",
+        "B) Extintor de incêndio.",
+        "C) Velocímetro.",
+        "D) Iluminação de placa traseira."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Dos equipamentos abaixo relacionados, não é obrigatório para os veículos.",
+      "ops": [
+        "A) Faróis.",
+        "B) Buzina.",
+        "C) Limpador de parabrisa traseiro.",
+        "D) Velocímetro ."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "O embarque e desembarque de passageiros devem ocorrer:",
+      "ops": [
+        "A) Pelo lado da calçada.",
+        "B) Sempre do lado do condutor.",
+        "C) Junto ao meio-fio do canteiro central.",
+        "D) De qualquer lado da via, desde que bem estacionado."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Aplicando a regra de preferência no desenho abaixo podemos dizer que:",
+      "ops": [
+        "A) O veículo 1 tem a preferência sobre o veículo 2, mas não tem preferência sobre o veículo 4.",
+        "B) O veículo 3 tem a preferência sobre os demais veículos porque é de maior porte.",
+        "C) O veículo 4 tem a preferência sobre o veículo 3, mas não tem a preferência sobre o veículo 1.",
+        "D) Não se pode falar de preferência em cruzamento sem"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "Numa pista de rolamento com várias faixas de trânsito no mesmo sentido, são destinadas aos veículos de maior velocidade e à ultrapassagem as:",
+      "ops": [
+        "A) Da esquerda.",
+        "B) Da direita.",
+        "C) Próximas ao acostamento.",
+        "D) Com menor número de veículos circulando."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "Quando um condutor está dirigindo à frente de outro veículo e o mesmo pede passagem, o comportamento correto será:",
+      "ops": [
+        "A) Facilitar-lhe a passagem, pelo lado direito ou esquerdo da via.",
+        "B) Somente diminuir a velocidade.",
+        "C) Aumentar a velocidade.",
+        "D) Facilitar-lhe a passagem, pelo lado esquerdo da via."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "Quando, dirigindo um veículo numa via com retorno ou entrada à esquerda, o condutor que estiver à frente indicar, por sinal, que vai entra para esse lado, você poderá:",
+      "ops": [
+        "A) Ultrapassar pela esquerda.",
+        "B) Ultrapassar pela direita.",
+        "C) Fazer um retorno.",
+        "D) Acelerar o veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "Dirigindo um veículo numa via dividida ao centro por esquerda tracejada e a segunda contínua, você poderá:",
+      "ops": [
+        "A) Estacionar junto à linha central.",
+        "B) Ultrapassar outro veículo pela direita, quando as condições forem favoráveis.",
+        "C) Ultrapassar outro veículo pela esquerda, quando as condições forem favoráveis.",
+        "D) Transitar cont nuamente i pela faixa da esquerda ."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A faixa de trânsito destinada a se fazer ultrapassagem e circular em maior velocidade é:",
+      "ops": [
+        "A) Da esquerda.",
+        "B) Da direita.",
+        "C) Qualquer uma.",
+        "D) A sinalização com linhas amarelas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "Para ultrapassar o condutor do veículo automotor poderá:",
+      "ops": [
+        "A) Circular pela contramão, desde que a sinalização assim o permita.",
+        "B) Circular em marcha a ré.",
+        "C) Forçar passagem entre dois veículos que circulam em sentido contrário.",
+        "D) Circular pelo acostamento quando existir."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Quando, por motivo de força maior, um veículo estiver impedido de ser removido da pista de rolamento ou tenha que permanecer no acostamento, o condutor deve, obrigatoriamente.",
+      "ops": [
+        "A) Colocar sinalização, na forma estabelecida pelo CONTRAN, prevenindo os demais condutores.",
+        "B) Pedir ajuda aos demais condutores.",
+        "C) Colocar-se de modo a ser visto pelo socorro.",
+        "D) Levantar a tampa do motor do veículo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta:",
+      "ops": [
+        "A) É dever do condutor parar o seu veículo antes de transpor linha férrea ou entrar em via com preferencia de passagem.",
+        "B) Todo veículo poderá retornar em qualquer local, nas vias urbanas, desde que facilite o trânsito para os outros veículos.",
+        "C) A circulação pelos acostamentos das rodovias é permitida em situações de congestionamento.",
+        "D) Todo condutor deve dar preferência aos pedestres apenas quando estes se encontram sobre a faixa de segurança."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Dirigindo por uma via urbana, a uma distância de cerca de 50m de um cruzamento, você percebe a luz amarela do semáforo. Nessa situação você deve:",
+      "ops": [
+        "A) Manter a atenção, reduzir a marcha do seu veículo e parar.",
+        "B) Reduzir a velocidade do seu veículo e completar a travessia do cruzamento.",
+        "C) Buzinar e completar a travessia.",
+        "D) Aumentar a velocidade do seu veículo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Em um cruzamento, o veículo que se aproximar pela via à sua direita, terá preferência se:",
+      "ops": [
+        "A) O cruzamento for sinalizado com semáforo ou placa “PARE”.",
+        "B) Estiver transportando passageiro.",
+        "C) O cruzamento não for sinalizado.",
+        "D) Estiver transitando em maior velocidade."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "O condutor para virar à esquerda em interseção de vias de sentido duplo de trânsito, no perímetro urbano, deve:",
+      "ops": [
+        "A) Aproximar-se o máximo possível de seu eixo ou da linha divisória da pista.",
+        "B) Aproximar-se o máximo da margem direita da via.",
+        "C) Aproximar-se o máximo da margem esquerda da via.",
+        "D) Apenas reduzir a velocidade e entrar rapidamente."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Em local sinalizado com linha de divisão simples seccionada, o condutor:",
+      "ops": [
+        "A) Não poderá transitar.",
+        "B) Não poderá ultrapassar.",
+        "C) Deverá aumentar a velocidade.",
+        "D) Poderá efetuar ultrapassagem."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "A linha que proíbe ultrapassar para os dois sentidos denomina-se:",
+      "ops": [
+        "A) Dupla contínua/seccionada.",
+        "B) Simples seccionada.",
+        "C) Dupla seccionada.",
+        "D) Dupla contínua."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Em local sinalizado com linha de divisão dupla contínua, o condutor:",
+      "ops": [
+        "A) Não poderá ultrapassar.",
+        "B) Poderá efetuar ultrapassagem.",
+        "C) Poderá aumentar a velocidade.",
+        "D) Poderá transpor faixa de pedestre."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Assinale, quan o às normas de circulação, a t alternativa errada:",
+      "ops": [
+        "A) Os veículos de socorro têm prioridade de passagem, quando identificados por alarme sonoro e iluminação vermelha intermitente.",
+        "B) Os veículos precedidos de batedores terão prioridade passagem.",
+        "C) A circulação far-se-á, exclusivamente, pelo lado direito.",
+        "D) A ultrapassagem deve ser feita pela esquerda."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O trânsito de veículos sobre passeios, calçadas e nos acostamentos, só poderá ocorrer:",
+      "ops": [
+        "A) Em nenhuma hipótese.",
+        "B) Quando o condutor julgar necessário.",
+        "C) Para se adentrar ou sair de imóveis ou em áreas especiais de estacionamento.",
+        "D) Somente para adentrar ou sair de imóveis."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "Todo condutor ao efetuar a ultrapassagem deverá:",
+      "ops": [
+        "A) Indicar com antecedência a manobra pretendida, acionando a luz indicadora de direção do veículo ou por meio de gesto convencional de braço.",
+        "B) Manter-se próximo ao veículo ao qual ultrapassa.",
+        "C) Retornar, após a efetivação da manobra a faixa de trânsito de orígem, sem acionar a luz indicadora de direção do veículo ou fazendo gesto convencional de braço.",
+        "D) Executá-la, em qualquer situação em que se encontrar."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "O candidato poderá habilitar-se na:",
+      "ops": [
+        "A) Categoria “C”após 01 ano de aprovação do exame de legislação.",
+        "B) Categoria “ B” a partir dos 18 anos de idade, se preenchido os requisitos legais.",
+        "C) Categoria “A” com idade mínima de 16 anos de idade, se preenchido os requisitos legais.",
+        "D) Categoria “E” após 01 ano de habilitação na categoria “B”."
+      ],
+      "img": null,
+      "ok": 1
+    }
+  ]
+};

@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Legislação de Trânsito — Princípios e SNT",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 2,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Processo de Habilitação e Categorias",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 3,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Classificação e Registro de Veículos",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 4,
+    "categoria": "sinalizacao",
+    "materia": "Sinalização",
+    "titulo": "Sinalização — Placas de Advertência e Regulamentação",
+    "totalQuestoes": 30,
+    "temImagens": true
+  },
+  {
+    "id": 5,
+    "categoria": "sinalizacao",
+    "materia": "Sinalização",
+    "titulo": "Sinalização — Gestos, Semáforos e Marcas",
+    "totalQuestoes": 30,
+    "temImagens": true
+  },
+  {
+    "id": 6,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Infrações e Penalidades de Trânsito — Parte 1",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 7,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Infrações Gravíssimas, Suspensão e Crimes",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 8,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Normas de Circulação e Transporte de Crianças",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 9,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Normas de Circulação, Manobras e Preferência",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 10,
+    "categoria": "direcao-defensiva",
+    "materia": "Direção Defensiva",
+    "titulo": "Direção Defensiva — Física e Prevenção",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 11,
+    "categoria": "direcao-defensiva",
+    "materia": "Direção Defensiva",
+    "titulo": "Direção Defensiva — Condições Adversas",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 12,
+    "categoria": "primeiros-socorros",
+    "materia": "Primeiros Socorros",
+    "titulo": "Primeiros Socorros no Trânsito",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 13,
+    "categoria": "meio-ambiente",
+    "materia": "Meio Ambiente",
+    "titulo": "Meio Ambiente e Cidadania no Trânsito",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 14,
+    "categoria": "mecanica",
+    "materia": "Mecânica Básica",
+    "titulo": "Mecânica Básica e Manutenção Preventiva",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 15,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Legislação Geral — Simulado 15",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 16,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Registro e Licenciamento — Simulado 16",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 17,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Habilitação e Penalidades — Simulado 17",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 18,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Permissão para Dirigir — Simulado 18",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 19,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de CNH e Competências — Simulado 19",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 20,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Dimensões e Normas — Simulado 20",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 21,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Legislação e Documentos — Simulado 21",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 22,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Crimes de Trânsito — Simulado 22",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 23,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Categorias de Habilitação — Simulado 23",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 24,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Responsabilidade por Infrações — Simulado 24",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 25,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Infrações e Equipamentos — Simulado 25",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 26,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Classificação de Veículos — Simulado 26",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 27,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Conceitos do CTB — Simulado 27",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 28,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Velocidades e Faixas — Simulado 28",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 29,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Classificação de Vias — Simulado 29",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 30,
+    "categoria": "sinalizacao",
+    "materia": "Sinalização",
+    "titulo": "Simulado de Ordens do Agente e Semáforos — Simulado 30",
+    "totalQuestoes": 30,
+    "temImagens": true
+  },
+  {
+    "id": 31,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Velocidades Mínimas e Máximas — Simulado 31",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 32,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Parada e Estacionamento — Simulado 32",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 33,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Renovação da CNH e Exames — Simulado 33",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 34,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Uso de Buzina e Vias — Simulado 34",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 35,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Sinalização Horizontal — Simulado 35",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 36,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Suspensão de CNH — Simulado 36",
+    "totalQuestoes": 30,
+    "temImagens": false
+  },
+  {
+    "id": 37,
+    "categoria": "legislacao",
+    "materia": "Legislação",
+    "titulo": "Simulado de Eventos na Via e Perícia — Simulado 37",
+    "totalQuestoes": 30,
+    "temImagens": false
+  }
+]

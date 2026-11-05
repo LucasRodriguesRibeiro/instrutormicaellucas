@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Simulados | Instrutor Micael Lucas</title>
-  <meta name="description" content="Simulados para a prova teórica do Detran.">
+  <title>Simulados Detran | Instrutor Micael Lucas</title>
+  <meta name="description" content="Simulados oficiais e por matéria para a prova teórica do Detran. 37 provas e mais de 1.100 questões.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
@@ -12,19 +12,197 @@
   <link href="assets/simulados.css" rel="stylesheet">
 </head>
 <body>
-  <header class="topbar"><div class="shell nav"><a class="brand" href="index.html"><img src="logomicaellucas.jpeg" alt="Logo Instrutor Micael Lucas" class="brand-logo"><span><small>INSTRUTOR AUTÔNOMO</small><strong>MICAEL LUCAS</strong></span></a><span class="credential"><i class="fa-solid fa-shield-halved"></i> Instrutor credenciado pelo Detran</span></div></header>
+  <header class="topbar">
+    <div class="shell nav">
+      <a class="brand" href="index.html">
+        <img src="logomicaellucas.jpeg" alt="Logo Instrutor Micael Lucas" class="brand-logo">
+        <span><small>INSTRUTOR AUTÔNOMO</small><strong>MICAEL LUCAS</strong></span>
+      </a>
+      <span class="credential"><i class="fa-solid fa-shield-halved"></i> Instrutor credenciado pelo Detran</span>
+    </div>
+  </header>
+
   <main>
-    <section class="subhero"><div class="shell"><div class="breadcrumb"><a class="back-btn" href="index.html"><i class="fa-solid fa-arrow-left"></i> Voltar ao início</a><span>Início</span><i class="fa-solid fa-chevron-right"></i><span>Simulados</span></div><span class="eyebrow"><i class="fa-solid fa-clipboard-check"></i> TESTE REAL</span><h1>Simulados Oficiais Detran</h1><p>Escolha um simulado por matéria ou treine com o simulado completo, no formato da prova.</p></div></section>
-    <section class="section"><div class="shell"><div class="section-head"><div><h2>Escolha seu simulado</h2><p>O primeiro simulado completo já está disponível.</p></div><span class="pill">7 categorias</span></div><div class="sim-grid">
-      <a class="sim-card sim-full available" href="simulado.html?id=1" style="--sc:#f7bd2f"><span class="icon"><i class="fa-solid fa-star"></i></span><h3>Simulado Completo — 1 de 25</h3><p>30 questões · 60 minutos · Todas as matérias no formato da prova oficial.</p><span class="sim-badge"><i class="fa-solid fa-play"></i> Iniciar simulado</span></a>
-      <article class="sim-card sim-soon" style="--sc:#2563eb"><span class="icon"><i class="fa-solid fa-scale-balanced"></i></span><h3>Legislação de Trânsito</h3><p>CTB, infrações, penalidades, habilitação e sinalização.</p><span class="sim-badge"><i class="fa-solid fa-clock"></i> Em breve</span></article>
-      <article class="sim-card sim-soon" style="--sc:#7c3aed"><span class="icon"><i class="fa-solid fa-shield-halved"></i></span><h3>Direção Defensiva</h3><p>Condições adversas, atenção e prevenção de acidentes.</p><span class="sim-badge"><i class="fa-solid fa-clock"></i> Em breve</span></article>
-      <article class="sim-card sim-soon" style="--sc:#e11d48"><span class="icon"><i class="fa-solid fa-kit-medical"></i></span><h3>Primeiros Socorros</h3><p>Procedimentos, sinalização e atendimento à vítima.</p><span class="sim-badge"><i class="fa-solid fa-clock"></i> Em breve</span></article>
-      <article class="sim-card sim-soon" style="--sc:#0891b2"><span class="icon"><i class="fa-solid fa-people-group"></i></span><h3>Cidadania no Trânsito</h3><p>Direitos, deveres, educação e convivência no trânsito.</p><span class="sim-badge"><i class="fa-solid fa-clock"></i> Em breve</span></article>
-      <article class="sim-card sim-soon" style="--sc:#059669"><span class="icon"><i class="fa-solid fa-leaf"></i></span><h3>Meio Ambiente</h3><p>Poluição, emissões e responsabilidade ambiental.</p><span class="sim-badge"><i class="fa-solid fa-clock"></i> Em breve</span></article>
-      <article class="sim-card sim-soon" style="--sc:#f59e0b"><span class="icon"><i class="fa-solid fa-gear"></i></span><h3>Mecânica Básica</h3><p>Manutenção, freios, pneus e itens obrigatórios.</p><span class="sim-badge"><i class="fa-solid fa-clock"></i> Em breve</span></article>
-    </div></div></section>
+    <section class="subhero">
+      <div class="shell">
+        <div class="breadcrumb">
+          <a class="back-btn" href="index.html"><i class="fa-solid fa-arrow-left"></i> Voltar ao início</a>
+          <span>Início</span>
+          <i class="fa-solid fa-chevron-right"></i>
+          <span>Simulados</span>
+        </div>
+        <span class="eyebrow"><i class="fa-solid fa-clipboard-check"></i> BANCO OFICIAL DE QUESTÕES</span>
+        <h1>Simulados Oficiais Detran</h1>
+        <p>São 37 provas completas com mais de 1.100 questões, organizadas por matéria e com gabarito oficial. Treine por assunto ou faça o simulado completo com tempo cronometrado.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>Escolha a área de estudo</h2>
+            <p>Selecione uma matéria abaixo para ver os simulados disponíveis daquele assunto.</p>
+          </div>
+          <span class="pill" id="total-badge">37 provas disponíveis</span>
+        </div>
+
+        <!-- Matérias em Destaque -->
+        <div class="sim-grid">
+          <!-- Simulado Geral / Completo -->
+          <a class="sim-card sim-full available" href="simulado.html?id=1" style="--sc:#f7bd2f">
+            <span class="icon"><i class="fa-solid fa-star"></i></span>
+            <h3>Simulado Completo — Modo Prova Real</h3>
+            <p>30 questões · 60 minutos · Cronômetro oficial e pontuação mínima de 21 acertos para aprovação.</p>
+            <span class="sim-badge"><i class="fa-solid fa-play"></i> Iniciar Prova Geral</span>
+          </a>
+
+          <!-- Legislação -->
+          <article class="sim-card available" style="--sc:#2563eb" onclick="filtrarMateria('legislacao')">
+            <span class="icon"><i class="fa-solid fa-scale-balanced"></i></span>
+            <h3>Legislação de Trânsito</h3>
+            <p>CTB, processo de habilitação, infrações, penalidades, multas e normas de circulação.</p>
+            <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 25 simulados</span>
+          </article>
+
+          <!-- Sinalização -->
+          <article class="sim-card available" style="--sc:#f97316" onclick="filtrarMateria('sinalizacao')">
+            <span class="icon"><i class="fa-solid fa-traffic-light"></i></span>
+            <h3>Sinalização e Placas</h3>
+            <p>Placas de advertência, regulamentação, gestos de agentes e sinais semafóricos com imagens.</p>
+            <span class="sim-badge"><i class="fa-solid fa-image"></i> 3 simulados ilustrados</span>
+          </article>
+
+          <!-- Direção Defensiva -->
+          <article class="sim-card available" style="--sc:#7c3aed" onclick="filtrarMateria('direcao-defensiva')">
+            <span class="icon"><i class="fa-solid fa-shield-halved"></i></span>
+            <h3>Direção Defensiva</h3>
+            <p>Física aplicada, aderência, condições adversas da via e prevenção ativa de acidentes.</p>
+            <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 2 simulados</span>
+          </article>
+
+          <!-- Primeiros Socorros -->
+          <article class="sim-card available" style="--sc:#e11d48" onclick="filtrarMateria('primeiros-socorros')">
+            <span class="icon"><i class="fa-solid fa-kit-medical"></i></span>
+            <h3>Primeiros Socorros</h3>
+            <p>Sinalização do local, suporte básico de vida, fraturas, hemorragias e acionamento do SAMU.</p>
+            <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 1 simulado dedicado</span>
+          </article>
+
+          <!-- Meio Ambiente e Cidadania -->
+          <article class="sim-card available" style="--sc:#059669" onclick="filtrarMateria('meio-ambiente')">
+            <span class="icon"><i class="fa-solid fa-leaf"></i></span>
+            <h3>Meio Ambiente e Cidadania</h3>
+            <p>Poluição veicular, emissões, catalisador, convivência social e cidadania nas vias.</p>
+            <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 1 simulado dedicado</span>
+          </article>
+
+          <!-- Mecânica Básica -->
+          <article class="sim-card available" style="--sc:#d97706" onclick="filtrarMateria('mecanica')">
+            <span class="icon"><i class="fa-solid fa-gear"></i></span>
+            <h3>Mecânica Básica</h3>
+            <p>Manutenção preventiva, freios, pneus, fluidos, suspensão e itens obrigatórios.</p>
+            <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 1 simulado dedicado</span>
+          </article>
+        </div>
+
+        <!-- Seção Dinâmica de Lista de Simulados por Matéria -->
+        <div id="area-provas" style="margin-top: 54px; scroll-margin-top: 90px;">
+          <div class="section-head">
+            <div>
+              <h2 id="titulo-materia">Todos os Simulados Disponíveis</h2>
+              <p id="desc-materia">Clique em qualquer prova abaixo para iniciar o teste com 30 questões e tempo cronometrado.</p>
+            </div>
+          </div>
+
+          <!-- Filtros Rápidos -->
+          <div class="cat-tabs">
+            <button class="cat-tab active" data-cat="todas" onclick="filtrarMateria('todas')">Todas as Provas (37)</button>
+            <button class="cat-tab" data-cat="legislacao" onclick="filtrarMateria('legislacao')">Legislação (25)</button>
+            <button class="cat-tab" data-cat="sinalizacao" onclick="filtrarMateria('sinalizacao')">Sinalização e Placas (3)</button>
+            <button class="cat-tab" data-cat="direcao-defensiva" onclick="filtrarMateria('direcao-defensiva')">Direção Defensiva (2)</button>
+            <button class="cat-tab" data-cat="primeiros-socorros" onclick="filtrarMateria('primeiros-socorros')">Primeiros Socorros (1)</button>
+            <button class="cat-tab" data-cat="meio-ambiente" onclick="filtrarMateria('meio-ambiente')">Meio Ambiente e Cidadania (1)</button>
+            <button class="cat-tab" data-cat="mecanica" onclick="filtrarMateria('mecanica')">Mecânica Básica (1)</button>
+          </div>
+
+          <!-- Grid com os Cards das Provas -->
+          <div class="sim-provas-list" id="lista-provas">
+            <!-- Gerado via JavaScript -->
+          </div>
+        </div>
+
+      </div>
+    </section>
   </main>
-  <footer class="footer"><div class="shell">Conteúdo de apoio à formação de condutores · Consulte sempre a legislação atualizada.</div></footer>
+
+  <footer class="footer">
+    <div class="shell">Conteúdo de apoio à formação de condutores · Instrutor Micael Lucas · Salvador e Região Metropolitana</div>
+  </footer>
+
+  <script src="data/catalogo.js"></script>
+  <script>
+    (function(){
+      var catalogo = window.CATALOGO_SIMULADOS || [];
+      var listaEl = document.getElementById('lista-provas');
+      var tituloEl = document.getElementById('titulo-materia');
+      var descEl = document.getElementById('desc-materia');
+
+      var titulosCat = {
+        'todas': { t: 'Todos os Simulados (1 a 37)', d: 'Veja abaixo todas as 37 provas oficiais disponíveis para estudo.' },
+        'legislacao': { t: 'Simulados de Legislação de Trânsito', d: '25 provas focadas em CTB, infrações, penalidades, habilitação e circulação.' },
+        'sinalizacao': { t: 'Simulados de Sinalização e Placas', d: 'Provas com ilustrações reais de placas de trânsito, gestos de agentes e semáforos.' },
+        'direcao-defensiva': { t: 'Simulados de Direção Defensiva', d: 'Provas sobre condições adversas, prevenção de acidentes e física veicular.' },
+        'primeiros-socorros': { t: 'Simulados de Primeiros Socorros', d: 'Procedimentos de emergência, fraturas, hemorragias e segurança no acidente.' },
+        'meio-ambiente': { t: 'Simulados de Meio Ambiente e Cidadania', d: 'Poluição, emissões, sustentabilidade e relacionamento interpessoal no trânsito.' },
+        'mecanica': { t: 'Simulados de Mecânica Básica', d: 'Manutenção preventiva, pneus, freios, motor e itens de segurança veicular.' }
+      };
+
+      function render(categoria) {
+        var filtrados = (categoria === 'todas') 
+          ? catalogo 
+          : catalogo.filter(function(p){ return p.categoria === categoria; });
+
+        var info = titulosCat[categoria] || titulosCat['todas'];
+        tituloEl.textContent = info.t;
+        descEl.textContent = info.d;
+
+        document.querySelectorAll('.cat-tab').forEach(function(tab){
+          if (tab.dataset.cat === categoria) tab.classList.add('active');
+          else tab.classList.remove('active');
+        });
+
+        if (!filtrados.length) {
+          listaEl.innerHTML = '<p style="color:var(--muted)">Nenhuma prova encontrada nesta categoria.</p>';
+          return;
+        }
+
+        listaEl.innerHTML = filtrados.map(function(p){
+          var badgeImg = p.temImagens ? '<span class="sim-prova-badge" style="background:#fff7ed;color:#ea580c"><i class="fa-solid fa-image"></i> Com ilustrações</span>' : '';
+          return '<article class="sim-prova-item">' +
+            '<div class="sim-prova-header">' +
+              '<span class="sim-prova-badge">' + p.materia + '</span>' +
+              badgeImg +
+            '</div>' +
+            '<h4>Prova ' + String(p.id).padStart(2, '0') + ' — ' + p.titulo + '</h4>' +
+            '<p><i class="fa-regular fa-clock"></i> 60 minutos · <i class="fa-solid fa-list-ol"></i> 30 questões</p>' +
+            '<a class="sim-prova-btn" href="simulado.html?id=' + p.id + '">' +
+              '<i class="fa-solid fa-play"></i> Iniciar Prova ' + String(p.id).padStart(2, '0') +
+            '</a>' +
+          '</article>';
+        }).join('');
+      }
+
+      window.filtrarMateria = function(cat) {
+        render(cat);
+        var area = document.getElementById('area-provas');
+        if (area) {
+          area.scrollIntoView({ behavior: 'smooth' });
+        }
+      };
+
+      render('todas');
+    }());
+  </script>
 </body>
 </html>

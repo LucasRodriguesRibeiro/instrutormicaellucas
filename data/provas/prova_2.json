@@ -1,0 +1,401 @@
+{
+  "id": 2,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Processo de Habilitação e Categorias",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Para que os veículos destinados à condução coletiva de escolares possam circular nas vias, exige-se:",
+      "ops": [
+        "A) Cintos de segurança para o condutor e seu auxiliar.",
+        "B) Registro de veículo especial.",
+        "C) Lanternasdeluzverdenasextremidadeslateraisdireitaeesquerda.",
+        "D) Inspeção semestral para verificação dos equipamentos obrigatórios e de segurança."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "O candidato para se habilitar para conduzir veículo automotor e elétrico deverá preencher os seguintes requisitos:",
+      "ops": [
+        "A) Saber ler e escrever.",
+        "B) Saber ler e escrever e possuir documento de identidade.",
+        "C) Saber ler e escrever, ser penalmente imputável e possuir carteira de identidade ou equivalente.",
+        "D) Ser penalmente imputável."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "A cópia fotostática ou a fotocópia da Carteira Nacional de Habilitação:",
+      "ops": [
+        "A) Não é válida para substituir documento original.",
+        "B) É válida quando autenticada em cartório.",
+        "C) É válida quando não plastificada.",
+        "D) É válida quando apresentada junto com o documento de identidade do portador."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "A Licença de Aprendizagem (LADV) suspensa poderá ser obtida novamente após decorridos:",
+      "ops": [
+        "A) Seis meses.",
+        "B) Três meses.",
+        "C) Doze meses.",
+        "D) Nove meses."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "O candidato à obtenção da ACC ou da CNH deverá preencher os seguintes requisitos:",
+      "ops": [
+        "A) Ser maior de 21 anos, possuir CPF, saber ler e escrever.",
+        "B) Somente saber ler e escrever, e possuir documento de identidade.",
+        "C) Ser penalmente imputável, saber ler e escrever, possuir documento de identidade e CPF.",
+        "D) Ser maior de 18 anos, saber ler e escrever, possuir identidade e CPF."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CONTRAN, é aquela obtida:",
+      "ops": [
+        "A) No Brasil.",
+        "B) No seu Estado.",
+        "C) No seu Município.",
+        "D) Em outro país."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "As categorias existentes à habilitação são:",
+      "ops": [
+        "A) A – B – C – D",
+        "B) B – C – D – E",
+        "C) B – C – D",
+        "D) A – B – C – D – E"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "O condutor para conduzir veículo motorizado de duas ou três rodas, com ou sem carro lateral, deverá habilitar-se na categoria:",
+      "ops": [
+        "A) A",
+        "B) B",
+        "C) C",
+        "D) D"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: A categoria_______ habilita o condutor a dirigir veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 quilogramas e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+      "ops": [
+        "A) C",
+        "B) B",
+        "C) E",
+        "D) D"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: A categoria ______habilita o condutor a dirigir veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+      "ops": [
+        "A) D",
+        "B) E",
+        "C) C",
+        "D) B"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: A categoria_______ habilita o condutor a dirigir veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a 8 lugares, excluído o do motorista:",
+      "ops": [
+        "A) D",
+        "B) C",
+        "C) E",
+        "D) B"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "A idade mínima para conduzir um veículo automotor com capacidade acima de 20 passageiros é: 08",
+      "ops": [
+        "A) 20 anos.",
+        "B) 21 anos.",
+        "C) 18 anos.",
+        "D) 19 anos."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "No caso de reprovação no exame escrito de poderá repetir o exame:",
+      "ops": [
+        "A) No 15º dia da divulgação do resultado.",
+        "B) No 16º dia da divulgação do resultado.",
+        "C) No dia seguinte da divulgação do resultado.",
+        "D) Não há período de interstício."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "O candidato que pretende se habilitar para a categoria “D” deverá realizar o exame de direção veicular no veículo que tenha:",
+      "ops": [
+        "A) No mínimo, 08 (oito) lugares, sem contar com o do condutor.",
+        "B) No mínimo, 20 (vinte) lugares.",
+        "C) Capacidade para transportar, no mínimo, 6000 (seis mil) quilogramas de carga.",
+        "D) Duas rodas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplanagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado na(s) categoria(s):",
+      "ops": [
+        "A) A ou B",
+        "B) AB",
+        "C) C, D ou E",
+        "D) Somente pela categoria B"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "Para habilitar-se na categoria D, o condutor deverá possuir no mínimo:",
+      "ops": [
+        "A) 1 ano na categoria B, ou 2 anos na categoria C.",
+        "B) 2 anos na categoria B, ou 1 ano na categoria C.",
+        "C) Somente 1 ano na categoria C.",
+        "D) Somente 1 ano na categoria B."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "Para habilitar-se na categoria E, o condutor deverá possuir no mínimo:",
+      "ops": [
+        "A) 2 anos na categoria B.",
+        "B) 1 ano na categoria B.",
+        "C) 2 anos na categoria AB.",
+        "D) 1 ano na categoria C."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A identificação do documento de habilitação e da autoridade expedidora são registrados no:",
+      "ops": [
+        "A) RENAVAM",
+        "B) RENACH",
+        "C) RENACOM",
+        "D) CETRAN"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "O condutor habilitado na categoria B que, posteriormente, habilitar-se na categoria A, receberá:",
+      "ops": [
+        "A) Dois registros no RENACH.",
+        "B) Um único registro no RENACOM.",
+        "C) Um único registro no RENACH.",
+        "D) Dois registros no RENACOM."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "O candidato poderá requerer simultaneamente:",
+      "ops": [
+        "A) A habilitação nas categorias A e C.",
+        "B) Categorias A a ACC e habilitação na categoria D.",
+        "C) Categorias A a ACC e habilitação na categoria B, bem como em AB.",
+        "D) As categorias A e E."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a ____________ anos e ser habilitado , pelo menos, na categoria ____________.",
+      "ops": [
+        "A) 21, B",
+        "B) 18, D",
+        "C) 18, B",
+        "D) 21, D"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Do condutor de veículo destinado à condução de escolares, exige-se:",
+      "ops": [
+        "A) Não ter cometido nenhuma infração de trânsito.",
+        "B) Idade superior a 18 anos.",
+        "C) Apresentação de certificado em curso especializado.",
+        "D) Apresentação do Registro Nacional de Transportadores Urbanos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Quando da renovação da CNH o condutor de veículo automotor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+      "ops": [
+        "A) De 05 (cinco) em 05 (cinco) anos até completar 60 (sessenta) anos de idade.",
+        "B) De 05 (cinco) em 05 (cinco) anos a partir dos 60 (sessenta) anos de idade.",
+        "C) De 03 (três) em 03 (três) anos a partir dos 40 (quarenta) anos de idade.",
+        "D) De 05 (cinco) em 05 (cinco) anos até completar 65 (sessenta e cinco) anos de idade."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "O condutor de veículo automotor, após 65 (sessenta e cinco) anos de idade, ao renovar sua CNH deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+      "ops": [
+        "A) De 05 (cinco) em 05 (cinco) anos.",
+        "B) De 02 (dois) em 02 (dois) anos.",
+        "C) De 03 (três) em 03 (três) anos.",
+        "D) De 10 (dez) em 10 (dez) anos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "O condutor que tiver a sua Permissão para Dirigir cassada, poderá reiniciar o processo de habilitação, que consiste em prestar exames de:",
+      "ops": [
+        "A) Aptidão física e mental, avaliação psicológicca e",
+        "B) Aptidão física e mental, avaliação psicológica, legislação de trânsito e prática de direção veicular.",
+        "C) Prática de direção veicular.",
+        "D) Legislação de trânsito e prática de direção veicular."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "A Carteira Nacional de Habilitação não será conferida ao condutor portador da Permissão para Dirigir no término de um ano, se o mesmo cometer:",
+      "ops": [
+        "A) Uma infração de natureza média.",
+        "B) Uma infração de natureza grave.",
+        "C) Ser reincidente na infração de natureza leve.",
+        "D) Uma infração de natureza leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "O processo do candidato à habilitação ficará ativado no Órgão ou Entidade Executivo de Trânsito pelo prazo de:",
+      "ops": [
+        "A) 06 (seis) meses.",
+        "B) 24 (vinte e quatro) meses.",
+        "C) 12 (doze) meses.",
+        "D) Durante a validade do exame de sanidade física e mental."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O candidato para se habilitar na categoria A, poderá realizar o exame de prática de direção veicular em veículo de 2 rodas com cilindrada:",
+      "ops": [
+        "A) De 50 cm3.",
+        "B) De 100 cm3.",
+        "C) De 120 cm3.",
+        "D) Acima de 120 cm3."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "A não obtenção da Carteira Nacional de Habilitação , pelo permissionário, implica em reiniciar todo o",
+      "ops": [
+        "A) 30 dias.",
+        "B) 15 dias.",
+        "C) 360 dias.",
+        "D) A qualquer tempo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "A Licença de Aprendizagem para prática de direção veicular em via pública, ou em locais autorizados para este fim, será expedida pelo DETRAN ao candidato que:",
+      "ops": [
+        "A) Tenha completado 16 (dezesseis) anos de idade.",
+        "B) Tenha completado 18 (dezoito) anos de idade.",
+        "C) Tenha prestado o exame em veículo particular.",
+        "D) Tenha sido aprovado nos exames de aptidão física e mental , avaliação psicológica e de legislação de trânsito."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+}

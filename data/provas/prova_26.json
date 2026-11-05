@@ -1,0 +1,401 @@
+{
+  "id": 26,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Classificação de Veículos — Simulado 26",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta:",
+      "ops": [
+        "A) O reboque é articulado com a unidade tratora e o semirreboque é apenas tracionado pelo caminhão-trator.",
+        "B) Os veículos reboque ou semirreboque são classificados, quanto à espécie, como especial.",
+        "C) É permitido o uso de cópia reprográfica de CRLV, desde que seja autenticado pelo Cartório de Registros Públicos.",
+        "D) As penalidades são impostas ao condutor ou proprietário do veículo, ou a ambos, conforme o caso."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta, ou de forma agressiva, em desacordo com o disposto no parágrafo único do art. 59 é infração _______, gerando como medida administrativa________________.",
+      "ops": [
+        "A) Leve; retenção da bicicleta.",
+        "B) Média; remoção da bicicleta.",
+        "C) Grave; remoção da bicicleta.",
+        "D) Média; multa."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Conduzir veículo sem os documentos de porte obrigatório referidos ao Código de Trânsito Brasileiro é infração:",
+      "ops": [
+        "A) Média.",
+        "B) Gravíssima.",
+        "C) Grave.",
+        "D) Leve."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "Deixar de efetuar o registro do veículo no prazo de trinta dias, junto ao órgão executivo de trânsito, ocorridas as hipóteses previstas no art. 123 é infração:",
+      "ops": [
+        "A) Grave",
+        "B) Gravíssima",
+        "C) Média",
+        "D) Leve NORMAS DE CIRCULAÇÃO E CONDUTA"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "O condutor para virar à esquerda em interseção de vias de sentido duplo de trânsito, no perímetro urbano, deve:",
+      "ops": [
+        "A) Aproximar-se o máximo da margem direita da via.",
+        "B) Aproximar-se o máximo possível de seu eixo ou da linha divisória da pista.",
+        "C) Aproximar-se o máximo da margem esquerda da via.",
+        "D) Apenas reduzir a velocidade e entrar rapidamente."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Quanto ao uso de luzes em veículo automotor, assinale a alternativa incorreta:",
+      "ops": [
+        "A) O condutor manterá acesos os faróis do veículo utilizando luz baixa, durante a noite e durante o dia, nos túneis providos de iluminação pública.",
+        "B) O condutor utilizará o pisca alerta quando transitar sob forte cerração.",
+        "C) Nas vias não iluminadas o condutor deve usar luz alta, exceto ao cruzar com outro veículo ou ao seguí-lo.",
+        "D) Durante a noite, em circulação, o condutor manterá acesa a luz de placa."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Em via de mão dupla é permitido ao condutor trafegar pela contramão quando:",
+      "ops": [
+        "A) For ultrapassar outro veículo e, somente, pelo espaço necessário a esse fim.",
+        "B) Houver mais de uma faixa de trânsito, no mesmo sentido.",
+        "C) For convergir à esquerda.",
+        "D) Houver passagem de nível."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "A circulação de pedestres, na pista de rolamento, será feita com prioridade sobre os veículos, pelos bordos da pista, em fila única e em sentido contrário ao deslocamento de veículos, em:",
+      "ops": [
+        "A) Vias urbanas, quando não houver passeios ou quando não for possível a utilização destes",
+        "B) Vias urbanas, quando houver acostamento.",
+        "C) Vias rurais, quando não houver acostamento ou quando não for possível a utilização dele.",
+        "D) A circulação, em via urbana e rural, é a critério do pedestre."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "No desenho abaixo encontramos um cruzamento provido de sinalização semafórica entre uma via arterial sinalizada e uma via coletora. Ocorrendo falta de energia elétrica, o veículo que terá preferência de passagem é o:",
+      "ops": [
+        "A) Veículo 1, porque trafega em via arterial.",
+        "B) Veículo 2, porque trafega à direita do veículo 1.",
+        "C) Veículo 1, porque trafega à direita da via.",
+        "D) Veículo que estiver mais próximo do cruzamento."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: Nas vias urbanas, onde não existir sinalização regulamentadora, a velocidade máxima será de: ___________ nas vias de trânsito rápido; ____________ nas vias arteriais; ___________ nas vias coletoras e ____________ nas vias locais.",
+      "ops": [
+        "A) 110 Km/h; 90 Km/h; 60 Km/h; 40 Km/h.",
+        "B) 90 Km/h; 80 Km/h; 60 Km/h; 40 Km/h.",
+        "C) 60 Km/h; 50 Km/h; 40 Km/h; 30 Km/h.",
+        "D) 80 Km/h; 60 Km/h;40 Km/h; 30 Km/h."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta:",
+      "ops": [
+        "A) A parada para embarque de passageiros não poderá ser feita quando proibido o estacionamento na via.",
+        "B) Em nenhuma hipótese será permitida a circulação de bicicletas nos passeios.",
+        "C) Os animais isolados ou em grupos não poderão circular nas vias urbanas ou rurais.",
+        "D) O condutor e o passageiro não deverão abrir a porta do veículo, sem antes certificar-se que isso não constitui perigo para eles e outros usuários da via."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "O condutor poderá ultrapassar outro veículo pela direita quando:",
+      "ops": [
+        "A) A via for de mão única com retorno ou entrada à direita e o condutor do veículo que estiver à direita indicar, por sinal, que vai entrar para esse lado.",
+        "B) A via for de mão dupla com retorno ou entrada à esquerda e apenas uma faixa de trânsito.",
+        "C) O veículo da frente autorizar.",
+        "D) A via for de mão única com entrada à esquerda e o condutor do veículo a ser ultrapassado indicar, por sinal, que vai entrar para esse lado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A placa de nº THC-05 indica:",
+      "ops": [
+        "A) Monumento",
+        "B) Ruínas",
+        "C) Mirante.",
+        "D) Museu."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-35 adverte:",
+      "ops": [
+        "A) Animais .",
+        "B) Animais selvagens .",
+        "C) Proibido trânsito de veículo de tração animal .",
+        "D) Restaurante."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de nº R-4a regulamenta:",
+      "ops": [
+        "A) Proibido virar à direita .",
+        "B) Sentido proibido .",
+        "C) Curva acentuada à esquerda",
+        "D) Proibido virar à esquerda ."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-1a adverte ao condutor do veículo que à frente:",
+      "ops": [
+        "A) Deverá deparar-se com uma entrada à esquerda.",
+        "B) Deverá deparar-se com uma curva acentuada à esquerda.",
+        "C) Deverá virar à esquerda.",
+        "D) Haverá, simplesmente, uma curva à esquerda."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de nº R-24a regulamenta :",
+      "ops": [
+        "A) Siga em frente.",
+        "B) Passagem proibida.",
+        "C) Sentido de circulação da via/pista.",
+        "D) Passagem obrigatória."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-32b adverte o condutor do veículo da existência, adiante, de:",
+      "ops": [
+        "A) Uma travessia de animais.",
+        "B) Uma passagem sinalizada de pedestres.",
+        "C) Proibição de trânsito de pedestres.",
+        "D) Área escolar."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta:",
+      "ops": [
+        "A) Direção Defensiva significa conduzir um veículo evitando mortes, sofrimentos, perda de tempo e dinheiro, independentemente do veículo e das adversidades climáticas.",
+        "B) A técnica de retardar a aceleração do veículo deve ser usada quando estiver ultrapassando outro veículo.",
+        "C) O hábito saudável de dirigir, defensivamente, exclui o uso do cinto de segurança.",
+        "D) Um acidente misterioso é aquele no qual o motorista falhou em aplicar todos os recursos possíveis para evitá-lo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "A atitude prudente para se livrar de veículos “colados” na retaguarda é:",
+      "ops": [
+        "A) Encostar para a direita da pista, reduzindo a velocidade, se necessário.",
+        "B) Desviar para a esquerda, alertando o outro condutor.",
+        "C) Aumentar a velocidade em relação ao outro veículo.",
+        "D) Acender o pisca - alerta, fazendo sinal de braço para o outro condutor."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Com relação às técnicas de prevenção da colisão quando em ultrapassagem, é incorreto:",
+      "ops": [
+        "A) Estar atento às intenções do outro condutor.",
+        "B) Auxiliar o outro condutor, sinalizando, claramente, nossas intenções.",
+        "C) Ter cuidados especiais com os pontos cegos do veículos que conduzimos.",
+        "D) Utilizar a faixa à esquerda da pista, sem atingir a contramão direcional, evitando-se assim, as tentativas de ultrapassagens perigosas realizadas por terceiros."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Quando, por força maior, um veículo estiver impedido de ser removido da pista de rolamento ou acostamento, o seu condutor deverá colocar o triângulo de segurança:",
+      "ops": [
+        "A) A 1 (um) metro de distância do veículo para que os demais condutores o vejam melhor.",
+        "B) A uma distância, segura, para que os demais condutores sejam prevenidos a tempo do fato.",
+        "C) Dentro do veículo, na parte traseira, para conservá-lo por mais tempo.",
+        "D) Ao lado do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Você está em uma via de bastante movimento e surge uma rotatória à frente com um veículo lento fazendo seu contorno. Você deve:",
+      "ops": [
+        "A) Buzinar para avisar que você está entrando com prioridade.",
+        "B) Diminuir a velocidade e deixar o outro veículo completar seu trajeto.",
+        "C) Acelerar para adentrar à rotatória antes que aquele veículo atrapalhe você.",
+        "D) Continuar seu trajeto sem qualquer alteração, pois quem está na rotatória não tem preferência."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Quando uma vítima de acidente apresentar hemorragia pelos ouvidos e nariz, podemos suspeitar de fratura:",
+      "ops": [
+        "A) Nos braços.",
+        "B) No crânio.",
+        "C) No peito.",
+        "D) Na coluna vertebral."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Ao observar uma pessoa tendo convulsões deve-se:",
+      "ops": [
+        "A) Não interferir, porque isto passa espontaneamente.",
+        "B) Abrir a boca da vítima e colocar um pano entre os dentes para evitar que ela morda a língua.",
+        "C) Pedir ajuda de outras pessoas e tentar imobilizá-la, segurando-a, firmemente, contra o chão.",
+        "D) Proteger a cabeça da pessoa contra traumas e virá-la de lado em caso de vômitos."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Queimaduras podem ser causadas por produtos químicos. O procedimento mais adequado quando alguém derrama ácido de bateria em seu próprio corpo é:",
+      "ops": [
+        "A) Limpar com pano o local afetado e colocar uma pomada para queimadura.",
+        "B) Remover, imediatamente, o produto lavando com água.",
+        "C) Usar álcool para limpar o local, friccionando a região.",
+        "D) Cobrir a área com um pano limpo sem remover o produto."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "O condutor de um veículo não causa poluição sonora se usar a buzina:",
+      "ops": [
+        "A) Em toques longos entre as vinte e duas e seis horas.",
+        "B) Em toques breves como advertência a pedestres ou a outros veículos quando necessário.",
+        "C) Em toques longos próximo a hospitais e escolas.",
+        "D) Em toques longos e sucessivos quando quer ultrapassar outro veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O controle da emissão dos ruídos do motor é obrigatório para:",
+      "ops": [
+        "A) Todos os veículos automotores, exceto para as motocicletas.",
+        "B) Os automóveis e caminhões, apenas.",
+        "C) As motocicletas, apenas.",
+        "D) Todos os veículos automotores. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "Fazer parte do sistema de direção a seguinte peça:",
+      "ops": [
+        "A) Barra de direção.",
+        "B) Pneu e roda.",
+        "C) Eixo comando de válvulas.",
+        "D) Travessa dianteira."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Para aumentar a vida útil da embreagem, você deve:",
+      "ops": [
+        "A) Dirigir sem apoiar o pé no pedal da embreagem.",
+        "B) Segurar o veículo com a embreagem, quando tiver que parar em um aclive.",
+        "C) Apoiar o pé no pedal da embreagem, continuamente.",
+        "D) Regular o cabo em todas as trocas de óleo."
+      ],
+      "img": null,
+      "ok": 0
+    }
+  ]
+}

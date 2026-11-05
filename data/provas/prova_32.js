@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 32,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Parada e Estacionamento — Simulado 32",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "O condutor pode parar o veículo:",
+      "ops": [
+        "A) Nos túneis, pontes e viadutos.",
+        "B) Nos acostamentos.",
+        "C) Nas esquinas, a menos de 3 metros para os carros pequenos e 10 metros para os carros pesados.",
+        "D) Na contramão."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Em uma via de trânsito rápido, cuja velocidade máxima permitida é de 80 km/h, foi registrado por instrumento eletrôni- co (radar) um condutor dirigindo seu veículo a velocidade de 96 km/h. Esse condutor cometeu infração de natureza:",
+      "ops": [
+        "A) Grave.",
+        "B) Média.",
+        "C) Gravíssima.",
+        "D) Leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta. Não é considerado veículo de passageiros:",
+      "ops": [
+        "A) Motoneta.",
+        "B) Bicicleta.",
+        "C) Carroça.",
+        "D) Triciclo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "A finalidade do seguro obrigatório é “indenizar p r o danos”:",
+      "ops": [
+        "A) Materiais e pessoais.",
+        "B) Materiais, pessoais, do veículo e de sua carga.",
+        "C) Do veículo e de sua carga.",
+        "D) Pessoais."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Quanto aos conceitos e definiç ões dos veículos, é falso afirmar:",
+      "ops": [
+        "A) Ônibus-veículo automotor de transporte coletivo com capacidade para até vinte (20) passageiros.",
+        "B) Bicicleta-veículo de propulsão humana dotado de duas rodas.",
+        "C) Veículo articulado - combinado de veículos acoplados, sendo um deles automotor.",
+        "D) Motoneta-veículo automotor de duas rodas, dirigido por condu- tor em posição sentada."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "A retenção do veículo dar-se-á quando: a Transportar carga, arrastando-a ) .",
+      "ops": [
+        "B) Tiver falsificado os selos da placa.",
+        "C) Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
+        "D) Não estiver devidamente licenciado ou registrado.",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "A retenção do veículo, como medida administrativa, é aplicada quando:",
+      "ops": [
+        "A) Estacionar em fila dupla.",
+        "B) Dirigir manuseando aparelho celular. b) Dirigir sem possuir documento de habilitação.",
+        "C) Dirigir sem atenção e cuidados indispensáveis à esquerda.",
+        "D) O condutor ou passageiro deixar de usar o cinto de segurança."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "A remoção do veículo, como medida administrativa, é aplicada quando o condutor:",
+      "ops": [
+        "A) Estacionar na contramão de direção.",
+        "B) Parar o veículo em desacordo com posições estabelecidas.",
+        "C) Tiver seu veículo imobilizado na via por falta de combustível.",
+        "D) Deixar de prestar socorro à vitima de acidente de trânsito."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "O recolhimento do Certificado de Licenciamento Anual poderá ocorrer:",
+      "ops": [
+        "A) Em todos os casos de retenção do veículo.",
+        "B) Em todas as situações que ocasionam a apreensão do veículo.",
+        "C) Quando tiver adesivos de caráter publicitário afixados no pára- brisa do veículo.",
+        "D) Em todos os casos de retenção do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "João da Silva, surpreendido numa “blitz”, dirigia sem usar lentes corretivas de visão, imposta por ocasião da con- cessão ou renovação da habilitação. Qual a penalidade e medida administrativa aplicada? ?",
+      "ops": [
+        "A) Grave, multa, retenção do veículo até o saneamento da irregu- laridade ou apresentação de condutor habilitado.",
+        "B) Grave, multa, recolhimento do documento de habilitação.",
+        "C) Gravíssima, multa, recolhimento do documento de habilitação em suspensão do direito de dirigir.",
+        "D) Gravíssima, multa, retenção do veículo até saneamento da ir- regularidade ou apresentação de condutor habilitado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Dar passagem pela esquerda, quando solicitado, é:",
+      "ops": [
+        "A) Apenas uma questão de cortesia.",
+        "B) Apenas uma regra para prevenir acidentes.",
+        "C) Dever do condutor.",
+        "D) Proibido a todos os motoristas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "O condutor que não guardar distância de segurança, entre o veículo que dirige e o que segue imediatamente a sua frente, está cometendo uma infração de natureza:",
+      "ops": [
+        "A) Média.",
+        "B) Grave.",
+        "C) Gravíssima.",
+        "D) Leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "Observe o desenho abaixo e responda. O veículo que não tem a preferência é:",
+      "ops": [
+        "A) Veículo 2, porque deverá dar a preferência ao veículo que vem em sentido contrário.",
+        "B) Veículo 1, porque deverá dar a preferência ao veículo que vem em sentido contrário.",
+        "C) Veículo 1, porque o cruzamento não é sinalizado.",
+        "D) Veículo 2, porque o cruzamento não é sinalizado."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "As linhas de estímulo e redução de velocidade são as identificadas, na cartela, pelo código:",
+      "ops": [
+        "A) MT – 02.",
+        "B) MT – 03.",
+        "C) MT – 04.",
+        "D) MT – 01."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-25 adverte:",
+      "ops": [
+        "A) Sentido duplo.",
+        "B) Duplo sentido de circulação.",
+        "C) Mão dupla adiante.",
+        "D) Pista dupla adiante."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-26ª adverte:",
+      "ops": [
+        "A) Sentido de circulação da via.",
+        "B) Siga em frente.",
+        "C) Sentido único.",
+        "D) Passagem obrigatória."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-20b adverte:",
+      "ops": [
+        "A) Sentido único.",
+        "B) Passagem obrigatória.",
+        "C) Sentido de circulação da via.",
+        "D) Aclive acentuado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A placa de Nº R-16 regulamenta :",
+      "ops": [
+        "A) Comprimento limitado.",
+        "B) Altura máxima permitida.",
+        "C) Largura máxima permtida.",
+        "D) Carga máxima permitida."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "As placas que servem para indicar aos usuários da via os locais onde os mesmos podem dispor dos serviços indicados são placas indicativas de serviços:",
+      "ops": [
+        "A) De ajuda.",
+        "B) Auxiliares.",
+        "C) Complementares.",
+        "D) De apoio."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Automatismos incorretos são:",
+      "ops": [
+        "A) Gestos efetuados pelo condutor de forma a evitar um acidente.",
+        "B) Gestos prudentes do condutor na direção veicular.",
+        "C) Gestos conscientes do condutor de forma segura.",
+        "D) Gestos inconscientes do condutor de forma insegura."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "É considerado equipamento de segurança:",
+      "ops": [
+        "A) Alarme.",
+        "B) Cortinas no vidro traseiro.",
+        "C) Encosto de Cabeça .",
+        "D) Direção hidráulica."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Automatismo correto significa:",
+      "ops": [
+        "A) Gesto inconsciente efetuada de forma segura.",
+        "B) Atenção dispersiva.",
+        "C) Indisciplina na condução do veículo.",
+        "D) Atenção fixa."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "A atitude constante do condutor para trafegar com margem de segurança depende de:",
+      "ops": [
+        "A) Atenção dispersiva e sua decisão.",
+        "B) Observar, prever e decidir.",
+        "C) Atenção fixa e ter automatismo.",
+        "D) Técnica e agressividade."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Uma pessoa ao fechar a porta do veículo teve seu dedo arrancado (amputado). Nessa situação, o procedimento correto é:",
+      "ops": [
+        "A) Desprezar o dedo arrancado e socorrer a vitima, imediatamente.",
+        "B) Recolher o dedo e colocá-lo no álcool.",
+        "C) Recolher o dedo e colocá-lo, diretamente no gelo.",
+        "D) Coloc ar o dedo em um saco plástico e coloc -lo no gelo. á o hospital."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Em caso de acidente:",
+      "ops": [
+        "A) É obrigação de todos retirar, imediatamente, o veículo do local.",
+        "B) Não existe obrigação legal em socorrer.",
+        "C) É obrigação de todos prestar ou providenciar auxílio desde , , que não ocorra risco pessoal.",
+        "D) É obrigação de socorrer, apenas, o causador do acidente. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Os elementos causadores da poluição são denominados de:",
+      "ops": [
+        "A) Poluentes.",
+        "B) Catalisadores.",
+        "C) Subprodutos.",
+        "D) Resíduos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "O meio ambiente engloba em seus estudos gerais:",
+      "ops": [
+        "A) O homem, a natureza e os catalisadores.",
+        "B) O homem, a natureza e seus elementos.",
+        "C) O homem, as perspectivas teóricas e as mutações da fauna.",
+        "D) O homem, a natureza e os poluentes. NOÇÕES DE VEÍCULOS DE 2 E 4 RODAS"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "A corrente elétrica do veículo é gerada pelo:",
+      "ops": [
+        "A) Gerador ou alternador.",
+        "B) Condensador.",
+        "C) Bateria.",
+        "D) Motor de arranque."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "Não faz parte do sistema de freio.",
+      "ops": [
+        "A) Cilindro mestre.",
+        "B) Bielas.",
+        "C) Cilindro auxiliar.",
+        "D) Condutores."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "a falta de balanceamento das rodas pode acarretar:",
+      "ops": [
+        "A) Chassis deformados.",
+        "B) Direção dura.",
+        "C) Rangido dos pneus nas curvas.",
+        "D) Trepidações."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+};

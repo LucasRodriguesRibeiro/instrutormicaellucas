@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 24,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Responsabilidade por Infrações — Simulado 24",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Não sendo possível a identificação imediata daquele que praticou uma infração, o responsável pela mesma é o:",
+      "ops": [
+        "A) Condutor do veículo.",
+        "B) Proprietário e condutor.",
+        "C) Transportador.",
+        "D) Proprietário do veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: A categoria ______ habilita o condutor a dirigir veículo com combinação, cuja unidade tratora se enquadra nas categorias B, C ou D e cuja unidade acoplada, reboque, semi-reboque ou articulado, tenha 6.000 quilogramas ou mais de peso bruto total.",
+      "ops": [
+        "A) D",
+        "B) E",
+        "C) B",
+        "D) C"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Poderá ocorrer a suspensão da Licença para Aprendizagem de Direção Veicular (LADV) quando:",
+      "ops": [
+        "A) Estiver sendo acompanhado pelo instrutor e mais dois acompanhantes.",
+        "B) Estiver treinando fora da área pré-estabelecida.",
+        "C) Envolver em acidente de trânsito.",
+        "D) O candidato for encontrado conduzindo desacompanhado do respectivo instrutor."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "São equipamentos obrigatórios do reboque e semi- reboque:",
+      "ops": [
+        "A) Extintor de incêndio.",
+        "B) Protetores das rodas traseiras.",
+        "C) Buzina.",
+        "D) Velocímetro. NORMAS DE CIRCULAÇÃO E CONDUTA"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Ao ser ultrapassado, o condutor deve:",
+      "ops": [
+        "A) Reduzir bastante a velocidade.",
+        "B) Desviar-se para a direita, reduzir ou manter a velocidade.",
+        "C) Não se preocupar, porque a responsabilidade é de quem ultrapassa.",
+        "D) Deslocar-se obrigatoriamente para o acostamento, para que o veículo possa efetuar a ultrapassagem com segurança."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Observe o desenho abaixo e identifique o veículo que tem a prioridade de passagem em cruzamento não sinalizado.",
+      "ops": [
+        "A) Veículo 2.",
+        "B) Veículo 3.",
+        "C) Veículo 4.",
+        "D) Veículo 1."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Realizando uma mudança de faixa, você como condutor dirá que a preferência é:",
+      "ops": [
+        "A) Do seu veículo, porque você está fazendo a mudança de faixa e sinalizou comunicando a sua intenção.",
+        "B) Dos veículos que estão circulando na faixa em que você vai entrar.",
+        "C) Dos veículos que estiverem transportando passageiros.",
+        "D) Dos veículos que vierem da direita."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Com relação às preferências de passagem, é correto afirmar que:",
+      "ops": [
+        "A) Os veículos que transitam por uma via asfaltada têm sempre a preferência sobre aqueles que trafegam numa via não pavimentada.",
+        "B) Nos cruzamentos desprovidos de sinalização disciplinadora específica, terá preferência de passagem o veículo que vier pela direita.",
+        "C) Um veículo trafegando por uma via em aclive terá sempre a preferência de passagem, em relação a outro veículo que transita por uma via plana.",
+        "D) Os veículos destinados ao transporte de escolares gozam de preferência de passagem sobre os veículos de cargas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Quando uma via comportar duas ou mais faixas de trânsito e a da direita for destinada ao uso exclusivo de outro tipo de veículo, os ciclomotores deverão circular pela faixa:",
+      "ops": [
+        "A) Direita.",
+        "B) Adjacente à da direita.",
+        "C) Esquerda.",
+        "D) Adjacente à da esquerda."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Nas vias providas de acostamento, quando não houver locais apropriados para fazer a conversão à esquerda ou a operação de retorno, o condutor deverá:",
+      "ops": [
+        "A) Fazer a conversão sem utilizar o acostamento.",
+        "B) Aguardar no acostamento, à direita para cruzar a pista com segurança.",
+        "C) Fazer a operação de retorno sem utilizar o acostamento.",
+        "D) Nenhuma das respostas está correta."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Quando, por motivo de força maior, um veículo estiver impedido de ser removido da pista de rolamento ou tenha que permanecer no acostamento, o condutor deve, obrigatoriamente:",
+      "ops": [
+        "A) Pedir ajuda aos demais condutores.",
+        "B) Colocar-se de modo a ser visto para socorro.",
+        "C) Levantar a tampa do motor do veículo.",
+        "D) Colocar sinalização, na forma estabelecida pelo CONTRAN, prevenindo os demais condutores."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "O condutor que estiver circulando pela faixa da esquerda, ao perceber que outro que o segue tem o propósito de ultrapassá-lo, deverá:",
+      "ops": [
+        "A) Deslocar-se para a faixa da direita, acelerando a marcha.",
+        "B) Não deixar ultrapassar.",
+        "C) Nenhuma das respostas está correta.",
+        "D) Deslocar-se para a faixa da direita, sem acelerar a marcha."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-3b a dverte :",
+      "ops": [
+        "A) Pista escorregadia.",
+        "B) Curva em “S “ à direita.",
+        "C) Pista sinuosa à esquerda.",
+        "D) Pista sinuosa à direita."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "A placa de forma triangular é característica da",
+      "ops": [
+        "A) Parada obrigatória.",
+        "B) Dê a preferência.",
+        "C) Proibido estacionar.",
+        "D) Sentido proibido."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de nº TNA-0 5 indica:",
+      "ops": [
+        "A) Represa.",
+        "B) Balneário de Estância Hidromineral.",
+        "C) Cachoeira e quedas d água.",
+        "D) Praia."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de nº R-19 assinala que:",
+      "ops": [
+        "A) Há determinação de velocidade que poderá ser superior em até 20 por cento.",
+        "B) Há um limite máximo de velocidade no trecho sinalizado.",
+        "C) Há determinação quanto a altura máxima de carga, no trecho sinalizado.",
+        "D) Há determinação quanto a velocidade, que deverá ser inferior a metade da determinada no trecho sinalizado."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-31 a dverte :",
+      "ops": [
+        "A) Trânsito de tratores ou maquinário agrícola.",
+        "B) Ciclistas.",
+        "C) Obras.",
+        "D) Área com desmoramento."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "Onde houver marca longitudinal representada pela letra ML-01 a ultrapassagem é:",
+      "ops": [
+        "A) Permitida para os dois sentidos.",
+        "B) Proibida para um dos sentidos.",
+        "C) Proibida para os dois sentidos.",
+        "D) Permitida para um dos sentidos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Para evitar uma colisão, deve-se manter uma distância adequada em relação ao veículo que trafega à frente. Em direção defensiva, isto é conhecido como distância de:",
+      "ops": [
+        "A) Reação.",
+        "B) Seguimento.",
+        "C) Parada.",
+        "D) Frenagem ."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "O atrito entre os freios e a roda é responsável pela frenagem:",
+      "ops": [
+        "A) Da motocicleta.",
+        "B) Do conjunto rodas e motocicleta.",
+        "C) Nenhuma das alternativas.",
+        "D) Das rodas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "O atrito entre os pneus e o solo é responsável pela frenagem:",
+      "ops": [
+        "A) Das rodas.",
+        "B) Do veículo.",
+        "C) Da sapata.",
+        "D) Do tambor."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Conduzir o veículo, após a ingestão de bebida alcoólica, resulta em:",
+      "ops": [
+        "A) Limitação da percepção de situação de perigo.",
+        "B) Aumento da capacidade de ação e reação.",
+        "C) Melhora a coordenação motora.",
+        "D) Todas as alternativas estão corretas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Os riscos e os perigos a que estamos sujeitos no trânsito estão relacionados com:",
+      "ops": [
+        "A) Os lotes lindeiros ao longo das vias.",
+        "B) As edificações nas áreas urbanas.",
+        "C) A sinalização das vias.",
+        "D) Os veículos, condutores, as vias de trânsito, o ambiente e o comportamento das pessoas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Indique abaixo uma das técnicas que podem ser adotadas para conter uma hemorragia externa quando não for possível a presença do Resgate:",
+      "ops": [
+        "A) Aplicar torniquete.",
+        "B) Fazer compressão utilizando as mãos diretamente no ferimento.",
+        "C) Fazer compressão no ferimento, utilizando gaze ou pano limpo.",
+        "D) Movimentar a vítima imediatamente."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Em um acidente, a movimentação da vítima inconsciente e mesmo a identificação de uma parada respiratória ou cardíaca exige do socorrista:",
+      "ops": [
+        "A) Fazer respiração boca a boca.",
+        "B) Fazer ressucitação cardiopulmonar.",
+        "C) Treinamento prático e específico.",
+        "D) Movimentar a vítima para que a mesma recupere a consciência."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Não constitui sinal de estado de choque:",
+      "ops": [
+        "A) Pulso lento.",
+        "B) Pele fria e pegajosa.",
+        "C) Suor abundante.",
+        "D) Respiração irregular."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Os elementos causadores da poluição são denominados de:",
+      "ops": [
+        "A) Subprodutos.",
+        "B) Resíduos.",
+        "C) Poluentes.",
+        "D) Catalisadores."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O órgão normativo responsável pela regulamentação dos padrões de qualidade do ar é:",
+      "ops": [
+        "A) O Programa de Controle da Poluição do Ar por Veículos Automotores - PROCONVE.",
+        "B) O Conselho Nacional do Meio Ambiente - CONAMA.",
+        "C) A Secretaria de Estado do Meio Ambiente.",
+        "D) O Ministério da Saúde. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "A força motriz é conduzida até as rodas por meio do sistema de:",
+      "ops": [
+        "A) Suspensão.",
+        "B) Transmissão.",
+        "C) Direção.",
+        "D) Amortecedor."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "O sistema de freios desgasta com o uso do veículo e tem sua eficiência reduzida. Indique as principais razões de perda de eficiência:",
+      "ops": [
+        "A) Nível de fluido baixo ou vazamento.",
+        "B) Discos e pastilhas gastos.",
+        "C) Lonas gastas.",
+        "D) Todas as respostas estão corretas."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+};

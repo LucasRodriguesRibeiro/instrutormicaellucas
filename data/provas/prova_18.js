@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 18,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Permissão para Dirigir — Simulado 18",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "O candidato à “Permissão para Dirigir”, quando for prestar o exame de prática de direção veícular, deverá ter cumprido no Centro de Formação de Condutores, uma carga horária mínima de:",
+      "ops": [
+        "A) 20 horas/aula para categoria A.",
+        "B) 30 horas/aula para categoria B.",
+        "C) 25 horas/aula para categora A.",
+        "D) 10 horas/aula para categoria B ."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "O aprendiz encontrado dirigindo desacompanhado do responsável por sua instrução está sujeito a ter sua licença:",
+      "ops": [
+        "A) Suspensa e só poderá obter nova licença decorridos 6 (seis) meses do ato da suspensão.",
+        "B) Apreendida e só poderá obtê-la novamente após 6 (seis) meses do ato da apreensão.",
+        "C) Suspensa por 3 (três) meses os quais poderá retomar ao aprendizado.",
+        "D) Cassada e só poderá obter nova licença passados 3 (três) meses do ato da cassação."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Todo veículo automotor, elétrico, articulado, reboque ou semirreboque, deve ser registrado perante o órgão executivo de trânsito do Estado ou do Distrito Federal no:",
+      "ops": [
+        "A) Município de domicílio ou residência de seu proprietário.",
+        "B) Município que adquiriu o veículo.",
+        "C) Em qualquer município do Estado.",
+        "D) Em qualquer município do território brasileiro."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "É equipamento obrigatório que oferece ao condutor maior visibilidade ao efetuar manobras:",
+      "ops": [
+        "A) Espelhos retrovisores.",
+        "B) Luzes de posição dianteiras.",
+        "C) Lanternas de posição traseiras de cor vermelha.",
+        "D) Faróis principais dianteiros de cor branca ou amarela. NORMAS DE CIRCULAÇÃO E CONDUTA"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Dirigindo um veículo numa via de trânsito rápido, com duas ou mais faixas de trânsito no mesmo sentido, você poderá:",
+      "ops": [
+        "A) Manter seu veículo na faixa da esquerda em velocidade mais reduzida.",
+        "B) Ultrapassar outro veículo pela esquerda quando as condições forem favoráveis.",
+        "C) Fazer um retorno utilizando os acostamentos.",
+        "D) Entrar na rua lateral à esquerda ou à direita,desde que obedecidas as preferências."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "A velocidade máxima permitida para motocicleta transitar em rodovias de pista dupla, onde não existir transitar em rodovias, onde não existir sinalização",
+      "ops": [
+        "A) 110 Km/h",
+        "B) 80 Km/h",
+        "C) 90 Km/h",
+        "D) 60 Km/h"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Nas interseções e em suas proximidades, onde não existam faixas de travessia, os pedestres devem atravessar a via:",
+      "ops": [
+        "A) Em sentido perpendicular.",
+        "B) Na continuação da calçada.",
+        "C) Em sentido oposto.",
+        "D) Não é permitida a travessia."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Onde não existir sinalização regulamentadora, a velocidade máxima nas vias arteriais será de:",
+      "ops": [
+        "A) 80 km/h.",
+        "B) 70 km/h.",
+        "C) 40 km/h.",
+        "D) 60 km/h."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Observe o desenho abaixo e identifique o veículo que tem a prioridade de passagem em cruzamento não sinalizado:",
+      "ops": [
+        "A) Veículo 1.",
+        "B) Veículo 3.",
+        "C) Veículo 2.",
+        "D) Veículo 4."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "O embarque e desembarque de passageiros de transporte coletivo deverá acontecer:",
+      "ops": [
+        "A) Em qualquer ponto da via, desde que não atrapalhe o trânsito.",
+        "B) Sempre que o passageiro solicitar.",
+        "C) Sempre que solicitado por idosos e deficientes físicos.",
+        "D) Somente nos pontos estabelecidos para esse fim."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Veículo destinado ao transporte de carga com peso bruto total de até 3.500 quilogramas, denomina-se:",
+      "ops": [
+        "A) Caminhão-trator.",
+        "B) Caminhonete.",
+        "C) Camioneta.",
+        "D) Charrete."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Quanto aos conceitos e definições é correto afirmar:",
+      "ops": [
+        "A) Bicicletário- local na via ou fora dela, destinada ao trânsito de bicicletas.",
+        "B) Bordo da pista- margem da pista, podendo ser demarcada por faixas transversais de bordo que delineiam a parte da via destinada ao estacionamento de veículos.",
+        "C) Canteiro central- obstáculo físico que serve como separador de duas pistas de rolamento.",
+        "D) Caminhonete- veículo destinado ao transporte de passageiros e de carga com peso bruto total de até três mil e quinhentos quilogramas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "As placas de sinalização, quanto à sua função, classificam-se em:",
+      "ops": [
+        "A) De regulamentação, advertência e indicação.",
+        "B) De regulamentação, semafórica e indicação.",
+        "C) De regulamentação, semafórica e advertência.",
+        "D) De serviços auxiliares, advertência e faixa de proteção para pedestres."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "Um silvo longo significa:",
+      "ops": [
+        "A) Atenção, siga.",
+        "B) Pare.",
+        "C) Diminua a marcha.",
+        "D) Acenda as lanternas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "Os sinais de trânsito, além de serem inscritos em placas e pintados no leito da via pública, podem ainda ser:",
+      "ops": [
+        "A) Luminosos, sonoros e por gestos.",
+        "B) Luminosos e sonoros.",
+        "C) Luminosos e por gestos.",
+        "D) Sonoros e por gestos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-19 adverte:",
+      "ops": [
+        "A) Depressão.",
+        "B) Saliência ou lombada.",
+        "C) Pista irregular.",
+        "D) Declive acentuado."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "As formas de sinalização viária previstas na",
+      "ops": [
+        "A) Gestos, sons por apito, placas, sinais luminosos, marcas viárias e dispositivos auxiliares.",
+        "B) Luzes de pisca e emergência.",
+        "C) Faixas e cones.",
+        "D) Triângulo de segurança e cones."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-15 a dverte :",
+      "ops": [
+        "A) Parada obrigatória à frente.",
+        "B) Parada obrigatória.",
+        "C) Dê a preferência.",
+        "D) Passagem obrigatória."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Não fazem parte da direção defensiva, os seguintes elementos básicos:",
+      "ops": [
+        "A) Ter conhecimento da legislação vigente e das técnicas prevencionistas.",
+        "B) Estar, sempre, alerta e consciente ao que se passa em torno de nosso veículo.",
+        "C) Possuir alguma prática de direção, o suficiente para movimentar o veículo.",
+        "D) Agir de forma sensata e com rapidez, nas situações críticas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Toda situação de trânsito na via depende:",
+      "ops": [
+        "A) Do comportamento dos elementos nela envolvidos.",
+        "B) Apenas, da atenção dos condutores.",
+        "C) Apenas, da sinalização das vias.",
+        "D) Apenas, da manutenção dos veículos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "A grande maioria dos acidentes de trânsito tem causas associadas a falhas humanas, indique abaixo uma dessas falhas:",
+      "ops": [
+        "A) Direção segura.",
+        "B) Negligência.",
+        "C) Atenção.",
+        "D) Domínio."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "A posição correta do condutor no veículo é:",
+      "ops": [
+        "A) Sentado, com o braço apoiado na porta, para maior firmeza do corpo.",
+        "B) Sentado, com o domínio de todos os comandos do veículo.",
+        "C) Sentado, na posição que possa conversar tranquilamente com o passageiro.",
+        "D) Sentado, de forma que possa atender o celular com toda segurança."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Quando o veículo desgarrar a parte dianteira, saindo para fora da curva, está acontecendo um comportamento de:",
+      "ops": [
+        "A) Sobre esterçamento.",
+        "B) Hidroplanagem.",
+        "C) Aguaplanagem.",
+        "D) Subesterçamento."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Sabe-se que o primeiro trauma é aquele que ocorre no acidente e que o segundo é aquele que ocorre quando não socorremos com cuidado. É incorreto afirmar que:",
+      "ops": [
+        "A) O cinto de segurança e o capacete evitam que o primeiro trauma seja mais grave.",
+        "B) O uso do colar cervical ajuda a evitar o segundo trauma.",
+        "C) Deve-se evitar gesto brusco no atendimento à vítima.",
+        "D) Deve-se, sempre, colocar a vítima sentada."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Para sinalizar o local de acidente de trânsito, podem ser utilizados os seguintes materiais:",
+      "ops": [
+        "A) À noite ou com neblina, usar lanternas, pisca-alerta e faróis.",
+        "B) Todas alternativas estão corretas.",
+        "C) Galhos de árvore, latas, pedaços de madeira.",
+        "D) O triângulo de segurança do seu veículo, e os dos veículos que estiverem no local."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta: Se você presenciar um acidente envolvendo veículo de carga perigosa, deverá:",
+      "ops": [
+        "A) Afastar-se e chamar o resgate imediatamente.",
+        "B) Retirar o motorista ou vítimas do local imediatamente.",
+        "C) Tentar conter o vazamento do produto.",
+        "D) Posicionar-se o mais próximo possível."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "A poluição é causada por:",
+      "ops": [
+        "A) Veículos equipados com catalisadores.",
+        "B) Escapamentos dos automóveis em boas condições de uso:",
+        "C) Elementos que modificam as condições ambientais.",
+        "D) Chaminés das indústrias com filtros."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "Os gases, expedidos pelos veículos automotores, que poluem o ar são:",
+      "ops": [
+        "A) H2O e oxigênio.",
+        "B) H2O e óxidos de nitrogênio.",
+        "C) Oxigênio, fumaça preta e óxidos de enxofre.",
+        "D) Hidrocarbonetos, monóxido de carbono, óxido de nitrogênio. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "Vedam, hermeticamente, as partes do motor:",
+      "ops": [
+        "A) Rolamentos.",
+        "B) Êmbolos.",
+        "C) Juntas .",
+        "D) Mancais."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Fazem parte do sistema de arrefecimento a água, os seguintes componentes:",
+      "ops": [
+        "A) Radiador, bomba d’água e ventilador.",
+        "B) Filtro de água e cárter",
+        "C) Aditivos e distribuidor.",
+        "D) Ignição e injeção eletrônicas."
+      ],
+      "img": null,
+      "ok": 0
+    }
+  ]
+};

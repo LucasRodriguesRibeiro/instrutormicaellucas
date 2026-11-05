@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 16,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Registro e Licenciamento — Simulado 16",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Para transitar na via, todo veículo automotor, elétrico, articulado, reboque ou semirreboque deverá ser licenciado:",
+      "ops": [
+        "A) Semestralmente, pelo órgão executivo rodoviário do Estado.",
+        "B) Semestralmente, pelo órgão executivo de trânsito do Estado.",
+        "C) Anualmente pelo órgão executivo de trânsito do Estado.",
+        "D) Anualmente, pelo órgão municipal de trânsito."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Fazem parte dos equipamentos de segurança obrigatórios no veículo:",
+      "ops": [
+        "A) Cinto de segurança, válvula de expansão e triângulo.",
+        "B) Macaco, triângulo e cinto de segurança.",
+        "C) Triângulo, macaco e jogo de chaves.",
+        "D) Macaco, ar condicionado e pneu reserva."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Na infração “Dirigir veículo falando ao telefone celular” são computados os seguintes pontos.",
+      "ops": [
+        "A) (04) quatro.",
+        "B) (05) cinco.",
+        "C) (07) sete.",
+        "D) (03) três."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "Complete a alternativa que responde a questão: A cada infração são computados números de pontos, sendo: média ____ pontos; grave ___ pontos; leve ____pontos e gravíssima _____pontos.",
+      "ops": [
+        "A) 7; 4; 5; 3 C) 3; 7; 5; 4",
+        "B) 7; 5; 4; 3 D) 4; 5; 3; 7 NORMAS DE CIRCULAÇÃO E CONDUTA",
+        "C) Todas as afirmativas acima estão corretas.",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "A buzina deverá ser acionada:",
+      "ops": [
+        "A) Diante de repartições públicas.",
+        "B) Como aviso de travessia de cruzamento sinalizado.",
+        "C) Diante de cortejos, passeatas e corridas.",
+        "D) Em qualquer situação de emergência mediante breve toque e com sentido de advertência."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Com relação ao movimento efetuado pelo veículo 2 é correto dizer que:",
+      "ops": [
+        "A) É uma ultrapassagem perigosa, porém é permitida se for feita com segurança.",
+        "B) É uma ultrapassagem perfeita, pois o veículo retorna à sua faixa de origem.",
+        "C) É uma ultrapassagem proibida, pois a manobra é efetivada sobre linha contínua.",
+        "D) É uma manobra permitida, desde que a segunda linha à sua esquerda seja pontilhada."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Em um cruzamento, o veículo que se aproximar pela via à sua direita, terá preferência apenas se:",
+      "ops": [
+        "A) Estiver transportando passageiro.",
+        "B) O cruzamento for sinalizado com semáforo ou placa “PARE”.",
+        "C) Estiver transitando em maior velocidade.",
+        "D) O cruzamento não for sinalizado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Numa pista de rolamento com várias faixas de trânsito no mesmo sentido, são destinadas aos veículos de maior velocidade e à ultrapassagem as:",
+      "ops": [
+        "A) Da direita.",
+        "B) Próximas ao acostamento.",
+        "C) Com menor número de veículos circulando.",
+        "D) Da esquerda."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Numa via, onde haja duas ou mais faixas sinalizadas para 80 km/h, os veículos que desenvolverem velocidade menor devem:",
+      "ops": [
+        "A) Aumentar a velocidade.",
+        "B) Transitar na faixa da esquerda.",
+        "C) Transitar na faixa da direita.",
+        "D) Transitar com as luzes de emergência (pisca-alerta) ligados."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Quanto ao uso de luzes em veículo automotor, é correto afirmar que:",
+      "ops": [
+        "A) Nos túneis providos de iluminação pública não poderá manter acesos os faróis do veículo automotor.",
+        "B) Durante a noite, em circulação, se necessário, manterá acesa a luz de placa.",
+        "C) É necessário, que todos os veículos em via pública, mantenham durante o dia, os faróis acesos.",
+        "D) O condutor utilizará o pisca-alerta em imobilizações ou situações de emergência."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "É proibida a circulação dos ciclomotores em:",
+      "ops": [
+        "A) Vias arteriais e sobre as calçadas das vias urbanas.",
+        "B) Vias de trânsito rápido e sobre as calçadas das vias urbanas.",
+        "C) Somente sobre as calçadas das vias urbanas.",
+        "D) Vias locais de pista dupla."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Não se classificam como vias urbanas as:",
+      "ops": [
+        "A) Estradas.",
+        "B) Vias arteriais.",
+        "C) Vias de trânsito rápido.",
+        "D) Vias coletoras."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A placa de nº TNA-0 6 indica:",
+      "ops": [
+        "A) Área de descanso.",
+        "B) Patrimônio natural.",
+        "C) Área de Patrimônio - Preservação.",
+        "D) Ponto de comercialização - Produção de artesanato."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "A ordem do Agente da Autoridade de Trânsito, identificada pelo código GA-01 significa:",
+      "ops": [
+        "A) Ordem de diminuição da velocidade para todos os veículos.",
+        "B) Ordem de seguir para todos os veículos.",
+        "C) Ordem de retorno para os veículos que estão à esquerda.",
+        "D) Ordem de parada obrigatória para todos os veículos."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A mensagem “Respeite a Sinalização” está escrita nas placas:",
+      "ops": [
+        "A) De advertência.",
+        "B) De regulamentação.",
+        "C) Educativas.",
+        "D) De serviços auxiliares."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "O sinal semafórico identificado pelo código SS-01 indica:",
+      "ops": [
+        "A) Controle de fluxo de pedestres.",
+        "B) Controle de fluxo em obras.",
+        "C) Controle de fluxo de veículos.",
+        "D) Controle de fluxo em praças de pedágio."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "Identifique o significado do gesto do condutor expresso no desenho:",
+      "ops": [
+        "A) Dobrar à esquerda.",
+        "B) Diminuir a marcha.",
+        "C) Atenção: siga.",
+        "D) Dobrar à direita."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "De acordo com os sinais sonoros, abaixo relacionados, marque a resposta que corresponda a determinação do agente em parar o veículo:",
+      "ops": [
+        "A) Um silvo breve.",
+        "B) Três silvos breves.",
+        "C) Dois silvos breves.",
+        "D) Um silvo longo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Dirigir sempre com atenção, para poder prever o que fazer com antecedência e tomar as decisões certas para evitar acidente. É conceito de:",
+      "ops": [
+        "A) Direção progressiva.",
+        "B) Direção defensiva.",
+        "C) Direção agressiva.",
+        "D) Direção dispersiva."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Para evitar a aquaplanagem viária devemos:",
+      "ops": [
+        "A) Não conduzir o veículo no período chuvoso.",
+        "B) Movimentar, bruscamente, o volante para a direita e para a esquerda.",
+        "C) Adaptar a velocidade do veículo às condições da pista, chuva e pneus.",
+        "D) Trafegar com o veículo bastante pesado."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "O condutor ao cruzar com outro veículo em movimento, à noite e com o farol desregulado, perde, momentaneamente, a visão. Nessa situação deve:",
+      "ops": [
+        "A) Acionar o farol de luz alta.",
+        "B) Desviar sua visão para uma referência na faixa à direita da pista.",
+        "C) Desligar o farol.",
+        "D) Desviar sua visão para uma referência na faixa à esquerda da pista."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "A probabilidade de desestabilização do veículo em movimento, na via pode ser provocado por:",
+      "ops": [
+        "A) Ventos fortes.",
+        "B) Deslocamento de ar de outros veículos maiores em velocidade, no mesmo sentido de tráfego.",
+        "C) Deslocamento de ar de outros veículos maiores em velocidade, na saída de túneis.",
+        "D) Todas as alternativas estão corretas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Você está conduzindo seu veículo e um pedestre surge inesperadamente, sem aguardar sua vez de atravessar a via. A decisão segura a ser tomada pelo condutor é:",
+      "ops": [
+        "A) Frear o veículo, sinalizando para o condutor que vem atrás, que vai diminuir a marcha do seu veículo, ou parar.",
+        "B) Buzinar, demoradamente, para alertar o pedestre.",
+        "C) Fazer sinais de braço alertando o pedestre.",
+        "D) Piscar os faróis para alertar o pedestre."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Ao examinar uma vítima, você detecta que ela apresenta temperatura elevada. Nessa situação, não se deve:",
+      "ops": [
+        "A) Colocar compressas úmidas nas axilas.",
+        "B) Aquecer com cobertores para diminuir calafrios.",
+        "C) Fazer banhos de imersão à temperatura corporal.",
+        "D) Aplicar compressas frias sobre a testa."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Um pedestre foi atropelado e está caído inconsciente na pista de rolamento. A primeira providência é:",
+      "ops": [
+        "A) Remover, imediatamente, a vítima para a calçada.",
+        "B) Tentar identificar e chamar algum parente da vítima.",
+        "C) Anotar o número da placa do veículo.",
+        "D) Avaliar o cenário procurando por perigos iminentes."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Quando precisamos, por meios próprios, transportar uma vítima que está gritando de dor, a atitude correta é:",
+      "ops": [
+        "A) Imobilizar a vítima antes do transporte.",
+        "B) Deitá-la, rapidamente, no banco de trás do veículo.",
+        "C) Acionar a buzina e dirigir em alta velocidade.",
+        "D) Dirigir em baixa velocidade para não machucar a vítima."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "É incorreto afirmar que:",
+      "ops": [
+        "A) Os termos meio e ambiente são equivalentes.",
+        "B) O meio ambiente engloba, sem dúvida, o homem e a natureza com todos os seus elementos.",
+        "C) O ser humano deve buscar caminhos para que sua produção industrial possa guiar sua conduta.",
+        "D) A natureza é finita e pode ser degradada pela má utilização de seus recursos naturais."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O CONAMA e as agências ambientais do Estado e do Município têm como principais preocupações a:",
+      "ops": [
+        "A) Defesa da saúde e do meio ambiente.",
+        "B) Conservação dos equipamentos de segurança das vias rurais.",
+        "C) Orientação do fluxo de veículos nas vias urbanas.",
+        "D) Fiscalização da produção de veículos. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "O defeito mais comum no carburador caracteriza-se por:",
+      "ops": [
+        "A) Velas queimadas.",
+        "B) Filtro de ar furado.",
+        "C) Tanque de combustível furado.",
+        "D) Entupimento."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "O sistema que tem como finalidade evitar o desgaste das peças do motor chama-se:",
+      "ops": [
+        "A) Sistema de lubrificação.",
+        "B) Sistema de alimentação.",
+        "C) Sistema de distribuição.",
+        "D) Sistema elétrico."
+      ],
+      "img": null,
+      "ok": 0
+    }
+  ]
+};

@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 35,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Sinalização Horizontal — Simulado 35",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "A sinalização pintada ou assentada utilizada para dividir as vias em duas mãos de direção, permitindo ou proibindo a ultrapassagem, é denominada:",
+      "ops": [
+        "A) Marcas longitudinais.",
+        "B) Placas de regulamentação.",
+        "C) Marcas transversais.",
+        "D) Marcas brancas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "A ultrapassagem pela contramão em ponte, viaduto e túneis são:",
+      "ops": [
+        "A) Permitida, quando não houver muita movimentação de veículos.",
+        "B) Permitida, quando houver boa visibilidade.",
+        "C) Proibida.",
+        "D) Proibida a todo condutor de veículo, exceto quando houver"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "A distância que se deve guardar para que um veículo auto- motor possa estacionar antes ou depois da esquina é:",
+      "ops": [
+        "A) A partir de 3 (três) metros.",
+        "B) 05 (cinco) metros do bordo do alinhamento da via transversal.",
+        "C) Menos de 03 (três) metros da via transversal.",
+        "D) Entre 03 (três) e 10 (dez) metros do alinhamento construção da via transversal."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "A buzina deverá ser acionada:",
+      "ops": [
+        "A) Em qualquer situação de emergência mediante breve toque e com sentido de advertência.",
+        "B) Como aviso de travessia de cruzamento sinalizado.",
+        "C) Diante de repartições públicas.",
+        "D) Diante de cortejos, passeatas e corridas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "É proibido a todo condutor de veículo:",
+      "ops": [
+        "A) Obedecer a horários e normas de utilização da via.",
+        "B) Guardar distância de segurança entre o veículo que dirige e o que segue.",
+        "C) Dirigir com calçado inadequado.",
+        "D) Nas rodovias, parar o veículo no acostamento e aguardar a oportunidade para cruzar a pista."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "O uso da buzina para apressar o pedestre é:",
+      "ops": [
+        "A) Proibido apenas à noite.",
+        "B) Permitido.",
+        "C) Proibido.",
+        "D) Permitido entre às 06:00 e 22:00hs."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Dirigir, com apenas uma das mãos, é:",
+      "ops": [
+        "A) Permitido em qualquer situação.",
+        "B) Proibido em qualquer situação.",
+        "C) Permitido quando o condutor já tem experiência.",
+        "D) Permitido quando o condutor fizer sinais regulamentares de braço ou mudanças das marchas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Onde não houver sinalização proibitiva, é permitido 08 – Onde não houver sinalização proibitiva, é permitido esta- estacionar a 05 (cinco) metros do alinhamento da constru cionar a 10 (dez) metros do alinhamento da construção da via ção da via transversal: transversal:",
+      "ops": [
+        "A) Apenas veículo de carga.",
+        "B) Apenas veículo de carga e motocicletas.",
+        "C) Apenas veículo de passageiros.",
+        "D) Qualquer tipo de veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Nas vias com iluminação pública, o uso do farol alto à noite é:",
+      "ops": [
+        "A) Permitido, quando sob chuva forte.",
+        "B) Proibido, pois deve ser usado o farol baixo.",
+        "C) Previsão legal, estabelecida no CTB.",
+        "D) Permitido somente se o farol estiver com defeito."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "É proibido circular nas vias de trânsito rápido:",
+      "ops": [
+        "A) Os veículos de duas ou três rodas, cuja cilindrada não exceda a 50cc (cinqüenta centímetros cúbicos).",
+        "B) Veículos de duas ou três rodas, cuja cilindrada exceda a 50cc (cinqüenta centímetros cúblicos).",
+        "C) Motocicletas acima de 120cc (cento e vinte centímetros cúbicos).",
+        "D) Motocicletas até 120cc (cento e vinte centímetros cúbicos)."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "O condutor poderá ultrapassar outro veículo pela direita quando:",
+      "ops": [
+        "A) O veículo da frente autorizar.",
+        "B) A via for de mão única com retorno ou entrada à direita e o condutor do veículo que estiver à direita indicar, por sinal, que vai entrar para esse lado.",
+        "C) A via for de mão única com entrada à esquerda e o condutor do veículo a ser ultrapassado indicar, por sinal, que vai entrar para da esse lado.",
+        "D) A via for de mão dupla com retorno ou entrada à esquerda e apenas uma faixa de trânsito."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Realizando uma mudança de faixa, você como condutor dirá que a preferência é:",
+      "ops": [
+        "A) Dos veículos que estão circulando na faixa em que você vai entrar.",
+        "B) Dos veículos que estiverem transportando passageiros.",
+        "C) Dos veículos que vierem da direita.",
+        "D) Do seu veículo, porque você está fazendo a mudança de faixa e sinalizou comunicando a sua intenção."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "Observe o desenho abaixo e indique qual veículo tem a preferência de passagem em cruzamento não sinalizado:",
+      "ops": [
+        "A) Veículo 1, porque é uma ambulância.",
+        "B) Veículo 2, porque trafega à direita do veículo 1.",
+        "C) Veículo 1, porque trafega a direita do veículo 2.",
+        "D) Veículo 1, porque goza de livre circulação, parada e estaciona- mento."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "As marcas longitudinais que não permitem a ultrapas- - sagem para os dois veículos estão indicadas na cartela, pelas siglas:",
+      "ops": [
+        "A) ML-01 e ML-03.",
+        "B) ML-04 e ML-08.",
+        "C) ML-02 e ML-04.",
+        "D) ML-01 e ML-05."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-2b adverte:",
+      "ops": [
+        "A) Curva à esquerda.",
+        "B) Vire à esquerda.",
+        "C) Curva acentuada à direita.",
+        "D) Curva à direita."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-13a adverte:",
+      "ops": [
+        "A) Confluência à esquerda.",
+        "B) Confluência à direita.",
+        "C) Via lateral à esquerda.",
+        "D) Entroncamento oblíquo à esquerda."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-14 adverte:",
+      "ops": [
+        "A) Parada obrigatória à frente.",
+        "B) Semáforo à frente.",
+        "C) Cruzamento de vias.",
+        "D) Parada obrigatória."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A placa de Nº R-1 regulamenta:",
+      "ops": [
+        "A) Dê a preferência.",
+        "B) Parada obrigatória à frente.",
+        "C) Semáforo à frente.",
+        "D) Parada obrigatória."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Diante da placa de Nº “ SUA -10” você entende que existe:",
+      "ops": [
+        "A) Um posto de socorro médico, junto ou próximo à via.",
+        "B) Um cemitério próximo à via.",
+        "C) Um local com oficina mecânica.",
+        "D) Um local com sanitários."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta:",
+      "ops": [
+        "A) A técnica de retardar a aceleração do veículo deve ser usada quando estiver ultrapassando outro veículo.",
+        "B) Um acidente misterioso aquele no qual o motorista falhou em aplicar todos os recursos possíveis para evitá-lo.",
+        "C) O hábito saudável de dirigir, defensivamente, exclui o uso do cinto de segurança.",
+        "D) Direção defensiva significa conduzir um veículo evitando mortes, sofrimentos, perda de tempo e dinheiro, independemente do veículo e das advertências climáticas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Quando o veículo desgarrar a parte dianteira, saindo da curva, está acontecendo um comportamento de:",
+      "ops": [
+        "A) Aquaplanagem.",
+        "B) Hidroplanagem.",
+        "C) Sobre esterçamento.",
+        "D) Sub-esterçamento."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "São fundamentais para prevenção de acidentes:",
+      "ops": [
+        "A) Conhecimento, habilidade, interação e decisão.",
+        "B) Interação. Atenção, previsão e decisão.",
+        "C) Previsão, atenção, conhecimento, decisão e habilidade.",
+        "D) Previsão, atenção, segurança e inabilidade."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "A força que tende a jogar o veículo para fora da curva denomina-se:",
+      "ops": [
+        "A) Centrífuga.",
+        "B) Misteriosa.",
+        "C) Centrípeta.",
+        "D) Molecular."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Não constitui procedimento correto com uma vítima em estado de choque:",
+      "ops": [
+        "A) Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
+        "B) Dar bastante líquido a vítima inconsciente que vomitou.",
+        "C) Manter a respiração, se necessário usar respiração de socorro.",
+        "D) Afrouxar suas roupas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Não constitui procedimento correto em caso de ferimento profundo:",
+      "ops": [
+        "A) Manter fechado o ferimento evitando a entrada do ar.",
+        "B) Usar para compressão a própria mão da vítima, se estiver con- sciente.",
+        "C) Colocar sobre o ferimento um chumaço de pano.",
+        "D) Manter um cinto ou faixa bem apertada em torno do tórax. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Cidadania:",
+      "ops": [
+        "A) A qualidade ou estado de cidadão.",
+        "B) O conjunto de elementos naturais e a vida em todas as formas.",
+        "C) O meio ambiente hostil.",
+        "D) O desenvolvimento desequilibrado do cidadão."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "É correto afirmar que:",
+      "ops": [
+        "A) A fuligem não é tóxica.",
+        "B) O monóxido de carbono, resultante da combustão da gasolina nos veículos automotores poluem a atmosfera, principalmente nas regiões urbanas.",
+        "C) Os processos industriais são todos controlados e não po-luem.",
+        "D) Os restos e detritos industriais não desequilibram o meio am- biente. NOÇÕES DE VEÍCULOS DE 2 E 4 RODAS"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O conjunto de peças que serve para ligar e desligar a força motriz da caixa de marcha chama-se:",
+      "ops": [
+        "A) Volante do motor.",
+        "B) Diferencial.",
+        "C) Semi-árvore.",
+        "D) Embreagem."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "O conjunto responsável em fornecer às rodas a força motriz apropriada às condições de locomoção, bem como as reduções, chama-se:",
+      "ops": [
+        "A) Eixo comando de válvula.",
+        "B) Árvore de manivela.",
+        "C) Caixa de câmbio.",
+        "D) Volante do motor."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "O elemento que liga a caixa de câmbio ao diferencial chama-se:",
+      "ops": [
+        "A) Árvore de transmissão.",
+        "B) Semi-árvore.",
+        "C) Embreagem.",
+        "D) Volante do motor."
+      ],
+      "img": null,
+      "ok": 0
+    }
+  ]
+};

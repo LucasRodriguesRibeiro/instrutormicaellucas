@@ -1,0 +1,401 @@
+{
+  "id": 36,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Suspensão de CNH — Simulado 36",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Quando ocorrer a suspensão do direito de dirigir, a Carteira Nacional de Habilitação será devolvida ao:",
+      "ops": [
+        "A) Proprietário do veículo, com o pagamento da multa.",
+        "B) Seu titular imediatamente após cumprida à penalidade e o curso de reciclagem.",
+        "C) Proprietário do veículo, 15 dias após participação no curso de reciclagem.",
+        "D) Seu titular, 30 dias após cumprida a penalidade."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "A penalidade de advertência por escrito poderá ser aplicada pela autoridade, quando entender esta providência como mais educativa, a infração de:",
+      "ops": [
+        "A) Natureza grave.",
+        "B) Natureza gravíssima.",
+        "C) Natureza leve ou média.",
+        "D) Em nenhuma hipótese."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "A penalidade aplicada ao infrator condenado judicialmente por delito de trânsito é a de:",
+      "ops": [
+        "A) Cassação do documento de habilitação.",
+        "B) Recolhimento do Certificado de Licenciamento Anual.",
+        "C) Recolhimento da Carteira Nacional de Habilitação.",
+        "D) Realização de teste de dosagem de alcoolemia."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "Para transitar na via, todo veículo automotor, elétrico, articu- lado, reboque ou semi-reboque deverá ser licenciado:",
+      "ops": [
+        "A) Anualmente, pelo órgão municipal de trânsito.",
+        "B) Semestralmente, pelo órgão executivo de trânsito do Estado.",
+        "C) Semestralmente, pelo órgão executivo rodoviário do Estado.",
+        "D) Anualmente pelo órgão executivo de trânsito do Estado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Automotor, elétrico, de propulsão humana, de tração animal, reboque ou semi-reboque, é classificação dos veículos quanto a:",
+      "ops": [
+        "A) Categoria.",
+        "B) Carga.",
+        "C) Tração.",
+        "D) Espécie."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Bonde, triciclo, bicicleta, reboque ou semi-reboque são veículos, quanto à espécie, classificados como de:",
+      "ops": [
+        "A) Passageiros.",
+        "B) Especial.",
+        "C) Misto.",
+        "D) Tração."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Camioneta e utilitários são veículos, quanto à espécie, classificados como:",
+      "ops": [
+        "A) Passageiros.",
+        "B) Misto.",
+        "C) Carga.",
+        "D) Tração."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Caminhonete e motocicleta são veículos, quanto à espécie, classificados como de:",
+      "ops": [
+        "A) Tração.",
+        "B) Passageiros.",
+        "C) Misto.",
+        "D) Carga."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Veículos destinados à formação de condutores são classifi- cados quanto à categoria em:",
+      "ops": [
+        "A) De aluguel.",
+        "B) Particular.",
+        "C) Aprendizagem.",
+        "D) Oficial."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "É proibido a circulação dos ciclomotores em:",
+      "ops": [
+        "A) Vias de trânsito rápido e sobre as calçadas das vias urbanas.",
+        "B) Vias laterais e sobre as calçadas nas vias urbanas.",
+        "C) Somente sobre as calçadas das vias urbanas.",
+        "D) Vias locais de pista dupla."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que responde a questão: os ciclomo- tores devem ser conduzidos pela direita da pista de rolamento, preferencialmente no _____________ da faixa mais à direita ou no bordo direito da pista sempre que houver _____________ ou faixa própria a eles destinados:",
+      "ops": [
+        "A) Bordo, pista de rolamento.",
+        "B) Centro, acostamento.",
+        "C) Acostamento, circulação.",
+        "D) Trânsito, bordo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Observe no desenho abaixo e responda. O veículo que tem preferência de passagem é:",
+      "ops": [
+        "A) Veículo 1, em relação ao veiculo 2.",
+        "B) Veículo 2, em relação ao veículo 4.",
+        "C) Veículo 4, em relação ao veículo 1.",
+        "D) Veículo 3, em relação ao veículo 2."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "O sinal semafórico, identificado pelo código SS-02 é de uso exclusivo em:",
+      "ops": [
+        "A) Controles de acesso específico, tais como praças de pedágio e balsa.",
+        "B) Controles de faixa reversíveis.",
+        "C) Controles de pedestres e ciclistas.",
+        "D) Controles de fluxos em obras."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-4b adverte:",
+      "ops": [
+        "A) Pista sinuosa à direita.",
+        "B) Curva acentuada à direita.",
+        "C) Curva acentuada em “S” à direita.",
+        "D) Curva acentuada em “S” à esquerda."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa de Nº A-5b a dverte :",
+      "ops": [
+        "A) Curva em “S” à esquerda.",
+        "B) Curva em “S” à direita.",
+        "C) Curva acentuada em “S” à direita.",
+        "D) Curva acentuada em “S” à esquerda."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de Nº “R-31” assinala que:",
+      "ops": [
+        "A) O sentido de circulação para pedestre é pela esquerda.",
+        "B) No local sinalizado, andar pela direita é obrigatório.",
+        "C) É proibido aglomeração de pedestres no sentido indicado.",
+        "D) É proibido trânsito de pedestres no trecho sinalizado."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de Nº “R-6b” assinala que:",
+      "ops": [
+        "A) Estacionamento regulamentado.",
+        "B) Pronto-Socorro.",
+        "C) Proibido estacionar.",
+        "D) Proibido parar e estacionar."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A placa de Nº “TNA-0 ” indica: 6",
+      "ops": [
+        "A) Área de descanso.",
+        "B) Área de patrimônio - Preservação.",
+        "C) Patrimônio natural.",
+        "D) Ponto de comercialização - Produção de artesanato."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "O procedimento correto ao parar o veículo no acostamen- to, em situação de emergência, é:",
+      "ops": [
+        "A) Não é necessário sinalizar.",
+        "B) Ligar o pisca-alerta e sinalizar com o triângulo de segurança.",
+        "C) Apenas, ligar o pisca-alerta.",
+        "D) Acionar o farol."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Ao passar por um trecho da via escorregadio, o procedi- mento correto do condutor é:",
+      "ops": [
+        "A) Todas as opções estão corretas.",
+        "B) Reduzir a velocidade efetuando mudanças abruptas da direção.",
+        "C) Reduzir a velocidade com freadas bruscas.",
+        "D) Reduzir a velocidade, com antecedência, firmar a direção e redobrar atenção."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Ondulações, buracos e elevações na via podem desesta- bilizar o veículo e provocar a perda do controle. Diante desta situação, o procedimento correto do condutor é:",
+      "ops": [
+        "A) Reduzir a velocidade, sinalizando para os demais usuários da via.",
+        "B) Reduzir a velocidade, fazendo movimentos bruscos com a direção.",
+        "C) Acionar, rapidamente, os freios, ao passar sobre buracos na via.",
+        "D) Aumentar a velocidade, desviando o veículo. 26"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Em relação à sinalização é correto dizer que:",
+      "ops": [
+        "A) Não é um sistema de comunicação para ajudar o condutor a dirigir com segurança.",
+        "B) Independe das habilidades do condutor e do estado particular de conservação do veículo.",
+        "C) Não obedece a regras de engenharia.",
+        "D) Não é projeto com base no comportamento humano."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "É procedimento correto ao parar uma motocicleta:",
+      "ops": [
+        "A) Acionar a embreagem antes dos freios.",
+        "B) Colocar o pé direito no chão e mudar o apoio da moto para o pé esquerdo.",
+        "C) Não acionar a embreagem quando a motocicleta estiver quase parada.",
+        "D) Colocar o pé esquerdo no chão e mudar o apoio da moto para o pé direito."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Em caso de acidente com vítima, qualquer cidadão deve:",
+      "ops": [
+        "A) Sinalizar o local e solicitar atendimento especializado às vítimas.",
+        "B) Afastar-se do local imediatamente.",
+        "C) Retirar a vítima de dentro do veículo imediatamente.",
+        "D) Anotar o endereço e telefone da vítima."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "No acidente automobilístico que existir risco de incêndio devi- do à presença de combustível, você deve principalmente:",
+      "ops": [
+        "A) Afastar-se do local e procurar ajuda.",
+        "B) Usar primeiramente, o extintor de incêndio.",
+        "C) Avaliar criteriosamente, antes de iniciar qualquer atendimento às vítimas.",
+        "D) Socorrer as vítimas sem se preocupar. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Dos fenômenos abaixo, o principal causador da corrosão em um veículo é:",
+      "ops": [
+        "A) A geada.",
+        "B) A chuva ácida.",
+        "C) A inversão térmica.",
+        "D) O efeito estufa."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Em relação a emissão de fumaça preta produzida por veículos movidos a óleo diesel é incorreto afirmar que:",
+      "ops": [
+        "A) Provoca lesões do sistema nervoso da pessoa.",
+        "B) Causa irritação nos olhos e lacrimejamento, levando à perda progressiva da visão.",
+        "C) Causa doenças respiratórias por seu alto teor de monóxidos de carbono.",
+        "D) Contém gotículas de óleo que se depositam sobre a pele causando micoses."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "A poluição característica dos veículos movidos a óleo die- sel é a forma de emissão:",
+      "ops": [
+        "A) Monóxido de carbno.",
+        "B) Dióxido de enxofre.",
+        "C) Gás carbônico ou dióxido de carbono.",
+        "D) Ozônio. NOÇÕES DE VEÍCULOS DE 2 E 4 RODAS."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "O bom funcionamento do veículo depende de manutenção e troca de vários componentes, líquidos e lubrificantes. Indique abaixo os ítens que devem ser verificados com maior frequência.",
+      "ops": [
+        "A) Nível de óleo da caixa de câmbio e lonas de freio.",
+        "B) Nível de óleo, de água e calibragem dos pneus.",
+        "C) Filtro de combustível e bomba dágua.",
+        "D) Filtro de ar e velas de ignição."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Um motor em funcionamento gera calor que precisa ser dissipado, para que não haja super aquecimento. Indique abaixo o procedimento correto.",
+      "ops": [
+        "A) Abrir, imediatamente, a tampa do reservatório de água completando-o.",
+        "B) Continuar rodando até que o motor esfrie normalmente.",
+        "C) Completar a água do reservatório, sem desligar o motor.",
+        "D) Desligar o motor, aguarda que o mesmo esfrie para em seguida completar o reservatório de água."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+}

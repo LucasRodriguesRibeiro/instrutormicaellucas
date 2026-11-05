@@ -1,0 +1,409 @@
+{
+  "id": 21,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Legislação e Documentos — Simulado 21",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "A Permissão para Dirigir permite ao condutor o direito de dirigir:",
+      "ops": [
+        "A) Apenas no Estado da Federação que a expediu.",
+        "B) Somente no Município de residência.",
+        "C) Em todo território nacional.",
+        "D) Somente nas rodovias estaduais."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: A autoridade de trânsito competente julgará a regularidade do auto de infração e aplicará a penalidade cabível, devendo notificar o infrator no prazo máximo de _____ dias, sob pena de arquivamento do auto de infração.",
+      "ops": [
+        "A) 15.",
+        "B) 60.",
+        "C) 10.",
+        "D) 30."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Aplicada a penalidade, será expedida ao infrator:",
+      "ops": [
+        "A) Intimação.",
+        "B) Notificação.",
+        "C) Citação.",
+        "D) Extrato de multa."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "É proibido a todo condutor de veículo:",
+      "ops": [
+        "A) Dirigir com calçado inadequado.",
+        "B) Obedecer a horários e normas de utilização da via.",
+        "C) Guardar distância de segurança entre o veículo que dirige e o que segue imediatamente à sua frente.",
+        "D) Nas rodovias, parar o veículo no acostamento e aguardar a opor tunidade para cruzar a pista. NORMAS DE CIRCULAÇÃO E CONDUTA"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Em relação à ultrapassagem podemos dizer:",
+      "ops": [
+        "A) Não se permite a ultrapassagem pela contramão.",
+        "B) A ultrapassagem só pode ser realizada, quando o veículo que segue à frente indicar que vai convergir.",
+        "C) Pode ser feita pela contramão, desde que a manobra não ponha em perigo ou obstrua o trânsito que venha em sentido contrário.",
+        "D) Só se faz ultrapassagem em vias de duplo sentido."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Nos cruzamentos não sinalizados a preferência de passagem será:",
+      "ops": [
+        "A) Determinada pelos portes dos veículos.",
+        "B) Sempre do veículo que vier da direita.",
+        "C) Determinada pelos tipos das vias em que se trafegam.",
+        "D) Determinada pelos portes dos veículos e tipos de vias em que estão trafegando."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Veículo misto destinado ao transporte de passageiros e carga no mesmo compartimento, denomina-se:",
+      "ops": [
+        "A) Caminhão-trator",
+        "B) Ciclomotor",
+        "C) Caminhonete",
+        "D) Camioneta"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta:",
+      "ops": [
+        "A) Todo veículo em movimento deve ocupar a faixa mais à esquerda da pista de rolamento, quando não houver faixa especial a ele destinada.",
+        "B) A ultrapassagem de outro veículo em movimento deve ser feita pela direita.",
+        "C) Todo veículo em movimento deve ocupar a faixa mais à direita da pista de rolamento, quando não houver faixa especial a ele destinada.",
+        "D) Para dobrar à esquerda numa via de mão única, o motorista deve atingir, primeiramente, a zona central de cruzamento."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Dirigindo um veículo em uma via de duplo sentido de",
+      "ops": [
+        "A) Todas as afirmativas acima estão corretas.",
+        "B) Todas as afirmativas acima estão corretas.",
+        "C) Todas as afirmativas acima estão corretas.",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "O condutor estando em uma via urbana com iluminação pública, deve:",
+      "ops": [
+        "A) Manter as luzes do veículo apagadas para facilitar a visão dos outros condutores.",
+        "B) Manter acesas apenas as luzes dos faroletes para facilitar a visão dos outros condutores.",
+        "C) Usar o farol alto no período noturno e, opcionalmente, no diurno.",
+        "D) Usar o farol baixo desde o pôr do sol até o amanhecer."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "O condutor de veículo só poderá fazer uso de buzina, desde que em toque breve, na seguinte situação:",
+      "ops": [
+        "A) Em qualquer situação.",
+        "B) Fora das áreas urbanas, somente quando avistar algum animal na pista.",
+        "C) Ao trafegar perto de hospitais e escolas.",
+        "D) Fora das áreas urbanas, quando for conveniente adver tir a um condutor que se tem o propósito de ultrapassá-lo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que responda a questão: Os ciclomotores devem ser conduzidos pela direita da pista de rolamento, preferencialmente no ______________ da faixa mais à direita ou no bordo direito da pista sempre que não houver ______________ ou faixa própria a eles destinada.",
+      "ops": [
+        "A) Centro, acostamento.",
+        "B) Bordo, pista de rolamento.",
+        "C) Acostamento, circulação.",
+        "D) Trânsito, bordo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-26a adverte:",
+      "ops": [
+        "A) Sentido de circulação da via.",
+        "B) Sentido único.",
+        "C) Siga em frente.",
+        "D) Passagem obrigatória ."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "Diante da placa de nº S VA 13 - você entende que há um:",
+      "ops": [
+        "A) Asilo para idosos nas proximidades.",
+        "B) Local ou ponto de parada de veículos de transporte coletivo ou individual de passageiros.",
+        "C) Aeroporto nas proximidades.",
+        "D) Hotel."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A sinalização de regulamentação tem por finalidade:",
+      "ops": [
+        "A) Informar os usuários das condições, proibições, obrigações ou restrições no uso das vias.",
+        "B) Alertar os usuários da via para condições potencialmente perigosas, indicando sua natureza.",
+        "C) Identificar as vias, os destinos e os locais de interesse, bem como orientar condutores de veículos quanto aos percursos, os destinos, as distâncias e os serviços auxiliares.",
+        "D) Educar o usuário da via.",
+        "A) Siga em frente ou à direita.",
+        "B) Junções sucessivas contrárias primeira à direita.",
+        "C) Confluência à esquerda.",
+        "D) Junções sucessivas contrárias primeira à esquerda."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "Questão 16 da prova oficial de Legislação.",
+      "ops": [
+        "A) Alternativa A",
+        "B) Alternativa B",
+        "C) Alternativa C",
+        "D) Alternativa D"
+      ],
+      "ok": 3,
+      "img": null
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "O procedimento do pedestre diante da sinalização semafórica, identificada pelo código SS-07 é:",
+      "ops": [
+        "A) Atenção.",
+        "B) Não pode atravessar.",
+        "C) Pode seguir.",
+        "D) Pare o veículo. regulamenta:",
+        "A) Proibido mudar de faixa ou pista de trânsito da direita para esquerda.",
+        "B) Proibido mudar de faixa ou pista de trânsito da esquerda para direita.",
+        "C) Mudança obrigatória de faixa ou pista de trânsito da esquerda para direita.",
+        "D) Mudança obrigatória de faixa ou pista de trânsito da direita para esquerda."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "Questão 18 da prova oficial de Legislação.",
+      "ops": [
+        "A) Alternativa A",
+        "B) Alternativa B",
+        "C) Alternativa C",
+        "D) Alternativa D"
+      ],
+      "ok": 1,
+      "img": null
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "A condição insegura refere-se a:",
+      "ops": [
+        "A) Características físicas do condutor.",
+        "B) Características emocionais do condutor.",
+        "C) Características das penalidades.",
+        "D) Condição do meio ambiente."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Não constituem fundamentos da prevenção de acidentes:",
+      "ops": [
+        "A) Habilidade e conhecimento.",
+        "B) Condições da via.",
+        "C) Conhecimento e atenção.",
+        "D) Decisão e habilidade."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Constitui automatismo incorreto:",
+      "ops": [
+        "A) Usar o pedal do freio antes de usar o pedal da embreagem.",
+        "B) Observar a sinalização.",
+        "C) Dirigir o veículo com o pé apoiado no pedal da embreagem.",
+        "D) Engrenar as marchas corretamente."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Ao conduzir sob chuva intensa quando a visibilidade é mais reduzida o condutor além de redobrar a atenção, deve:",
+      "ops": [
+        "A) Acionar o limpador de parabrisa, diminuir a distância do veículo à frente reduzindo a velocidade.",
+        "B) Reduzir a velocidade pisando, bruscamente, no freio para evitar o travamento das rodas.",
+        "C) Acionar a luz baixa do farol, aumentar a distância do veículo da frente e reduzir a velocidade.",
+        "D) Acionar as luzes de posição e o pisca-alerta."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Ao conduzir o veículo sob chuva de granizo, o condutor deve:",
+      "ops": [
+        "A) Aumentar a velocidade para passar rápido pela chuva de granizo.",
+        "B) Estacionar o veículo em qualquer local e aguardar o término da chuva.",
+        "C) Acionar o pisca-aler ta, mantendo o veículo em movimento.",
+        "D) Parar o veículo em local seguro e aguardar o término da chuva."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "A sinalização do local de acidente de trânsito é fundamental e devemos iniciá-la:",
+      "ops": [
+        "A) Mais próximo ao local do acidente.",
+        "B) Para ser visível pelos condutores, depois que eles virem o acidente.",
+        "C) Para ser visível pelas vítimas do acidente.",
+        "D) Para ser visível pelos condutores antes que eles vejam o acidente."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Não constitui procedimento correto do socorrista, logo após o acidente:",
+      "ops": [
+        "A) Afastar o perigo da vítima.",
+        "B) Transporte imediato da vítima para o hospital.",
+        "C) Sinalizar o local do acidente, evitando o envolvimento de outros condutores .",
+        "D) Evitar o perigo para o próprio socorrista."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Em acidente onde haja derramamento de combustível você deverá, para reduzir perigo de incêndio:",
+      "ops": [
+        "A) Apenas, lavar a pista.",
+        "B) Cobrir o combustível com lona plástica.",
+        "C) Cobrir o combustível com terra, areia ou cal.",
+        "D) Espalhar o combustível."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Os veículos que apresentam maior potencial de poluição do ar são aqueles que:",
+      "ops": [
+        "A) Utilizam o sistema elétrico.",
+        "B) São movidos à tração animal.",
+        "C) Utilizam como combustíveis a gasolina e o diesel.",
+        "D) Utilizam gás natural."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O uso do dispositivo de controle de emissão de gases (catalizador) conectado ao escapamento dos veículos tem como objetivo:",
+      "ops": [
+        "A) Economizar combustível.",
+        "B) Aumentar a potência do motor.",
+        "C) Diminuir o ruído do motor.",
+        "D) Diminuir a emissão de gases. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "Nos veículos mais modernos, o carburador vem sendo substituído por:",
+      "ops": [
+        "A) Ignição eletrônica.",
+        "B) Distribuidor e bobina.",
+        "C) Ligação direta.",
+        "D) Injeção eletrônica."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Lubrificação do motor é realizada por:",
+      "ops": [
+        "A) Graxas",
+        "B) Óleo lubrificante",
+        "C) Água",
+        "D) Óleo diesel"
+      ],
+      "img": null,
+      "ok": 1
+    }
+  ]
+}

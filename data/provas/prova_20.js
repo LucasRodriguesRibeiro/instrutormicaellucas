@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 20,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Simulado de Dimensões e Normas — Simulado 20",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "A altura máxima permitida para um veículo de carga é:",
+      "ops": [
+        "A) 4,00m.",
+        "B) 5,20m.",
+        "C) 4,40m.",
+        "D) 3,20m."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "Motorista dirigindo o veículo e manuseando",
+      "ops": [
+        "A) Todas as afirmativas acima estão corretas.",
+        "B) Todas as afirmativas acima estão corretas.",
+        "C) Todas as afirmativas acima estão corretas.",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "Advertência por escrito e frequência obrigatória em curso de reciclagem são consideradas:",
+      "ops": [
+        "A) Medidas administrativas.",
+        "B) Infrações de trânsito.",
+        "C) Penalidades.",
+        "D) Recurso administrativo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "É considerada medida administrativa:",
+      "ops": [
+        "A) Retenção do veículo.",
+        "B) Apreensão do veículo.",
+        "C) Frequência obrigatória em curso de reciclagem.",
+        "D) Suspensão do direito de dirigir. NORMAS DE CIRCULAÇÃO E CONDUTA"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Assinale, quanto às normas de circulação, a alternativa errada:",
+      "ops": [
+        "A) Os veículos precedidos de batedores terão prioridade de passagem.",
+        "B) Os veículos de socorro têm prioridade de passagem, quando identificados por alarme sonoro e iluminação vermelha intermitente.",
+        "C) A circulação far-se-á, exclusivamente, pelo lado direito.",
+        "D) A ultrapassagem deve ser feita pela esquerda."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Os veículos destinados a socorros de incêndio, as ambulâncias e os de polícia:",
+      "ops": [
+        "A) Gozam de livre trânsito e estacionamento em qualquer situação.",
+        "B) Não têm prioridade no trânsito, devendo obedecer as normas de circulação e a legislação de trânsito como qualquer outro tipo de veículo.",
+        "C) Só têm prioridade e trânsito livre quando estiverem protegidos por batedores.",
+        "D) Além de prioridade, gozam de livre trânsito e estacionamento, quando em serviço de urgência e identificados por dispositivos de alarme sonoro e luz vermelha intermitente."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Veículo misto destinado ao transporte de passageiros e carga no mesmo compartimento, denomina-se:",
+      "ops": [
+        "A) Camioneta.",
+        "B) Caminhonete.",
+        "C) Trator misto.",
+        "D) Reboque."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Na rotatória, a preferência é:",
+      "ops": [
+        "A) Do veículo que estiver saindo.",
+        "B) Do veículo que estiver chegando.",
+        "C) Do veículo que estiver à direita.",
+        "D) Do veículo que já estiver circulando."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Quando em via de mão única, dotada de duas ou mais faixas de trânsito, o condutor que estiver à sua frente sinalizar e posicionar o veículo corretamente para convergir à esquerda, você poderá:",
+      "ops": [
+        "A) Ultrapassar pela esquerda.",
+        "B) Utilizar a área de acomodação.",
+        "C) Ultrapassar pela direita.",
+        "D) Diminuir, porque é proibido ultrapassar nos cruzamentos."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Respeitadas as condições operacionais de trânsito e da via, a velocidade mínima permitida para a via não poderá ser:",
+      "ops": [
+        "A) Superior à metade da velocidade máxima estabelecida.",
+        "B) 4ª parte da velocidade máxima estabelecida.",
+        "C) Não existe velocidade mínima determinada.",
+        "D) Inferior à metade da velocidade máxima estabelecida."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "O ciclista desmontado empurrando a bicicleta equipara-se:",
+      "ops": [
+        "A) Aos animais conduzidos em grupos por um guia.",
+        "B) Aos ciclistas montados, em direitos e deveres.",
+        "C) Aos pedestres em direitos e deveres.",
+        "D) Aos condutores de ciclomotores, em direitos e deveres."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "Em uma rodovia dotada de acostamento e marcas tracejadas, para entrar à esquerda, o condutor deve:",
+      "ops": [
+        "A) Atingir o ponto central.",
+        "B) Deslocar seu veículo para a esquerda sem atingir a contramão.",
+        "C) Aguardar no acostamento, à direita, para cruzar a pista com segurança.",
+        "D) Seguir até encontrar um cruzamento."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A placa de nº S VA 0 - 8 indica:",
+      "ops": [
+        "A) Uso obrigatório de corrente.",
+        "B) Abastecimento.",
+        "C) Borracheiro.",
+        "D) Serviço mecânico."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "A sinalização terá a seguinte ordem de prevalência:",
+      "ops": [
+        "A) As indicações do semáforo sobre os demais sinais; as indicações dos sinais sobre as demais normas de trânsito; as ordens do agente de trânsito sobre as normas de circulação e outros sinais.",
+        "B) As ordens do agente de trânsito sobre as normas de circulação e outros sinais; as indicações dos sinais sobre as demais normas de trânsito.",
+        "C) Não existe ordem de prevalência.",
+        "D) As ordens do agente de trânsito sobre as normas de circulação e outros sinais; as indicações do semáforo sobre os demais sinais; as indicações dos sinais sobre as demais normas de trânsito."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "A placa, de nº A-11b adverte sobre :",
+      "ops": [
+        "A) Confluência à esquerda.",
+        "B) Junções sucessivas contrárias primeira à direita.",
+        "C) Junções sucessivas contrárias primeira à esquerda.",
+        "D) Entroncamento oblíquo à direita."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "A placa de nº R-7 regulamenta :",
+      "ops": [
+        "A) Proibido ultrapassar.",
+        "B) Proibido mudar de faixa de trânsito .",
+        "C) Sentido proibido.",
+        "D) Proibido retornar."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A placa de nº A-25 adverte sobre :",
+      "ops": [
+        "A) Sentido duplo.",
+        "B) Duplo sentido de circulação.",
+        "C) Mão dupla adiante.",
+        "D) Pista dupla adiante."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "A ordem do Agente da Autoridade de Trânsito executada em interseções e identificada pelo código GA- 01 significa que os veículos que já se encontram nela:",
+      "ops": [
+        "A) Devem deslocar-se para a direita.",
+        "B) Devem diminuir a velocidade.",
+        "C) Não são obrigados a parar.",
+        "D) São obrigados a parar"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "A atitude constante do condutor para trafegar com margem de segurança depende de:",
+      "ops": [
+        "A) Atenção fixa e ter automatismos.",
+        "B) Técnica e agressividade.",
+        "C) Atenção dispersiva e sua decisão.",
+        "D) Observar, prever e decidir."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "O condutor dirigindo, corretivamente, terá que:",
+      "ops": [
+        "A) Manter distância do veículo à frente.",
+        "B) Frear moderadamente.",
+        "C) Corrigir uma situação de risco não antecipada.",
+        "D) Diminuir, antes de transpor um cruzamento."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "Em relação à sinalização é correto dizer que:",
+      "ops": [
+        "A) Não é um sistema de comunicação para ajudar o condutor a dirigir com segurança.",
+        "B) Não obedece às regras de engenharia.",
+        "C) Não é projetada com base no comportamento humano.",
+        "D) Independe das habilidades do condutor e do estado particular de conservação do veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "Na prática da direção defensiva o condutor deverá ter:",
+      "ops": [
+        "A) Honestidade, habilidade, conhecimento e previsão.",
+        "B) Equilíbrio, segurança, experiência e previsão.",
+        "C) Habilidade, conhecimento, decisão e equilíbrio.",
+        "D) Conhecimento, observação, previsão e decisão."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Não constitui fundamento da prevenção de acidentes:",
+      "ops": [
+        "A) Atenção.",
+        "B) Habilidade.",
+        "C) Percurso.",
+        "D) Previsão."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Assumir a situação de emergência, proteger, examinar e tranquilizar o acidentado, são entre outras, ações do:",
+      "ops": [
+        "A) Socorrista.",
+        "B) Pedestre.",
+        "C) Parente do acidentado.",
+        "D) Ciclista."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "As primeiras providências a serem tomadas pelo socorrista no local do acidente são:",
+      "ops": [
+        "A) Sinalizar o local, pedir socorro, verificar a situação da(s) vítima(s).",
+        "B) Imediatamente, retirar a(s) vítima(s) do interior do veículo.",
+        "C) Arrastar a(s) vítima(s) pelos braços e ou pernas.",
+        "D) Transportar, imediatamente, a(s) vítima(s) para um hospital mais próximo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Não constitui procedimento correto em caso de ferimento profundo:",
+      "ops": [
+        "A) Colocar sobre o ferimento um chumaço de pano.",
+        "B) Usar para compressão a própria mão da vítima, se estiver consciente.",
+        "C) Manter um cinto ou faixa bem aper tada em torno do tórax.",
+        "D) Manter fechado o ferimento evitando a entrada do ar."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "O que não provoca danos ao ser humano, quando lançado no meio ambiente, é:",
+      "ops": [
+        "A) Oxigênio.",
+        "B) Poeira.",
+        "C) Fumaça.",
+        "D) Corrosivo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "Os poluentes do ar especificados pelo Código de Trânsito Brasileiro são:",
+      "ops": [
+        "A) Poeira.",
+        "B) Vapores.",
+        "C) Aerossóis.",
+        "D) Gases. NOÇÕES DE MECÂNICA"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "As peças que compõem o motor necessitam de lubrificação para:",
+      "ops": [
+        "A) O veículo funcionar facilmente de manhã.",
+        "B) Reduzir seu desgaste e aquecimento.",
+        "C) Engatar melhor as marchas.",
+        "D) Aumentar a sua potência."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "A mistura AR + COMBUSTÍVEL é feita pelo:",
+      "ops": [
+        "A) Distribuidor.",
+        "B) Condensador.",
+        "C) Carburador.",
+        "D) Bomba de combustível."
+      ],
+      "img": null,
+      "ok": 2
+    }
+  ]
+};
