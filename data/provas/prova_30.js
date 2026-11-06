@@ -36,7 +36,7 @@ window.PROVA_ATUAL = {
     {
       "n": 3,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-20a a dverte :",
+      "txt": "A placa de nº A-20a a dverte:",
       "ops": [
         "A) Declive acentuado.",
         "B) Depressão.",
@@ -387,7 +387,7 @@ window.PROVA_ATUAL = {
     {
       "n": 30,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-23, a verte :",
+      "txt": "A placa de nº A-23, a verte:",
       "ops": [
         "A) Pista irregular.",
         "B) Passagem de nível com barreira.",

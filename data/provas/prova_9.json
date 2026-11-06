@@ -322,12 +322,12 @@
     {
       "n": 25,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: Nas rodovias de pista dupla, onde não existir sinalização rodovias, onde não existir sinalização regulamentadora, regulamentadora, a velocidade máxima será de: a velocidade máxima será de: __________ para ônibus __________ para automóveis, camionetas e e micro-ônibus; __________ para automóveis, motocicletas e ___________ para os demais veículos. camionetas e motocicletas e ___________ para os demais veículos.",
+      "txt": "Assinale a alternativa que completa a questão: Nas rodovias de pista dupla, onde não existir sinalização regulamentadora, a velocidade máxima será de: __________ para automóveis, camionetas e motocicletas; __________ para ônibus e micro-ônibus; e ___________ para os demais veículos.",
       "ops": [
-        "A) 110 Km/h, 90 Km/h; 80 Km/h. A) 110 Km/h, 90 Km/h",
-        "B) 80 Km/h; 60 Km/h; 110 Km/h. B) 80 Km/h; 110 Km/h.",
-        "C) 110 Km/h; 80 Km/h; 60 Km/h. C) 110 Km/h;60 Km/h.",
-        "D) 90 Km/h; 110 Km/h; 80 Km/h. D) 90 Km/h; 110 Km/h"
+        "A) 110 km/h; 90 km/h; 80 km/h.",
+        "B) 80 km/h; 60 km/h; 110 km/h.",
+        "C) 110 km/h; 80 km/h; 60 km/h.",
+        "D) 90 km/h; 110 km/h; 80 km/h."
       ],
       "img": null,
       "ok": 0

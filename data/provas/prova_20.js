@@ -54,7 +54,7 @@ window.PROVA_ATUAL = {
         "A) Retenção do veículo.",
         "B) Apreensão do veículo.",
         "C) Frequência obrigatória em curso de reciclagem.",
-        "D) Suspensão do direito de dirigir. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Suspensão do direito de dirigir."
       ],
       "img": null,
       "ok": 0
@@ -192,7 +192,7 @@ window.PROVA_ATUAL = {
     {
       "n": 15,
       "mat": "Legislação",
-      "txt": "A placa, de nº A-11b adverte sobre :",
+      "txt": "A placa, de nº A-11b adverte sobre:",
       "ops": [
         "A) Confluência à esquerda.",
         "B) Junções sucessivas contrárias primeira à direita.",
@@ -205,10 +205,10 @@ window.PROVA_ATUAL = {
     {
       "n": 16,
       "mat": "Legislação",
-      "txt": "A placa de nº R-7 regulamenta :",
+      "txt": "A placa de nº R-7 regulamenta:",
       "ops": [
         "A) Proibido ultrapassar.",
-        "B) Proibido mudar de faixa de trânsito .",
+        "B) Proibido mudar de faixa de trânsito.",
         "C) Sentido proibido.",
         "D) Proibido retornar."
       ],
@@ -218,7 +218,7 @@ window.PROVA_ATUAL = {
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A placa de nº A-25 adverte sobre :",
+      "txt": "A placa de nº A-25 adverte sobre:",
       "ops": [
         "A) Sentido duplo.",
         "B) Duplo sentido de circulação.",
@@ -366,7 +366,7 @@ window.PROVA_ATUAL = {
         "A) Poeira.",
         "B) Vapores.",
         "C) Aerossóis.",
-        "D) Gases. NOÇÕES DE MECÂNICA"
+        "D) Gases."
       ],
       "img": null,
       "ok": 3

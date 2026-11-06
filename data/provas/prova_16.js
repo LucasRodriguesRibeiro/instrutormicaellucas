@@ -366,7 +366,7 @@ window.PROVA_ATUAL = {
         "A) Defesa da saúde e do meio ambiente.",
         "B) Conservação dos equipamentos de segurança das vias rurais.",
         "C) Orientação do fluxo de veículos nas vias urbanas.",
-        "D) Fiscalização da produção de veículos. NOÇÕES DE MECÂNICA"
+        "D) Fiscalização da produção de veículos."
       ],
       "img": null,
       "ok": 0

@@ -132,7 +132,7 @@
         "A) Faróis.",
         "B) Buzina.",
         "C) Limpador de parabrisa traseiro.",
-        "D) Velocímetro ."
+        "D) Velocímetro."
       ],
       "img": null,
       "ok": 2
@@ -158,7 +158,7 @@
         "A) O veículo 1 tem a preferência sobre o veículo 2, mas não tem preferência sobre o veículo 4.",
         "B) O veículo 3 tem a preferência sobre os demais veículos porque é de maior porte.",
         "C) O veículo 4 tem a preferência sobre o veículo 3, mas não tem a preferência sobre o veículo 1.",
-        "D) Não se pode falar de preferência em cruzamento sem"
+        "D) Não se pode falar de preferência em cruzamento sem sinalização."
       ],
       "img": null,
       "ok": 2
@@ -210,7 +210,7 @@
         "A) Estacionar junto à linha central.",
         "B) Ultrapassar outro veículo pela direita, quando as condições forem favoráveis.",
         "C) Ultrapassar outro veículo pela esquerda, quando as condições forem favoráveis.",
-        "D) Transitar cont nuamente i pela faixa da esquerda ."
+        "D) Transitar cont nuamente i pela faixa da esquerda."
       ],
       "img": null,
       "ok": 2
@@ -389,7 +389,7 @@
       "mat": "Legislação",
       "txt": "O candidato poderá habilitar-se na:",
       "ops": [
-        "A) Categoria “C”após 01 ano de aprovação do exame de legislação.",
+        "A) Categoria “C” após 01 ano de aprovação do exame de legislação.",
         "B) Categoria “ B” a partir dos 18 anos de idade, se preenchido os requisitos legais.",
         "C) Categoria “A” com idade mínima de 16 anos de idade, se preenchido os requisitos legais.",
         "D) Categoria “E” após 01 ano de habilitação na categoria “B”."

@@ -196,7 +196,7 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) IBAMA.",
         "B) CONAMA.",
-        "C) FEAM .",
+        "C) FEAM.",
         "D) CIRETRAN."
       ],
       "img": null,
@@ -257,7 +257,7 @@ window.PROVA_ATUAL = {
     {
       "n": 20,
       "mat": "Meio Ambiente",
-      "txt": "Quando o acidente envolve cargas perigosas e liberação de produtos químicos no meio ambiente, deve- se, primeiramente:",
+      "txt": "Quando o acidente envolve cargas perigosas e liberação de produtos químicos no meio ambiente, deve-se, primeiramente:",
       "ops": [
         "A) Isolar rapidamente o local, avaliar o perigo para si mesmo e depois tentar o socorro.",
         "B) Acionar um caminhão pipa para jogar água, limpar e liberar rapidamente a rodovia.",

@@ -49,12 +49,12 @@
     {
       "n": 4,
       "mat": "Legislação",
-      "txt": "São equipamentos obrigatórios do reboque e semi- reboque:",
+      "txt": "São equipamentos obrigatórios do reboque e semirreboque:",
       "ops": [
         "A) Extintor de incêndio.",
         "B) Protetores das rodas traseiras.",
         "C) Buzina.",
-        "D) Velocímetro. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Velocímetro."
       ],
       "img": null,
       "ok": 1
@@ -166,7 +166,7 @@
     {
       "n": 13,
       "mat": "Legislação",
-      "txt": "A placa de nº A-3b a dverte :",
+      "txt": "A placa de nº A-3b a dverte:",
       "ops": [
         "A) Pista escorregadia.",
         "B) Curva em “S “ à direita.",
@@ -179,7 +179,7 @@
     {
       "n": 14,
       "mat": "Legislação",
-      "txt": "A placa de forma triangular é característica da",
+      "txt": "A placa de forma triangular é característica da sinalização de:",
       "ops": [
         "A) Parada obrigatória.",
         "B) Dê a preferência.",
@@ -218,7 +218,7 @@
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A placa de nº A-31 a dverte :",
+      "txt": "A placa de nº A-31 a dverte:",
       "ops": [
         "A) Trânsito de tratores ou maquinário agrícola.",
         "B) Ciclistas.",
@@ -249,7 +249,7 @@
         "A) Reação.",
         "B) Seguimento.",
         "C) Parada.",
-        "D) Frenagem ."
+        "D) Frenagem."
       ],
       "img": null,
       "ok": 1
@@ -325,7 +325,7 @@
       "txt": "Em um acidente, a movimentação da vítima inconsciente e mesmo a identificação de uma parada respiratória ou cardíaca exige do socorrista:",
       "ops": [
         "A) Fazer respiração boca a boca.",
-        "B) Fazer ressucitação cardiopulmonar.",
+        "B) Fazer ressuscitação cardiopulmonar.",
         "C) Treinamento prático e específico.",
         "D) Movimentar a vítima para que a mesma recupere a consciência."
       ],
@@ -366,7 +366,7 @@
         "A) O Programa de Controle da Poluição do Ar por Veículos Automotores - PROCONVE.",
         "B) O Conselho Nacional do Meio Ambiente - CONAMA.",
         "C) A Secretaria de Estado do Meio Ambiente.",
-        "D) O Ministério da Saúde. NOÇÕES DE MECÂNICA"
+        "D) O Ministério da Saúde."
       ],
       "img": null,
       "ok": 1

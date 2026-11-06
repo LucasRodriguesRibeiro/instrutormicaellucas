@@ -132,7 +132,7 @@ window.PROVA_ATUAL = {
         "A) 20 horas/aula para categoria A.",
         "B) 30 horas/aula para categoria B.",
         "C) 25 horas/aula para categoria A.",
-        "D) 10 horas/aula para categoria B ."
+        "D) 10 horas/aula para categoria B."
       ],
       "img": null,
       "ok": 0
@@ -142,7 +142,7 @@ window.PROVA_ATUAL = {
       "mat": "Legislação",
       "txt": "Em uma via rural não pavimentada, desprovida de registrado por instrumento eletrônico (radar) um condutor dirigindo seu veículo à velocidade de 100km/h. Esse condutor cometeu infração de natureza:",
       "ops": [
-        "A) Gravíssima . (três vezes)",
+        "A) Gravíssima. (três vezes)",
         "B) Média",
         "C) Leve.",
         "D) Grave."
@@ -283,7 +283,7 @@ window.PROVA_ATUAL = {
     {
       "n": 22,
       "mat": "Legislação",
-      "txt": "As formas de sinalização viária previstas na",
+      "txt": "As formas de sinalização viária previstas na legislação de trânsito são:",
       "ops": [
         "A) Faixas e cones.",
         "B) Luzes de pisca e emergência.",

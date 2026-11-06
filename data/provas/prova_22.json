@@ -49,12 +49,12 @@
     {
       "n": 4,
       "mat": "Legislação",
-      "txt": "Conduzir motocicleta, motoneta ou ciclomotor fazendo malabarismo ou equilibrando-se apenas em uma roda é infração_______ e terá como penalidade _________________.",
+      "txt": "Conduzir motocicleta, motoneta ou ciclomotor fazendo malabarismo ou equilibrando-se apenas em uma roda é infração _______ e terá como penalidade _________________.",
       "ops": [
         "A) Grave, multa (três vezes) e suspensão do direito de dirigir.",
         "B) Gravíssima, multa e suspensão do direito de dirigir.",
         "C) Gravíssima, multa (cinco vezes) e apreensão do veículo.",
-        "D) Média, multa. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Média, multa."
       ],
       "img": null,
       "ok": 1
@@ -132,7 +132,7 @@
         "A) Pela esquerda da via, junto ao meio-fio, em sentido contrário aos demais veículos.",
         "B) Pela direita da via, junto ao meio-fio, em sentido contrário aos demais veículos.",
         "C) Pelo centro da pista de rolamento.",
-        "D) Pela direita da via, junto ao meio- fio, no mesmo sentido dos veículos."
+        "D) Pela direita da via, junto ao meio-fio, no mesmo sentido dos veículos."
       ],
       "img": null,
       "ok": 3
@@ -231,7 +231,7 @@
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "A placa de nº A-27 a dverte :",
+      "txt": "A placa de nº A-27 a dverte:",
       "ops": [
         "A) Projeção de cascalho.",
         "B) Área com desmoronamento.",
@@ -366,7 +366,7 @@
         "A) Massa de poluentes que pode trazer consequências terríveis à saúde.",
         "B) Mistura perigosa de gases e resíduos (poeiras e outras pequenas partículas).",
         "C) Irresponsabilidade em relação às máquinas.",
-        "D) Falta de manutenção veicular. NOÇÕES DE MECÂNICA"
+        "D) Falta de manutenção veicular."
       ],
       "img": null,
       "ok": 1

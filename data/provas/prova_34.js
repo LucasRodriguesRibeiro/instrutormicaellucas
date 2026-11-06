@@ -52,7 +52,7 @@ window.PROVA_ATUAL = {
       "txt": "A sinalização de trânsito é feita nas vias públicas através de:",
       "ops": [
         "A) Placas, marcos, gestos e marcas.",
-        "B) Placas, marcações, dispositivos auxiliares, indicações lumino- sas, gestos e sinais sonoros.",
+        "B) Placas, marcações, dispositivos auxiliares, indicações luminosas, gestos e sinais sonoros.",
         "C) Placas, advertência, indicações luminosas.",
         "D) Placas, manobras, indicações luminosas, gestos e sinais sonoros."
       ],
@@ -62,11 +62,11 @@ window.PROVA_ATUAL = {
     {
       "n": 5,
       "mat": "Legislação",
-      "txt": "Quando o condutor utilizar o veículo de carga como trans- 05 – Quando o condutor utilizar o veículo de carga como porte de passageiro, sem autorização especial fornecida pela transporte de passageiro, sem autorização especial forneci autoridade de trânsito, será aplicada a penalidade: da pela autoridade de trânsito, serão aplicadas as punições:",
+      "txt": "Quando o condutor utilizar o veículo de carga como transporte de passageiro, sem autorização especial fornecida pela autoridade de trânsito, serão aplicadas as punições:",
       "ops": [
         "A) Cassação da Carteira Nacional de Habilitação.",
         "B) Multa.",
-        "C) Multa e remoção do veículo. c) Multa e apreensão do veículo.",
+        "C) Multa e remoção do veículo.",
         "D) Multa e retenção do veículo."
       ],
       "img": null,
@@ -101,7 +101,7 @@ window.PROVA_ATUAL = {
     {
       "n": 8,
       "mat": "Legislação",
-      "txt": "Fornecer aos condutores informações úteis ao seu deslo- camento é a finalidade da sinalização:",
+      "txt": "Fornecer aos condutores informações úteis ao seu deslocamento é a finalidade da sinalização:",
       "ops": [
         "A) Indicação.",
         "B) Regulamentação.",
@@ -218,7 +218,7 @@ window.PROVA_ATUAL = {
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A placa de Nº A-2a a dverte :",
+      "txt": "A placa de Nº A-2a a dverte:",
       "ops": [
         "A) Curva acentuada à esquerda.",
         "B) Curva a direita.",
@@ -301,7 +301,7 @@ window.PROVA_ATUAL = {
         "A) Fazer valer seu direito.",
         "B) Acelerar, para passar rapidamente pelo perigo.",
         "C) Parar o veículo.",
-        "D) Demonstrar prudência especial, transitando em velocidade moderada. NOÇÕES DE PRIMEIROS SOCORROS"
+        "D) Demonstrar prudência especial, transitando em velocidade moderada."
       ],
       "img": null,
       "ok": 3
@@ -327,7 +327,7 @@ window.PROVA_ATUAL = {
         "A) Respiração irregular.",
         "B) Pele fria e pegajosa.",
         "C) Pulso lento.",
-        "D) Suor abundante. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+        "D) Suor abundante."
       ],
       "img": null,
       "ok": 2
@@ -353,7 +353,7 @@ window.PROVA_ATUAL = {
         "A) Sanções penais.",
         "B) Suspensão da Carteira Nacional de Habilitação.",
         "C) Sanções penais derivadas da conduta.",
-        "D) Sanções penais e administrativas. NOÇÕES DE VEÍCULOS DE 2 E 4 RODAS"
+        "D) Sanções penais e administrativas."
       ],
       "img": null,
       "ok": 1

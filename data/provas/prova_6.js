@@ -67,7 +67,7 @@ window.PROVA_ATUAL = {
         "A) Multa e advertência pelo Diretor Geral do DETRAN.",
         "B) Multa e cassação da Carteira Nacional de Habilitação.",
         "C) Multa e prisão.",
-        "D) Multa grave x2 e retenção do veículo até a apresentação D) Multa, apreensão do veículo e recolhimento do de condutor habilitado. documento de habilitação."
+        "D) Multa gravíssima (x2) e retenção do veículo até a apresentação de condutor habilitado."
       ],
       "img": null,
       "ok": 3
@@ -101,7 +101,7 @@ window.PROVA_ATUAL = {
     {
       "n": 8,
       "mat": "Legislação",
-      "txt": "A multa reparatória, determinada pelo Código de Trânsito Brasileiro destina-se a: ,",
+      "txt": "A multa reparatória, determinada pelo Código de Trânsito Brasileiro destina-se a:,",
       "ops": [
         "A) Reparar ou indenizar prejuízo material que tenha resultado de crime.",
         "B) Indenizar qualquer prejuízo material.",
@@ -145,7 +145,7 @@ window.PROVA_ATUAL = {
         "A) 40%.",
         "B) 80%.",
         "C) 20%.",
-        "D) 30% ."
+        "D) 30%."
       ],
       "img": null,
       "ok": 3
@@ -192,12 +192,12 @@ window.PROVA_ATUAL = {
     {
       "n": 15,
       "mat": "Legislação",
-      "txt": "Deixar o condutor ou passageiro de usar o cinto de 15) Deixar o condutor ou passageiro de usar o cinto de segurança é infração ________, gerando a penalidade segurança é infração ________, gerando a penalidade de __________. de __________.",
+      "txt": "Deixar o condutor ou passageiro de usar o cinto de segurança é infração ________, gerando a penalidade de __________.",
       "ops": [
-        "A) Grave; multa. A) Grave; multa.",
-        "B) Gravíssima; multa (três vezes). B) Gravíssima; multa (três vezes).",
-        "C) Gravíssima; multa ( cinco vezes). C) Gravíssima; multa ( cinco vezes).",
-        "D) Gravíssima; multa. D) Gravíssima; multa."
+        "A) Grave; multa.",
+        "B) Gravíssima; multa (três vezes).",
+        "C) Gravíssima; multa (cinco vezes).",
+        "D) Gravíssima; multa."
       ],
       "img": null,
       "ok": 0
@@ -205,12 +205,12 @@ window.PROVA_ATUAL = {
     {
       "n": 16,
       "mat": "Legislação",
-      "txt": "Dirigir com falta de atenção e os cuidados 16) Dirigir com falta de atenção e os cuidados indispensáveis à segurança do trânsito é infração indispensáveis à segurança do trânsito é infração punível com: punível com:",
+      "txt": "Dirigir com falta de atenção e sem os cuidados indispensáveis à segurança do trânsito é infração punível com:",
       "ops": [
-        "A) Multa e apreensão da Carteira Nacional de Habilitação. A) Multa e apreensão da Carteira Nacional de Habilitação.",
-        "B) Multa. B) Multa.",
-        "C) Advertência por escrito. C) Advertência por escrito.",
-        "D) Multa e apreensão do veículo. D) Multa e apreensão do veículo. retenção"
+        "A) Multa e apreensão da Carteira Nacional de Habilitação.",
+        "B) Multa.",
+        "C) Advertência por escrito.",
+        "D) Multa e retenção do veículo."
       ],
       "img": null,
       "ok": 1
@@ -218,12 +218,12 @@ window.PROVA_ATUAL = {
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A retenção do veículo dar-se-á quando: 17) A retenção do veículo dar-se-á quando:",
+      "txt": "A retenção do veículo dar-se-á quando:",
       "ops": [
-        "A) Não estiver devidamente licenciado ou registrado. A) Não estiver devidamente licenciado ou registrado.",
-        "B) Dirigir sem B) Dirigir atenção sem atenção ou sem ou os sem cuidados os cuidados indispensáveis indispensáveis à segurança. à segurança.",
-        "C) Transportar carga, arrastando-a. C) Transportar carga, arrastando-a.",
-        "D) Tiver falsificado os selos da placa. D) Tiver falsificado os selos da placa."
+        "A) Não estiver devidamente licenciado ou registrado.",
+        "B) Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
+        "C) Transportar carga, arrastando-a.",
+        "D) Tiver falsificado os selos da placa."
       ],
       "img": null,
       "ok": 2
@@ -231,12 +231,12 @@ window.PROVA_ATUAL = {
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "Usar o veículo para arremessar, sobre os pedestres ou 18) Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos, ou atirar do veículo ou abandonar veículos, água ou detritos, ou atirar do veículo ou abandonar na via objetos ou substâncias, constitui infração: na via objetos ou substâncias, constitui infração:",
+      "txt": "Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos, ou atirar do veículo ou abandonar na via objetos ou substâncias, constitui infração:",
       "ops": [
-        "A) Média A) Média",
-        "B) Leve B) Leve",
-        "C) Grave C) Grave",
-        "D) Gravíssima D) Gravíssima"
+        "A) Média.",
+        "B) Leve.",
+        "C) Grave.",
+        "D) Gravíssima."
       ],
       "img": null,
       "ok": 0
@@ -244,12 +244,12 @@ window.PROVA_ATUAL = {
     {
       "n": 19,
       "mat": "Legislação",
-      "txt": "Disputar corrida por 19) Disputar corrida é infr ação gravíssima, gerando como penalidade: gravíssima, gerando como penalidade:",
+      "txt": "Disputar corrida é infração gravíssima, gerando como penalidade:",
       "ops": [
-        "A) Multa; cassação do documento de habilitação. A) Multa; cassação do documento de habilitação.",
-        "B) Multa (cinco vezes); recolhimento do documento de B) Multa Gravíssima (cinco vezes); recolhimento do B) Multa (cinco vezes); recolhimento do documento de habilitação e remoção do veículo. habilitação e remoção do veículo. documento de habilitação e remoção do veículo.",
-        "C) Multa (três vesão do direito de dirigir e C) Multa Gravíssima (10 vezes) e suspensão do C) Multa ( dez vezes) suspensão do direito de dirig r e i apreensão do veículo. apreensão do veículo. direito de dirigir e apreensão do veículo.",
-        "D) Multa (cinco vezes), retenção do veículo. D) Multa Grave (cinco vezes), retenção do veículo. D) Multa (cinco vezes), retenção do veículo."
+        "A) Multa e cassação do documento de habilitação.",
+        "B) Multa gravíssima (cinco vezes), recolhimento do documento de habilitação e remoção do veículo.",
+        "C) Multa gravíssima (dez vezes), suspensão do direito de dirigir e apreensão do veículo.",
+        "D) Multa grave (cinco vezes) e retenção do veículo."
       ],
       "img": null,
       "ok": 2
@@ -257,12 +257,12 @@ window.PROVA_ATUAL = {
     {
       "n": 20,
       "mat": "Legislação",
-      "txt": "Usar a buzina nas áreas urbanas, no período entre às 22 20) Usar a buzina nas áreas urbanas, no período entre às 22 (vinte e duas) e 06 (seis) horas, é infração punível com: (vinte e duas) e 06 (seis) horas, é infração punível com:",
+      "txt": "Usar a buzina nas áreas urbanas, no período entre as 22 (vinte e duas) e 06 (seis) horas, é infração punível com:",
       "ops": [
-        "A) . Multa e apreensão do veículo. A). Multa e apreensão do veículo. Multa grave e remoção do veículo.",
-        "B) Multa e retenção do veículo. B) Multa e retenção do veículo.",
-        "C) Multa e remoção do veículo. C) Multa e remoção do veículo.",
-        "D) Multa D) Multa"
+        "A) Multa grave e remoção do veículo.",
+        "B) Multa e retenção do veículo.",
+        "C) Multa e remoção do veículo.",
+        "D) Multa."
       ],
       "img": null,
       "ok": 3
@@ -270,12 +270,12 @@ window.PROVA_ATUAL = {
     {
       "n": 21,
       "mat": "Legislação",
-      "txt": "A remoção do veículo, como medida administrativa, 21) A remoção do veículo, como medida administrativa, é aplicada quando o condutor: é aplicada quando o condutor:",
+      "txt": "A remoção do veículo, como medida administrativa, é aplicada quando o condutor:",
       "ops": [
-        "A) Tiver seu veículo imobilizado na via por falta de combustível. A) Tiver seu veículo imobilizado na via por falta de combustível.",
-        "B) Estacionar na contramão de direção. B) Estacionar na contramão de direção.",
-        "C) Parar o veículo em desacordo com posições C) Parar o veículo em desacordo com posições estabelecidas. estabelecidas.",
-        "D) Deixar de prestar socorro à vítima de acidente de trânsito. D) Deixar de prestar socorro à vítima de acidente de trânsito."
+        "A) Tiver seu veículo imobilizado na via por falta de combustível.",
+        "B) Estacionar na contramão de direção.",
+        "C) Parar o veículo em desacordo com as posições estabelecidas.",
+        "D) Deixar de prestar socorro à vítima de acidente de trânsito."
       ],
       "img": null,
       "ok": 0
@@ -283,12 +283,12 @@ window.PROVA_ATUAL = {
     {
       "n": 22,
       "mat": "Legislação",
-      "txt": "A distância que se deve guardar para que um veículo 22) A distância que se deve guardar para que um veículo automotor possa estacionar antes ou depois da esquina é: automotor possa estacionar antes ou depois da esquina é:",
+      "txt": "A distância que se deve guardar para que um veículo automotor possa estacionar antes ou depois da esquina é:",
       "ops": [
-        "A) A partir de 3 (três) metros. A) A partir de 3 (três) metros.",
-        "B) 05 (cinco) metros do bordo do alinhamento da via B) 05 (cinco) metros do bordo do alinhamento da via transversal. transversal.",
-        "C) Menos de 03 (três) metros da via transversal. C) Menos de 03 (três) metros da via transversal.",
-        "D) Entre 03 (três) e 10 (dez) metros do alinhamento de D) Entre 03 (três) e 10 (dez) metros do alinhamento de construção da via transversal. construção da via transversal."
+        "A) A partir de 3 (três) metros.",
+        "B) 05 (cinco) metros do bordo do alinhamento da via transversal.",
+        "C) Menos de 03 (três) metros da via transversal.",
+        "D) Entre 03 (três) e 10 (dez) metros do alinhamento de construção da via transversal."
       ],
       "img": null,
       "ok": 1
@@ -296,7 +296,7 @@ window.PROVA_ATUAL = {
     {
       "n": 23,
       "mat": "Legislação",
-      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são , , computados os seguintes pontos.",
+      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são,, computados os seguintes pontos.",
       "ops": [
         "A) (07) sete.",
         "B) (04) quatro.",
@@ -322,7 +322,7 @@ window.PROVA_ATUAL = {
     {
       "n": 25,
       "mat": "Legislação",
-      "txt": "Transitar pela contramão de direção em vias com duplo sentido de circulação, exceto para ultrapassar outro veículo e apenas pelo tempo necessário, respeitada a preferência do veículo que transitar em sentido contrário é infração__________, gerando como penalidade__________.",
+      "txt": "Transitar pela contramão de direção em vias com duplo sentido de circulação, exceto para ultrapassar outro veículo e apenas pelo tempo necessário, respeitada a preferência do veículo que transitar em sentido contrário é infração __________, gerando como penalidade __________.",
       "ops": [
         "A) Gravíssima; multa (três vezes).",
         "B) Gravíssima; multa.",
@@ -335,12 +335,12 @@ window.PROVA_ATUAL = {
     {
       "n": 26,
       "mat": "Legislação",
-      "txt": "Quando o condutor transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito, será punido com:",
+      "txt": "Transitar com o veículo em mau estado de conservação e segurança é infração grave, gerando como penalidade e medida administrativa:",
       "ops": [
-        "A) Multa.",
-        "B) Remoção do veículo e multa. Recolhimento do veículo e multa.",
-        "C) Apreensão do veículo e multa. Remoção",
-        "D) Retenção do veículo e multa."
+        "A) Multa e apreensão do veículo.",
+        "B) Remoção do veículo e multa.",
+        "C) Multa e retenção do veículo para regularização.",
+        "D) Multa."
       ],
       "img": null,
       "ok": 0
@@ -376,7 +376,7 @@ window.PROVA_ATUAL = {
       "mat": "Legislação",
       "txt": "Ultrapassar outro veículo pelo acostamento, em interseções e passagens de nível é infração ________, gerando como penalidade _________.",
       "ops": [
-        "A) Grav A) Grave; multa. íssima ; multa (cinco vezes) .",
+        "A) Gravíssima; multa (cinco vezes).",
         "B) Gravíssima; multa.",
         "C) Grave; multa (cinco vezes).",
         "D) Gravíssima; multa (três vezes)."

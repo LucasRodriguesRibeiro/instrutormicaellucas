@@ -10,7 +10,7 @@
     {
       "n": 1,
       "mat": "Legislação",
-      "txt": "Promover na via, competição, eventos organizados, 1 - Promover na via, competição esportiva, eventos organi- exibição e demonstração de perícia em manobra de veículo, zados, exibição e demonstração de perícia em manobra de ou deles participar, como condutor, sem permissão da auto veículo ou deles participar, como condutor, sem permissão da ridade de trânsito com circunscrição sobre a via é infração autoridade de trânsito com circunscrição sobre a via é infração gravíssima, gerando como medida administrativa:",
+      "txt": "Promover na via competição, eventos organizados, exibição e demonstração de perícia em manobra de veículo, ou deles participar, como condutor, sem permissão da autoridade de trânsito com circunscrição sobre a via, é infração gravíssima, gerando como medida administrativa:",
       "ops": [
         "A) Suspensão do direito de dirigir e multa.",
         "B) Recolhimento do documento de habilitação e remoção do veículo.",
@@ -88,7 +88,7 @@
     {
       "n": 7,
       "mat": "Legislação",
-      "txt": "Estacionar o veículo na pista de rolamento das estradas, das rodovias, das vias de trânsito rápido e das vias dotadas de acostamento é infração _____________, gerando como penali- dade _________:",
+      "txt": "Estacionar o veículo na pista de rolamento das estradas, das rodovias, das vias de trânsito rápido e das vias dotadas de acostamento é infração _____________, gerando como penalidade _________:",
       "ops": [
         "A) Grave, multa (três vezes).",
         "B) Gravíssim, multa.",
@@ -114,7 +114,7 @@
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "Estacionar o veículo ao lado de outro veículo em fila du- pla é infração _______, gerando como medida administra- tiva_________:",
+      "txt": "Estacionar o veículo ao lado de outro veículo em fila dupla é infração _______, gerando como medida administrativa _________:",
       "ops": [
         "A) Média, advertência por escrito.",
         "B) Gravíssima, suspensão do direito de dirigir.",
@@ -129,8 +129,8 @@
       "mat": "Legislação",
       "txt": "Todo condutor ao efetuar a ultrapassagem deverá:",
       "ops": [
-        "A) Indicar com antecedência a manobra pretendida, acionando a luz indicativa de direção do veículo ou por meio de gesto conven- cional de braço.",
-        "B) Retornar, após a efetivação da manobra, a faixa de trânsito de origem, sem acionar a luz indicadora de direção de veículo ou fa- zendo gesto convencional de braço.",
+        "A) Indicar com antecedência a manobra pretendida, acionando a luz indicativa de direção do veículo ou por meio de gesto convencional de braço.",
+        "B) Retornar, após a efetivação da manobra, a faixa de trânsito de origem, sem acionar a luz indicadora de direção de veículo ou fazendo gesto convencional de braço.",
         "C) Executá-la, em qualquer situação em que se encontrar.",
         "D) Manter-se próximo ao veículo ao qual ultrapassa."
       ],
@@ -140,7 +140,7 @@
     {
       "n": 11,
       "mat": "Legislação",
-      "txt": "O condutor que estiver circulando pela faixa da esquerda, ao perceber que outro que o segue tem o propósito de ultra- passá-lo, deverá:",
+      "txt": "O condutor que estiver circulando pela faixa da esquerda, ao perceber que outro que o segue tem o propósito de ultrapassá-lo, deverá:",
       "ops": [
         "A) Nenhuma das respostas esta correta.",
         "B) Deslocar-se para a faixa da direita, sem acelerar a marcha.",
@@ -155,7 +155,7 @@
       "mat": "Legislação",
       "txt": "No desenho abaixo, observe a movimentação do pedestre e veículos e responda:",
       "ops": [
-        "A) O pedestre deverá acelerar o passo de forma a não causar tran- stornos ao trânsito.",
+        "A) O pedestre deverá acelerar o passo de forma a não causar transtornos ao trânsito.",
         "B) O veículo 1 deve acelerar e convergir à frente do pedestre, de forma a não ser colidido na traseira.",
         "C) A preferência é do pedestre, pois já iniciou a travessia.",
         "D) A preferência é do veículo 3 em relação ao pedestre."
@@ -166,7 +166,7 @@
     {
       "n": 13,
       "mat": "Legislação",
-      "txt": "A ordem do Agente da Autoridade de Trânsito representada pelo braço estendido horizontalmente, com a palma da mão para frente, do lado do trânsito a que se destina, está identifi- cada na cartela pelo código:",
+      "txt": "A ordem do Agente da Autoridade de Trânsito representada pelo braço estendido horizontalmente, com a palma da mão para frente, do lado do trânsito a que se destina, está identificada na cartela pelo código:",
       "ops": [
         "A) GA-03.",
         "B) GA-01.",
@@ -192,7 +192,7 @@
     {
       "n": 15,
       "mat": "Legislação",
-      "txt": "A placa de Nº A-7a a dverte :",
+      "txt": "A placa de Nº A-7a a dverte:",
       "ops": [
         "A) Confluência à esquerda.",
         "B) Via lateral à esquerda.",
@@ -208,7 +208,7 @@
       "txt": "A placa de Nº “R-19” assinala que:",
       "ops": [
         "A) Há um limite máximo de velocidade no trecho sinalizado.",
-        "B) Há determinação quanto a velocidade que deverá ser inferior a metade da determinada no trecho sinali- zado.",
+        "B) Há determinação quanto a velocidade que deverá ser inferior a metade da determinada no trecho sinalizado.",
         "C) Há determinação quanto a altura máxima de carga, no trecho sinalizado.",
         "D) Há determinação de velocidade que poderá ser superior em até 20 por cento."
       ],
@@ -221,7 +221,7 @@
       "txt": "A placa de Nº “R-22”, assinala que, à frente, no trecho sinalizado:",
       "ops": [
         "A) Os veículos, ao passarem, deverão ser rebocados com correntes.",
-        "B) Devido a pista escorregadia e aos atoleiros, os veículos de- verão ter pneus super calibrados.",
+        "B) Devido a pista escorregadia e aos atoleiros, os veículos deverão ter pneus super calibrados.",
         "C) Há possibilidade de pista escorregadia com atoleiros e terrenos encharcados.",
         "D) Devido a pista escorregadia é proibido o trânsito de veículos."
       ],
@@ -231,7 +231,7 @@
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "As placas que tem a função de educar condutores e pedes- tres quanto ao seu comportamento no trânsito, são as:",
+      "txt": "As placas que tem a função de educar condutores e pedestres quanto ao seu comportamento no trânsito, são as:",
       "ops": [
         "A) De atrativos turisticos.",
         "B) Educativas.",
@@ -244,7 +244,7 @@
     {
       "n": 19,
       "mat": "Legislação",
-      "txt": "Para uma condução segura e confortável é necessário ajudstar, de acordo com a altura dos olhos o equipamento de- nominado:",
+      "txt": "Para uma condução segura e confortável é necessário ajustar, de acordo com a altura dos olhos o equipamento denominado:",
       "ops": [
         "A) Cinto de Segurança.",
         "B) Painel de instrumentos.",
@@ -301,7 +301,7 @@
         "A) diminuir a velocidade, buzinar e seguir em frente.",
         "B) Parar o veículo e facilitar a travessia.",
         "C) Ignorá-los.",
-        "D) Diminuir a velocidade, desviar e seguir em frente. NOÇÕES DE PRIMEIROS SOCORROS"
+        "D) Diminuir a velocidade, desviar e seguir em frente."
       ],
       "img": null,
       "ok": 1
@@ -324,10 +324,10 @@
       "mat": "Legislação",
       "txt": "Em um acidente a movimentação da vítima inconsciente e mesmo a identificação de uma parada respiratória ou cardíaca exige do socorrista:",
       "ops": [
-        "A) Calma e conhecimento .",
+        "A) Calma e conhecimento.",
         "B) Movimentar a vítima para que a mesma recupere a consciência.",
         "C) Fazer respiração boca a boca.",
-        "D) Fazer ressucitação cárdio-pulmonar. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+        "D) Fazer ressuscitação cardiopulmonar."
       ],
       "img": null,
       "ok": 0

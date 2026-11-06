@@ -36,12 +36,12 @@ window.PROVA_ATUAL = {
     {
       "n": 3,
       "mat": "Legislação",
-      "txt": "A velocidade máxima permitida para motocicletas em rodovias 3 - A velocidade máxima permitida para motocicletas em rodo- de pista única, onde não existir sinalização regulamentadora, é de: vias, onde não existir sinalização regulamentadora, é de:",
+      "txt": "A velocidade máxima permitida para motocicletas em rodovias de pista única, onde não existir sinalização regulamentadora, é de:",
       "ops": [
-        "A) 80km/h.",
-        "B) 90km/h.",
-        "C) 60km/h.",
-        "D) 100 km/h. d) 110km/h."
+        "A) 80 km/h.",
+        "B) 90 km/h.",
+        "C) 60 km/h.",
+        "D) 100 km/h."
       ],
       "img": null,
       "ok": 3
@@ -49,7 +49,7 @@ window.PROVA_ATUAL = {
     {
       "n": 4,
       "mat": "Legislação",
-      "txt": "A fiscalização de gestão de trânsito poderá ser realizada com utilização de aparelhos que, quanto ao modo de ope- ração, podem ser classificados em:",
+      "txt": "A fiscalização de gestão de trânsito poderá ser realizada com utilização de aparelhos que, quanto ao modo de operação, podem ser classificados em:",
       "ops": [
         "A) automático e não automático.",
         "B) fixo, estátil, móvel e portátil.",
@@ -88,7 +88,7 @@ window.PROVA_ATUAL = {
     {
       "n": 7,
       "mat": "Legislação",
-      "txt": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CON- TRAN, é aquela obtida:",
+      "txt": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CONTRAN, é aquela obtida:",
       "ops": [
         "A) Em outro país.",
         "B) No Brasil.",
@@ -114,12 +114,12 @@ window.PROVA_ATUAL = {
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: A categoria ________________ habilita o condutor a dirigir veículo mo- torizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+      "txt": "Assinale a alternativa que completa a questão: A categoria ________________ habilita o condutor a dirigir veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
       "ops": [
         "A) D.",
         "B) E.",
         "C) C.",
-        "D) E."
+        "D) B."
       ],
       "img": null,
       "ok": 2
@@ -127,7 +127,7 @@ window.PROVA_ATUAL = {
     {
       "n": 10,
       "mat": "Legislação",
-      "txt": "Dirigindo por uma via urbana, a uma distância de cerca de 10 - Dirigindo por uma via urbana, a uma distância de cerca 50 metros de um cruzamento, você percebe a luz amarela do de 50km de um cruzamento, você percebe a luz amarela do semáforo. Nessa situação você deve: semáforo. Nessa situação você deve:",
+      "txt": "Dirigindo por uma via urbana, a uma distância de cerca de 50 metros de um cruzamento, você percebe a luz amarela do semáforo. Nessa situação você deve:",
       "ops": [
         "A) manter atenção, reduzir a marcha do veículo e parar.",
         "B) aumentar a velocidade do seu veículo.",
@@ -153,12 +153,12 @@ window.PROVA_ATUAL = {
     {
       "n": 12,
       "mat": "Legislação",
-      "txt": "Observe o desenho abaixo e responda. O condutor do veículo 1 para ingresssar em outra via deverá: , ,",
+      "txt": "Observe o desenho abaixo e responda. O condutor do veículo 1 para ingresssar em outra via deverá:,,",
       "ops": [
         "A) Aguardar a passagem dos veículos 3 e 4.",
         "B) Apenas aguardar a passagem do veículo 2.",
         "C) Entrar diretamente na via, sem utilizar a faixa de aceleração.",
-        "D) Utilizar a faixa de aceleração, dando preferência para os veícu- los que já estejam trafegando pela via na qual vai entrar."
+        "D) Utilizar a faixa de aceleração, dando preferência para os veículos que já estejam trafegando pela via na qual vai entrar."
       ],
       "img": null,
       "ok": 3
@@ -309,7 +309,7 @@ window.PROVA_ATUAL = {
     {
       "n": 24,
       "mat": "Legislação",
-      "txt": "Agir com prudência, respeitar os limites de seu conheci- mento, seguir os protocolos estabelecidos, prevenir e evitar danos maiores são entre outras ações de:",
+      "txt": "Agir com prudência, respeitar os limites de seu conhecimento, seguir os protocolos estabelecidos, prevenir e evitar danos maiores são entre outras ações de:",
       "ops": [
         "A) socorrista.",
         "B) ciclista.",
@@ -327,7 +327,7 @@ window.PROVA_ATUAL = {
         "A) ciclista.",
         "B) parente do acidente.",
         "C) pedestre.",
-        "D) socorrista. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+        "D) socorrista."
       ],
       "img": null,
       "ok": 3
@@ -353,7 +353,7 @@ window.PROVA_ATUAL = {
         "A) radioativa.",
         "B) aquática.",
         "C) sonora.",
-        "D) atmosférica. NOÇÕES DE M CÂNICA E"
+        "D) atmosférica."
       ],
       "img": null,
       "ok": 2

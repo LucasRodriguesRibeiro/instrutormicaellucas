@@ -36,7 +36,7 @@
     {
       "n": 3,
       "mat": "Legislação",
-      "txt": "A distância que se deve guardar para que um veículo auto- motor possa estacionar antes ou depois da esquina é:",
+      "txt": "A distância que se deve guardar para que um veículo automotor possa estacionar antes ou depois da esquina é:",
       "ops": [
         "A) A partir de 3 (três) metros.",
         "B) 05 (cinco) metros do bordo do alinhamento da via transversal.",
@@ -101,7 +101,7 @@
     {
       "n": 8,
       "mat": "Legislação",
-      "txt": "Onde não houver sinalização proibitiva, é permitido 08 – Onde não houver sinalização proibitiva, é permitido esta- estacionar a 05 (cinco) metros do alinhamento da constru cionar a 10 (dez) metros do alinhamento da construção da via ção da via transversal: transversal:",
+      "txt": "Onde não houver sinalização proibitiva, é permitido estacionar a 05 (cinco) metros do alinhamento da construção da via transversal:",
       "ops": [
         "A) Apenas veículo de carga.",
         "B) Apenas veículo de carga e motocicletas.",
@@ -171,7 +171,7 @@
         "A) Veículo 1, porque é uma ambulância.",
         "B) Veículo 2, porque trafega à direita do veículo 1.",
         "C) Veículo 1, porque trafega a direita do veículo 2.",
-        "D) Veículo 1, porque goza de livre circulação, parada e estaciona- mento."
+        "D) Veículo 1, porque goza de livre circulação, parada e estacionamento."
       ],
       "img": null,
       "ok": 1
@@ -325,9 +325,9 @@
       "txt": "Não constitui procedimento correto em caso de ferimento profundo:",
       "ops": [
         "A) Manter fechado o ferimento evitando a entrada do ar.",
-        "B) Usar para compressão a própria mão da vítima, se estiver con- sciente.",
+        "B) Usar para compressão a própria mão da vítima, se estiver consciente.",
         "C) Colocar sobre o ferimento um chumaço de pano.",
-        "D) Manter um cinto ou faixa bem apertada em torno do tórax. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+        "D) Manter um cinto ou faixa bem apertada em torno do tórax."
       ],
       "img": null,
       "ok": 3
@@ -352,8 +352,8 @@
       "ops": [
         "A) A fuligem não é tóxica.",
         "B) O monóxido de carbono, resultante da combustão da gasolina nos veículos automotores poluem a atmosfera, principalmente nas regiões urbanas.",
-        "C) Os processos industriais são todos controlados e não po-luem.",
-        "D) Os restos e detritos industriais não desequilibram o meio am- biente. NOÇÕES DE VEÍCULOS DE 2 E 4 RODAS"
+        "C) Os processos industriais são todos controlados e não poluem.",
+        "D) Os restos e detritos industriais não desequilibram o meio ambiente."
       ],
       "img": null,
       "ok": 1

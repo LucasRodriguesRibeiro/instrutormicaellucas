@@ -14,7 +14,7 @@
       "ops": [
         "A) Cintos de segurança para o condutor e seu auxiliar.",
         "B) Registro de veículo especial.",
-        "C) Lanternasdeluzverdenasextremidadeslateraisdireitaeesquerda.",
+        "C) Lanternas de luz verde nas extremidades laterais direita e esquerda.",
         "D) Inspeção semestral para verificação dos equipamentos obrigatórios e de segurança."
       ],
       "img": null,
@@ -114,7 +114,7 @@
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: A categoria_______ habilita o condutor a dirigir veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 quilogramas e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+      "txt": "Assinale a alternativa que completa a questão: A categoria _______ habilita o condutor a dirigir veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 quilogramas e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
       "ops": [
         "A) C",
         "B) B",
@@ -127,7 +127,7 @@
     {
       "n": 10,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: A categoria ______habilita o condutor a dirigir veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+      "txt": "Assinale a alternativa que completa a questão: A categoria ______ habilita o condutor a dirigir veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
       "ops": [
         "A) D",
         "B) E",
@@ -140,7 +140,7 @@
     {
       "n": 11,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: A categoria_______ habilita o condutor a dirigir veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a 8 lugares, excluído o do motorista:",
+      "txt": "Assinale a alternativa que completa a questão: A categoria _______ habilita o condutor a dirigir veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a 8 lugares, excluído o do motorista:",
       "ops": [
         "A) D",
         "B) C",
@@ -270,7 +270,7 @@
     {
       "n": 21,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a ____________ anos e ser habilitado , pelo menos, na categoria ____________.",
+      "txt": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a ____________ anos e ser habilitado, pelo menos, na categoria ____________.",
       "ops": [
         "A) 21, B",
         "B) 18, D",
@@ -324,7 +324,7 @@
       "mat": "Legislação",
       "txt": "O condutor que tiver a sua Permissão para Dirigir cassada, poderá reiniciar o processo de habilitação, que consiste em prestar exames de:",
       "ops": [
-        "A) Aptidão física e mental, avaliação psicológicca e",
+        "A) Aptidão física e mental, avaliação psicológica e direção veicular.",
         "B) Aptidão física e mental, avaliação psicológica, legislação de trânsito e prática de direção veicular.",
         "C) Prática de direção veicular.",
         "D) Legislação de trânsito e prática de direção veicular."
@@ -374,7 +374,7 @@
     {
       "n": 29,
       "mat": "Legislação",
-      "txt": "A não obtenção da Carteira Nacional de Habilitação , pelo permissionário, implica em reiniciar todo o",
+      "txt": "A não obtenção da Carteira Nacional de Habilitação, pelo permissionário, implica em reiniciar todo o",
       "ops": [
         "A) 30 dias.",
         "B) 15 dias.",
@@ -392,7 +392,7 @@
         "A) Tenha completado 16 (dezesseis) anos de idade.",
         "B) Tenha completado 18 (dezoito) anos de idade.",
         "C) Tenha prestado o exame em veículo particular.",
-        "D) Tenha sido aprovado nos exames de aptidão física e mental , avaliação psicológica e de legislação de trânsito."
+        "D) Tenha sido aprovado nos exames de aptidão física e mental, avaliação psicológica e de legislação de trânsito."
       ],
       "img": null,
       "ok": 3

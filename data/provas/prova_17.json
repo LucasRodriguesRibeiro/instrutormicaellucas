@@ -23,7 +23,7 @@
     {
       "n": 2,
       "mat": "Legislação",
-      "txt": "O documento de habilitação terá validade no _________________ para a condução de veículo, quando apresentado em____________________.",
+      "txt": "O documento de habilitação terá validade no _________________ para a condução de veículo, quando apresentado em ____________________.",
       "ops": [
         "A) Estado de Minas Gerais; fotocópia autenticada pelo cartório.",
         "B) Território Nacional; fotocópia autenticada pelo DETRAN de origem.",
@@ -54,7 +54,7 @@
         "A) Embarcador",
         "B) Proprietário",
         "C) Condutor",
-        "D) Transportador NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Transportador"
       ],
       "img": null,
       "ok": 0
@@ -179,7 +179,7 @@
     {
       "n": 14,
       "mat": "Legislação",
-      "txt": "A placa de nº R-39 regulamenta :",
+      "txt": "A placa de nº R-39 regulamenta:",
       "ops": [
         "A) Circulação exclusiva de ônibus.",
         "B) Comprimento máximo permitido.",
@@ -231,7 +231,7 @@
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "A marca de canalização, identificada pelo código MC-06, serve para :",
+      "txt": "A marca de canalização, identificada pelo código MC-06, serve para:",
       "ops": [
         "A) Proteger á reas de estacionamento.",
         "B) Ilhas de canalização.",
@@ -313,7 +313,7 @@
       "ops": [
         "A) A remoção deve ser feita imediatamente.",
         "B) Não é necessário imobilizar a vítima com suspeita de fratura.",
-        "C) O socorrista só deve providenciar a remoção, na impossibilidade de ser feita pelo socorrro especializado .",
+        "C) O socorrista só deve providenciar a remoção, na impossibilidade de ser feita pelo socorrro especializado.",
         "D) Não é necessário preocupar com as vias aéreas."
       ],
       "img": null,
@@ -366,7 +366,7 @@
         "A) Inofensivos em qualquer concentração.",
         "B) Que se concentram nos tecidos humanos.",
         "C) Que melhoram o meio ambiente.",
-        "D) Que causam poluição. NOÇÕES DE MECÂNICA"
+        "D) Que causam poluição."
       ],
       "img": null,
       "ok": 3

@@ -41,7 +41,7 @@
         "A) Cinto de segurança.",
         "B) Chave de fenda ou outra ferramenta para remoção de calotas.",
         "C) Desembaçador do vidro traseiro.",
-        "D) Macaco ."
+        "D) Macaco."
       ],
       "img": null,
       "ok": 2
@@ -54,7 +54,7 @@
         "A) Lavador de parabrisa.",
         "B) Retrorrefletores (catadióptrico).",
         "C) Dispositivo de sinalização luminosa ou refletora de emergência.",
-        "D) Pala de proteção interna contra o sol. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Pala de proteção interna contra o sol."
       ],
       "img": null,
       "ok": 3
@@ -218,10 +218,10 @@
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A placa de nº R-21 regulamenta :",
+      "txt": "A placa de nº R-21 regulamenta:",
       "ops": [
         "A) Passagem obrigatória.",
-        "B) Alfândega .",
+        "B) Alfândega.",
         "C) Pista interrompida.",
         "D) Sentido de circulação da via."
       ],
@@ -325,7 +325,7 @@
       "txt": "Uma pessoa bateu a cabeça, perdeu a consciência, acordou e diz que está bem. O procedimento correto é:",
       "ops": [
         "A) Não há necessidade de levar a pessoa ao hospital.",
-        "B) L evar a pessoa ao hospital.",
+        "B) Levar a pessoa ao hospital.",
         "C) Recomendar que a pessoa fique acordada durante 24 horas.",
         "D) Levar ao hospital, somente, se tiver que fazer curativo."
       ],
@@ -366,7 +366,7 @@
         "A) Descarregar suas frustações e angústias.",
         "B) Adotar atitudes agressivas.",
         "C) Agir corretamente, somente quando lhe for conveniente.",
-        "D) Respeitar as Leis de Trânsito. NOÇÕES DE MECÂNICA"
+        "D) Respeitar as Leis de Trânsito."
       ],
       "img": null,
       "ok": 3

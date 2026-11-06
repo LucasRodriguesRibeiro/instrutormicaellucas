@@ -49,7 +49,7 @@ window.PROVA_ATUAL = {
     {
       "n": 4,
       "mat": "Legislação",
-      "txt": "Para transitar na via, todo veículo automotor, elétrico, articu- lado, reboque ou semi-reboque deverá ser licenciado:",
+      "txt": "Para transitar na via, todo veículo automotor, elétrico, articulado, reboque ou semi-reboque deverá ser licenciado:",
       "ops": [
         "A) Anualmente, pelo órgão municipal de trânsito.",
         "B) Semestralmente, pelo órgão executivo de trânsito do Estado.",
@@ -114,7 +114,7 @@ window.PROVA_ATUAL = {
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "Veículos destinados à formação de condutores são classifi- cados quanto à categoria em:",
+      "txt": "Veículos destinados à formação de condutores são classificados quanto à categoria em:",
       "ops": [
         "A) De aluguel.",
         "B) Particular.",
@@ -140,7 +140,7 @@ window.PROVA_ATUAL = {
     {
       "n": 11,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que responde a questão: os ciclomo- tores devem ser conduzidos pela direita da pista de rolamento, preferencialmente no _____________ da faixa mais à direita ou no bordo direito da pista sempre que houver _____________ ou faixa própria a eles destinados:",
+      "txt": "Assinale a alternativa que responde a questão: os ciclomotores devem ser conduzidos pela direita da pista de rolamento, preferencialmente no _____________ da faixa mais à direita ou no bordo direito da pista sempre que houver _____________ ou faixa própria a eles destinados:",
       "ops": [
         "A) Bordo, pista de rolamento.",
         "B) Centro, acostamento.",
@@ -192,7 +192,7 @@ window.PROVA_ATUAL = {
     {
       "n": 15,
       "mat": "Legislação",
-      "txt": "A placa de Nº A-5b a dverte :",
+      "txt": "A placa de Nº A-5b a dverte:",
       "ops": [
         "A) Curva em “S” à esquerda.",
         "B) Curva em “S” à direita.",
@@ -244,7 +244,7 @@ window.PROVA_ATUAL = {
     {
       "n": 19,
       "mat": "Legislação",
-      "txt": "O procedimento correto ao parar o veículo no acostamen- to, em situação de emergência, é:",
+      "txt": "O procedimento correto ao parar o veículo no acostamento, em situação de emergência, é:",
       "ops": [
         "A) Não é necessário sinalizar.",
         "B) Ligar o pisca-alerta e sinalizar com o triângulo de segurança.",
@@ -257,7 +257,7 @@ window.PROVA_ATUAL = {
     {
       "n": 20,
       "mat": "Legislação",
-      "txt": "Ao passar por um trecho da via escorregadio, o procedi- mento correto do condutor é:",
+      "txt": "Ao passar por um trecho da via escorregadio, o procedimento correto do condutor é:",
       "ops": [
         "A) Todas as opções estão corretas.",
         "B) Reduzir a velocidade efetuando mudanças abruptas da direção.",
@@ -270,7 +270,7 @@ window.PROVA_ATUAL = {
     {
       "n": 21,
       "mat": "Legislação",
-      "txt": "Ondulações, buracos e elevações na via podem desesta- bilizar o veículo e provocar a perda do controle. Diante desta situação, o procedimento correto do condutor é:",
+      "txt": "Ondulações, buracos e elevações na via podem desestabilizar o veículo e provocar a perda do controle. Diante desta situação, o procedimento correto do condutor é:",
       "ops": [
         "A) Reduzir a velocidade, sinalizando para os demais usuários da via.",
         "B) Reduzir a velocidade, fazendo movimentos bruscos com a direção.",
@@ -322,12 +322,12 @@ window.PROVA_ATUAL = {
     {
       "n": 25,
       "mat": "Legislação",
-      "txt": "No acidente automobilístico que existir risco de incêndio devi- do à presença de combustível, você deve principalmente:",
+      "txt": "No acidente automobilístico que existir risco de incêndio devido à presença de combustível, você deve principalmente:",
       "ops": [
         "A) Afastar-se do local e procurar ajuda.",
         "B) Usar primeiramente, o extintor de incêndio.",
         "C) Avaliar criteriosamente, antes de iniciar qualquer atendimento às vítimas.",
-        "D) Socorrer as vítimas sem se preocupar. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+        "D) Socorrer as vítimas sem se preocupar."
       ],
       "img": null,
       "ok": 2
@@ -361,12 +361,12 @@ window.PROVA_ATUAL = {
     {
       "n": 28,
       "mat": "Legislação",
-      "txt": "A poluição característica dos veículos movidos a óleo die- sel é a forma de emissão:",
+      "txt": "A poluição característica dos veículos movidos a óleo diesel é a forma de emissão:",
       "ops": [
-        "A) Monóxido de carbno.",
+        "A) Monóxido de carbono.",
         "B) Dióxido de enxofre.",
         "C) Gás carbônico ou dióxido de carbono.",
-        "D) Ozônio. NOÇÕES DE VEÍCULOS DE 2 E 4 RODAS."
+        "D) Ozônio."
       ],
       "img": null,
       "ok": 0

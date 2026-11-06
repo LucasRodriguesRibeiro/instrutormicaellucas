@@ -65,7 +65,7 @@
       "txt": "O filtro de ar tem como função:",
       "ops": [
         "A) Filtrar o ar que refrigera o motor.",
-        "B) Filtrar o combustível .",
+        "B) Filtrar o combustível.",
         "C) Filtrar o óleo lubrificante.",
         "D) Filtrar o ar que vai para a câmara de explosão do motor."
       ],
@@ -309,7 +309,7 @@
     {
       "n": 24,
       "mat": "Mecânica Básica",
-      "txt": "A peça que tampa a parte inferior do motor e serve como reservatório e coletor do óleo lubrificante chama- se:",
+      "txt": "A peça que tampa a parte inferior do motor e serve como reservatório e coletor do óleo lubrificante chama-se:",
       "ops": [
         "A) Tampão.",
         "B) Tanque de combustível.",

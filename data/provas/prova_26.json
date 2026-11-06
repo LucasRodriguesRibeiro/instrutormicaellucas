@@ -23,7 +23,7 @@
     {
       "n": 2,
       "mat": "Legislação",
-      "txt": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta, ou de forma agressiva, em desacordo com o disposto no parágrafo único do art. 59 é infração _______, gerando como medida administrativa________________.",
+      "txt": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta, ou de forma agressiva, em desacordo com o disposto no parágrafo único do art. 59 é infração _______, gerando como medida administrativa ________________.",
       "ops": [
         "A) Leve; retenção da bicicleta.",
         "B) Média; remoção da bicicleta.",
@@ -54,7 +54,7 @@
         "A) Grave",
         "B) Gravíssima",
         "C) Média",
-        "D) Leve NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Leve"
       ],
       "img": null,
       "ok": 0
@@ -181,9 +181,9 @@
       "mat": "Legislação",
       "txt": "A placa de nº A-35 adverte:",
       "ops": [
-        "A) Animais .",
-        "B) Animais selvagens .",
-        "C) Proibido trânsito de veículo de tração animal .",
+        "A) Animais.",
+        "B) Animais selvagens.",
+        "C) Proibido trânsito de veículo de tração animal.",
         "D) Restaurante."
       ],
       "img": null,
@@ -194,10 +194,10 @@
       "mat": "Legislação",
       "txt": "A placa de nº R-4a regulamenta:",
       "ops": [
-        "A) Proibido virar à direita .",
-        "B) Sentido proibido .",
+        "A) Proibido virar à direita.",
+        "B) Sentido proibido.",
         "C) Curva acentuada à esquerda",
-        "D) Proibido virar à esquerda ."
+        "D) Proibido virar à esquerda."
       ],
       "img": null,
       "ok": 3
@@ -218,7 +218,7 @@
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A placa de nº R-24a regulamenta :",
+      "txt": "A placa de nº R-24a regulamenta:",
       "ops": [
         "A) Siga em frente.",
         "B) Passagem proibida.",
@@ -366,7 +366,7 @@
         "A) Todos os veículos automotores, exceto para as motocicletas.",
         "B) Os automóveis e caminhões, apenas.",
         "C) As motocicletas, apenas.",
-        "D) Todos os veículos automotores. NOÇÕES DE MECÂNICA"
+        "D) Todos os veículos automotores."
       ],
       "img": null,
       "ok": 3

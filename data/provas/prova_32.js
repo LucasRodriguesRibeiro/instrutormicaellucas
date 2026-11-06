@@ -23,7 +23,7 @@ window.PROVA_ATUAL = {
     {
       "n": 2,
       "mat": "Legislação",
-      "txt": "Em uma via de trânsito rápido, cuja velocidade máxima permitida é de 80 km/h, foi registrado por instrumento eletrôni- co (radar) um condutor dirigindo seu veículo a velocidade de 96 km/h. Esse condutor cometeu infração de natureza:",
+      "txt": "Em uma via de trânsito rápido, cuja velocidade máxima permitida é de 80 km/h, foi registrado por instrumento eletrônico (radar) um condutor dirigindo seu veículo a velocidade de 96 km/h. Esse condutor cometeu infração de natureza:",
       "ops": [
         "A) Grave.",
         "B) Média.",
@@ -65,9 +65,9 @@ window.PROVA_ATUAL = {
       "txt": "Quanto aos conceitos e definiç ões dos veículos, é falso afirmar:",
       "ops": [
         "A) Ônibus-veículo automotor de transporte coletivo com capacidade para até vinte (20) passageiros.",
-        "B) Bicicleta-veículo de propulsão humana dotado de duas rodas.",
+        "B) Bicicleta — veículo de propulsão humana dotado de duas rodas.",
         "C) Veículo articulado - combinado de veículos acoplados, sendo um deles automotor.",
-        "D) Motoneta-veículo automotor de duas rodas, dirigido por condu- tor em posição sentada."
+        "D) Motoneta — veículo automotor de duas rodas, dirigido por condutor em posição sentada."
       ],
       "img": null,
       "ok": 0
@@ -91,7 +91,7 @@ window.PROVA_ATUAL = {
       "txt": "A retenção do veículo, como medida administrativa, é aplicada quando:",
       "ops": [
         "A) Estacionar em fila dupla.",
-        "B) Dirigir manuseando aparelho celular. b) Dirigir sem possuir documento de habilitação.",
+        "B) Dirigir sem possuir documento de habilitação.",
         "C) Dirigir sem atenção e cuidados indispensáveis à esquerda.",
         "D) O condutor ou passageiro deixar de usar o cinto de segurança."
       ],
@@ -118,7 +118,7 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) Em todos os casos de retenção do veículo.",
         "B) Em todas as situações que ocasionam a apreensão do veículo.",
-        "C) Quando tiver adesivos de caráter publicitário afixados no pára- brisa do veículo.",
+        "C) Quando tiver adesivos de caráter publicitário afixados no para-brisa do veículo.",
         "D) Em todos os casos de retenção do veículo."
       ],
       "img": null,
@@ -127,12 +127,12 @@ window.PROVA_ATUAL = {
     {
       "n": 10,
       "mat": "Legislação",
-      "txt": "João da Silva, surpreendido numa “blitz”, dirigia sem usar lentes corretivas de visão, imposta por ocasião da con- cessão ou renovação da habilitação. Qual a penalidade e medida administrativa aplicada? ?",
+      "txt": "João da Silva, surpreendido numa “blitz”, dirigia sem usar lentes corretivas de visão, imposta por ocasião da concessão ou renovação da habilitação. Qual a penalidade e medida administrativa aplicada?",
       "ops": [
-        "A) Grave, multa, retenção do veículo até o saneamento da irregu- laridade ou apresentação de condutor habilitado.",
+        "A) Grave, multa, retenção do veículo até o saneamento da irregularidade ou apresentação de condutor habilitado.",
         "B) Grave, multa, recolhimento do documento de habilitação.",
         "C) Gravíssima, multa, recolhimento do documento de habilitação em suspensão do direito de dirigir.",
-        "D) Gravíssima, multa, retenção do veículo até saneamento da ir- regularidade ou apresentação de condutor habilitado."
+        "D) Gravíssima, multa, retenção do veículo até saneamento da irregularidade ou apresentação de condutor habilitado."
       ],
       "img": null,
       "ok": 3
@@ -231,7 +231,7 @@ window.PROVA_ATUAL = {
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "A placa de Nº R-16 regulamenta :",
+      "txt": "A placa de Nº R-16 regulamenta:",
       "ops": [
         "A) Comprimento limitado.",
         "B) Altura máxima permitida.",
@@ -274,7 +274,7 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) Alarme.",
         "B) Cortinas no vidro traseiro.",
-        "C) Encosto de Cabeça .",
+        "C) Encosto de Cabeça.",
         "D) Direção hidráulica."
       ],
       "img": null,
@@ -326,8 +326,8 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) É obrigação de todos retirar, imediatamente, o veículo do local.",
         "B) Não existe obrigação legal em socorrer.",
-        "C) É obrigação de todos prestar ou providenciar auxílio desde , , que não ocorra risco pessoal.",
-        "D) É obrigação de socorrer, apenas, o causador do acidente. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+        "C) É obrigação de todos prestar ou providenciar auxílio, desde que não ocorra risco pessoal.",
+        "D) É obrigação de socorrer, apenas, o causador do acidente."
       ],
       "img": null,
       "ok": 2
@@ -353,7 +353,7 @@ window.PROVA_ATUAL = {
         "A) O homem, a natureza e os catalisadores.",
         "B) O homem, a natureza e seus elementos.",
         "C) O homem, as perspectivas teóricas e as mutações da fauna.",
-        "D) O homem, a natureza e os poluentes. NOÇÕES DE VEÍCULOS DE 2 E 4 RODAS"
+        "D) O homem, a natureza e os poluentes."
       ],
       "img": null,
       "ok": 1

@@ -40,7 +40,7 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) Logradouro.",
         "B) Interseção.",
-        "C) Mudança de direção .",
+        "C) Mudança de direção.",
         "D) Cruzamento."
       ],
       "img": null,
@@ -77,7 +77,7 @@ window.PROVA_ATUAL = {
       "mat": "Legislação",
       "txt": "O condutor manterá acesos os faróis do veículo, utilizando luz baixa durante a noite e durante o dia, em:",
       "ops": [
-        "A) Túneis providos de iluminação pública e rodovias. A) Túneis providos de iluminação pública.",
+        "A) Túneis providos de iluminação pública e nas rodovias.",
         "B) Vias não iluminadas.",
         "C) Vias não providas de acostamento.",
         "D) Viadutos e trincheiras."
@@ -114,7 +114,7 @@ window.PROVA_ATUAL = {
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que responda a questão: Os ciclomotores devem ser conduzidos pela direita da pista de rolamento, preferencialmente na (o)____________ da faixa mais à direita ou no bordo direito da pista sempre que não houver_________ ou faixa própria a eles destinada.",
+      "txt": "Assinale a alternativa que responda a questão: Os ciclomotores devem ser conduzidos pela direita da pista de rolamento, preferencialmente na (o) ____________ da faixa mais à direita ou no bordo direito da pista sempre que não houver _________ ou faixa própria a eles destinada.",
       "ops": [
         "A) Esquerda, acostamento",
         "B) Direita, meio-fio.",
@@ -218,7 +218,7 @@ window.PROVA_ATUAL = {
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são , , computados os seguintes pontos:",
+      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são,, computados os seguintes pontos:",
       "ops": [
         "A) (05) cinco.",
         "B) (04) quatro.",
@@ -244,12 +244,12 @@ window.PROVA_ATUAL = {
     {
       "n": 19,
       "mat": "Legislação",
-      "txt": "O condutor envolvido em acidente de trânsito com , vítima, que deixar de prestar ou providenciar socorro, podendo fazê-lo, está sujeito a infração:",
+      "txt": "O condutor envolvido em acidente de trânsito com vítima, que deixar de prestar ou providenciar socorro, podendo fazê-lo, está sujeito à infração:",
       "ops": [
-        "A) Grave x5 A) Leve.",
+        "A) Leve.",
         "B) Grave.",
-        "C) Gravíssima x3 C) Média.",
-        "D) Gravíssima x5 D) Gravíssima."
+        "C) Média.",
+        "D) Gravíssima (x5)."
       ],
       "img": null,
       "ok": 3

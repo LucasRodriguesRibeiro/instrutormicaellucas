@@ -64,7 +64,7 @@ window.PROVA_ATUAL = {
       "mat": "Primeiros Socorros",
       "txt": "O melhor local no corpo para se verificar a pulsação é:",
       "ops": [
-        "A) No pescoço (carotídea) .",
+        "A) No pescoço (carotídea).",
         "B) No pé.",
         "C) No punho.",
         "D) Em alguma veia saliente."
@@ -88,11 +88,11 @@ window.PROVA_ATUAL = {
     {
       "n": 7,
       "mat": "Primeiros Socorros",
-      "txt": "O procedimento correto com o acidentado que 07) O procedimento correto com o acidentado que sofreu sofreu queimaduras provocada por chamas é: queimaduras é:",
+      "txt": "O procedimento correto com o acidentado que sofreu queimaduras provocadas por chamas é:",
       "ops": [
-        "A) Esfriar a área com água corrente. A) Esfrie a área com água sanitária .",
+        "A) Esfriar a área com água corrente.",
         "B) Passar pasta de dente na ferida.",
-        "C) Cobrir a ferida com um pano seco. C) Cobrir a ferida com um pano úmido .",
+        "C) Cobrir a ferida com um pano seco.",
         "D) Dar leite para a pessoa tomar."
       ],
       "img": null,
@@ -157,7 +157,7 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
         "B) Afrouxar suas roupas.",
-        "C) M onitorar a respiração .",
+        "C) Monitorar a respiração.",
         "D) Dar bastante líquido à vítima inconsciente que vomitou."
       ],
       "img": null,
@@ -322,7 +322,7 @@ window.PROVA_ATUAL = {
     {
       "n": 25,
       "mat": "Primeiros Socorros",
-      "txt": "As ações, a serem realizadas pelo socorrista no local do acidente , são :",
+      "txt": "As ações, a serem realizadas pelo socorrista no local do acidente, são:",
       "ops": [
         "A) Retirar o veículo do local, sinalizar o local.",
         "B) Retirar a vítima do veículo, sinalizar o local.",

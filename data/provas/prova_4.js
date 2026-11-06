@@ -10,7 +10,7 @@ window.PROVA_ATUAL = {
     {
       "n": 1,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-1a adverte :",
+      "txt": "A placa de nº A-1a adverte:",
       "ops": [
         "A) Curva à esquerda.",
         "B) Curva acentuada à esquerda.",
@@ -66,7 +66,7 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) Parada obrigatória à frente.",
         "B) Alfândega.",
-        "C) Dê a preferência .",
+        "C) Dê a preferência.",
         "D) Parada obrigatória."
       ],
       "img": "assets/questoes/p7_q5.png",
@@ -127,7 +127,7 @@ window.PROVA_ATUAL = {
     {
       "n": 10,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-12 a dverte :",
+      "txt": "A placa de nº A-12 a dverte:",
       "ops": [
         "A) Proibido retornar.",
         "B) Passagem de nível sem barreira.",
@@ -231,12 +231,12 @@ window.PROVA_ATUAL = {
     {
       "n": 18,
       "mat": "Sinalização",
-      "txt": "A placa de nº R-19 reg uulamenta :",
+      "txt": "A placa de nº R-19 reg uulamenta:",
       "ops": [
         "A) Velocidade mínima permitida.",
         "B) Velocidade obrigatória.",
         "C) Uma sinalização de advertência.",
-        "D) Velocidade máxima permitida ."
+        "D) Velocidade máxima permitida."
       ],
       "img": "assets/questoes/p7_q18.png",
       "ok": 3
@@ -270,7 +270,7 @@ window.PROVA_ATUAL = {
     {
       "n": 21,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-6a adv erte",
+      "txt": "A placa de nº A-6a adverte:",
       "ops": [
         "A) Cruz de Santo André.",
         "B) Passagem de nível sem barreira.",
@@ -296,7 +296,7 @@ window.PROVA_ATUAL = {
     {
       "n": 23,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-3b adv erte:",
+      "txt": "A placa de nº A-3b adverte:",
       "ops": [
         "A) Pista sinuosa à direita.",
         "B) Curva em “S “à direita.",
@@ -322,7 +322,7 @@ window.PROVA_ATUAL = {
     {
       "n": 25,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-13a adv erte:",
+      "txt": "A placa de nº A-13a adverte:",
       "ops": [
         "A) Confluência à direita.",
         "B) Via lateral à esquerda.",
@@ -335,7 +335,7 @@ window.PROVA_ATUAL = {
     {
       "n": 26,
       "mat": "Sinalização",
-      "txt": "A placa de nº R-1 regulam: enta: 26) A placa de nº",
+      "txt": "A placa de nº R-1 regulamenta:",
       "ops": [
         "A) Parada obrigatória.",
         "B) Semáforo à frente.",
@@ -348,7 +348,7 @@ window.PROVA_ATUAL = {
     {
       "n": 27,
       "mat": "Sinalização",
-      "txt": "A placa de nº TNA-02 indica: 27) A placa de",
+      "txt": "A placa de nº TNA-02 indica:",
       "ops": [
         "A) Barco de passeio.",
         "B) Praia.",
@@ -361,7 +361,7 @@ window.PROVA_ATUAL = {
     {
       "n": 28,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-16 28) A placa de nº A-16 adv erte:",
+      "txt": "A placa de nº A-16 adverte:",
       "ops": [
         "A) Bonde.",
         "B) Ponte móvel.",
@@ -387,7 +387,7 @@ window.PROVA_ATUAL = {
     {
       "n": 30,
       "mat": "Sinalização",
-      "txt": "A placa de nº A-48 30) A placa de nº A-48 a dv erte :",
+      "txt": "A placa de nº A-48 adverte:",
       "ops": [
         "A) Peso bruto total limitado.",
         "B) Comprimento limitado.",

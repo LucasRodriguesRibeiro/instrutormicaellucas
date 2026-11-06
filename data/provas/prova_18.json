@@ -15,7 +15,7 @@
         "A) 20 horas/aula para categoria A.",
         "B) 30 horas/aula para categoria B.",
         "C) 25 horas/aula para categora A.",
-        "D) 10 horas/aula para categoria B ."
+        "D) 10 horas/aula para categoria B."
       ],
       "img": null,
       "ok": 0
@@ -54,7 +54,7 @@
         "A) Espelhos retrovisores.",
         "B) Luzes de posição dianteiras.",
         "C) Lanternas de posição traseiras de cor vermelha.",
-        "D) Faróis principais dianteiros de cor branca ou amarela. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Faróis principais dianteiros de cor branca ou amarela."
       ],
       "img": null,
       "ok": 0
@@ -67,7 +67,7 @@
         "A) Manter seu veículo na faixa da esquerda em velocidade mais reduzida.",
         "B) Ultrapassar outro veículo pela esquerda quando as condições forem favoráveis.",
         "C) Fazer um retorno utilizando os acostamentos.",
-        "D) Entrar na rua lateral à esquerda ou à direita,desde que obedecidas as preferências."
+        "D) Entrar na rua lateral à esquerda ou à direita, desde que obedecidas as preferências."
       ],
       "img": null,
       "ok": 1
@@ -75,7 +75,7 @@
     {
       "n": 6,
       "mat": "Legislação",
-      "txt": "A velocidade máxima permitida para motocicleta transitar em rodovias de pista dupla, onde não existir transitar em rodovias, onde não existir sinalização",
+      "txt": "A velocidade máxima permitida para motocicleta transitar em rodovias de pista dupla, onde não existir sinalização regulamentadora, é de:",
       "ops": [
         "A) 110 Km/h",
         "B) 80 Km/h",
@@ -155,10 +155,10 @@
       "mat": "Legislação",
       "txt": "Quanto aos conceitos e definições é correto afirmar:",
       "ops": [
-        "A) Bicicletário- local na via ou fora dela, destinada ao trânsito de bicicletas.",
-        "B) Bordo da pista- margem da pista, podendo ser demarcada por faixas transversais de bordo que delineiam a parte da via destinada ao estacionamento de veículos.",
-        "C) Canteiro central- obstáculo físico que serve como separador de duas pistas de rolamento.",
-        "D) Caminhonete- veículo destinado ao transporte de passageiros e de carga com peso bruto total de até três mil e quinhentos quilogramas."
+        "A) Bicicletário — local na via ou fora dela, destinado ao trânsito de bicicletas.",
+        "B) Bordo da pista — margem da pista, podendo ser demarcada por faixas transversais de bordo que delineiam a parte da via destinada ao estacionamento de veículos.",
+        "C) Canteiro central — obstáculo físico que serve como separador de duas pistas de rolamento.",
+        "D) Caminhonete — veículo destinado ao transporte de passageiros e de carga com peso bruto total de até três mil e quinhentos quilogramas."
       ],
       "img": null,
       "ok": 2
@@ -218,7 +218,7 @@
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "As formas de sinalização viária previstas na",
+      "txt": "As formas de sinalização viária previstas na legislação de trânsito são:",
       "ops": [
         "A) Gestos, sons por apito, placas, sinais luminosos, marcas viárias e dispositivos auxiliares.",
         "B) Luzes de pisca e emergência.",
@@ -231,7 +231,7 @@
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "A placa de nº A-15 a dverte :",
+      "txt": "A placa de nº A-15 a dverte:",
       "ops": [
         "A) Parada obrigatória à frente.",
         "B) Parada obrigatória.",
@@ -366,7 +366,7 @@
         "A) H2O e oxigênio.",
         "B) H2O e óxidos de nitrogênio.",
         "C) Oxigênio, fumaça preta e óxidos de enxofre.",
-        "D) Hidrocarbonetos, monóxido de carbono, óxido de nitrogênio. NOÇÕES DE MECÂNICA"
+        "D) Hidrocarbonetos, monóxido de carbono, óxido de nitrogênio."
       ],
       "img": null,
       "ok": 3
@@ -378,7 +378,7 @@
       "ops": [
         "A) Rolamentos.",
         "B) Êmbolos.",
-        "C) Juntas .",
+        "C) Juntas.",
         "D) Mancais."
       ],
       "img": null,

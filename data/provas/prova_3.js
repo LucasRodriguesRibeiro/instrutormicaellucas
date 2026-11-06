@@ -114,12 +114,12 @@ window.PROVA_ATUAL = {
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que responda a questão. O 09) Assinale a alternativa que responda a questão. O quadricíclo é um veículo classificado quanto à espécie quadricíclo é um veículo classificado quanto à espéci de _______ e de ________. em de _______ e de ________. em de _______ e de ________.",
+      "txt": "Assinale a alternativa que responda à questão: O quadriciclo é um veículo classificado quanto à espécie em de _______ e de ________.",
       "ops": [
-        "A) Misto; competição. A) Misto; competição.",
-        "B) Passageiros; tração. B) Passageiros; tração.",
-        "C) Passageiros; carga. C) Passageiros; carga.",
-        "D) Espécie; coleção D) Espécie; coleção"
+        "A) Misto; competição.",
+        "B) Passageiros; tração.",
+        "C) Passageiros; carga.",
+        "D) Espécie; coleção."
       ],
       "img": null,
       "ok": 2
@@ -127,12 +127,12 @@ window.PROVA_ATUAL = {
     {
       "n": 10,
       "mat": "Legislação",
-      "txt": "Veículos destinados à formação de condutores são 10) Veículos destinados à formação de condutores sã classificados quanto à categoria, em: classificados quanto à categoria, em:",
+      "txt": "Veículos destinados à formação de condutores são classificados, quanto à categoria, em:",
       "ops": [
-        "A) De aluguel. A) De aluguel.",
-        "B) De aprendizagem. B) De aprendizagem.",
-        "C) Particular. C) Particular.",
-        "D) Oficial. D) Oficial."
+        "A) De aluguel.",
+        "B) De aprendizagem.",
+        "C) Particular.",
+        "D) Oficial."
       ],
       "img": null,
       "ok": 1
@@ -140,12 +140,12 @@ window.PROVA_ATUAL = {
     {
       "n": 11,
       "mat": "Legislação",
-      "txt": "As características de um veículo podem ser 11) As características de um veículo podem ser modificadas quando: modificadas quando:",
+      "txt": "As características de um veículo podem ser modificadas quando:",
       "ops": [
-        "A) Sempre que for envolvido em acidente. A) Sempre que for envolvido em acidente.",
-        "B) Houver prévia autorização da autoridade de trânsito. B) Houver prévia autorização da autoridade de trânsito.",
-        "C) O proprietário simplesmente quitar seus débitos com o C) O proprietário simplesmente quitar seus débitos com o órgão competente. órgão competente.",
-        "D) O infrator não houver completado 20 pontos. D) O infrator não houver completado 20 pontos."
+        "A) Sempre que for envolvido em acidente.",
+        "B) Houver prévia autorização da autoridade de trânsito.",
+        "C) O proprietário simplesmente quitar seus débitos com o órgão competente.",
+        "D) O infrator não houver completado 20 pontos."
       ],
       "img": null,
       "ok": 1
@@ -153,12 +153,12 @@ window.PROVA_ATUAL = {
     {
       "n": 12,
       "mat": "Legislação",
-      "txt": "As bicicletas deverão ser dotadas dos seguintes 12) As bicicletas deverão ser dotadas dos seguintes equipamentos obrigatórios: equipamentos obrigatórios:",
+      "txt": "As bicicletas deverão ser dotadas dos seguintes equipamentos obrigatórios:",
       "ops": [
-        "A) Campainha, sinalização noturna dianteira, traseira, lateral e A) Campainha, sinalização noturna dianteira, traseira, late nos pedais e espelho retrovisor do lado esquerdo. nos pedais e espelho retrovisor do lado esquerdo.",
-        "B) Campainha e espelho retrovisor do lado esquerdo e do B) Campainha e espelho retrovisor do lado esquerdo e do lado direito. lado direito.",
-        "C) Campainha e sinalização noturna. C) Campainha e sinalização noturna.",
-        "D) Cinto de segurança. D) Cinto de segurança."
+        "A) Campainha, sinalização noturna dianteira, traseira, lateral e nos pedais, e espelho retrovisor do lado esquerdo.",
+        "B) Campainha e espelho retrovisor do lado esquerdo e do lado direito.",
+        "C) Campainha e sinalização noturna.",
+        "D) Cinto de segurança."
       ],
       "img": null,
       "ok": 0
@@ -166,12 +166,12 @@ window.PROVA_ATUAL = {
     {
       "n": 13,
       "mat": "Legislação",
-      "txt": "O transporte de passageiros em veículo de carga 13) O transporte de passageiros em veículo de carga será permitido: será permitido:",
+      "txt": "O transporte de passageiros em veículo de carga será permitido:",
       "ops": [
-        "A) Onde não houver linha regular de ônibus para transportar A) Onde não houver linha regular de ônibus para transpo trabalhadores rurais. trabalhadores rurais.",
-        "B) Onde não houver linha regular de ônibus e autorizado pela B) Onde não houver linha regular de ônibus e autorizado pela autoridade competente, obedecidas às condições de segurança. autoridade competente, obedecidas às condições de seguranç",
-        "C) Desde que obedecidas as condições de segurança, para C) Desde que obedecidas as condições de segurança, p o transporte de desportistas. o transporte de desportistas.",
-        "D) Para o transporte de estudantes nas zonas rurais. D) Para o transporte de estudantes nas zonas rurais."
+        "A) Onde não houver linha regular de ônibus para transportar trabalhadores rurais.",
+        "B) Onde não houver linha regular de ônibus e autorizado pela autoridade competente, obedecidas as condições de segurança.",
+        "C) Desde que obedecidas as condições de segurança, para o transporte de desportistas.",
+        "D) Para o transporte de estudantes nas zonas rurais."
       ],
       "img": null,
       "ok": 1
@@ -179,12 +179,12 @@ window.PROVA_ATUAL = {
     {
       "n": 14,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: O veículo 14) Assinale a alternativa que completa a questão: O veícu será identificado internamente por caracteres gravados no será identificado internamente por caracteres gravados no _________ ou no ____________ e externamente por meio de _________ ou no ____________ e externamente por meio ___________dianteira e traseira. ___________dianteira e traseira.",
+      "txt": "Assinale a alternativa que completa a questão: O veículo será identificado internamente por caracteres gravados no _________ ou no ____________ e externamente por meio de ___________ dianteira e traseira.",
       "ops": [
-        "A) Radiador; cilindro; lanternas. A) Radiador; cilindro; lanternas.",
-        "B) Motor; cárter; rodas. B) Motor; cárter; rodas.",
-        "C) Chassi; monobloco; placas. C) Chassi; monobloco; placas.",
-        "D) Carburador; chassi; placas. D) Carburador; chassi; placas."
+        "A) Radiador; cilindro; lanternas.",
+        "B) Motor; cárter; rodas.",
+        "C) Chassi; monobloco; placas.",
+        "D) Carburador; chassi; placas."
       ],
       "img": null,
       "ok": 2
@@ -192,12 +192,12 @@ window.PROVA_ATUAL = {
     {
       "n": 15,
       "mat": "Legislação",
-      "txt": "O ciclomotor é veículo classificado quanto à espécie 15) O ciclomotor é veículo classificado quanto à espé como: como:",
+      "txt": "O ciclomotor é veículo classificado quanto à espécie como:",
       "ops": [
-        "A) Misto. A) Misto.",
-        "B) Tração. B) Tração.",
-        "C) Especial. C) Especial.",
-        "D) Passageiros. D) Passageiros."
+        "A) Misto.",
+        "B) Tração.",
+        "C) Especial.",
+        "D) Passageiros."
       ],
       "img": null,
       "ok": 3
@@ -205,12 +205,12 @@ window.PROVA_ATUAL = {
     {
       "n": 16,
       "mat": "Legislação",
-      "txt": "São dispensados da placa dianteira, os veículos de: 16) São dispensados da placa dianteira, os veículos d",
+      "txt": "São dispensados da placa dianteira os veículos de:",
       "ops": [
-        "A) Quatro rodas. A) Quatro rodas.",
-        "B) Mais de quatro rodas. B) Mais de quatro rodas.",
-        "C) Duas ou três rodas. C) Duas ou três rodas.",
-        "D) Todos os veículos são obrigados a ter placa dianteira. D) Todos os veículos são obrigados a ter placa dianteira."
+        "A) Quatro rodas.",
+        "B) Mais de quatro rodas.",
+        "C) Duas ou três rodas.",
+        "D) Todos os veículos são obrigados a ter placa dianteira."
       ],
       "img": null,
       "ok": 2
@@ -233,7 +233,7 @@ window.PROVA_ATUAL = {
       "mat": "Legislação",
       "txt": "Ao registrar o veículo automotor, o órgão executivo de trânsito expedirá o documento:",
       "ops": [
-        "A) Certificado ambiental .",
+        "A) Certificado ambiental.",
         "B) Certificado de Segurança Veicular.",
         "C) Certificado de Registro de Veículo.",
         "D) Certificado de Registro e Licenciamento de Veículo."
@@ -244,10 +244,10 @@ window.PROVA_ATUAL = {
     {
       "n": 19,
       "mat": "Legislação",
-      "txt": "C onstitui documento de porte obrigatório:",
+      "txt": "Constitui documento de porte obrigatório:",
       "ops": [
         "A) Certificado de Registro de Veículo.",
-        "B) Autorização, Permissão para Dirigir ou Carteira Nacional B) Autorização para Conduzir Ciclomotor, Permissão de Habilitação. para Dirigir ou Carteira Nacional de Habilitação.",
+        "B) Autorização para Conduzir Ciclomotor, Permissão para Dirigir ou Carteira Nacional de Habilitação.",
         "C) Comprovante do pagamento do Seguro Obrigatório.",
         "D) Comprovante do pagamento atualizado do IPVA."
       ],

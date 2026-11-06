@@ -54,7 +54,7 @@
         "A) Lanterna de freio de cor vermelha.",
         "B) Velocímetro.",
         "C) Extintor de incêndio.",
-        "D) Iluminação de placa traseira. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Iluminação de placa traseira."
       ],
       "img": null,
       "ok": 2
@@ -166,7 +166,7 @@
     {
       "n": 13,
       "mat": "Legislação",
-      "txt": "A placa de nº A-18 a dverte :",
+      "txt": "A placa de nº A-18 a dverte:",
       "ops": [
         "A) Depressão.",
         "B) Saliência ou lombada.",
@@ -218,7 +218,7 @@
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A placa de nº R-6b regulamenta :",
+      "txt": "A placa de nº R-6b regulamenta:",
       "ops": [
         "A) Estacionamento regulamentado.",
         "B) Proibido estacionar.",
@@ -366,7 +366,7 @@
         "A) Deficiências auditivas.",
         "B) Irritabilidade e agressividade.",
         "C) Insônia, agitação e dispersão.",
-        "D) Todas as alternativas estão corretas. NOÇÕES DE MECÂNICA"
+        "D) Todas as alternativas estão corretas."
       ],
       "img": null,
       "ok": 1

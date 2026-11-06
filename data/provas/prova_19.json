@@ -54,7 +54,7 @@
         "A) Curso de direção defensiva.",
         "B) Exame de aptidão física e mental.",
         "C) Curso de reciclagem.",
-        "D) Avaliação psicológica. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Avaliação psicológica."
       ],
       "img": null,
       "ok": 2
@@ -101,7 +101,7 @@
     {
       "n": 8,
       "mat": "Legislação",
-      "txt": "Onde não houver sinalização regulamentadora, a velocidade máxima será de :",
+      "txt": "Onde não houver sinalização regulamentadora, a velocidade máxima será de:",
       "ops": [
         "A) 20Km/h nas vias locais.",
         "B) 40Km/h nas vias coletoras.",
@@ -192,7 +192,7 @@
     {
       "n": 15,
       "mat": "Legislação",
-      "txt": "A placa de nº R-4b regulamenta :",
+      "txt": "A placa de nº R-4b regulamenta:",
       "ops": [
         "A) Proibido virar à esquerda.",
         "B) Proibido virar à direita.",
@@ -366,7 +366,7 @@
         "A) Contribuem para a segurança dos veículos.",
         "B) Diminuem o desgaste do motor.",
         "C) Reduzem a emissão de gases poluentes na atmosfera.",
-        "D) Contribuem para o consumo excessivo de combustível e lubrificante. NOÇÕES DE MECÂNICA"
+        "D) Contribuem para o consumo excessivo de combustível e lubrificante."
       ],
       "img": null,
       "ok": 2
@@ -374,7 +374,7 @@
     {
       "n": 29,
       "mat": "Legislação",
-      "txt": "A bobina tem a função de :",
+      "txt": "A bobina tem a função de:",
       "ops": [
         "A) Condensar a corrente elétrica.",
         "B) Diminuir a tensão da corrente elétrica.",

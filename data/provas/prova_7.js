@@ -13,7 +13,7 @@ window.PROVA_ATUAL = {
       "txt": "Assinale a infração gravíssima:",
       "ops": [
         "A) Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que não haja concluído a travessia mesmo que ocorra sinal verde para o veículo.",
-        "B) Deixar de dar preferência de passagem nas interseções com",
+        "B) Deixar de dar preferência de passagem nas interseções com sinalização de Dê a Preferência.",
         "C) Deixar de dar preferência de passagem em interseção não sinalizada a veículo que estiver circulando por rodovia ou rotatória.",
         "D) Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que vier da direita."
       ],
@@ -23,12 +23,12 @@ window.PROVA_ATUAL = {
     {
       "n": 2,
       "mat": "Legislação",
-      "txt": "Em uma via rural não pavimentada, desprovida de registrada por instrumento eletrônico (radar), um condutor dirigindo seu veículo a velocidade de 100 Km/ h. Esse condutor cometeu infração de natureza:",
+      "txt": "Em uma via rural não pavimentada, desprovida de sinalização regulamentadora, foi registrado por instrumento eletrônico (radar) um condutor dirigindo seu veículo à velocidade de 100 km/h. Esse condutor cometeu infração de natureza:",
       "ops": [
-        "A) Grave x3. A) Grave.",
+        "A) Grave.",
         "B) Média.",
-        "C) Grave. C) Leve.",
-        "D) Gravíssima. x3."
+        "C) Leve.",
+        "D) Gravíssima (x3)."
       ],
       "img": null,
       "ok": 3
@@ -88,12 +88,12 @@ window.PROVA_ATUAL = {
     {
       "n": 7,
       "mat": "Legislação",
-      "txt": "Conduzir veículo com qualquer uma das placas de identificação sem condições de legibilidade ou visibilidade, estará sujeito às seguintes penalidades: punições:",
+      "txt": "Conduzir veículo com qualquer uma das placas de identificação sem condições de legibilidade ou visibilidade estará sujeito às seguintes punições:",
       "ops": [
-        "A) Multa e apreensão do veículo. Multa somente. .",
-        "B) Apreensão e remoção do veículo. Multa, recolhimento da habilitação e remoção do veículo",
+        "A) Multa somente.",
+        "B) Multa, recolhimento da habilitação e remoção do veículo.",
         "C) Multa e remoção do veículo.",
-        "D) Apreensão do veículo e da Carteira Nacional de Habilitação. Recolhimento da Carteira Nacional de Habilitação."
+        "D) Recolhimento da Carteira Nacional de Habilitação."
       ],
       "img": null,
       "ok": 2
@@ -205,12 +205,12 @@ window.PROVA_ATUAL = {
     {
       "n": 16,
       "mat": "Legislação",
-      "txt": "Os veículos apreendidos e não reclamados pelo seu removidos proprietário, poderão ser levados à asta pública em: hasta",
+      "txt": "Os veículos removidos e não reclamados pelo seu proprietário poderão ser levados à hasta pública em:",
       "ops": [
         "A) 90 dias.",
         "B) 30 dias.",
-        "C) 6 0 dias. 60 dias.",
-        "D) 15 dias ."
+        "C) 60 dias.",
+        "D) 15 dias."
       ],
       "img": null,
       "ok": 2
@@ -231,12 +231,12 @@ window.PROVA_ATUAL = {
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "O pedestre que desobedece às regras e a 254 do CTB está praticando infração de natureza leve, sujeito a penalidade de __________, no valor de:",
+      "txt": "O pedestre que desobedece às regras do art. 254 do CTB está praticando infração de natureza leve, sujeito à penalidade de __________, no valor de:",
       "ops": [
-        "A) Advertência por escrito; 40% por cento do valor da infração de natureza leve.",
-        "B) Multa; 50% cinquenta por cento do valor da infração de natureza leve.",
-        "C) Frequência obrigatória em curso de reciclagem; 20%vinte por cento do valor da infração de natureza leve.",
-        "D) Multa; 50% cinquenta por cento do valor da infração de natureza média."
+        "A) Advertência por escrito; 40% (quarenta por cento) do valor da infração de natureza leve.",
+        "B) Multa; 50% (cinquenta por cento) do valor da infração de natureza leve.",
+        "C) Frequência obrigatória em curso de reciclagem; 20% (vinte por cento) do valor da infração de natureza leve.",
+        "D) Multa; 50% (cinquenta por cento) do valor da infração de natureza média."
       ],
       "img": null,
       "ok": 1
@@ -352,7 +352,7 @@ window.PROVA_ATUAL = {
       "ops": [
         "A) Dirigir com velocidade superior a máxima em mais de cinquenta por cento.",
         "B) Dirigir ameaçando os pedestres que estejam atravessando a via pública ou os demais veículos.",
-        "C) C onduz ir veículo, estandosuspenso o direito de dirigir.",
+        "C) Conduzir veículo, estando suspenso o direito de dirigir.",
         "D) Deixar de prestar socorro à vítima de acidente de trânsito."
       ],
       "img": null,
@@ -361,11 +361,11 @@ window.PROVA_ATUAL = {
     {
       "n": 28,
       "mat": "Legislação",
-      "txt": "Roberto foi surpreendido em 01.08.07 promovendo na via pública competição esportiva, sem permissão da autoridade de trânsito com circunscrição sobre a via. Se ele cometer a mesma infração em 01.07.08 lhe será aplicado as seguintes penalidades: punições:",
+      "txt": "Roberto foi surpreendido em 01/08/07 promovendo na via pública competição esportiva, sem permissão da autoridade de trânsito com circunscrição sobre a via. Se ele cometer a mesma infração em 01/07/08, ser-lhe-ão aplicadas as seguintes punições:",
       "ops": [
         "A) Multa, suspensão do direito de dirigir e apreensão do veículo.",
         "B) Multa, suspensão do direito de dirigir e retenção do veículo.",
-        "C) Multa, cassação do documento de habilitação e C) Multa, cassação da CNH e remoção do veículo se não apreensão do veículo. apresentar condutor habilitado para retirá-lo.",
+        "C) Multa, cassação da CNH e remoção do veículo se não apresentar condutor habilitado para retirá-lo.",
         "D) Multa, cassação do documento de habilitação e retenção do veículo."
       ],
       "img": null,

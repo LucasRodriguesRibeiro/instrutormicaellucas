@@ -10,7 +10,7 @@
     {
       "n": 1,
       "mat": "Legislação",
-      "txt": "Quando da renovação da CNH o condutor do veículo auto- mor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+      "txt": "Quando da renovação da CNH o condutor do veículo automotor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
       "ops": [
         "A) De 05 (cinco) em 05 (cinco) anos a partir dos 60 (sessenta) anos de idade.",
         "B) De 03 (três) em 03 (três) anos a partir dos 40 (quarenta) anos de idade.",
@@ -23,7 +23,7 @@
     {
       "n": 2,
       "mat": "Legislação",
-      "txt": "O condutor de veículo automotor, após 65 (sessenta e cin- co) anos de idade, ao renovar sua CNH deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+      "txt": "O condutor de veículo automotor, após 65 (sessenta e cinco) anos de idade, ao renovar sua CNH deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
       "ops": [
         "A) De 03 (três) em 03 (três) anos.",
         "B) De 05 (cinco) em 05 (cinco) anos.",
@@ -36,7 +36,7 @@
     {
       "n": 3,
       "mat": "Legislação",
-      "txt": "A licença de aprendizagem para prática de direção vei- cular em via pública, ou em locais autorizados para este fim, será exigida pelo DETRAN ao candidato que:",
+      "txt": "A licença de aprendizagem para prática de direção veicular em via pública, ou em locais autorizados para este fim, será exigida pelo DETRAN ao candidato que:",
       "ops": [
         "A) Tenha completado 16 (dezesseis) anos de idade.",
         "B) Tenha completado 18 (dezoito) anos de idade.",
@@ -67,7 +67,7 @@
         "A) Não é válida para substituir documento original.",
         "B) É válida quando autenticada em cartório.",
         "C) É válida quando não plastificada.",
-        "D) É válida quando apresentada junto com o documento de iden- tificação do portador."
+        "D) É válida quando apresentada junto com o documento de identificação do portador."
       ],
       "img": null,
       "ok": 0
@@ -114,7 +114,7 @@
     {
       "n": 9,
       "mat": "Legislação",
-      "txt": "De acordo com a legislação de trânsito, os veículos classificados quanto a espécie , são :",
+      "txt": "De acordo com a legislação de trânsito, os veículos classificados quanto a espécie, são:",
       "ops": [
         "A) Oficial, particular, aluguel, de corrida.",
         "B) Passageiros, carga, misto, competição, tração, especial e coleção.",
@@ -130,7 +130,7 @@
       "txt": "Quando o condutor usar indevidamente aparelhos de alarme ou que produza sons, ruídos ou barulhos que perturbem o sossego público estará sujeito à penalidade:",
       "ops": [
         "A) Multa e retenção do veículo.",
-        "B) Multa, apreensão do veículo e da Carteira Nacional de Habili- tação.",
+        "B) Multa, apreensão do veículo e da Carteira Nacional de Habilitação.",
         "C) Multa e apreensão do veículo.",
         "D) Multa e suspensão da Carteira Nacional de Habilitação."
       ],
@@ -142,8 +142,8 @@
       "mat": "Legislação",
       "txt": "Quando uma pista de rolamento comportar várias faixas de trânsito no mesmo sentido ficarão as da:",
       "ops": [
-        "A) Direita destinada à ultrapassagem e ao deslocamento de veícu- los de maior velocidade.",
-        "B) Esquerda destinada à ultrapassagem e ao deslocamento de",
+        "A) Direita destinada à ultrapassagem e ao deslocamento de veículos de maior velocidade.",
+        "B) Esquerda destinada à ultrapassagem e ao deslocamento de veículos de maior velocidade.",
         "C) Direita destinada a veículos de socorro e de urgência.",
         "D) Esquerda destinada à ultrapassagem e ao deslocamento de veículos lentos."
       ],
@@ -153,7 +153,7 @@
     {
       "n": 12,
       "mat": "Legislação",
-      "txt": "Quando em via de mão única, dotada de duas ou mais faix- as de trânsito, o condutor que estiver em sua frente sinalizar e posicionar o veículo corretamente para convergir à esquerda, você poderá:",
+      "txt": "Quando em via de mão única, dotada de duas ou mais faixas de trânsito, o condutor que estiver em sua frente sinalizar e posicionar o veículo corretamente para convergir à esquerda, você poderá:",
       "ops": [
         "A) Ultrapassar pela direita.",
         "B) Diminiuir, porque é proibido ultrapassar nos cruzamentos.",
@@ -218,12 +218,12 @@
     {
       "n": 17,
       "mat": "Legislação",
-      "txt": "A placa de Nº A-11a a dverte :",
+      "txt": "A placa de Nº A-11a a dverte:",
       "ops": [
         "A) Siga em frente à direita.",
         "B) Junções sucessivas contrárias primeira à direita.",
         "C) Confluência à esquerda.",
-        "D) Junções sucessivas contrárias primeira à es- querda."
+        "D) Junções sucessivas contrárias primeira à esquerda."
       ],
       "img": null,
       "ok": 3
@@ -301,7 +301,7 @@
         "A) Calibragem dos pneus.",
         "B) Tipo de solo.",
         "C) Tipo de combustível.",
-        "D) Clima. NOÇÕES DE PRIMEIROS SOCORROS"
+        "D) Clima."
       ],
       "img": null,
       "ok": 2
@@ -309,12 +309,12 @@
     {
       "n": 24,
       "mat": "Legislação",
-      "txt": "Não constitui procedimento correto, em caso de tempera- tura elevada:",
+      "txt": "Não constitui procedimento correto, em caso de temperatura elevada:",
       "ops": [
         "A) Agasalhar bem a vítima para normalizar a temperatura.",
-        "B) Ao verificar a temperatura corporal nas axilas, as mesmas de- vem estar secas.",
+        "B) Ao verificar a temperatura corporal nas axilas, as mesmas devem estar secas.",
         "C) As compressas úmidas e frias no couro cabeludo ajudam a evitar convulções.",
-        "D) O banho de imersão está indicado para normalizar a tempera- tura elevada."
+        "D) O banho de imersão está indicado para normalizar a temperatura elevada."
       ],
       "img": null,
       "ok": 0
@@ -327,7 +327,7 @@
         "A) O manuseio incorreto da vítima pode agravar sua situação.",
         "B) Sensibilidade é a capacidade de não sentir dor.",
         "C) A dormência nas extremidades pode ocorrer por lesões n a coluna cervical.",
-        "D) Paralisia é a incapacidade de movimentação dos membros. PROTEÇÃO AO MEIO AMBIENTE E CONVÍVIO SOCIAL"
+        "D) Paralisia é a incapacidade de movimentação dos membros."
       ],
       "img": null,
       "ok": 1
@@ -348,12 +348,12 @@
     {
       "n": 27,
       "mat": "Legislação",
-      "txt": "Em casos de acidentes com produtos perigosos, são pro- cedimentos incorretos:",
+      "txt": "Em casos de acidentes com produtos perigosos, são procedimentos incorretos:",
       "ops": [
         "A) Identificar o risco, observando os rótulos e painéis de segurança.",
         "B) Obter ajuda, comunicando o acidente às entidades envolvidas.",
         "C) Aproximar-se do local o mais rápido possível e retirar as vítimas, se existirem.",
-        "D) Isolar o local para assegurar proteção às pessoas e ao ambiente. NOÇÕES DE MECÂNICA"
+        "D) Isolar o local para assegurar proteção às pessoas e ao ambiente."
       ],
       "img": null,
       "ok": 2

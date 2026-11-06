@@ -10,7 +10,7 @@
     {
       "n": 1,
       "mat": "Legislação",
-      "txt": "Assinale a alternativa que completa a questão: Para habilitar-se na categoria C, o condutor deverá estar habilitado no mínimo há 1 ano na categoria____ e não ter cometido nenhuma infração grave ou gravíssima, ou ser reincidente em infrações médias durante os últimos____ meses.",
+      "txt": "Assinale a alternativa que completa a questão: Para habilitar-se na categoria C, o condutor deverá estar habilitado no mínimo há 1 ano na categoria ____ e não ter cometido nenhuma infração grave ou gravíssima, ou ser reincidente em infrações médias durante os últimos ____ meses.",
       "ops": [
         "A) A; 12.",
         "B) B; 24.",
@@ -54,7 +54,7 @@
         "A) Transportar passageiro em carro lateral acoplado ao veículo ou seu assento suplementar atrás do condutor.",
         "B) Conduzir com faróis acesos do veículo, utilizando luz baixa, durante o dia e a noite, nos túneis providos de iluminação pública.",
         "C) Manter acesas pelo menos as luzes de posição do veículo quando sob chuva forte, neblina ou cerração.",
-        "D) Transportar criança menor de sete anos ou que não tenha nas circunstâncias, condições de cuidar de sua própria segurança. NORMAS DE CIRCULAÇÃO E CONDUTA"
+        "D) Transportar criança menor de sete anos ou que não tenha nas circunstâncias, condições de cuidar de sua própria segurança."
       ],
       "img": null,
       "ok": 3
@@ -231,7 +231,7 @@
     {
       "n": 18,
       "mat": "Legislação",
-      "txt": "A placa de nº R-16 regulamenta :",
+      "txt": "A placa de nº R-16 regulamenta:",
       "ops": [
         "A) Altura máxima permitida.",
         "B) Comprimento limitado.",
@@ -247,7 +247,7 @@
       "txt": "Assinale a alternativa incorreta:",
       "ops": [
         "A) O ato de dirigir é sempre dinâmico, onde as situações modificam-se constantemente.",
-        "B) A força centrípeta tende a jogar o veículo para fora da curva .",
+        "B) A força centrípeta tende a jogar o veículo para fora da curva.",
         "C) Automatismos são gestos ou ações efetuadas pelo condutor de forma inconsciente.",
         "D) Automatismos são reflexos adquiridos na prática da direção veicular."
       ],
@@ -335,7 +335,7 @@
     {
       "n": 26,
       "mat": "Legislação",
-      "txt": "Um acidentado apresenta um pedaço de vidro encravado no olho , n este caso deve se: -",
+      "txt": "Um acidentado apresenta um pedaço de vidro encravado no olho, n este caso deve se: -",
       "ops": [
         "A) Retirar o vidro com uma pinça.",
         "B) Pingar colírio anestésico/desinfetante.",
@@ -366,7 +366,7 @@
         "A) Instalando equipamentos não originais.",
         "B) Utilizando livremente os dispositivos sonoros dos veículos.",
         "C) Mantendo o silenciador em bom estado.",
-        "D) Utilizando combustível especial. NOÇÕES DE MECÂNICA"
+        "D) Utilizando combustível especial."
       ],
       "img": null,
       "ok": 2
