@@ -1,0 +1,402 @@
+{
+  "id": 44,
+  "numeroCompleto": 7,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 07 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação de Trânsito",
+      "txt": "Ao se aproximar de um cruzamento, uma forma segura de agir é:",
+      "ops": [
+        "A) Reduzir a velocidade.",
+        "B) Manter a mesma velocidade.",
+        "C) Aumentar a velocidade.",
+        "D) Parar o veículo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 2,
+      "mat": "Penalidades e Multas",
+      "txt": "A penalidade de advertência por escrito poderá ser aplicada pela autoridade, quando entender esta providência como mais educativa, a infração de:",
+      "ops": [
+        "A) Natureza grave.",
+        "B) Natureza leve ou média.",
+        "C) Natureza gravíssima.",
+        "D) Em nenhuma hipótese."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor está dirigindo e verifica que há ciclistas no trânsito. Antes de ultrapassá-los deve:",
+      "ops": [
+        "A) Buzinar e seguir normalmente. O ciclista deve tomar cuidado.",
+        "B) Não se incomodar. Ciclistas não representam um motivo para preocupação.",
+        "C) Ficar ao lado deles e avisá-los que deverão encostar.",
+        "D) Dar um toque breve na buzina e deixar espaço de segurança entre seu veículo e a bicicleta."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 4,
+      "mat": "Penalidades e Multas",
+      "txt": "O condutor infrator será submetido a curso de reciclagem, quando:",
+      "ops": [
+        "A) Cassada a sua Carteira Nacional de Habilitação.",
+        "B) Suspenso do direito de dirigir.",
+        "C) Cometer duas infrações de natureza média.",
+        "D) Cometer qualquer infração de natureza grave."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 5,
+      "mat": "Legislação de Trânsito",
+      "txt": "Quando, dirigindo um veículo numa via de mão única com retorno ou entrada à esquerda, o condutor que estiver à frente indicar, por sinal, que vai entrar para esse lado, você poderá:",
+      "ops": [
+        "A) Ultrapassar pela esquerda.",
+        "B) Fazer um retorno.",
+        "C) Acelerar o veículo.",
+        "D) Ultrapassar pela direita."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 6,
+      "mat": "Penalidades e Multas",
+      "txt": "Na infração “Dirigir veículo falando ao telefone celular” são computados os seguintes pontos.",
+      "ops": [
+        "A) (04) quatro.",
+        "B) (05) cinco.",
+        "C) (07) sete.",
+        "D) (03) três."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "Todo condutor de veículo deve dar preferência de passagem ao pedestre:",
+      "ops": [
+        "A) Somente nas faixas de segurança.",
+        "B) Em qualquer situação.",
+        "C) Somente quando se tratar de deficiente físico.",
+        "D) Somente quando se tratar de idosos e crianças."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Penalidades e Multas",
+      "txt": "Complete a questão: A cada infração de trânsito são computados números de pontos no prontuário do infrator, sendo: média ____ pontos; grave ___ pontos; leve ____ pontos e gravíssima _____ pontos.",
+      "ops": [
+        "A) 7; 4; 5; 3",
+        "B) 7; 5; 4; 3",
+        "C) 3; 7; 5; 4",
+        "D) 4; 5; 3; 7"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação de Trânsito",
+      "txt": "É dever do pedestre:",
+      "ops": [
+        "A) Ceder a preferência aos veículos.",
+        "B) Manter as faixas e passagens em boas condições de higiene.",
+        "C) Obedecer a sinalização.",
+        "D) Andar na pista de rolamento, no mesmo sentido dos veículos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 10,
+      "mat": "Penalidades e Multas",
+      "txt": "O condutor de veículo não obtém a sua Carteira Nacional de Habilitação, reiniciando todo o processo de habilitação, quando:",
+      "ops": [
+        "A) Portador da Permissão para Dirigir, comete infração de natureza leve.",
+        "B) Portador da Permissão para Dirigir, seja reincidente em infração leve.",
+        "C) Portador da Permissão para Dirigir, comete infração de natureza média.",
+        "D) Portador da Permissão para Dirigir, comete infração de natureza grave ou gravíssima ou seja reincidente em infração média."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor deve sinalizar e deslocar, com antecedência, o seu veículo para faixa mais à esquerda da sua mão de direção para:",
+      "ops": [
+        "A) Mudar de faixa de trânsito.",
+        "B) Fazer uma ultrapassagem.",
+        "C) Aumentar a velocidade.",
+        "D) Entrar à esquerda."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Penalidades e Multas",
+      "txt": "O responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou no peso bruto total, quando simultaneamente for o único remetente da carga e o peso declarado da nota fiscal, fatura ou manifesto for inferior àquele aferido é o:",
+      "ops": [
+        "A) Embarcador",
+        "B) Proprietário",
+        "C) Condutor",
+        "D) Transportador"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor não poderá ultrapassar veículos:",
+      "ops": [
+        "A) Nos trechos em curvas e em aclives com visibilidade suficiente.",
+        "B) Nas passagens de nível, com sinalização permitindo a ultrapassagem.",
+        "C) Em vias com duplo sentido de direção e pista única, quando houver sinalização permitindo a ultrapassagem.",
+        "D) Pontes, viadutos e nas travessias de pedestres."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 14,
+      "mat": "Penalidades e Multas",
+      "txt": "O aprendiz encontrado dirigindo desacompanhado do responsável por sua instrução está sujeito a ter sua licença:",
+      "ops": [
+        "A) Suspensa e só poderá obter nova licença decorridos 6 (seis) meses do ato da suspensão.",
+        "B) Apreendida e só poderá obtê-la novamente após 6 (seis) meses do ato da apreensão.",
+        "C) Suspensa por 3 (três) meses os quais poderá retomar ao aprendizado.",
+        "D) Cassada e só poderá obter nova licença passados 3 (três) meses do ato da cassação."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação de Trânsito",
+      "txt": "Nas interseções e suas proximidades, o condutor:",
+      "ops": [
+        "A) Poderá efetuar ultrapassagem.",
+        "B) Poderá e stacionar.",
+        "C) Não poderá efetuar ultrapassagem.",
+        "D) Não precisa diminuir a velocidade do veículo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Penalidades e Multas",
+      "txt": "As infrações decorrentes de atos praticados, na direção do veículo automotor por condutor inabilitado é de responsabilidade do:",
+      "ops": [
+        "A) Condutor do veículo.",
+        "B) Proprietário do veículo.",
+        "C) Proprietário e condutor do veículo concomitantemente.",
+        "D) Transportador e embarcador."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação de Trânsito",
+      "txt": "Quando uma pista de rolamento comportar várias faixas de circulação no mesmo sentido, são as da ___________ destinadas ao deslocamento dos veículos mais ___________ e de maior porte, quando não houver faixa especial a eles destinada.",
+      "ops": [
+        "A) Direita; rápidos.",
+        "B) Esquerda; lentos.",
+        "C) Direita; lentos.",
+        "D) Esquerda; rápidos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 18,
+      "mat": "Penalidades e Multas",
+      "txt": "O condutor que for flagrado dirigindo o veículo segurando ou manuseando telefone celular comete infração de natureza:",
+      "ops": [
+        "A) Grave — 5 pontos.",
+        "B) Leve — 3 pontos.",
+        "C) Gravíssima — 7 pontos.",
+        "D) Média — 4 pontos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação de Trânsito",
+      "txt": "Os condutores de motocicletas, motonetas e ciclomotores só poderão circular nas vias:",
+      "ops": [
+        "A) Segurando o guidão com apenas uma das mãos.",
+        "B) Usando vestuário de proteção, quando transitar por rodovias.",
+        "C) Utilizando capacete de segurança, com viseira ou óculos protetores.",
+        "D) Fazendo uso do facho de luz alta nos túneis providos de iluminação pública."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 20,
+      "mat": "Penalidades e Multas",
+      "txt": "Advertência por escrito e frequência obrigatória em curso de reciclagem são consideradas:",
+      "ops": [
+        "A) Medidas administrativas.",
+        "B) Infrações de trânsito.",
+        "C) Penalidades.",
+        "D) Recurso administrativo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 21,
+      "mat": "Legislação de Trânsito",
+      "txt": "A faixa de trânsito destinada a se fazer ultrapassagem e circular em maior velocidade é:",
+      "ops": [
+        "A) Da direita.",
+        "B) Da esquerda.",
+        "C) Qualquer uma.",
+        "D) A sinalização com linhas amarelas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 22,
+      "mat": "Penalidades e Multas",
+      "txt": "É considerada medida administrativa:",
+      "ops": [
+        "A) Retenção do veículo.",
+        "B) Apreensão do veículo.",
+        "C) Frequência obrigatória em curso de reciclagem.",
+        "D) Suspensão do direito de dirigir."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 23,
+      "mat": "Legislação de Trânsito",
+      "txt": "O ciclista desmontado empurrando a bicicleta equipara-se, em direitos e deveres, ao:",
+      "ops": [
+        "A) Pedestre",
+        "B) Condutor",
+        "C) Motociclista",
+        "D) Passageiro"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação de Trânsito",
+      "txt": "Os veículos em missão de emergência, com as sirenes e os dispositivos de luzes intermitentes desligados, têm preferência de passagem quando:",
+      "ops": [
+        "A) Cruzam com veículos que trafegam nas vias utilizadas pelas linhas de ônibus.",
+        "B) Cruzam com veículos que se aproximam pela esquerda, em se tratando de cruzamento não sinalizado.",
+        "C) Cruzam com veículos que transportam passageiros.",
+        "D) Cruzam com veículos que trafegam em via não pavimentada."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 25,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de nº R-6a reg ulamenta:",
+      "ops": [
+        "A) Proibido parar e estacionar.",
+        "B) Proibido estacionar.",
+        "C) Estacionamento regulamentado.",
+        "D) Proibido parar."
+      ],
+      "img": "assets/questoes/p7_q13.png",
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de nº A-42b adverte:",
+      "ops": [
+        "A) Fim de pista dupla.",
+        "B) Início de pista dupla.",
+        "C) Mão dupla adiante.",
+        "D) Sentido duplo."
+      ],
+      "img": "assets/questoes/p7_q14.png",
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Primeiros Socorros",
+      "txt": "As ações, a serem realizadas pelo socorrista no local do acidente, são:",
+      "ops": [
+        "A) Retirar o veículo do local, sinalizar o local.",
+        "B) Retirar a vítima do veículo, sinalizar o local.",
+        "C) Pedir socorro, controlar a situação, verificar a situação das vítimas.",
+        "D) Medir a pressão arterial e dar líquido à vítima."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Primeiros Socorros",
+      "txt": "Em acidentes de trânsito, afastar os curiosos, se for seguro, desligar o motor do veículo envolvido e orientar para que não fumem no local. É uma ação do socorrista para a possibilidade de ocorrência de:",
+      "ops": [
+        "A) Atropelamento.",
+        "B) Incêndio.",
+        "C) Óleo e/ou obstáculo na pista.",
+        "D) Cabos de eletricidade caindo no local."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 29,
+      "mat": "Primeiros Socorros",
+      "txt": "Em acidente automobilístico envolvendo veículo com passageiros e fio elétrico caído sobre o veículo, os passageiros deverão, até ser desligada a energia:",
+      "ops": [
+        "A) Serem retirados imediatamente.",
+        "B) Sair um a um do veículo.",
+        "C) Afastar o veículo do fio elétrico.",
+        "D) Permanecer no veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Primeiros Socorros",
+      "txt": "Ao acionar o serviço de atendimento, o socorrista não deverá passar as seguintes informações:",
+      "ops": [
+        "A) Gravidade aparente do acidente.",
+        "B) Nome da rua ou rodovia e número próximo.",
+        "C) Endereço e número do telefone da vítima.",
+        "D) Tipo de acidente, se envolve carro, motocicleta, colisão, atropelamento etc."
+      ],
+      "img": null,
+      "ok": 2
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 (function(){
   'use strict';
   var params = new URLSearchParams(location.search);
-  var id = Number(params.get('id') || 1);
-  if (!Number.isInteger(id) || id < 1 || id > 37) id = 1;
+  var id = Number(params.get('id') || 38);
+  if (!Number.isInteger(id) || id < 1 || id > 47) id = 38;
 
   function iniciar() {
     // Definir window.SIMULADO a partir de window.PROVA_ATUAL se existir

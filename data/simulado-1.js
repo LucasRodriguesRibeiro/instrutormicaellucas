@@ -1,38 +1,402 @@
 window.SIMULADO = {
-  id: 1,
-  titulo: 'Simulado 1 de 25',
-  duracao: 60,
-  minimoAprovacao: 21,
-  questoes: [
-    {n:1,mat:'Legislação',txt:'De acordo com o CTB, qual é a velocidade máxima permitida em rodovias de pista dupla para veículos de passeio?',ops:['A) 80 km/h','B) 100 km/h','C) 110 km/h','D) 120 km/h'],ok:2},
-    {n:2,mat:'Legislação',txt:'O uso do cinto de segurança é obrigatório:',ops:['A) Apenas em rodovias federais','B) Apenas para o motorista em vias urbanas','C) Em todas as vias públicas, para todos os ocupantes do veículo','D) Somente à noite e em rodovias'],ok:2},
-    {n:3,mat:'Legislação',txt:'Qual é a validade da CNH para condutores com menos de 50 anos de idade?',ops:['A) 3 anos','B) 5 anos','C) 8 anos','D) 10 anos'],ok:1},
-    {n:4,mat:'Legislação',txt:'A faixa de pedestre sinalizada no leito carroçável garante ao pedestre:',ops:['A) Preferência de passagem sobre os veículos','B) Travessia somente com semáforo de pedestre verde','C) Autorização para cruzar em qualquer ponto da via','D) Proteção apenas em horário comercial'],ok:0},
-    {n:5,mat:'Legislação',txt:'A categoria "B" da CNH habilita o condutor para veículos com peso bruto total de até:',ops:['A) 2.500 kg','B) 3.000 kg','C) 3.500 kg','D) 4.500 kg'],ok:2},
-    {n:6,mat:'Legislação',txt:'A ultrapassagem é PROIBIDA:',ops:['A) Em vias expressas durante o dia','B) Nas proximidades de curvas ou aclives com visibilidade reduzida','C) Em vias de mão dupla com limite de velocidade de 80 km/h','D) Somente à noite em vias urbanas'],ok:1},
-    {n:7,mat:'Legislação',txt:'O semáforo com luz AMARELA determina que o condutor deve:',ops:['A) Acelerar para cruzar antes do vermelho','B) Manter a velocidade atual e seguir normalmente','C) Parar imediatamente em qualquer situação','D) Reduzir a velocidade e preparar para parar'],ok:3},
-    {n:8,mat:'Legislação',txt:'Em caso de acidente com vítima, o condutor envolvido que abandonar o local comete:',ops:['A) Apenas infração administrativa gravíssima','B) Crime de trânsito com pena de detenção de 6 meses a 3 anos','C) Infração grave com suspensão imediata da CNH','D) Crime somente se houver vítima fatal'],ok:1},
-    {n:9,mat:'Legislação',txt:'A velocidade máxima em vias urbanas de trânsito rápido é:',ops:['A) 60 km/h','B) 70 km/h','C) 80 km/h','D) 100 km/h'],ok:2},
-    {n:10,mat:'Legislação',txt:'Qual documento NÃO é exigido ao condutor durante fiscalização de trânsito?',ops:['A) CNH ou PPD válida','B) CRLV do veículo','C) Nota fiscal do veículo','D) Comprovante de pagamento do seguro obrigatório'],ok:2},
-    {n:11,mat:'Legislação',txt:'A ordem de preferência dos sinais de trânsito é:',ops:['A) Semáforo, sinalização horizontal, sinalização vertical','B) Agente de trânsito, semáforo, sinalização vertical','C) Sinalização vertical, agente de trânsito, semáforo','D) Agente de trânsito, sinalização vertical, semáforo'],ok:1},
-    {n:12,mat:'Legislação',txt:'Sobre a PPD (Permissão Para Dirigir), é correto afirmar:',ops:['A) Tem validade permanente e equivale à CNH definitiva','B) O condutor a utiliza por 1 ano antes de receber a CNH definitiva','C) Pode ser obtida sem realização de exames práticos','D) É exigida apenas para a categoria A (moto)'],ok:1},
-    {n:13,mat:'Penalidades',txt:'Dirigir sob influência de álcool acima do limite legal é infração classificada como:',ops:['A) Grave — 5 pontos na CNH','B) Gravíssima com fator multiplicador','C) Média — 4 pontos na CNH','D) Leve — 3 pontos na CNH'],ok:1},
-    {n:14,mat:'Penalidades',txt:'O condutor que avança o sinal vermelho do semáforo perde quantos pontos na CNH?',ops:['A) 3 pontos','B) 5 pontos','C) 7 pontos','D) 10 pontos'],ok:2},
-    {n:15,mat:'Penalidades',txt:'Não utilizar o cinto de segurança é infração classificada como:',ops:['A) Leve — 3 pontos','B) Média — 4 pontos','C) Grave — 5 pontos','D) Gravíssima — 7 pontos'],ok:2},
-    {n:16,mat:'Penalidades',txt:'Um condutor sem infração gravíssima terá a habilitação suspensa ao atingir, em 12 meses:',ops:['A) 20 pontos','B) 30 pontos','C) 40 pontos','D) 50 pontos'],ok:2},
-    {n:17,mat:'Penalidades',txt:'Dirigir veículo sem a devida habilitação é infração:',ops:['A) Leve','B) Média','C) Grave','D) Gravíssima'],ok:3},
-    {n:18,mat:'Penalidades',txt:'O uso do celular enquanto dirige é infração:',ops:['A) Leve — 3 pontos','B) Grave — 5 pontos','C) Gravíssima — 7 pontos','D) Não é infração quando usado no modo viva-voz'],ok:2},
-    {n:19,mat:'Penalidades',txt:'A cassação da CNH é uma penalidade:',ops:['A) Temporária, com duração máxima de 12 meses','B) Criminal, aplicada apenas por juiz','C) Administrativa e definitiva para aquela habilitação','D) Aplicada somente em caso de acidente com vítima fatal'],ok:2},
-    {n:20,mat:'Penalidades',txt:'O condutor que exceder a velocidade máxima permitida em mais de 50% comete infração:',ops:['A) Grave — 5 pontos','B) Média — 4 pontos','C) Gravíssima com fator multiplicador de 3','D) Leve — 3 pontos'],ok:2},
-    {n:21,mat:'Primeiros Socorros',txt:'A sequência correta de ações ao chegar a um acidente de trânsito é:',ops:['A) Socorrer, sinalizar, proteger','B) Proteger, sinalizar, socorrer','C) Sinalizar, socorrer, proteger','D) Proteger, socorrer, sinalizar'],ok:1},
-    {n:22,mat:'Primeiros Socorros',txt:'Ao encontrar uma vítima inconsciente em acidente de trânsito, o socorrista leigo deve:',ops:['A) Oferecer água para ajudar a recuperar a consciência','B) Movimentar a vítima para uma posição mais confortável','C) Não movimentar a vítima e acionar o serviço de emergência','D) Realizar manobras de reanimação sem orientação médica'],ok:2},
-    {n:23,mat:'Primeiros Socorros',txt:'Qual é o número de emergência do SAMU (Serviço de Atendimento Móvel de Urgência)?',ops:['A) 190','B) 192','C) 193','D) 197'],ok:1},
-    {n:24,mat:'Primeiros Socorros',txt:'Diante de hemorragia externa em membro, a conduta mais adequada do socorrista leigo é:',ops:['A) Fazer torniquete imediatamente com cinto ou cordão','B) Comprimir o local com pano limpo mantendo pressão constante','C) Lavar o ferimento com água corrente e aguardar o socorro','D) Elevar o membro sem aplicar qualquer tipo de pressão'],ok:1},
-    {n:25,mat:'Primeiros Socorros',txt:'A vítima com suspeita de lesão na coluna vertebral:',ops:['A) Deve ser retirada do veículo imediatamente em qualquer situação','B) Pode ser movimentada com cuidado se estiver consciente','C) Não deve ser movimentada, exceto se houver risco imediato de vida','D) Deve ser colocada em posição sentada para facilitar a respiração'],ok:2},
-    {n:26,mat:'Primeiros Socorros',txt:'Sobre a compressão torácica em vítima sem pulso, realizada por socorrista leigo:',ops:['A) Deve-se fazer respiração boca a boca antes de iniciar as compressões','B) As compressões devem ser feitas no abdômen da vítima','C) Deve-se comprimir o centro do peito continuamente até o socorro chegar','D) A RCP é proibida para leigos e pode agravar as lesões'],ok:2},
-    {n:27,mat:'Direção Defensiva',txt:'A principal característica da direção defensiva é:',ops:['A) Dirigir em alta velocidade para reduzir o tempo de exposição ao risco','B) Conduzir de forma a evitar acidentes mesmo diante do erro de terceiros','C) Usar sempre o farol alto para ter melhor campo de visão','D) Ultrapassar veículos lentos para manter o fluxo do trânsito'],ok:1},
-    {n:28,mat:'Direção Defensiva',txt:'Em condições de chuva intensa, o condutor deve:',ops:['A) Manter a velocidade normal, pois os pneus suportam chuva','B) Acender o farol alto para melhorar a visibilidade','C) Reduzir a velocidade e aumentar a distância do veículo à frente','D) Usar apenas o freio de mão para maior controle do veículo'],ok:2},
-    {n:29,mat:'Meio Ambiente',txt:'A manutenção preventiva regular do veículo contribui para:',ops:['A) Aumentar o consumo de combustível melhorando o desempenho','B) Reduzir as emissões de poluentes e o consumo de combustível','C) Aumentar a emissão de gases porque o motor trabalha com mais carga','D) Nenhum impacto significativo no meio ambiente'],ok:1},
-    {n:30,mat:'Mecânica',txt:'Ao perceber que o pedal do freio está afundando (indo até o fundo), o condutor deve:',ops:['A) Aumentar a velocidade para compensar a frenagem reduzida','B) Desligar o motor imediatamente enquanto estiver em movimento','C) Bombear o pedal rapidamente para recuperar pressão e parar em local seguro','D) Ignorar se o veículo ainda conseguir frear parcialmente'],ok:2}
+  "id": 38,
+  "numeroCompleto": 1,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 01 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação de Trânsito",
+      "txt": "A atual legislação de trânsito intitula-se:",
+      "ops": [
+        "A) Código Nacional de Trânsito.",
+        "B) Código de Trânsito.",
+        "C) Código de Trânsito Brasileiro.",
+        "D) Código Brasileiro de Trânsito."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Penalidades e Multas",
+      "txt": "A Junta Administrativa de Recursos de Infrações é um órgão colegiado componente do:",
+      "ops": [
+        "A) Conselho Estadual de Trânsito.",
+        "B) Conselho Nacional de Trânsito.",
+        "C) Sistema Nacional de Trânsito.",
+        "D) Departamento Nacional de Trânsito."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 3,
+      "mat": "Legislação de Trânsito",
+      "txt": "O trânsito de qualquer natureza nas vias terrestres do território nacional, abertas à circulação, rege-se pelo:",
+      "ops": [
+        "A) Código de Trânsito Brasileiro.",
+        "B) Código Nacional de Trânsito.",
+        "C) Código Brasileiro de Trânsito.",
+        "D) Código de Trânsito."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 4,
+      "mat": "Penalidades e Multas",
+      "txt": "O infrator que julgar improcedente a penalidade de multa que lhe foi aplicada poderá interpor recurso, em 1ª instância, junto a(o):",
+      "ops": [
+        "A) CETRAN.",
+        "B) DENATRAN.",
+        "C) CONTRAN.",
+        "D) JARI."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 5,
+      "mat": "Legislação de Trânsito",
+      "txt": "Considera-se trânsito a utilização das vias por:",
+      "ops": [
+        "A) Pessoas e animais, isolados ou em grupos.",
+        "B) Pessoas, veículos e animais, isolados ou em grupos, conduzidos ou não.",
+        "C) Veículos conduzidos por condutores habilitados.",
+        "D) Pessoas e veículos, conduzidos ou não."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Penalidades e Multas",
+      "txt": "É competência da JARI (Junta Administrativa de Recursos de Infrações):",
+      "ops": [
+        "A) Cumprir e fazer cumprir a legislação de trânsito e a execução das normas e diretrizes estabelecidas pelo CONTRAN.",
+        "B) Administrar fundo de âmbito nacional destinado à segurança e educação de trânsito.",
+        "C) Julgar os recursos interpostos pelos infratores.",
+        "D) Coletar dados e elaborar estudos sobre acidentes de trânsito e suas causas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "A utilização das vias por pessoas, veículos e animais é para fins de:",
+      "ops": [
+        "A) Circulação, parada e estacionamento.",
+        "B) Circulação e estacionamento.",
+        "C) Circulação, parada e operação de carga ou descarga.",
+        "D) Circulação, parada, estacionamento e operação de carga ou descarga."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Penalidades e Multas",
+      "txt": "Os órgãos técnicos e consultivos que se destinam a realizar estudos e oferecer sugestões sobre assuntos específicos são chamados de:",
+      "ops": [
+        "A) JARI.",
+        "B) DENATRAN.",
+        "C) CETRAN.",
+        "D) Câmaras Temáticas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação de Trânsito",
+      "txt": "São consideradas vias terrestres urbanas e rurais:",
+      "ops": [
+        "A) Ruas, avenidas e vias internas pertencentes aos condomínios constituídos por unidades autônomas.",
+        "B) Ruas, avenidas, logradouros, caminhos, passagens, estradas, rodovias, praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autônomas.",
+        "C) Estradas e rodovias.",
+        "D) Praias abertas à circulação pública."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Penalidades e Multas",
+      "txt": "São órgãos recursais de primeira instância:",
+      "ops": [
+        "A) CONTRAN.",
+        "B) PRF.",
+        "C) JARI.",
+        "D) CETRAN."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 11,
+      "mat": "Legislação de Trânsito",
+      "txt": "As praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autônomas são, para efeito do Código de Trânsito Brasileiro, consideradas:",
+      "ops": [
+        "A) Vias terrestres.",
+        "B) Áreas autônomas.",
+        "C) Vias privativas.",
+        "D) Áreas restritas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 12,
+      "mat": "Penalidades e Multas",
+      "txt": "Encaminhar aos órgãos e entidades executivos de trânsito informações sobre problemas apontados em recursos compete:",
+      "ops": [
+        "A) Às JARIs.",
+        "B) Ao CONTRAN.",
+        "C) Ao DENATRAN.",
+        "D) Ao CETRAN."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Legislação de Trânsito",
+      "txt": "Ao Departamento de Trânsito (DETRAN), cabe, entre outras, a atribuição de:",
+      "ops": [
+        "A) Propor a alteração da sinalização.",
+        "B) Organizar estatística de trânsito em todo o país.",
+        "C) Vistoriar, registrar e emplacar veículos.",
+        "D) Emitir carteira internacional."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 14,
+      "mat": "Penalidades e Multas",
+      "txt": "A receita arrecadada com a cobrança das multas de trânsito será aplicada exclusivamente em:",
+      "ops": [
+        "A) Sinalização.",
+        "B) Engenharia de tráfego, de campo, policiamento, fiscalização e educação de trânsito.",
+        "C) Policiamento militar apenas.",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 15,
+      "mat": "Legislação de Trânsito",
+      "txt": "Organizar e manter o Registro Nacional de Carteiras de Habilitação – RENACH, compete ao:",
+      "ops": [
+        "A) CONTRAN.",
+        "B) DENATRAN (atual SENATRAN).",
+        "C) DETRAN.",
+        "D) CETRAN."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 16,
+      "mat": "Penalidades e Multas",
+      "txt": "O candidato poderá requerer simultaneamente:",
+      "ops": [
+        "A) A habilitação nas categorias A e C.",
+        "B) Categorias A a ACC e habilitação na categoria D.",
+        "C) Categorias A a ACC e habilitação na categoria B, bem como em AB.",
+        "D) As categorias A e E."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação de Trânsito",
+      "txt": "Organizar e manter o Registro Nacional de Veículos Automotores – RENAVAM, compete ao:",
+      "ops": [
+        "A) DETRAN.",
+        "B) CETRAN.",
+        "C) CONTRAN.",
+        "D) DENATRAN (atual SENATRAN)."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 18,
+      "mat": "Penalidades e Multas",
+      "txt": "Do condutor de veículo destinado à condução de escolares, exige-se:",
+      "ops": [
+        "A) Não ter cometido nenhuma infração de trânsito.",
+        "B) Idade superior a 18 anos.",
+        "C) Apresentação de certificado em curso especializado.",
+        "D) Apresentação do Registro Nacional de Transportadores Urbanos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação de Trânsito",
+      "txt": "Os Departamentos de Estradas e Rodagens são órgãos:",
+      "ops": [
+        "A) Normativos do Sistema Nacional de Trânsito.",
+        "B) Com jurisdição em todo território nacional.",
+        "C) Executivos Rodoviários do Sistema Nacional de Trânsito.",
+        "D) Normativos do Conselho Nacional de Trânsito."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 20,
+      "mat": "Penalidades e Multas",
+      "txt": "A Carteira Nacional de Habilitação não será conferida ao condutor portador da Permissão para Dirigir no término de um ano, se o mesmo cometer:",
+      "ops": [
+        "A) Uma infração de natureza média.",
+        "B) Uma infração de natureza grave.",
+        "C) Ser reincidente na infração de natureza leve.",
+        "D) Uma infração de natureza leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 21,
+      "mat": "Legislação de Trânsito",
+      "txt": "Expedir, mediante delegação do órgão federal competente, o documento de habilitação (CNH, PPD ou ACC) e os documentos do veículo (CRV ou CLA), é competência do:",
+      "ops": [
+        "A) DETRAN.",
+        "B) CETRAN.",
+        "C) CONTRANDIFE.",
+        "D) DENATRAN."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 22,
+      "mat": "Penalidades e Multas",
+      "txt": "O Licenciamento Anual do Veículo vincula-se ao:",
+      "ops": [
+        "A) Pagamento de exames de avaliação psicológica e aptidão física.",
+        "B) Pagamento do seguro total e DPVAT.",
+        "C) Pagamento de IPVA, Seguro Obrigatório e inexistência de débitos de multas de trânsito.",
+        "D) Pagamento de IPVA e Seguro Obrigatório."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 23,
+      "mat": "Legislação de Trânsito",
+      "txt": "Realizar, fiscalizar e controlar o processo de formação, aperfeiçoamento, reciclagem e suspensão de condutores, expedir e cassar Licença de Aprendizagem, Permissão para Dirigir e Carteira Nacional de Habilitação, mediante delegação, é de responsabilidade do:",
+      "ops": [
+        "A) DENATRAN.",
+        "B) DETRAN.",
+        "C) CETRAN.",
+        "D) CONTRAN."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 24,
+      "mat": "Legislação de Trânsito",
+      "txt": "Vistoriar, inspecionar quanto às condições de segurança veicular, registrar, emplacar, selar a placa e licenciar veículos, expedindo o Certificado de Registro e o Licenciamento Anual, mediante delegação, é de responsabilidade:",
+      "ops": [
+        "A) Órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal, no âmbito de sua circunscrição.",
+        "B) Órgãos e entidades executivos rodoviários da União e dos Estados.",
+        "C) Polícias Militares dos Estados e do Distrito Federal.",
+        "D) Departamento Nacional de Infraestrutura de Transportes."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 25,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de nº A-1a adverte:",
+      "ops": [
+        "A) Curva à esquerda.",
+        "B) Curva acentuada à esquerda.",
+        "C) Curva acentuada em “S” à esquerda.",
+        "D) Vire à esquerda."
+      ],
+      "img": "assets/questoes/p7_q1.png",
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Placas de Sinalização",
+      "txt": "Diante da placa de nº SVA-07 você entende que é um local com:",
+      "ops": [
+        "A) Loja de ferramentas.",
+        "B) Sanitários.",
+        "C) Serviço mecânico.",
+        "D) Aeroporto nas proximidades."
+      ],
+      "img": "assets/questoes/p7_q2.png",
+      "ok": 2
+    },
+    {
+      "n": 27,
+      "mat": "Primeiros Socorros",
+      "txt": "Não é correto adotar a seguinte conduta para imobilização em caso de fratura:",
+      "ops": [
+        "A) Antes de imobilizar, puxar o membro colocando-o na posição natural.",
+        "B) Aplicar panos limpos sobre as fraturas expostas.",
+        "C) Manter a vítima deitada.",
+        "D) O comprimento de uma tala deverá ser suficiente para imobilizar, também, a articulação."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 28,
+      "mat": "Primeiros Socorros",
+      "txt": "Em caso de acidente:",
+      "ops": [
+        "A) É obrigação de todos retirar, imediatamente, o veículo do local.",
+        "B) Não existe obrigação legal em socorrer.",
+        "C) É obrigação de todos prestar ou providenciar auxílio, desde que não corra risco pessoal.",
+        "D) É obrigação de socorrer, apenas, o causador do acidente."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 29,
+      "mat": "Primeiros Socorros",
+      "txt": "Embora cada acidente tenha suas circunstâncias peculiares, algumas medidas devem ser tomadas pelo socorrista, dentre elas:",
+      "ops": [
+        "A) Aliviar a dor, oferecendo analgésico à vítima.",
+        "B) Assumir a situação de emergência. Agir conforme as suas limitações.",
+        "C) Transportar a vítima em qualquer situação.",
+        "D) Oferecer líquido à vítima."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Primeiros Socorros",
+      "txt": "Em caso de acidente com vítima, qualquer cidadão deve:",
+      "ops": [
+        "A) Retirar a vítima de dentro do veículo imediatamente.",
+        "B) Transportar a vítima imediatamente.",
+        "C) Sinalizar o local e solicitar atendimento especializado às vítimas.",
+        "D) Afastar-se do local imediatamente."
+      ],
+      "img": null,
+      "ok": 2
+    }
   ]
 };

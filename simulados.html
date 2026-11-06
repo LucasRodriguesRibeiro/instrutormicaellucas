@@ -33,7 +33,7 @@
         </div>
         <span class="eyebrow"><i class="fa-solid fa-clipboard-check"></i> BANCO OFICIAL DE QUESTÕES</span>
         <h1>Simulados Oficiais Detran</h1>
-        <p>São 37 provas completas com mais de 1.100 questões, organizadas por matéria e com gabarito oficial. Treine por assunto ou faça o simulado completo com tempo cronometrado.</p>
+        <p>São 10 Simulados Completos (Modo Prova Real) e 37 provas separadas por matéria, com gabarito oficial e tempo cronometrado de 60 minutos.</p>
       </div>
     </section>
 
@@ -42,27 +42,27 @@
         <div class="section-head">
           <div>
             <h2>Escolha a área de estudo</h2>
-            <p>Selecione uma matéria abaixo para ver os simulados disponíveis daquele assunto.</p>
+            <p>Selecione o Simulado Completo ou uma matéria específica para ver as provas disponíveis.</p>
           </div>
-          <span class="pill" id="total-badge">37 provas disponíveis</span>
+          <span class="pill" id="total-badge">47 provas disponíveis</span>
         </div>
 
         <!-- Matérias em Destaque -->
         <div class="sim-grid">
           <!-- Simulado Geral / Completo -->
-          <a class="sim-card sim-full available" href="simulado.html?id=1" style="--sc:#f7bd2f">
+          <article class="sim-card sim-full available" onclick="filtrarMateria('completo')" style="--sc:#f7bd2f">
             <span class="icon"><i class="fa-solid fa-star"></i></span>
             <h3>Simulado Completo — Modo Prova Real</h3>
-            <p>30 questões · 60 minutos · Cronômetro oficial e pontuação mínima de 21 acertos para aprovação.</p>
-            <span class="sim-badge"><i class="fa-solid fa-play"></i> Iniciar Prova Geral</span>
-          </a>
+            <p>10 simulados completos · 30 questões (24 de Legislação e Penalidades/Multas, 4 de Primeiros Socorros e 2 de Placas) · 60 minutos · Mínimo de 21 acertos.</p>
+            <span class="sim-badge"><i class="fa-solid fa-play"></i> Ver 10 Simulados Completos</span>
+          </article>
 
           <!-- Legislação -->
           <article class="sim-card available" style="--sc:#2563eb" onclick="filtrarMateria('legislacao')">
             <span class="icon"><i class="fa-solid fa-scale-balanced"></i></span>
             <h3>Legislação de Trânsito</h3>
             <p>CTB, processo de habilitação, infrações, penalidades, multas e normas de circulação.</p>
-            <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 25 simulados</span>
+            <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 29 simulados</span>
           </article>
 
           <!-- Sinalização -->
@@ -110,15 +110,16 @@
         <div id="area-provas" style="margin-top: 54px; scroll-margin-top: 90px;">
           <div class="section-head">
             <div>
-              <h2 id="titulo-materia">Todos os Simulados Disponíveis</h2>
-              <p id="desc-materia">Clique em qualquer prova abaixo para iniciar o teste com 30 questões e tempo cronometrado.</p>
+              <h2 id="titulo-materia">Simulados Completos — Modo Prova Real</h2>
+              <p id="desc-materia">Clique em qualquer simulado abaixo para iniciar a prova com 30 questões e cronômetro de 60 minutos.</p>
             </div>
           </div>
 
           <!-- Filtros Rápidos -->
           <div class="cat-tabs">
-            <button class="cat-tab active" data-cat="todas" onclick="filtrarMateria('todas')">Todas as Provas (37)</button>
-            <button class="cat-tab" data-cat="legislacao" onclick="filtrarMateria('legislacao')">Legislação (25)</button>
+            <button class="cat-tab active" data-cat="completo" onclick="filtrarMateria('completo')">Simulados Completos (10)</button>
+            <button class="cat-tab" data-cat="todas" onclick="filtrarMateria('todas')">Todas as Provas (47)</button>
+            <button class="cat-tab" data-cat="legislacao" onclick="filtrarMateria('legislacao')">Legislação (29)</button>
             <button class="cat-tab" data-cat="sinalizacao" onclick="filtrarMateria('sinalizacao')">Sinalização e Placas (3)</button>
             <button class="cat-tab" data-cat="direcao-defensiva" onclick="filtrarMateria('direcao-defensiva')">Direção Defensiva (2)</button>
             <button class="cat-tab" data-cat="primeiros-socorros" onclick="filtrarMateria('primeiros-socorros')">Primeiros Socorros (1)</button>
@@ -149,8 +150,9 @@
       var descEl = document.getElementById('desc-materia');
 
       var titulosCat = {
-        'todas': { t: 'Todos os Simulados (1 a 37)', d: 'Veja abaixo todas as 37 provas oficiais disponíveis para estudo.' },
-        'legislacao': { t: 'Simulados de Legislação de Trânsito', d: '25 provas focadas em CTB, infrações, penalidades, habilitação e circulação.' },
+        'completo': { t: 'Simulados Completos — Modo Prova Real (10 Provas)', d: 'Cada simulado completo traz 30 questões selecionadas: 24 de Legislação de Trânsito e Penalidades/Multas, 4 de Primeiros Socorros e 2 de Placas com imagem.' },
+        'todas': { t: 'Todos os Simulados Disponíveis (47 Provas)', d: 'Veja abaixo os 10 Simulados Completos e as 37 provas separadas por matéria.' },
+        'legislacao': { t: 'Simulados de Legislação de Trânsito', d: '29 provas focadas em CTB, infrações, penalidades, multas, habilitação e circulação.' },
         'sinalizacao': { t: 'Simulados de Sinalização e Placas', d: 'Provas com ilustrações reais de placas de trânsito, gestos de agentes e semáforos.' },
         'direcao-defensiva': { t: 'Simulados de Direção Defensiva', d: 'Provas sobre condições adversas, prevenção de acidentes e física veicular.' },
         'primeiros-socorros': { t: 'Simulados de Primeiros Socorros', d: 'Procedimentos de emergência, fraturas, hemorragias e segurança no acidente.' },
@@ -163,7 +165,7 @@
           ? catalogo 
           : catalogo.filter(function(p){ return p.categoria === categoria; });
 
-        var info = titulosCat[categoria] || titulosCat['todas'];
+        var info = titulosCat[categoria] || titulosCat['completo'];
         tituloEl.textContent = info.t;
         descEl.textContent = info.d;
 
@@ -178,16 +180,30 @@
         }
 
         listaEl.innerHTML = filtrados.map(function(p){
-          var badgeImg = p.temImagens ? '<span class="sim-prova-badge" style="background:#fff7ed;color:#ea580c"><i class="fa-solid fa-image"></i> Com ilustrações</span>' : '';
+          var isCompleto = p.categoria === 'completo';
+          var numStr = String(isCompleto ? p.numeroCompleto : p.id).padStart(2, '0');
+          var badgeMat = isCompleto
+            ? '<span class="sim-prova-badge" style="background:#fef3c7;color:#92400e"><i class="fa-solid fa-star"></i> Prova Real</span>'
+            : '<span class="sim-prova-badge">' + p.materia + '</span>';
+          var badgeImg = p.temImagens
+            ? '<span class="sim-prova-badge" style="background:#fff7ed;color:#ea580c"><i class="fa-solid fa-image"></i> ' + (isCompleto ? '2 Placas + 4 Socorros + 24 Leg/Multas' : 'Com ilustrações') + '</span>'
+            : '';
+          var tituloCard = isCompleto
+            ? p.titulo
+            : ('Prova ' + numStr + ' — ' + p.titulo);
+          var textoBtn = isCompleto
+            ? ('Iniciar Simulado Completo ' + numStr)
+            : ('Iniciar Prova ' + numStr);
+
           return '<article class="sim-prova-item">' +
             '<div class="sim-prova-header">' +
-              '<span class="sim-prova-badge">' + p.materia + '</span>' +
+              badgeMat +
               badgeImg +
             '</div>' +
-            '<h4>Prova ' + String(p.id).padStart(2, '0') + ' — ' + p.titulo + '</h4>' +
+            '<h4>' + tituloCard + '</h4>' +
             '<p><i class="fa-regular fa-clock"></i> 60 minutos · <i class="fa-solid fa-list-ol"></i> 30 questões</p>' +
             '<a class="sim-prova-btn" href="simulado.html?id=' + p.id + '">' +
-              '<i class="fa-solid fa-play"></i> Iniciar Prova ' + String(p.id).padStart(2, '0') +
+              '<i class="fa-solid fa-play"></i> ' + textoBtn +
             '</a>' +
           '</article>';
         }).join('');
@@ -201,7 +217,7 @@
         }
       };
 
-      render('todas');
+      render('completo');
     }());
   </script>
 </body>

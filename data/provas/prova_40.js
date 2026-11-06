@@ -1,0 +1,402 @@
+window.PROVA_ATUAL = {
+  "id": 40,
+  "numeroCompleto": 3,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 03 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação de Trânsito",
+      "txt": "A Licença de Aprendizagem (LADV) suspensa poderá ser obtida novamente após decorridos:",
+      "ops": [
+        "A) Seis meses.",
+        "B) Três meses.",
+        "C) Doze meses.",
+        "D) Nove meses."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 2,
+      "mat": "Penalidades e Multas",
+      "txt": "O pagamento da multa poderá ser efetuado, até a data do vencimento, com desconto de:",
+      "ops": [
+        "A) 40%.",
+        "B) 80%.",
+        "C) 20%.",
+        "D) 30%."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 3,
+      "mat": "Legislação de Trânsito",
+      "txt": "O candidato à obtenção da ACC ou da CNH deverá preencher os seguintes requisitos:",
+      "ops": [
+        "A) Ser maior de 21 anos, possuir CPF, saber ler e escrever.",
+        "B) Somente saber ler e escrever, e possuir documento de identidade.",
+        "C) Ser penalmente imputável, saber ler e escrever, possuir documento de identidade e CPF.",
+        "D) Ser maior de 18 anos, saber ler e escrever, possuir identidade e CPF."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 4,
+      "mat": "Penalidades e Multas",
+      "txt": "As penalidades aplicadas em razão dos crimes cometidos na direção do veículo automotor não são agravadas quando o condutor dirigir:",
+      "ops": [
+        "A) Utilizando o veículo sem placas, com placas falsas ou adulteradas.",
+        "B) Sem possuir Permissão para Dirigir ou Carteira Nacional de Habilitação.",
+        "C) Com a Carteira Nacional de Habilitação vencida há mais de trinta dias.",
+        "D) Com Permissão para Dirigir ou Carteira Nacional de Habilitação de categoria diferente da do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 5,
+      "mat": "Legislação de Trânsito",
+      "txt": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CONTRAN, é aquela obtida:",
+      "ops": [
+        "A) No Brasil.",
+        "B) No seu Estado.",
+        "C) No seu Município.",
+        "D) Em outro país."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 6,
+      "mat": "Penalidades e Multas",
+      "txt": "As penalidades atribuídas ao condutor que dirige veículo sob a influência de álcool, são:",
+      "ops": [
+        "A) Multa (três vezes) e suspensão do direito de dirigir.",
+        "B) Multa (três vezes) e cassação do documento de habilitação.",
+        "C) Multa (cinco vezes) e advertência por escrito.",
+        "D) Multa ( dez vezes) e suspensão do direito de dirigir."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "As categorias existentes à habilitação são:",
+      "ops": [
+        "A) A – B – C – D",
+        "B) B – C – D – E",
+        "C) B – C – D",
+        "D) A – B – C – D – E"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Penalidades e Multas",
+      "txt": "Deixar o condutor ou passageiro de usar o cinto de segurança é infração ________, gerando a penalidade de __________.",
+      "ops": [
+        "A) Grave; multa.",
+        "B) Gravíssima; multa (três vezes).",
+        "C) Gravíssima; multa (cinco vezes).",
+        "D) Gravíssima; multa."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 9,
+      "mat": "Legislação de Trânsito",
+      "txt": "A idade mínima para conduzir um veículo automotor com capacidade acima de 20 passageiros é: 08",
+      "ops": [
+        "A) 20 anos.",
+        "B) 21 anos.",
+        "C) 18 anos.",
+        "D) 19 anos."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Penalidades e Multas",
+      "txt": "Dirigir com falta de atenção e sem os cuidados indispensáveis à segurança do trânsito é infração punível com:",
+      "ops": [
+        "A) Multa e apreensão da Carteira Nacional de Habilitação.",
+        "B) Multa.",
+        "C) Advertência por escrito.",
+        "D) Multa e retenção do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 11,
+      "mat": "Legislação de Trânsito",
+      "txt": "No caso de reprovação no exame escrito de poderá repetir o exame:",
+      "ops": [
+        "A) No 15º dia da divulgação do resultado.",
+        "B) No 16º dia da divulgação do resultado.",
+        "C) No dia seguinte da divulgação do resultado.",
+        "D) Não há período de interstício."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 12,
+      "mat": "Penalidades e Multas",
+      "txt": "A retenção do veículo dar-se-á quando:",
+      "ops": [
+        "A) Não estiver devidamente licenciado ou registrado.",
+        "B) Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
+        "C) Transportar carga, arrastando-a.",
+        "D) Tiver falsificado os selos da placa."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 13,
+      "mat": "Legislação de Trânsito",
+      "txt": "O candidato que pretende se habilitar para a categoria “D” deverá realizar o exame de direção veicular no veículo que tenha:",
+      "ops": [
+        "A) No mínimo, 08 (oito) lugares, sem contar com o do condutor.",
+        "B) No mínimo, 20 (vinte) lugares.",
+        "C) Capacidade para transportar, no mínimo, 6000 (seis mil) quilogramas de carga.",
+        "D) Duas rodas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Penalidades e Multas",
+      "txt": "Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos, ou atirar do veículo ou abandonar na via objetos ou substâncias, constitui infração:",
+      "ops": [
+        "A) Média.",
+        "B) Leve.",
+        "C) Grave.",
+        "D) Gravíssima."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação de Trânsito",
+      "txt": "O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplanagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado na(s) categoria(s):",
+      "ops": [
+        "A) A ou B",
+        "B) AB",
+        "C) C, D ou E",
+        "D) Somente pela categoria B"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Penalidades e Multas",
+      "txt": "Disputar corrida é infração gravíssima, gerando como penalidade:",
+      "ops": [
+        "A) Multa e cassação do documento de habilitação.",
+        "B) Multa gravíssima (cinco vezes), recolhimento do documento de habilitação e remoção do veículo.",
+        "C) Multa gravíssima (dez vezes), suspensão do direito de dirigir e apreensão do veículo.",
+        "D) Multa grave (cinco vezes) e retenção do veículo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação de Trânsito",
+      "txt": "Para habilitar-se na categoria D, o condutor deverá possuir no mínimo:",
+      "ops": [
+        "A) 1 ano na categoria B, ou 2 anos na categoria C.",
+        "B) 2 anos na categoria B, ou 1 ano na categoria C.",
+        "C) Somente 1 ano na categoria C.",
+        "D) Somente 1 ano na categoria B."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 18,
+      "mat": "Penalidades e Multas",
+      "txt": "Usar a buzina nas áreas urbanas, no período entre as 22 (vinte e duas) e 06 (seis) horas, é infração punível com:",
+      "ops": [
+        "A) Multa grave e remoção do veículo.",
+        "B) Multa e retenção do veículo.",
+        "C) Multa e remoção do veículo.",
+        "D) Multa."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 19,
+      "mat": "Legislação de Trânsito",
+      "txt": "Para habilitar-se na categoria E, o condutor deverá possuir no mínimo:",
+      "ops": [
+        "A) 2 anos na categoria B.",
+        "B) 1 ano na categoria B.",
+        "C) 2 anos na categoria AB.",
+        "D) 1 ano na categoria C."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 20,
+      "mat": "Penalidades e Multas",
+      "txt": "A remoção do veículo, como medida administrativa, é aplicada quando o condutor:",
+      "ops": [
+        "A) Tiver seu veículo imobilizado na via por falta de combustível.",
+        "B) Estacionar na contramão de direção.",
+        "C) Parar o veículo em desacordo com as posições estabelecidas.",
+        "D) Deixar de prestar socorro à vítima de acidente de trânsito."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 21,
+      "mat": "Legislação de Trânsito",
+      "txt": "A identificação do documento de habilitação e da autoridade expedidora são registrados no:",
+      "ops": [
+        "A) RENAVAM",
+        "B) RENACH",
+        "C) RENACOM",
+        "D) CETRAN"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 22,
+      "mat": "Penalidades e Multas",
+      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são,, computados os seguintes pontos.",
+      "ops": [
+        "A) (07) sete.",
+        "B) (04) quatro.",
+        "C) (05) cinco.",
+        "D) (03) três."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 23,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor habilitado na categoria B que, posteriormente, habilitar-se na categoria A, receberá:",
+      "ops": [
+        "A) Dois registros no RENACH.",
+        "B) Um único registro no RENACOM.",
+        "C) Um único registro no RENACH.",
+        "D) Dois registros no RENACOM."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 24,
+      "mat": "Legislação de Trânsito",
+      "txt": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a ____________ anos e ser habilitado, pelo menos, na categoria ____________.",
+      "ops": [
+        "A) 21, B",
+        "B) 18, D",
+        "C) 18, B",
+        "D) 21, D"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de nº R- 2 reg ulamenta:",
+      "ops": [
+        "A) Parada obrigatória à frente.",
+        "B) Alfândega.",
+        "C) Dê a preferência.",
+        "D) Parada obrigatória."
+      ],
+      "img": "assets/questoes/p7_q5.png",
+      "ok": 2
+    },
+    {
+      "n": 26,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de nº TAD-14 indica:",
+      "ops": [
+        "A) Marina.",
+        "B) Mirante.",
+        "C) Farol.",
+        "D) Monumento."
+      ],
+      "img": "assets/questoes/p7_q6.png",
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Primeiros Socorros",
+      "txt": "Agir com prudência, respeitar os limites de seu conhecimento, seguir os protocolos estabelecidos, prevenir e evitar danos maiores são entre outras ações do:",
+      "ops": [
+        "A) Ciclista.",
+        "B) Socorrista.",
+        "C) Pedestre.",
+        "D) Passageiro."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Primeiros Socorros",
+      "txt": "SAMU significa:",
+      "ops": [
+        "A) Seção de Atendimento Médico Urbano.",
+        "B) Serviço de Auxílio Médico de Urgência.",
+        "C) Seção de Auxílio Móvel ao Usuário.",
+        "D) Serviço de Atendimento Móvel de Urgência."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Primeiros Socorros",
+      "txt": "O sinal vital que não varia com a idade é:",
+      "ops": [
+        "A) Temperatura.",
+        "B) Pulso.",
+        "C) Respiração.",
+        "D) Pressão arterial."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 30,
+      "mat": "Primeiros Socorros",
+      "txt": "Não constitui procedimento correto com uma vítima em estado de choque:",
+      "ops": [
+        "A) Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
+        "B) Afrouxar suas roupas.",
+        "C) Monitorar a respiração.",
+        "D) Dar bastante líquido à vítima inconsciente que vomitou."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+};

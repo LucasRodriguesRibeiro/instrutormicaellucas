@@ -1,0 +1,402 @@
+{
+  "id": 47,
+  "numeroCompleto": 10,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 10 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação de Trânsito",
+      "txt": "A operação de carga ou descarga será regulamentada pelo órgão ou entidade sobre a via e é considerada:",
+      "ops": [
+        "A) Parada.",
+        "B) Estacionamento.",
+        "C) Embarque.",
+        "D) Desembarque."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 2,
+      "mat": "Penalidades e Multas",
+      "txt": "Quando o condutor recusar-se a entregar à autoridade de trânsito ou seus agentes, mediante recibo, os documentos exigidos por lei ou regulamentação, será punido com:",
+      "ops": [
+        "A) Multa e apreensão do veículo.",
+        "B) Multa.",
+        "C) Apreensão do veículo até a apresentação dos documentos exigidos.",
+        "D) Multa e apreensão da Carteira Nacional de Habilitação até a apresentação dos documentos exigidos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 3,
+      "mat": "Legislação de Trânsito",
+      "txt": "Quando veículos, transitando por fluxos que se cruzem, se aproximarem de local não sinalizado, terá preferência de passagem:",
+      "ops": [
+        "A) Os veículos que estiverem desenvolvendo maior velocidade.",
+        "B) No caso de apenas um fluxo ser proveniente de rodovia, aquele que estiver circulando por ela.",
+        "C) No caso de rotatória, aquele que for ingressar nela.",
+        "D) Os veículos destinados à transporte de passageiros."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 4,
+      "mat": "Penalidades e Multas",
+      "txt": "A remoção do silenciador de um veículo caracteriza uma infração:",
+      "ops": [
+        "A) gravíssima.",
+        "B) grave.",
+        "C) média.",
+        "D) leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 5,
+      "mat": "Legislação de Trânsito",
+      "txt": "Os condutores de ciclomotores não poderão circular nas vias:",
+      "ops": [
+        "A) Locais.",
+        "B) Arteriais.",
+        "C) De trânsito rápido.",
+        "D) Coletoras."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 6,
+      "mat": "Penalidades e Multas",
+      "txt": "Em uma via de trânsito rápido, cuja velocidade máxima permitida é de 80 km/h, foi registrado por instrumento eletrônico (radar) um condutor dirigindo seu veículo a velocidade de 96 km/h. Esse condutor cometeu infração de natureza:",
+      "ops": [
+        "A) Grave.",
+        "B) Média.",
+        "C) Gravíssima.",
+        "D) Leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "O cinto de segurança é obrigatório, em todas as vias do território nacional, para:",
+      "ops": [
+        "A) Somente para o condutor.",
+        "B) Condutor e passageiros do banco dianteiro.",
+        "C) Condutor e passageiros dos bancos dianteiro e traseiro.",
+        "D) Condutor e passageiros do banco traseiro."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 8,
+      "mat": "Penalidades e Multas",
+      "txt": "A retenção do veículo como medida administrativa dar-se-á quando o condutor:",
+      "ops": [
+        "A) Transportar carga arrastando-a na via pública.",
+        "B) Tiver falsificado os selos da placa.",
+        "C) Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
+        "D) Não estiver devidamente licenciado ou registrado."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 9,
+      "mat": "Legislação de Trânsito",
+      "txt": "Classificam-se como vias rurais:",
+      "ops": [
+        "A) Vias arteriais e coletoras.",
+        "B) Vias coletoras e locais.",
+        "C) Vias de trânsito rápido, rodovias e estradas.",
+        "D) Rodovias e estradas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 10,
+      "mat": "Penalidades e Multas",
+      "txt": "A retenção do veículo, como medida administrativa, é aplicada quando:",
+      "ops": [
+        "A) Estacionar em fila dupla.",
+        "B) Dirigir sem possuir documento de habilitação.",
+        "C) Dirigir sem atenção e cuidados indispensáveis à esquerda.",
+        "D) O condutor ou passageiro deixar de usar o cinto de segurança."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Legislação de Trânsito",
+      "txt": "A rodovia é considerada uma via:",
+      "ops": [
+        "A) Trânsito rápido",
+        "B) Urbana",
+        "C) Rural",
+        "D) Arterial."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 12,
+      "mat": "Penalidades e Multas",
+      "txt": "O recolhimento do Certificado de Licenciamento Anual poderá ocorrer:",
+      "ops": [
+        "A) Em todos os casos de retenção do veículo.",
+        "B) Em todas as situações que ocasionam a apreensão do veículo.",
+        "C) Quando tiver adesivos de caráter publicitário afixados no para-brisa do veículo.",
+        "D) Em todos os casos de retenção do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 13,
+      "mat": "Legislação de Trânsito",
+      "txt": "Os passageiros de motocicletas, motonetas ou ciclomotores só poderão ser transportados.",
+      "ops": [
+        "A) Em carro lateral acoplado ao veículo.",
+        "B) Todas estão corretas.",
+        "C) Em assento suplementar atrás do condutor.",
+        "D) Utilizando capacete de segurança."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Penalidades e Multas",
+      "txt": "João da Silva, surpreendido numa “blitz”, dirigia sem usar lentes corretivas de visão, imposta por ocasião da concessão ou renovação da habilitação. Qual a penalidade e medida administrativa aplicada?",
+      "ops": [
+        "A) Grave, multa, retenção do veículo até o saneamento da irregularidade ou apresentação de condutor habilitado.",
+        "B) Grave, multa, recolhimento do documento de habilitação.",
+        "C) Gravíssima, multa, recolhimento do documento de habilitação em suspensão do direito de dirigir.",
+        "D) Gravíssima, multa, retenção do veículo até saneamento da irregularidade ou apresentação de condutor habilitado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Legislação de Trânsito",
+      "txt": "Nas vias urbanas, a operação de retorno deverá ser feita:",
+      "ops": [
+        "A) Nos locais determinados ou que ofereçam condições de segurança e fluidez.",
+        "B) Nas passagens de nível.",
+        "C) Nas pontes.",
+        "D) Utilizando-se do acostamento."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 16,
+      "mat": "Penalidades e Multas",
+      "txt": "O condutor que não guardar distância de segurança, entre o veículo que dirige e o que segue imediatamente a sua frente, está cometendo uma infração de natureza:",
+      "ops": [
+        "A) Média.",
+        "B) Grave.",
+        "C) Gravíssima.",
+        "D) Leve."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 17,
+      "mat": "Legislação de Trânsito",
+      "txt": "Assinale a alternativa que completa a questão: Nas rodovias de pista dupla, onde não existir sinalização regulamentadora, a velocidade máxima será de: __________ para automóveis, camionetas e motocicletas; __________ para ônibus e micro-ônibus; e ___________ para os demais veículos.",
+      "ops": [
+        "A) 110 km/h; 90 km/h; 80 km/h.",
+        "B) 80 km/h; 60 km/h; 110 km/h.",
+        "C) 110 km/h; 80 km/h; 60 km/h.",
+        "D) 90 km/h; 110 km/h; 80 km/h."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 18,
+      "mat": "Penalidades e Multas",
+      "txt": "Quando o condutor usar indevidamente aparelhos de alarme ou que produza sons, ruídos ou barulhos que perturbem o sossego público estará sujeito à penalidade:",
+      "ops": [
+        "A) Multa e retenção do veículo.",
+        "B) Multa, apreensão do veículo e da Carteira Nacional de Habilitação.",
+        "C) Multa e apreensão do veículo.",
+        "D) Multa e suspensão da Carteira Nacional de Habilitação."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Legislação de Trânsito",
+      "txt": "Para realizar uma conversão à esquerda, em via de mão única, o condutor deve deslocar o veículo:",
+      "ops": [
+        "A) Sem atingir a contramão de direção.",
+        "B) Totalmente para a faixa esquerda da pista.",
+        "C) Para a esquerda atingindo o centro do cruzamento e saindo na sua mão de direção.",
+        "D) Para a direita, observando e dando preferência a quem for de direito, convergindo e saindo na sua mão de direção."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 20,
+      "mat": "Penalidades e Multas",
+      "txt": "O extintor de incêndio nos automóveis é um equipamento:",
+      "ops": [
+        "A) Facultativo e sua falta não é infração de trânsito",
+        "B) Obrigatório apenas para os veículos que transportam inflamáveis.",
+        "C) Obrigatório apenas para os veículos de transporte de passageiros e escolares.",
+        "D) Usado apenas em veículos de pequeno porte."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 21,
+      "mat": "Legislação de Trânsito",
+      "txt": "Para entrar em outra via o condutor deve:",
+      "ops": [
+        "A) Ligar o dispositivo luminoso indicador de mudança de direção e assegurar-se de que pode fazer a manobra com segurança.",
+        "B) Ligar o dispositivo luminoso indicador de mudança de direção e deslocar-se, sempre, para a direita da via.",
+        "C) Aumentar a velocidade e verificar o movimento dos outros veículos.",
+        "D) Dar um toque rápido na buzina."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 22,
+      "mat": "Penalidades e Multas",
+      "txt": "Quando o condutor utilizar o veículo de carga como transporte de passageiro, sem autorização especial fornecida pela autoridade de trânsito, serão aplicadas as punições:",
+      "ops": [
+        "A) Cassação da Carteira Nacional de Habilitação.",
+        "B) Multa.",
+        "C) Multa e remoção do veículo.",
+        "D) Multa e retenção do veículo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 23,
+      "mat": "Legislação de Trânsito",
+      "txt": "A ultrapassagem pela contramão em ponte, viaduto e túneis é:",
+      "ops": [
+        "A) Proibida a todo condutor de veículo, exceto quando houver sinalização permitindo.",
+        "B) Permitida, quando houver boa visibilidade.",
+        "C) Proibida.",
+        "D) Permitida, quando não houver muita movimentação de veículos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação de Trânsito",
+      "txt": "O procedimento do condutor ao ser ultrapassado em uma rodovia é:",
+      "ops": [
+        "A) Somente diminuir a velocidade.",
+        "B) Sinalizar, diminuir a velocidade, deslocando para o acostamento.",
+        "C) Deslocar-se para a faixa da direita e acelerar a marcha.",
+        "D) Facilitar a ultrapassagem."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Placas de Sinalização",
+      "txt": "Diante da placa de nº THC-01 você entende:",
+      "ops": [
+        "A) Arquitetura histórica. Religiosa.",
+        "B) Templo.",
+        "C) Museu.",
+        "D) Ruínas."
+      ],
+      "img": "assets/questoes/p7_q19.png",
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Placas de Sinalização",
+      "txt": "As placas de identificação de rodovias, em forma de brasão e nas cores preta e branca, são de:",
+      "ops": [
+        "A) Indicação.",
+        "B) Regulamentação.",
+        "C) Educativas.",
+        "D) Advertência."
+      ],
+      "img": "assets/questoes/p7_q20.png",
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Primeiros Socorros",
+      "txt": "Diante de uma vítima de acidente de trânsito, não sendo possível a presença do profissional socorrista, deve-se, primeiramente, verificar se:",
+      "ops": [
+        "A) Ocorreu a obstrução de vias aéreas.",
+        "B) Ocorreu sangramento abundante.",
+        "C) Ocorreu fraturas.",
+        "D) A vítima consegue ficar de pé e andar sozinha."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 28,
+      "mat": "Primeiros Socorros",
+      "txt": "Sabe-se que o primeiro trauma é aquele que ocorre no acidente e que o segundo é aquele que ocorre quando não socorremos com cuidado. É incorreto afirmar que:",
+      "ops": [
+        "A) O cinto de segurança e o capacete evitam que o primeiro trauma seja mais grave.",
+        "B) O uso do colar cervical ajuda a evitar o segundo trauma.",
+        "C) Deve-se evitar gesto brusco no atendimento à vítima.",
+        "D) Deve-se, sempre, colocar a vítima sentada."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Primeiros Socorros",
+      "txt": "Prevenir-se, ao prestar socorro a alguém significa:",
+      "ops": [
+        "A) Somente, socorrer se estiver acompanhado por alguém.",
+        "B) Evitar riscos pessoais e acidentes secundários.",
+        "C) Socorrer, somente, durante o dia.",
+        "D) Somente, socorrer quando não houver sangramento."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Primeiros Socorros",
+      "txt": "Os veículos destinados a socorros de incêndio, as ambulâncias e os de polícia:",
+      "ops": [
+        "A) Gozam de livre trânsito e estacionamento em qualquer situação.",
+        "B) Não têm prioridade no trânsito, devendo obedecer as normas de circulação e a legislação de trânsito como qualquer outro tipo de veículo.",
+        "C) Só têm prioridade e trânsito livre quando estiverem protegidos por batedores.",
+        "D) Além de prioridade, gozam de livre trânsito e estacionamento, quando em serviço de urgência e identificados por dispositivos de alarme sonoro e luz vermelha intermitente."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "id": 46,
+  "numeroCompleto": 9,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 09 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação de Trânsito",
+      "txt": "Em pequenas manobras é permitido ao condutor:",
+      "ops": [
+        "A) Deixar de usar o cinto de segurança.",
+        "B) Transitar em marcha a ré.",
+        "C) Deixar de usar o capacete de segurança.",
+        "D) Transitar com o veículo desligado."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 2,
+      "mat": "Penalidades e Multas",
+      "txt": "Deixar de efetuar o registro do veículo no prazo de trinta dias, junto ao órgão executivo de trânsito, ocorridas as hipóteses previstas no art. 123 é infração:",
+      "ops": [
+        "A) Grave",
+        "B) Gravíssima",
+        "C) Média",
+        "D) Leve"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 3,
+      "mat": "Legislação de Trânsito",
+      "txt": "Gozam de livre circulação, estacionamento e parada, quando em serviço de urgência e devidamente identificados por dispositivos regulamentares de alarme sonoro e iluminação vermelha intermitente, os veículos de:",
+      "ops": [
+        "A) Socorro de incêndio e polícia.",
+        "B) Socorro de incêndio e salvamento, polícia e ambulância, fiscalização e operação de trânsito.",
+        "C) Polícia, fiscalização e operação de trânsito.",
+        "D) Polícia e ambulância."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 4,
+      "mat": "Penalidades e Multas",
+      "txt": "No caso de infração em que seja aplicada a penalidade de suspensão ou recolhimento, a medida administrativa cabível é:",
+      "ops": [
+        "A) Recolhimento do documento de habilitação (CNH ou PPD).",
+        "B) Advertência verbal pelo agente.",
+        "C) Multa multiplicada por dez.",
+        "D) Cancelamento do registro do veículo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Legislação de Trânsito",
+      "txt": "O embarque e desembarque dos passageiros devem ocorrer:",
+      "ops": [
+        "A) Sempre do lado do condutor.",
+        "B) Sempre do lado da calçada.",
+        "C) Junto ao meio-fio do canteiro central.",
+        "D) De qualquer lado da via, desde que bem estacionado."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Penalidades e Multas",
+      "txt": "A Carteira Nacional de Habilitação não será conferida ao condutor portador da Permissão para Dirigir a o término de um ano, se o mesmo cometer:",
+      "ops": [
+        "A) Uma infração de natureza grave.",
+        "B) Uma infração de natureza média.",
+        "C) Reincidência na infração de natureza leve.",
+        "D) Uma infração de natureza leve."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "Os veículos que se deslocam sobre trilhos, respeitadas as normas de circulação, têm preferência de passagem:",
+      "ops": [
+        "A) Nos cruzamentos não sinalizados.",
+        "B) Na rotatória.",
+        "C) Nos túneis.",
+        "D) Sobre os demais veículos."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 8,
+      "mat": "Penalidades e Multas",
+      "txt": "Na infração “Digirir veículo falando ao telefone celular” são computados os seguintes pontos:",
+      "ops": [
+        "A) (07) sete.",
+        "B) (05) cinco.",
+        "C) (04) quatro.",
+        "D) (03) três."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 9,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor deverá utilizar o pisca-alerta na seguinte situação:",
+      "ops": [
+        "A) Em imobilizações ou situações de emergência.",
+        "B) Transitando à noite.",
+        "C) Sob chuva ou neblina.",
+        "D) Sob cerração."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 10,
+      "mat": "Penalidades e Multas",
+      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada a mais de um metro” são computados os seguintes pontos:",
+      "ops": [
+        "A) (07) sete.",
+        "B) (03) três.",
+        "C) (05) cinco.",
+        "D) (04) quatro."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 11,
+      "mat": "Legislação de Trânsito",
+      "txt": "Nas estradas, onde não houver local apropriado para a operação de retorno, ou entrada à esquerda, o condutor deverá parar o veículo:",
+      "ops": [
+        "A) No acostamento à direita.",
+        "B) No centro da via.",
+        "C) No acostamento da esquerda.",
+        "D) Junto ao eixo central."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 12,
+      "mat": "Penalidades e Multas",
+      "txt": "Além de orientar os condutores e pedestres, o agente de trânsito deve:",
+      "ops": [
+        "A) Autuar os infratores, a fim de garantir a ordenação no trânsito.",
+        "B) Criar leis para o trânsito de veículos e pedestres.",
+        "C) Julgar os recursos interpostos pelos infratores.",
+        "D) Efetuar reparos nos semáforos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Legislação de Trânsito",
+      "txt": "Dar passagem pela esquerda, quando solicitado, é:",
+      "ops": [
+        "A) Apenas uma questão de cortesia.",
+        "B) Dever do condutor.",
+        "C) Apenas uma regra para prevenir acidentes.",
+        "D) Proibido a todo motorista."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Penalidades e Multas",
+      "txt": "Um veículo estacionado no passeio ou sobre faixa destinada a pedestre, está sujeito à seguinte medida administrativa:",
+      "ops": [
+        "A) Remoção do veículo.",
+        "B) Retenção do veículo.",
+        "C) Multa.",
+        "D) Recolhimento do certificado de licenciamento anual."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 15,
+      "mat": "Legislação de Trânsito",
+      "txt": "Assinale a alternativa que responda à questão: Ao dirigir um veículo de ______ porte, tome todo o cuidado e seja responsável pela segurança dos veículos ______, pelos não motorizados e pela segurança dos ______.",
+      "ops": [
+        "A) Menor; maiores; condutores.",
+        "B) Menor; maiores; ciclistas.",
+        "C) Maior; menores; passageiros.",
+        "D) Maior; menores; pedestres."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 16,
+      "mat": "Penalidades e Multas",
+      "txt": "O recolhimento do Certificado de Licenciamento Anual poderá ocorrer quando:",
+      "ops": [
+        "A) Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos.",
+        "B) Dirigir veículo sem p ossuir Carteira Nacional de Habilitação ou Permissão para Dirigir.",
+        "C) No caso de retenção do veículo, se a irregularidade não puder ser sanada no local.",
+        "D) Estacionar no passeio ou sobre faixa destinada a pedestres."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação de Trânsito",
+      "txt": "Onde não existir sinalização regulamentadora, a velocidade máxima nas vias de trânsito rápido será de:",
+      "ops": [
+        "A) 80 km/h.",
+        "B) 90 km/h para ônibus e micro-ônibus.",
+        "C) 110 km/h para automóveis e camionetas.",
+        "D) 60 km/h."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 18,
+      "mat": "Penalidades e Multas",
+      "txt": "O condutor que dirigir ameaçando os pedestres que estejam atravessando a via pública ou os demais veículos, está sujeito à seguinte penalidade:",
+      "ops": [
+        "A) Multa e suspensão do direito de dirigir.",
+        "B) Multa e reten ão do veículo. ç",
+        "C) Apreensão do veículo.",
+        "D) Cassação da CNHC."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Legislação de Trânsito",
+      "txt": "Manter o veículo na mão de direção e na faixa própria, de acordo com a legislação de trânsito, é:",
+      "ops": [
+        "A) Imprudência do condutor.",
+        "B) Dever de todo condutor de veículo.",
+        "C) Proibido a todo condutor de veículo.",
+        "D) Inconveniente, pois perturba o trânsito."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 20,
+      "mat": "Penalidades e Multas",
+      "txt": "O condutor que utilizar veículos de carga para transportar pessoas na carroceria, sem permissão da autoridade competente sobre a via, estará cometendo infração de natureza:",
+      "ops": [
+        "A) Leve.",
+        "B) Grave.",
+        "C) Média.",
+        "D) Gravíssima."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 21,
+      "mat": "Legislação de Trânsito",
+      "txt": "Os condutores de motocicletas, motonetas ou ciclomotores não poderão circular nas vias:",
+      "ops": [
+        "A) Transportando crianças menores de 07 anos.",
+        "B) Utilizando capacete de segurança, com viseira ou óculos protetor.",
+        "C) Segurando o guidom com as duas mãos.",
+        "D) Usando vestuário de proteção."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 22,
+      "mat": "Penalidades e Multas",
+      "txt": "Em uma via rural não pavimentada, desprovida de registrado por instrumento eletrônico (radar) um condutor dirigindo seu veículo à velocidade de 100km/h. Esse condutor cometeu infração de natureza:",
+      "ops": [
+        "A) Gravíssima. (três vezes)",
+        "B) Média",
+        "C) Leve.",
+        "D) Grave."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 23,
+      "mat": "Legislação de Trânsito",
+      "txt": "Ao aproximar-se de um cruzamento não sinalizado, surgindo um veículo a sua direita, o condutor deve:",
+      "ops": [
+        "A) Parar o veículo, respeitando a preferência.",
+        "B) Diminuir a velocidade.",
+        "C) Usar atenção difusa e passar.",
+        "D) Não se preocupar, se estiver transitando em uma avenida."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor deve sinalizar e deslocar, com antecedência, o seu veículo para a faixa mais à direita da sua mão de direção para:",
+      "ops": [
+        "A) Mudar de faixa de trânsito.",
+        "B) Para retornar pela mesma via.",
+        "C) Entrar à direita.",
+        "D) Entrar à esquerda."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 25,
+      "mat": "Placas de Sinalização",
+      "txt": "Diante da placa de nº SVA-14 você entende que é uma área:",
+      "ops": [
+        "A) Permitida para camping.",
+        "B) Com aeroporto nas proximidades.",
+        "C) Com igreja do patrimônio histórico.",
+        "D) De proteção para indígenas."
+      ],
+      "img": "assets/questoes/p7_q17.png",
+      "ok": 0
+    },
+    {
+      "n": 26,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de nº R-19 reg uulamenta:",
+      "ops": [
+        "A) Velocidade mínima permitida.",
+        "B) Velocidade obrigatória.",
+        "C) Uma sinalização de advertência.",
+        "D) Velocidade máxima permitida."
+      ],
+      "img": "assets/questoes/p7_q18.png",
+      "ok": 3
+    },
+    {
+      "n": 27,
+      "mat": "Primeiros Socorros",
+      "txt": "Ao examinar uma vítima, você detecta que ela apresenta temperatura elevada. Nessa situação, não se deve:",
+      "ops": [
+        "A) Colocar compressas úmidas nas axilas.",
+        "B) Aquecer com cobertores para diminuir calafrios.",
+        "C) Fazer banhos de imersão à temperatura corporal.",
+        "D) Aplicar compressas frias sobre a testa."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Primeiros Socorros",
+      "txt": "Quando precisamos, por meios próprios, transportar uma vítima que está gritando de dor, a atitude correta é:",
+      "ops": [
+        "A) Imobilizar a vítima antes do transporte.",
+        "B) Deitá-la, rapidamente, no banco de trás do veículo.",
+        "C) Acionar a buzina e dirigir em alta velocidade.",
+        "D) Dirigir em baixa velocidade para não machucar a vítima."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 29,
+      "mat": "Primeiros Socorros",
+      "txt": "Quanto à remoção da vítima, assinale a opção correta:",
+      "ops": [
+        "A) A remoção deve ser feita imediatamente.",
+        "B) Não é necessário imobilizar a vítima com suspeita de fratura.",
+        "C) O socorrista só deve providenciar a remoção, na impossibilidade de ser feita pelo socorrro especializado.",
+        "D) Não é necessário preocupar com as vias aéreas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 30,
+      "mat": "Primeiros Socorros",
+      "txt": "Os primeiros socorros envolvem:",
+      "ops": [
+        "A) O atendimento, após a chegada do socorro profissional.",
+        "B) O atendimento inicial e temporário realizado por profissional especializado.",
+        "C) As técnicas que, somente, pessoa treinada pode realizar.",
+        "D) O atendimento inicial e temporário, até a chegada de um socorro profissional."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+}
