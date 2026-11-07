@@ -1,0 +1,402 @@
+{
+  "id": 49,
+  "numeroCompleto": 12,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 12 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Valorizar comportamentos relacionados à segurança no trânsito é:",
+      "ops": [
+        "A) Desnecessário, pois não contribui para a diminuição dos acidentes.",
+        "B) Dever do Estado e não dos condutores.",
+        "C) Uma demonstração de respeito à pessoa humana.",
+        "D) Necessário às diferenças individuais."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Legislação de Trânsito",
+      "txt": "É proibido o uso de buzina no perímetro urbano no horário compreendido entre:",
+      "ops": [
+        "A) 22 horas e 6 horas.",
+        "B) 20 horas e 7 horas.",
+        "C) 18 horas e 6 horas.",
+        "D) 6 horas e 22 horas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 3,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa SAU-18 indica a presença de:",
+      "ops": [
+        "A) Uma área de estacionamento privado.",
+        "B) Uma praça de pedágio.",
+        "C) Um Drive Thru.",
+        "D) Um posto para abastecer seu veículo à distância indicada na placa."
+      ],
+      "img": "assets/questoes/p49_q3.png",
+      "ok": 1
+    },
+    {
+      "n": 4,
+      "mat": "Primeiros Socorros",
+      "txt": "Não constitui procedimento correto com uma vítima em estado de choque:",
+      "ops": [
+        "A) Dar bastante líquido à vítima inconsciente que vomitou.",
+        "B) Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
+        "C) Afrouxar suas roupas.",
+        "D) Manter a respiração - se necessário usar respiração de socorro."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Além do óleo diesel, a gasolina e o álcool são amplamente utilizados como fonte de energia para locomoção dos veículos automotores. Os veículos a álcool poluem menos, pois expelem metade de ________ se comparados com os veículos movidos a gasolina.",
+      "ops": [
+        "A) Monóxido de carbono.",
+        "B) Hidrocarbonetos.",
+        "C) Dióxido de enxofre.",
+        "D) Dióxido de carbono."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 6,
+      "mat": "Legislação de Trânsito",
+      "txt": "Ao transferir a propriedade, mudar de município ou for alterada qualquer uma das características do veículo será obrigatória a expedição:",
+      "ops": [
+        "A) de um novo CLV.",
+        "B) de um novo CRLV.",
+        "C) de um novo CRV.",
+        "D) de um novo CRLV-e."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 7,
+      "mat": "Direção Defensiva",
+      "txt": "Assinale a alternativa que responda à questão. A chuva é condição adversa do ______, lâmina d’água na pista é condição adversa da ______, possibilitando a ocorrência de hidroplanagem que pode ser aumentada por determinadas condições adversas do ______.",
+      "ops": [
+        "A) Veículo; via; condutor.",
+        "B) Tempo; via; veículo.",
+        "C) Condutor; máquina; passageiro.",
+        "D) Veículo; chuva; tempo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Mecânica Básica",
+      "txt": "A função do sistema de freios montados nos veículos é:",
+      "ops": [
+        "A) Provocar a moderação da marcha, a redução de velocidade e a imobilização do veículo.",
+        "B) Distribuir de forma homogênea a rotação do motor para as rodas.",
+        "C) Aumentar o atrito entre as rodas, travando-as, ao ser acionado.",
+        "D) Parar e acelerar o veículo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 9,
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual é a posição adequada para posicionar o dispositivo auxiliar de retenção (bebê conforto) para uma criança de 0 a 1 ano?",
+      "ops": [
+        "A) No meio do banco traseiro.",
+        "B) No assoalho atrás do banco do motorista.",
+        "C) De forma que o rosto da criança fique voltado para o vidro traseiro.",
+        "D) Desde que se dirija devagar, preso no cinto de segurança do banco do carona."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 10,
+      "mat": "Primeiros Socorros",
+      "txt": "Em caso de acidente com veículo transportando produtos inflamáveis, o procedimento correto do condutor é:",
+      "ops": [
+        "A) Providenciar, o mais rápido possível, o escoamento do produto.",
+        "B) Sinalizar o local com tochas de fogo.",
+        "C) Efetuar, primeiramente, a limpeza do veículo.",
+        "D) A via deve ser interditada e todo local evacuado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 11,
+      "mat": "Penalidades e Multas",
+      "txt": "Em uma rodovia cuja velocidade máxima permitida é de 80 km/h, foi registrado por instrumento eletrônico um condutor dirigindo seu veículo a velocidade de 90 km/h. Esse condutor cometeu infração de natureza:",
+      "ops": [
+        "A) Gravíssima.",
+        "B) Média.",
+        "C) Leve.",
+        "D) Grave."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 12,
+      "mat": "Primeiros Socorros",
+      "txt": "Não constitui medida básica para prestar assistência à vítima de acidente, após ter sinalizado o local:",
+      "ops": [
+        "A) Verificar, primeiramente, os sinais vitais.",
+        "B) Determinar que o acidentado busque socorro.",
+        "C) Assumir a situação.",
+        "D) Proteger o acidentado."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 13,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa R-20 regulamenta:",
+      "ops": [
+        "A) Área hospitalar.",
+        "B) Proibido ultrapassar.",
+        "C) Passagem obrigatória.",
+        "D) Proibido acionar buzina ou sinal sonoro."
+      ],
+      "img": "assets/questoes/p49_q13.png",
+      "ok": 3
+    },
+    {
+      "n": 14,
+      "mat": "Direção Defensiva",
+      "txt": "O condutor que, na direção do veículo, evita situações de acidentes ao trafegar com as devidas margens de segurança, está praticando uma direção defensiva:",
+      "ops": [
+        "A) Corretiva.",
+        "B) Avaliativa.",
+        "C) Participativa.",
+        "D) Preventiva."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Penalidades e Multas",
+      "txt": "Estacionar na pista de rolamento de estradas, rodovias, vias de trânsito rápido e vias dotadas de acostamento, é uma infração gravíssima. Qual a medida administrativa adotada para esta infração?",
+      "ops": [
+        "A) Retenção do veículo.",
+        "B) Apreensão do veículo.",
+        "C) Recolhimento do documento de habilitação.",
+        "D) Remoção do veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 16,
+      "mat": "Legislação de Trânsito",
+      "txt": "É falso afirmar que o candidato à habilitação é uma pessoa que:",
+      "ops": [
+        "A) Pode ser responsabilizada penalmente.",
+        "B) Sabe ler e escrever.",
+        "C) Tem ensino fundamental, no mínimo.",
+        "D) Possui documento de identidade."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Sinalização",
+      "txt": "Circular é a forma destinada às placas:",
+      "ops": [
+        "A) De Advertência.",
+        "B) De Indicação.",
+        "C) De Regulamentação.",
+        "D) Educativas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 18,
+      "mat": "Legislação de Trânsito",
+      "txt": "Segundo a classificação das vias urbanas, uma via destinada apenas ao acesso às áreas restritas é chamada:",
+      "ops": [
+        "A) Local.",
+        "B) Secundária.",
+        "C) Particular.",
+        "D) Preferencial."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Penalidades e Multas",
+      "txt": "Estão previstas quatro categorias de infração. Cada uma corresponde a um certo número de pontos. Para a infração:",
+      "ops": [
+        "A) Gravíssima são computados dez pontos.",
+        "B) Leve são computados dois pontos.",
+        "C) Grave são computados seis pontos.",
+        "D) Média são computados quatro pontos."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 20,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "O conversor catalítico (catalisador), instalado no coletor de escapamento do veículo, é um:",
+      "ops": [
+        "A) Transformador de gases tóxicos em gases não nocivos ao meio ambiente.",
+        "B) Filtro dos gases do escapamento.",
+        "C) Acelerador de molécula binárias, oposto aos gases de escapamento.",
+        "D) Filtro dos gases do escapamento, que separa o vapor d'água dos gases."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 21,
+      "mat": "Direção Defensiva",
+      "txt": "Estando o condutor na direção do veículo e este se apresentando com os pneus gastos, freios desregulados, luz deficiente, significa exemplo de condição adversa do:",
+      "ops": [
+        "A) Condutor.",
+        "B) Trânsito.",
+        "C) Equipamento de segurança.",
+        "D) Veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação de Trânsito",
+      "txt": "Marque a alternativa correta sobre a realização de testes de alcoolemia:",
+      "ops": [
+        "A) O etilômetro mede o ar expelido pelos pulmões.",
+        "B) É obrigatória a realização de teste de alcoolemia quando houver vítimas fatais de acidente de trânsito.",
+        "C) O condutor não pode se recusar à realização de testes, senão incorrerá em infração de recusa (Art. 165-A).",
+        "D) Todas as afirmativas acima estão corretas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 23,
+      "mat": "Legislação de Trânsito",
+      "txt": "Verificar se o espaço é suficiente, sinalizar com antecedência e retomar à posição anterior, são procedimentos para executar uma:",
+      "ops": [
+        "A) Frenagem brusca.",
+        "B) Ultrapassagem de outro veículo em movimento.",
+        "C) Entrada em via arterial.",
+        "D) Passagem de outro veículo em movimento."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 24,
+      "mat": "Mecânica Básica",
+      "txt": "No motor a combustão, a mistura ar-combustível é lançada dentro do cilindro, resultando em energia que movimenta o veículo. Mas existem exceções quanto aos componentes utilizados. Qual tipo de motor dispensa distribuidor, velas e bobina?",
+      "ops": [
+        "A) A álcool.",
+        "B) A diesel.",
+        "C) A Gás Natural Veicular.",
+        "D) À gasolina."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 25,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor habilitado na categoria “B” só poderá dirigir:",
+      "ops": [
+        "A) Ônibus.",
+        "B) Caminhão.",
+        "C) Veículos de carga de até 3.500 kg ou de passageiro com até 8 lugares.",
+        "D) Qualquer veículo de até 3.500 kg, inclusive moto."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 26,
+      "mat": "Primeiros Socorros",
+      "txt": "Não entre em pânico. Pensar é tão importante quanto agir! Essa frase refere-se:",
+      "ops": [
+        "A) À direção defensiva.",
+        "B) À direção preventiva.",
+        "C) À prestação de socorros.",
+        "D) Ao acionamento de recursos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 27,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa A-26a adverte:",
+      "ops": [
+        "A) Passagem obrigatória.",
+        "B) Sentido único.",
+        "C) Sentido de circulação de via.",
+        "D) Siga em frente."
+      ],
+      "img": "assets/questoes/p49_q27.png",
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Direção Defensiva",
+      "txt": "Manter uma distância do veículo da frente é uma:",
+      "ops": [
+        "A) Conduta que contraria as normas de direção defensiva.",
+        "B) Condição segura para que o condutor tenha tempo de reagir e acionar os faróis diante de situação de emergência.",
+        "C) Condição segura para que o condutor tenha tempo de reagir e acionar os freios em situação de emergência.",
+        "D) Conduta errada do condutor defensivo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 29,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Para prática do bom comportamento no trânsito, você precisa conviver harmoniosamente na sociedade. Como cidadão, o motorista precisa:",
+      "ops": [
+        "A) Entender que seus direitos não têm limites.",
+        "B) Ser intolerante e incompreensivo com os erros dos outros condutores e/ou pedestres.",
+        "C) Evitar cometimento de infrações e comportamentos agressivos em benefício de todos que estão no trânsito.",
+        "D) Não abrir mão dos próprios direitos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 30,
+      "mat": "Direção Defensiva",
+      "txt": "Na direção defensiva, é o resultado da prática mais o treinamento:",
+      "ops": [
+        "A) Conhecimento.",
+        "B) Decisão.",
+        "C) Atenção.",
+        "D) Habilidade."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+}

@@ -99,6 +99,15 @@ window.CATALOGO_SIMULADOS = [
     "temImagens": true
   },
   {
+    "id": 49,
+    "numeroCompleto": 12,
+    "categoria": "completo",
+    "materia": "Simulado Completo",
+    "titulo": "Simulado Completo 12 — Modo Prova Real",
+    "totalQuestoes": 30,
+    "temImagens": true
+  },
+  {
     "id": 1,
     "categoria": "legislacao",
     "materia": "Legislação",
