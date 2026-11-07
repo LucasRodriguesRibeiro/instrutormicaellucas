@@ -218,7 +218,7 @@
             ? ('Iniciar Simulado Completo ' + numStr)
             : ('Iniciar Prova ' + numStr);
 
-          return '<article class="sim-prova-item">' +
+          return '<article class="sim-prova-item" style="cursor:pointer" onclick="location.href=\'simulado.html?id=' + p.id + '\'">' +
             '<div class="sim-prova-header">' +
               badgeMat +
               badgeImg +
