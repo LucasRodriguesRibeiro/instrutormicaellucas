@@ -35,7 +35,7 @@
         </div>
         <span class="eyebrow"><i class="fa-solid fa-clipboard-check"></i> BANCO OFICIAL DE QUESTÕES</span>
         <h1>Simulados Oficiais Detran</h1>
-        <p>São 10 Simulados Completos (Modo Prova Real) e 37 provas separadas por matéria, com gabarito oficial e tempo cronometrado de 60 minutos.</p>
+        <p>São 11 Simulados Completos (Modo Prova Real) e 37 provas separadas por matéria, com gabarito oficial e tempo cronometrado de 60 minutos.</p>
       </div>
     </section>
 
@@ -46,7 +46,7 @@
             <h2>Escolha a área de estudo</h2>
             <p>Selecione o Simulado Completo ou uma matéria específica para ver as provas disponíveis.</p>
           </div>
-          <span class="pill" id="total-badge">47 provas disponíveis</span>
+          <span class="pill" id="total-badge">48 provas disponíveis</span>
         </div>
 
         <!-- Matérias em Destaque -->
@@ -55,10 +55,10 @@
           <article class="sim-card sim-full available" onclick="filtrarMateria('completo')" style="--sc:#f7bd2f">
             <div class="sim-card-top">
               <span class="icon"><i class="fa-solid fa-star"></i></span>
-              <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 10 simulados completos</span>
+              <span class="sim-badge"><i class="fa-solid fa-list-check"></i> 11 simulados completos</span>
             </div>
             <h3>Simulado Completo — Modo Prova Real</h3>
-            <p>10 simulados completos · 30 questões (24 de Legislação e Penalidades/Multas, 4 de Primeiros Socorros e 2 de Placas) · 60 minutos · Mínimo de 21 acertos.</p>
+            <p>11 simulados completos · 30 questões · 60 minutos · Cronômetro oficial e pontuação mínima de 21 acertos para aprovação.</p>
             <button class="sim-area-btn" type="button"><i class="fa-solid fa-play"></i> Acessar Simulados</button>
           </article>
 
@@ -140,8 +140,8 @@
 
           <!-- Filtros Rápidos -->
           <div class="cat-tabs">
-            <button class="cat-tab active" data-cat="completo" onclick="filtrarMateria('completo')">Simulados Completos (10)</button>
-            <button class="cat-tab" data-cat="todas" onclick="filtrarMateria('todas')">Todas as Provas (47)</button>
+            <button class="cat-tab active" data-cat="completo" onclick="filtrarMateria('completo')">Simulados Completos (11)</button>
+            <button class="cat-tab" data-cat="todas" onclick="filtrarMateria('todas')">Todas as Provas (48)</button>
             <button class="cat-tab" data-cat="legislacao" onclick="filtrarMateria('legislacao')">Legislação (29)</button>
             <button class="cat-tab" data-cat="sinalizacao" onclick="filtrarMateria('sinalizacao')">Sinalização e Placas (3)</button>
             <button class="cat-tab" data-cat="direcao-defensiva" onclick="filtrarMateria('direcao-defensiva')">Direção Defensiva (2)</button>
@@ -173,8 +173,8 @@
       var descEl = document.getElementById('desc-materia');
 
       var titulosCat = {
-        'completo': { t: 'Simulados Completos — Modo Prova Real (10 Provas)', d: 'Cada simulado completo traz 30 questões selecionadas: 24 de Legislação de Trânsito e Penalidades/Multas, 4 de Primeiros Socorros e 2 de Placas com imagem.' },
-        'todas': { t: 'Todos os Simulados Disponíveis (47 Provas)', d: 'Veja abaixo os 10 Simulados Completos e as 37 provas separadas por matéria.' },
+        'completo': { t: 'Simulados Completos — Modo Prova Real (11 Provas)', d: 'Cada simulado completo traz 30 questões com tempo cronometrado de 60 minutos e gabarito oficial.' },
+        'todas': { t: 'Todos os Simulados Disponíveis (48 Provas)', d: 'Veja abaixo os 11 Simulados Completos e as 37 provas separadas por matéria.' },
         'legislacao': { t: 'Simulados de Legislação de Trânsito', d: '29 provas focadas em CTB, infrações, penalidades, multas, habilitação e circulação.' },
         'sinalizacao': { t: 'Simulados de Sinalização e Placas', d: 'Provas com ilustrações reais de placas de trânsito, gestos de agentes e semáforos.' },
         'direcao-defensiva': { t: 'Simulados de Direção Defensiva', d: 'Provas sobre condições adversas, prevenção de acidentes e física veicular.' },

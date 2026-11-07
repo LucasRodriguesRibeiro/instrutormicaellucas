@@ -1,0 +1,402 @@
+{
+  "id": 48,
+  "numeroCompleto": 11,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 11 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Penalidades e Multas",
+      "txt": "Dirigir um veículo com a validade da CNH vencida há mais de 30 dias, caracteriza uma infração:",
+      "ops": [
+        "A) Infração gravíssima, com multa e remoção do veículo.",
+        "B) Infração grave, com multa e retenção do veículo.",
+        "C) Infração gravíssima, com recolhimento da CNH e retenção do veículo.",
+        "D) Infração gravíssima com multa somente."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Direção Defensiva",
+      "txt": "Sobre acidentes de trânsito podemos afirmar que a maioria deles está associada a:",
+      "ops": [
+        "A) Falhas mecânicas.",
+        "B) Deficiência da via.",
+        "C) Falta de sinalização.",
+        "D) Falhas humanas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 3,
+      "mat": "Primeiros Socorros",
+      "txt": "Na impossibilidade da presença do resgate, o socorrista deve observar prioritariamente:",
+      "ops": [
+        "A) Lesões contundentes.",
+        "B) Queimaduras de primeiro grau.",
+        "C) Hemorragias.",
+        "D) Sinalizar o local."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 4,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Agir com cortesia e solidariedade no trânsito significa:",
+      "ops": [
+        "A) Fazer novos amigos.",
+        "B) Respeitar os direitos dos outros usuários das vias e ser tolerante.",
+        "C) Dar passagem aos outros condutores, ainda que o sinal esteja aberto para você.",
+        "D) Sair do veículo e ajudar os pedestres a atravessar a rua."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 5,
+      "mat": "Legislação de Trânsito",
+      "txt": "Marque a alternativa errada para veículos de transporte de escolares:",
+      "ops": [
+        "A) Registro como veículo de passageiros.",
+        "B) Uma faixa escrita: \"Transporte de Passageiros\".",
+        "C) Inspeção semestral (vistoria).",
+        "D) Uso obrigatório de Tacógrafo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Mecânica Básica",
+      "txt": "A função básica do sistema de suspensão nos veículos automotores é:",
+      "ops": [
+        "A) Absorver os balanços do veículo, somente quando está fazendo uma curva.",
+        "B) Melhorar o controle do carro em pistas escorregadias.",
+        "C) Absorver os choques provocados pelo piso irregular com o veículo em movimento.",
+        "D) Absorver impactos no momento de um acidente."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 7,
+      "mat": "Direção Defensiva",
+      "txt": "Assinale a alternativa INCORRETA. Dirigir na defensiva é:",
+      "ops": [
+        "A) Dirigir atento às ações dos demais usuários.",
+        "B) Dirigir impondo os seus direitos.",
+        "C) Dirigir com educação e segurança.",
+        "D) Dirigir respeitando a legislação."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Legislação de Trânsito",
+      "txt": "Por interrupção de marcha entende-se:",
+      "ops": [
+        "A) A parada do veículo durante o tempo necessário para embarque/desembarque de passageiros.",
+        "B) A imobilização do veículo para atender circunstância momentânea do trânsito.",
+        "C) A imobilização por problemas mecânicos.",
+        "D) Manter o veículo no mesmo lugar por tempo superior ao necessário para embarque/desembarque de pessoas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 9,
+      "mat": "Sinalização",
+      "txt": "As indicações que prevalecem sobre as demais são:",
+      "ops": [
+        "A) As pinturas viárias.",
+        "B) Os sinais luminosos.",
+        "C) As placas de trânsito.",
+        "D) As ordens dos agentes de trânsito."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 10,
+      "mat": "Sinalização",
+      "txt": "A sinalização horizontal se apresenta nas seguintes cores:",
+      "ops": [
+        "A) Amarela, vermelha, branca, azul e preta.",
+        "B) Apenas amarela e branca.",
+        "C) Apenas amarela, vermelha e branca.",
+        "D) Amarela, vermelha, branca, verde e preta."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 11,
+      "mat": "Penalidades e Multas",
+      "txt": "Dirigir veículo com Carteira Nacional de Habilitação ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo, é infração ________ tendo como medida administrativa ________.",
+      "ops": [
+        "A) Grave; retenção do veículo.",
+        "B) Grave; recolhimento do documento de habilitação.",
+        "C) Gravíssima (x2); retenção do veículo.",
+        "D) Gravíssima; recolhimento do documento da habilitação."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 12,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa A-33b adverte o condutor do veículo da existência adiante de:",
+      "ops": [
+        "A) Uma passagem sinalizada de escolares.",
+        "B) Travessia de animais.",
+        "C) Proibido passagem de pedestres.",
+        "D) Passagem obrigatória para veículos escolares."
+      ],
+      "img": "assets/questoes/p48_q12.png",
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Direção Defensiva",
+      "txt": "Tempo de reação é aquele que transcorre entre:",
+      "ops": [
+        "A) O pisar no freio e a imobilização total do veículo.",
+        "B) O acionar a embreagem e o freio.",
+        "C) Ver o perigo e pisar no freio.",
+        "D) Perceber o perigo e parar."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 14,
+      "mat": "Legislação de Trânsito",
+      "txt": "A qual veículo pertence a preferência?",
+      "ops": [
+        "A) Ao veículo que vier pela esquerda.",
+        "B) Ao veículo que seguir em frente.",
+        "C) Ao veículo 1, que está à direita do 2.",
+        "D) Ao veículo 2, porque o veículo 1 vai virar à esquerda."
+      ],
+      "img": "assets/questoes/p48_q14.png",
+      "ok": 2
+    },
+    {
+      "n": 15,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Marque a alternativa incorreta. A emissão de gases poluentes:",
+      "ops": [
+        "A) Prejudica os reflexos.",
+        "B) Não agrava doenças cardiovasculares.",
+        "C) Diminui a capacidade de trabalho.",
+        "D) Degrada a qualidade de vida."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 16,
+      "mat": "Legislação de Trânsito",
+      "txt": "O candidato encontrado dirigindo sem a companhia do instrutor terá a Licença de Aprendizagem (LADV):",
+      "ops": [
+        "A) Suspensa por 6 meses.",
+        "B) Cassada por 24 meses.",
+        "C) Apreendida por 6 meses.",
+        "D) Recolhida e perderá todo o processo de habilitação, tendo que reiniciar."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 17,
+      "mat": "Primeiros Socorros",
+      "txt": "Na presença de sangramento abundante, qual o cuidado indicado?",
+      "ops": [
+        "A) Garrotear (usar garrote).",
+        "B) Fazer compressão no local do sangramento.",
+        "C) Dar bastante líquido para a pessoa ir tomando.",
+        "D) Jogar bastante água oxigenada para coagular e limpar o ferimento."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 18,
+      "mat": "Penalidades e Multas",
+      "txt": "É infração gravíssima para o condutor de motocicleta, motoneta ou ciclomotor:",
+      "ops": [
+        "A) Transportar criança menor de dez anos ou que não tenha condições de cuidar de sua própria segurança.",
+        "B) Conduzir sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras.",
+        "C) Conduzir transportando carga incompatível com suas especificações.",
+        "D) Conduzir rebocando outro veículo."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Legislação de Trânsito",
+      "txt": "Constituem equipamentos de uso obrigatório para automóveis, exceto:",
+      "ops": [
+        "A) Espelhos retrovisores.",
+        "B) Macaco.",
+        "C) Ar condicionado.",
+        "D) DRL – Luz de Rodagem Diurna."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 20,
+      "mat": "Penalidades e Multas",
+      "txt": "É penalidade que a autoridade de trânsito deve substituir pela advertência por escrito, não tendo o infrator outra infração nos últimos 12 meses:",
+      "ops": [
+        "A) Curso de reciclagem.",
+        "B) Multa, desde que seja de natureza leve ou média.",
+        "C) Suspensão do direito de dirigir.",
+        "D) Multa, sendo a infração grave ou gravíssima."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 21,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa R-4b regulamenta:",
+      "ops": [
+        "A) Proibido virar à esquerda.",
+        "B) Proibido seguir em frente.",
+        "C) Curva acentuada à direita.",
+        "D) Proibido virar à direita."
+      ],
+      "img": "assets/questoes/p48_q21.png",
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Direção Defensiva",
+      "txt": "Não constitui fundamento da direção defensiva:",
+      "ops": [
+        "A) Decisão.",
+        "B) Interação.",
+        "C) Conhecimento.",
+        "D) Atenção."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 23,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor de veículo que estiver habilitado na categoria “C” poderá dirigir:",
+      "ops": [
+        "A) Combinação de veículos motorizados para transporte de carga perigosa.",
+        "B) Veículo motorizado de 2 rodas.",
+        "C) Veículo motorizado para transporte de carga cujo peso máximo autorizado esteja acima de 3.500 kg.",
+        "D) Veículo motorizado para transporte de carga de peso máximo de até 1.500 kg, apenas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 24,
+      "mat": "Direção Defensiva",
+      "txt": "Fazem parte da direção defensiva os seguintes elementos básicos, exceto:",
+      "ops": [
+        "A) Estar sempre alerta e consciente ao que se passa em torno do veículo.",
+        "B) Agir de forma sensata e com rapidez nas situações críticas.",
+        "C) Possuir alguma prática de direção, somente o suficiente para movimentar o veículo.",
+        "D) Ter conhecimento da legislação vigente e das técnicas de prevenção."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 25,
+      "mat": "Mecânica Básica",
+      "txt": "Não faz parte das partes fixas do motor:",
+      "ops": [
+        "A) Bloco do motor.",
+        "B) Cilindros.",
+        "C) Cabeçote.",
+        "D) Biela."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 26,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor de veículo só poderá fazer uso da buzina, desde que em toque breve, na seguinte situação:",
+      "ops": [
+        "A) Fora das áreas urbanas, quando for conveniente advertir a um condutor que se tem o propósito de ultrapassá-lo.",
+        "B) Em qualquer situação.",
+        "C) Fora das áreas urbanas somente quando avistar animal na pista.",
+        "D) Ao trafegar perto de hospitais e escolas."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Para melhorar o convívio e a qualidade de vida, existem alguns princípios que devem ser a base das nossas relações no trânsito. Indique abaixo qual princípio pode melhorar a nossa convivência no trânsito.",
+      "ops": [
+        "A) Corresponsabilidade pela vida social: valorizar comportamentos necessários à segurança no trânsito e à efetivação do direito de mobilidade a todos os cidadãos.",
+        "B) Dignidade da pessoa humana: Princípio que não valoriza os direitos humanos e as atitudes fundamentais.",
+        "C) Igualdade de direitos: visa garantir a igualdade e não se preocupa com a solidariedade.",
+        "D) Participação: mobilização das pessoas onde os problemas de trânsito não são de fundamental importância."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 28,
+      "mat": "Primeiros Socorros",
+      "txt": "Ao se deparar com um acidente num local onde o socorro seja prestado somente pelo Corpo de Bombeiros, você deverá ligar para o número:",
+      "ops": [
+        "A) 191.",
+        "B) 193.",
+        "C) 190.",
+        "D) 181."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 29,
+      "mat": "Direção Defensiva",
+      "txt": "Nas alternativas abaixo, podemos classificar como imprudência e negligência, respectivamente:",
+      "ops": [
+        "A) Falhas mecânicas previsíveis e alta velocidade.",
+        "B) Falhas mecânicas previsíveis e dirigir com sono.",
+        "C) Alta velocidade e desobediência à sinalização.",
+        "D) Alta velocidade e falhas mecânicas previsíveis."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação de Trânsito",
+      "txt": "É proibido a todo condutor de veículo:",
+      "ops": [
+        "A) Parar o veículo no acostamento das estradas, quando não houver local apropriado para fazer o retorno.",
+        "B) Dar passagem pela esquerda, quando solicitado.",
+        "C) Aproximar o veículo do meio-fio para embarque de passageiros.",
+        "D) Forçar a passagem entre veículos que, transitando em sentidos opostos, estejam próximos de passar um pelo outro."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+}
