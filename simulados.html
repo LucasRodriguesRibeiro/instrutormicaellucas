@@ -164,6 +164,39 @@
     <div class="shell">Conteúdo de apoio à formação de condutores · Instrutor Micael Lucas · Salvador e Região Metropolitana</div>
   </footer>
 
+  <div class="mobile-mod-backdrop" id="mmod-backdrop"></div>
+  <aside class="mobile-mod-sheet" id="mmod-sheet" aria-label="Menu rápido de módulos">
+    <div class="mobile-mod-head">
+      <strong><i class="fa-solid fa-table-cells-large" style="color:#2563eb;margin-right:6px"></i> Ir direto para o Módulo</strong>
+      <button class="mobile-mod-close" type="button" id="mmod-close" aria-label="Fechar"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <div class="mobile-mod-grid">
+      <a class="mobile-mod-item" href="index.html#modulo/0" style="--mc:#2563eb"><i class="fa-solid fa-id-card"></i><span>Guia da CNH</span></a>
+      <a class="mobile-mod-item" href="index.html#biblioteca" style="--mc:#f59e0b"><i class="fa-solid fa-book-open"></i><span>Apostila Teórica</span></a>
+      <a class="mobile-mod-item" href="index.html#videoaulas" style="--mc:#e11d48"><i class="fa-brands fa-youtube"></i><span>Videoaulas</span></a>
+      <a class="mobile-mod-item" href="simulados.html" style="--mc:#059669"><i class="fa-solid fa-clipboard-check"></i><span>Simulados Detran</span></a>
+      <a class="mobile-mod-item" href="index.html#modulo/2" style="--mc:#4f46e5"><i class="fa-solid fa-brain"></i><span>Psicotécnico</span></a>
+      <a class="mobile-mod-item" href="index.html#modulo/4" style="--mc:#0891b2"><i class="fa-solid fa-car"></i><span>Prova Prática</span></a>
+      <a class="mobile-mod-item" href="index.html#modulo/5" style="--mc:#2563eb;grid-column:1/-1"><i class="fa-solid fa-circle-question"></i><span>Central de Dúvidas Frequentes</span></a>
+    </div>
+  </aside>
+  <nav class="mobile-bottom-nav" aria-label="Navegação rápida mobile">
+    <a class="mnav-btn" href="index.html#inicio"><i class="fa-solid fa-arrow-left"></i><span>Voltar</span></a>
+    <a class="mnav-btn" href="index.html#inicio"><i class="fa-solid fa-house"></i><span>Início</span></a>
+    <a class="mnav-btn" href="index.html#modulo/1"><i class="fa-solid fa-book-open"></i><span>Estudos</span></a>
+    <a class="mnav-btn active" href="simulados.html"><i class="fa-solid fa-clipboard-check"></i><span>Simulados</span></a>
+    <button class="mnav-btn" type="button" id="mnav-mods"><i class="fa-solid fa-table-cells-large"></i><span>Módulos</span></button>
+  </nav>
+  <script>
+    (function(){
+      var sheet=document.getElementById('mmod-sheet'),backdrop=document.getElementById('mmod-backdrop'),modsBtn=document.getElementById('mnav-mods');
+      function closeSheet(){sheet.classList.remove('open');backdrop.classList.remove('open');modsBtn.classList.remove('active')}
+      modsBtn.onclick=function(){var isOpen=sheet.classList.toggle('open');backdrop.classList.toggle('open',isOpen);modsBtn.classList.toggle('active',isOpen)};
+      backdrop.onclick=closeSheet;
+      document.getElementById('mmod-close').onclick=closeSheet;
+    })();
+  </script>
+
   <script src="data/catalogo.js"></script>
   <script>
     (function(){

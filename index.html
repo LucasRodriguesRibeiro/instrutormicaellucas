@@ -59,4 +59,93 @@ function router(){let r=(location.hash||'#inicio').slice(1).split('/');if(r[0]==
 <style>.psycho-content{max-width:1000px;margin:auto}.psycho-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:25px;margin-bottom:20px;box-shadow:0 4px 12px #0f172a08}.psycho-card h2{font-size:22px;margin-bottom:12px}.psycho-card p,.psycho-card li{color:#455268;line-height:1.7}.psycho-card ul{padding-left:22px}.psycho-example{width:100%;display:block;border:1px solid var(--line);border-radius:14px;margin-top:16px}.psycho-note{padding:14px 16px;border-left:4px solid var(--gold);background:#fffbeb;color:#54451b;border-radius:0 10px 10px 0;font-size:13px}</style><script>function psychotestPage(){app.innerHTML='<section class="subhero"><div class="shell"><div class="breadcrumb"><button class="back-btn" onclick="location.hash=\'inicio\'"><i class="fa-solid fa-arrow-left"></i> Voltar ao início</button><span>Início</span><i class="fa-solid fa-chevron-right"></i><span>Psicoteste</span></div><span class="eyebrow"><i class="fa-solid fa-brain"></i> PREPARAÇÃO</span><h1>Psicoteste do Detran</h1><p>Entenda a avaliação psicológica e pratique habilidades importantes para dirigir com segurança.</p></div></section><section class="section"><div class="shell psycho-content"><article class="psycho-card"><h2>O que é avaliado?</h2><p>A avaliação psicológica, conhecida popularmente como psicoteste, verifica características importantes para a condução segura.</p><ul><li>Atenção concentrada e dividida;</li><li>Memória e percepção visual;</li><li>Raciocínio lógico;</li><li>Coordenação motora;</li><li>Controle emocional e tomada de decisões;</li><li>Comportamento e responsabilidade no trânsito.</li></ul></article><article class="psycho-card"><h2>Como se preparar</h2><ul><li>Durma bem e alimente-se normalmente;</li><li>Chegue com antecedência e leve documento oficial;</li><li>Preste atenção às instruções do psicólogo;</li><li>Faça os exercícios com calma, sem tentar adivinhar respostas;</li><li>Não é uma prova de legislação, placas ou direção.</li></ul><div class="psycho-note"><strong>Importante:</strong> o resultado depende da avaliação profissional. Os exercícios abaixo servem apenas para familiarização e treino.</div></article><article class="psycho-card"><h2>Exemplos de exercícios</h2><p>Veja alguns formatos de atividades que podem desenvolver atenção, memória, raciocínio e percepção visual.</p><img class="psycho-example" src="assets/psicoteste-exemplos.svg" alt="Infográfico com exemplos de treino de atenção, memória visual, raciocínio e percepção"></article><article class="psycho-card"><h2>Resultado e recurso</h2><p>Se o resultado for inapto, procure a clínica ou o Detran-BA para saber os prazos e procedimentos de nova avaliação ou recurso. As regras podem mudar, por isso confirme sempre nos canais oficiais.</p><button class="btn" onclick="location.hash=\'inicio\'"><i class="fa-solid fa-arrow-left"></i> Voltar aos módulos</button></article></div></section>'}const previousModulePage=modulePage;modulePage=function(index){if(Number(index)===2){psychotestPage();return}previousModulePage(index)}</script>
 <style>.faq-content{max-width:950px;margin:auto}.faq-intro{background:#fff;border:1px solid var(--line);border-radius:18px;padding:24px;margin-bottom:20px}.faq-intro p{color:var(--muted);margin:8px 0 0}.faq-list{display:grid;gap:12px}.faq-item{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden}.faq-item summary{cursor:pointer;list-style:none;padding:18px 20px;font:800 15px Montserrat;color:var(--ink);display:flex;align-items:center;justify-content:space-between;gap:15px}.faq-item summary::-webkit-details-marker{display:none}.faq-item summary:after{content:'+';font:800 22px Inter;color:var(--blue)}.faq-item[open] summary:after{content:'−'}.faq-answer{padding:0 20px 18px;color:#455268;line-height:1.7;font-size:14px}.faq-answer strong{color:var(--ink)}.faq-contact{margin-top:20px;background:#eef4ff;border:1px solid #cbdcff;border-radius:14px;padding:18px;color:#29476f;font-size:14px}</style><script>function faqPage(){const faqs=[['O que preciso fazer primeiro para tirar a CNH?','Inicie o processo no Detran-BA, faça o cadastro e siga as etapas indicadas: avaliação psicológica, exames, curso teórico, prova teórica, aulas práticas e prova prática. A ordem e os procedimentos devem ser confirmados no canal oficial do Detran.'],['O que é o psicoteste?','É a avaliação psicológica realizada por profissional credenciado. Ela pode avaliar atenção, memória, raciocínio, percepção, coordenação e controle emocional. Não é uma prova de legislação.'],['Como estudar para a prova teórica?','Use a apostila por disciplina, assista às videoaulas e faça os simulados. Estude um pouco todos os dias e revise os assuntos em que tiver mais dificuldade.'],['O que levar no dia da avaliação psicológica?','Leve documento oficial com foto, comprovante ou guia exigida pelo atendimento e chegue com antecedência. Confirme previamente com a clínica se há alguma exigência adicional.'],['O que acontece se eu não passar no psicoteste?','Procure a clínica ou o Detran-BA para saber o motivo registrado, os prazos e as regras para nova avaliação ou recurso. Não deixe de confirmar o procedimento oficial.'],['Como funciona a prova teórica?','A prova verifica o conteúdo estudado, incluindo legislação, sinalização, direção defensiva, primeiros socorros, cidadania, meio ambiente e mecânica. O formato e a quantidade de questões devem ser confirmados no Detran-BA.'],['Posso fazer simulados várias vezes?','Sim. Repetir os simulados ajuda a identificar os temas que precisam de revisão. O simulado é uma ferramenta de treino e não substitui a prova oficial.'],['Como são as aulas práticas?','Nas aulas práticas você aprende comandos, controle do veículo, circulação, estacionamento e os procedimentos cobrados no exame. Siga as orientações do instrutor e pratique com segurança.'],['Se eu reprovar, posso tentar novamente?','Em regra, existem procedimentos para refazer exames, mas os prazos, taxas e agendamentos devem ser confirmados diretamente com o Detran-BA ou com o instrutor.'],['Esta plataforma substitui o Detran ou a autoescola?','Não. Ela é uma plataforma de apoio disponibilizada aos alunos do Instrutor Micael Lucas. Para regras, taxas, documentos e agendamentos, consulte sempre o Detran-BA.']];app.innerHTML='<section class="subhero"><div class="shell"><div class="breadcrumb"><button class="back-btn" onclick="location.hash=\'inicio\'"><i class="fa-solid fa-arrow-left"></i> Voltar ao início</button><span>Início</span><i class="fa-solid fa-chevron-right"></i><span>Central de Dúvidas</span></div><span class="eyebrow"><i class="fa-solid fa-circle-question"></i> SUPORTE AO ALUNO</span><h1>Central de Dúvidas</h1><p>Encontre respostas rápidas para estudar e avançar no processo da sua habilitação.</p></div></section><section class="section"><div class="shell faq-content"><div class="faq-intro"><h2>Perguntas frequentes</h2><p>Abra uma pergunta para ver a resposta. Se sua dúvida não estiver aqui, fale diretamente com o Instrutor Micael Lucas.</p></div><div class="faq-list">'+faqs.map((f,i)=>'<details class="faq-item" '+(i===0?'open':'')+'><summary>'+f[0]+'</summary><div class="faq-answer">'+f[1]+'</div></details>').join('')+'</div><div class="faq-contact"><strong>Importante:</strong> informações sobre taxas, datas, documentos e procedimentos podem mudar. Confirme sempre no Detran-BA e nos canais oficiais.</div></div></section>'}const moduleBeforeFaq=modulePage;modulePage=function(index){if(Number(index)===5){faqPage();return}moduleBeforeFaq(index)}</script>
 <style>@media(max-width:650px){html,body{width:100%;overflow-x:hidden}.shell{width:calc(100% - 24px);max-width:none}.topbar{position:sticky}.nav{min-height:64px;gap:10px}.brand{gap:8px}.brand-logo{width:38px;height:38px}.brand strong{font-size:14px}.hero{padding:44px 0 52px}.hero h1{font-size:clamp(30px,9vw,40px);line-height:1.12;margin:16px 0 12px}.hero p{font-size:15px;line-height:1.55}.section{padding:30px 0}.section-head{gap:12px;margin-bottom:18px}.section-head h2{font-size:22px}.section-head p{font-size:13px}.modules,.subjects{grid-template-columns:1fr;gap:14px}.card,.subject{padding:18px;border-radius:14px;min-height:0}.card h3,.subject h3{font-size:17px}.card p,.subject p{font-size:13px;min-height:0}.card-foot{gap:8px;align-items:flex-end}.card-action{font-size:12px;text-align:right}.subhero{padding:28px 0 32px}.subhero h1{font-size:clamp(27px,8vw,37px);margin:10px 0}.subhero p{font-size:14px;line-height:1.55;margin:8px 0 0}.breadcrumb{gap:6px;font-size:11px;margin-bottom:14px}.back-btn{padding:8px 10px;font-size:11px}.eyebrow{font-size:10px;padding:6px 10px}.module-panel{padding:26px 18px;border-radius:16px}.module-panel h2{font-size:25px}.module-panel p{font-size:14px}.study-choice-grid,.video-layout{grid-template-columns:1fr;gap:14px}.study-choice-card{padding:24px 18px}.study-choice-card h2{font-size:20px}.study-choice-card p{min-height:0;font-size:13px}.playlist-card,.psycho-card,.faq-intro{padding:17px;border-radius:14px}.playlist-card h2,.psycho-card h2,.faq-intro h2{font-size:20px}.playlist-card p{font-size:13px}.playlist-frame{border-radius:10px}.lesson-list{gap:7px}.lesson-button{padding:10px;font-size:12px;gap:8px}.lesson-number{width:27px;height:27px;flex-basis:27px}.lesson-title{font-size:17px}.psycho-card p,.psycho-card li,.faq-answer{font-size:13px}.psycho-example{border-radius:10px}.faq-item summary{padding:15px;font-size:13px;line-height:1.4}.faq-answer{padding:0 15px 15px}.faq-contact{font-size:12px;padding:14px}.reader-head{padding:18px 0}.reader-head h1{font-size:19px}.reader-layout{padding:18px 0 40px;gap:16px}.toc{max-height:240px;border-radius:12px}.toc-head{padding:12px}.toc-title{font-size:12px}.paper{padding:22px 16px;border-radius:14px;min-height:0}.paper h2{font-size:27px;margin:10px 0 20px;padding-bottom:16px}.paper-content{font-size:16px;line-height:1.75}.paper-content p{margin-bottom:1.15em}.reader-nav{gap:8px;margin-top:16px}.nav-btn{padding:10px 8px;font-size:11px}.footer{padding:24px 12px;font-size:10px}.stats{gap:7px}.stat{font-size:11px;padding:7px 9px}.summary{padding:18px;border-radius:14px}.summary-list{grid-template-columns:1fr}.summary-item{font-size:12px}.cover-inner{padding:28px 20px}.subject-cover h1{font-size:32px}.cover-actions .btn,.module-panel .btn,.study-choice-card .btn{width:100%}.btn{padding:11px 13px;font-size:12px}.video-credit{font-size:11px;padding:11px 12px}.video-credit strong{display:inline}.guide-step{grid-template-columns:38px 1fr;gap:0 12px}.guide-step-badge{width:38px;height:38px;font-size:14px}.guide-step-body{padding:16px 14px;margin-bottom:18px}.guide-step-body h3{font-size:15px}.guide-step-body p,.guide-step-body li{font-size:13px;line-height:1.6}}
+.mobile-bottom-nav,.mobile-mod-backdrop,.mobile-mod-sheet{display:none}
+@media(max-width:768px){
+  body{padding-bottom:78px}
+  .mobile-bottom-nav{display:grid;grid-template-columns:repeat(5,1fr);position:fixed;bottom:0;left:0;right:0;z-index:90;background:#07172ff7;backdrop-filter:blur(10px);border-top:1px solid #203653;padding:6px 6px calc(6px + env(safe-area-inset-bottom,0px));box-shadow:0 -6px 24px rgba(7,23,47,.28)}
+  .mnav-btn{border:0;background:transparent;color:#94a3b8;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;padding:6px 2px;border-radius:10px;font:700 10px/1.1 Inter,sans-serif;transition:.18s}
+  .mnav-btn i{font-size:16px}
+  .mnav-btn.active{color:var(--gold);background:#ffffff12}
+  .mnav-btn:active{transform:scale(.95)}
+  .mobile-mod-backdrop{position:fixed;inset:0;z-index:85;background:rgba(7,23,47,.55);backdrop-filter:blur(2px);opacity:0;pointer-events:none;transition:.2s}
+  .mobile-mod-backdrop.open{display:block;opacity:1;pointer-events:auto}
+  .mobile-mod-sheet{display:block;position:fixed;left:0;right:0;bottom:64px;z-index:88;background:#fff;border-radius:20px 20px 0 0;border-top:1px solid var(--line);padding:18px 16px 24px;box-shadow:0 -12px 35px rgba(7,23,47,.22);transform:translateY(110%);transition:transform .25s ease}
+  .mobile-mod-sheet.open{transform:translateY(0)}
+  .mobile-mod-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+  .mobile-mod-head strong{font:800 14px Montserrat,sans-serif;color:var(--ink)}
+  .mobile-mod-close{border:0;background:#f1f5f9;color:#475569;width:30px;height:30px;border-radius:8px;display:grid;place-items:center;font-size:13px}
+  .mobile-mod-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:9px}
+  .mobile-mod-item{border:1px solid var(--line);background:#f8fafc;border-radius:12px;padding:11px 12px;display:flex;align-items:center;gap:10px;text-align:left;font:700 12px/1.25 Inter,sans-serif;color:var(--ink)}
+  .mobile-mod-item i{width:32px;height:32px;flex:0 0 32px;border-radius:9px;display:grid;place-items:center;background:var(--mc,#2563eb);color:#fff;font-size:14px}
+  .mobile-mod-item:active{background:#eff6ff;border-color:var(--blue)}
+}
 </style>
+<div class="mobile-mod-backdrop" id="mmod-backdrop"></div>
+<aside class="mobile-mod-sheet" id="mmod-sheet" aria-label="Menu rápido de módulos">
+  <div class="mobile-mod-head">
+    <strong><i class="fa-solid fa-table-cells-large" style="color:#2563eb;margin-right:6px"></i> Ir direto para o Módulo</strong>
+    <button class="mobile-mod-close" type="button" id="mmod-close" aria-label="Fechar"><i class="fa-solid fa-xmark"></i></button>
+  </div>
+  <div class="mobile-mod-grid">
+    <button class="mobile-mod-item" type="button" data-mgo="modulo/0" style="--mc:#2563eb"><i class="fa-solid fa-id-card"></i><span>Guia da CNH</span></button>
+    <button class="mobile-mod-item" type="button" data-mgo="biblioteca" style="--mc:#f59e0b"><i class="fa-solid fa-book-open"></i><span>Apostila Teórica</span></button>
+    <button class="mobile-mod-item" type="button" data-mgo="videoaulas" style="--mc:#e11d48"><i class="fa-brands fa-youtube"></i><span>Videoaulas</span></button>
+    <button class="mobile-mod-item" type="button" data-mgo="simulados" style="--mc:#059669"><i class="fa-solid fa-clipboard-check"></i><span>Simulados Detran</span></button>
+    <button class="mobile-mod-item" type="button" data-mgo="modulo/2" style="--mc:#4f46e5"><i class="fa-solid fa-brain"></i><span>Psicotécnico</span></button>
+    <button class="mobile-mod-item" type="button" data-mgo="modulo/4" style="--mc:#0891b2"><i class="fa-solid fa-car"></i><span>Prova Prática</span></button>
+    <button class="mobile-mod-item" type="button" data-mgo="modulo/5" style="--mc:#2563eb;grid-column:1/-1"><i class="fa-solid fa-circle-question"></i><span>Central de Dúvidas Frequentes</span></button>
+  </div>
+</aside>
+<nav class="mobile-bottom-nav" aria-label="Navegação rápida mobile">
+  <button class="mnav-btn" type="button" id="mnav-back"><i class="fa-solid fa-arrow-left"></i><span>Voltar</span></button>
+  <button class="mnav-btn active" type="button" data-mnav="inicio"><i class="fa-solid fa-house"></i><span>Início</span></button>
+  <button class="mnav-btn" type="button" data-mnav="modulo/1"><i class="fa-solid fa-book-open"></i><span>Estudos</span></button>
+  <button class="mnav-btn" type="button" data-mnav="simulados"><i class="fa-solid fa-clipboard-check"></i><span>Simulados</span></button>
+  <button class="mnav-btn" type="button" id="mnav-mods"><i class="fa-solid fa-table-cells-large"></i><span>Módulos</span></button>
+</nav>
+<script>
+(function(){
+  var sheet=document.getElementById('mmod-sheet'),backdrop=document.getElementById('mmod-backdrop'),modsBtn=document.getElementById('mnav-mods');
+  function closeSheet(){sheet.classList.remove('open');backdrop.classList.remove('open');modsBtn.classList.remove('active')}
+  function toggleSheet(){var isOpen=sheet.classList.toggle('open');backdrop.classList.toggle('open',isOpen);modsBtn.classList.toggle('active',isOpen)}
+  modsBtn.onclick=toggleSheet;
+  backdrop.onclick=closeSheet;
+  document.getElementById('mmod-close').onclick=closeSheet;
+  document.querySelectorAll('[data-mgo]').forEach(function(b){
+    b.onclick=function(){
+      closeSheet();
+      var t=b.dataset.mgo;
+      if(t==='simulados')location.href='simulados.html';
+      else location.hash=t;
+    };
+  });
+  document.querySelectorAll('[data-mnav]').forEach(function(b){
+    b.onclick=function(){
+      closeSheet();
+      var t=b.dataset.mnav;
+      if(t==='simulados')location.href='simulados.html';
+      else location.hash=t;
+    };
+  });
+  document.getElementById('mnav-back').onclick=function(){
+    closeSheet();
+    var h=(location.hash||'#inicio').slice(1).split('/');
+    if(h[0]==='disciplina')location.hash='biblioteca';
+    else if(h[0]==='biblioteca'||h[0]==='videoaulas')location.hash='modulo/1';
+    else if(h[0]&&h[0]!=='inicio')location.hash='inicio';
+    else if(history.length>1)history.back();
+    else scrollTo({top:0,behavior:'smooth'});
+  };
+  function syncActive(){
+    closeSheet();
+    var h=(location.hash||'#inicio').slice(1);
+    document.querySelectorAll('[data-mnav]').forEach(function(b){
+      var t=b.dataset.mnav;
+      var isAct=(t==='inicio'&&(h===''||h==='inicio'))||(t==='modulo/1'&&(h==='modulo/1'||h==='biblioteca'||h==='videoaulas'||h.indexOf('disciplina/')===0));
+      b.classList.toggle('active',isAct);
+    });
+  }
+  addEventListener('hashchange',syncActive);
+  syncActive();
+})();
+</script>
