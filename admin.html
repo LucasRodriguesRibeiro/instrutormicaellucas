@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Painel do Instrutor | Micael Lucas</title>
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="icon" type="image/jpeg" href="logomicaellucas.jpeg">
+  <link rel="apple-touch-icon" href="logomicaellucas.jpeg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --navy: #07172f;
+      --gold: #f7bd2f;
+      --blue: #2563eb;
+      --green: #059669;
+      --red: #e11d48;
+      --ink: #13213a;
+      --muted: #64748b;
+      --line: #e1e8f2;
+      --bg: #0a1931;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font: 15px/1.55 Inter, sans-serif;
+      color: var(--ink);
+      background: radial-gradient(circle at 80% 15%, rgba(37,99,235,0.28), transparent 45%),
+                  linear-gradient(135deg, #07172f 0%, #0d254c 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .admin-card {
+      width: 100%;
+      max-width: 460px;
+      background: #ffffff;
+      border: 1px solid var(--line);
+      border-top: 5px solid var(--gold);
+      border-radius: 22px;
+      padding: 32px 26px 28px;
+      box-shadow: 0 24px 60px rgba(0,0,0,0.45);
+    }
+    .admin-head {
+      text-align: center;
+      margin-bottom: 22px;
+    }
+    .admin-logo {
+      width: 64px;
+      height: 64px;
+      border-radius: 16px;
+      object-fit: cover;
+      border: 2px solid var(--gold);
+      box-shadow: 0 6px 18px rgba(7,23,47,0.18);
+      margin-bottom: 10px;
+    }
+    .admin-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 999px;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      color: #1d4ed8;
+      font: 800 10px Montserrat, sans-serif;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    h1 {
+      font: 800 22px/1.2 Montserrat, sans-serif;
+      color: var(--navy);
+      margin: 0 0 6px;
+    }
+    .sub {
+      font-size: 13px;
+      color: var(--muted);
+      margin: 0;
+    }
+    .field {
+      margin-bottom: 15px;
+      text-align: left;
+    }
+    .field label {
+      display: block;
+      font: 700 12px Montserrat, sans-serif;
+      color: #1e293b;
+      margin-bottom: 6px;
+    }
+    .input-wrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .input-wrap > i {
+      position: absolute;
+      left: 14px;
+      color: var(--muted);
+      font-size: 14px;
+      pointer-events: none;
+    }
+    .input, .select {
+      width: 100%;
+      border: 1.5px solid #cbd5e1;
+      border-radius: 12px;
+      padding: 12px 14px 12px 40px;
+      font: 500 14px Inter, sans-serif;
+      color: #0f172a;
+      background: #f8fafc;
+      outline: none;
+      transition: 0.18s;
+    }
+    .input:focus, .select:focus {
+      border-color: var(--blue);
+      background: #fff;
+      box-shadow: 0 0 0 3px rgba(37,99,235,0.14);
+    }
+    .btn {
+      width: 100%;
+      border: 0;
+      border-radius: 12px;
+      padding: 13px 18px;
+      background: var(--green);
+      color: #fff;
+      font: 800 14px Montserrat, sans-serif;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      cursor: pointer;
+      box-shadow: 0 6px 18px rgba(5,150,105,0.28);
+      transition: 0.2s;
+    }
+    .btn:hover:not(:disabled) { background: #047857; }
+    .btn:disabled { opacity: 0.7; cursor: wait; }
+    .msg {
+      display: none;
+      align-items: flex-start;
+      gap: 9px;
+      border-radius: 11px;
+      padding: 11px 13px;
+      font-size: 12.5px;
+      font-weight: 600;
+      margin-bottom: 15px;
+      line-height: 1.45;
+    }
+    .msg.show { display: flex; }
+    .msg.err {
+      background: #fef2f2;
+      border: 1px solid #fecaca;
+      color: #b91c1c;
+    }
+    .msg.ok {
+      background: #ecfdf5;
+      border: 1px solid #a7f3d0;
+      color: #065f46;
+    }
+    .msg i { margin-top: 2px; flex-shrink: 0; }
+    .top-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 18px;
+      padding-top: 14px;
+      border-top: 1px solid #edf1f6;
+      font-size: 12px;
+    }
+    .link-btn {
+      border: 0;
+      background: none;
+      color: var(--muted);
+      font: 600 12px Inter, sans-serif;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 0;
+      text-decoration: none;
+    }
+    .link-btn:hover { color: var(--navy); }
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+
+  <!-- TELA 1: SENHA DO INSTRUTOR -->
+  <div class="admin-card" id="view-login">
+    <div class="admin-head">
+      <img src="logomicaellucas.jpeg" alt="Instrutor Micael Lucas" class="admin-logo">
+      <div><span class="admin-badge"><i class="fa-solid fa-user-shield"></i> Painel do Instrutor</span></div>
+      <h1>Acesso Administrativo</h1>
+      <p class="sub">Digite sua senha de instrutor para liberar ou gerenciar e-mails de alunos.</p>
+    </div>
+
+    <form id="form-login" autocomplete="off">
+      <div class="field">
+        <label for="adm-pass">Senha do Instrutor</label>
+        <div class="input-wrap">
+          <i class="fa-solid fa-key"></i>
+          <input class="input" id="adm-pass" type="password" inputmode="numeric" placeholder="Digite sua senha" required>
+        </div>
+      </div>
+
+      <div class="msg err" id="login-err">
+        <i class="fa-solid fa-circle-exclamation"></i>
+        <span id="login-err-text">Senha incorreta.</span>
+      </div>
+
+      <button class="btn" id="btn-login" type="submit">
+        <i class="fa-solid fa-unlock-keyhole"></i> Entrar no Painel
+      </button>
+    </form>
+
+    <div class="top-actions">
+      <a class="link-btn" href="index.html"><i class="fa-solid fa-arrow-left"></i> Ir para a Plataforma</a>
+      <span style="color:#94a3b8;font-size:11px">Instrutor Micael Lucas</span>
+    </div>
+  </div>
+
+  <!-- TELA 2: CADASTRAR / GERENCIAR ALUNO -->
+  <div class="admin-card hidden" id="view-panel">
+    <div class="admin-head">
+      <img src="logomicaellucas.jpeg" alt="Instrutor Micael Lucas" class="admin-logo">
+      <div><span class="admin-badge"><i class="fa-solid fa-user-plus"></i> Liberação Rápida</span></div>
+      <h1>Gerenciar Aluno</h1>
+      <p class="sub">Adicione ou bloqueie o e-mail de acesso do aluno instantaneamente.</p>
+    </div>
+
+    <form id="form-aluno" autocomplete="off">
+      <div class="field">
+        <label for="aluno-email">E-mail do Aluno</label>
+        <div class="input-wrap">
+          <i class="fa-solid fa-envelope"></i>
+          <input class="input" id="aluno-email" type="email" placeholder="emaildoaluno@gmail.com" required>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="aluno-nome">Nome do Aluno (opcional)</label>
+        <div class="input-wrap">
+          <i class="fa-solid fa-user"></i>
+          <input class="input" id="aluno-nome" type="text" placeholder="Ex: Maria Souza">
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="aluno-status">Ação</label>
+        <div class="input-wrap">
+          <i class="fa-solid fa-circle-check"></i>
+          <select class="select" id="aluno-status">
+            <option value="ativo">Liberar Acesso (Ativo)</option>
+            <option value="inativo">Bloquear Acesso (Inativo)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="msg" id="panel-msg">
+        <i class="fa-solid fa-circle-check" id="panel-msg-icon"></i>
+        <span id="panel-msg-text"></span>
+      </div>
+
+      <button class="btn" id="btn-salvar" type="submit">
+        <i class="fa-solid fa-bolt"></i> Salvar Acesso Agora
+      </button>
+    </form>
+
+    <div class="top-actions">
+      <a class="link-btn" href="index.html"><i class="fa-solid fa-arrow-left"></i> Ir para a Plataforma</a>
+      <button class="link-btn" type="button" id="btn-sair-adm"><i class="fa-solid fa-right-from-bracket"></i> Sair do Admin</button>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      'use strict';
+
+      var SUPABASE_URL = 'https://qnyiahwmbdphdnjocqpl.supabase.co';
+      var SUPABASE_ANON_KEY = 'sb_publishable_jMLj1Slf-5LSAbJQ24GOig_3j_SWOk9';
+      var ADM_STORAGE = 'iml_adm_pass_v1';
+
+      var viewLogin = document.getElementById('view-login');
+      var viewPanel = document.getElementById('view-panel');
+      var passInput = document.getElementById('adm-pass');
+      var loginErr = document.getElementById('login-err');
+      var loginErrText = document.getElementById('login-err-text');
+      var btnLogin = document.getElementById('btn-login');
+
+      var emailInput = document.getElementById('aluno-email');
+      var nomeInput = document.getElementById('aluno-nome');
+      var statusSelect = document.getElementById('aluno-status');
+      var panelMsg = document.getElementById('panel-msg');
+      var panelMsgIcon = document.getElementById('panel-msg-icon');
+      var panelMsgText = document.getElementById('panel-msg-text');
+      var btnSalvar = document.getElementById('btn-salvar');
+
+      function callAdminRpc(senha, email, nome, status) {
+        var endpoint = SUPABASE_URL.replace(/\/+$/, '') + '/rest/v1/rpc/admin_gerenciar_aluno';
+        return fetch(endpoint, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'apikey': SUPABASE_ANON_KEY
+          },
+          body: JSON.stringify({
+            p_senha: String(senha || '').trim(),
+            p_email: String(email || '').trim().toLowerCase(),
+            p_nome: String(nome || '').trim() || 'Aluno',
+            p_status: String(status || 'ativo')
+          })
+        }).then(function (res) {
+          if (!res.ok) throw new Error('HTTP_' + res.status);
+          return res.json();
+        });
+      }
+
+      function abrirPainel() {
+        viewLogin.classList.add('hidden');
+        viewPanel.classList.remove('hidden');
+        setTimeout(function () { emailInput.focus(); }, 50);
+      }
+
+      var savedPass = sessionStorage.getItem(ADM_STORAGE);
+      if (savedPass) {
+        abrirPainel();
+      }
+
+      document.getElementById('form-login').onsubmit = function (e) {
+        e.preventDefault();
+        loginErr.classList.remove('show');
+        var pass = String(passInput.value || '').trim();
+        if (!pass) return;
+
+        btnLogin.disabled = true;
+        btnLogin.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Verificando...';
+
+        callAdminRpc(pass, '__verificar__', 'Admin', 'ativo')
+          .then(function (res) {
+            if (res && res.ok === true) {
+              sessionStorage.setItem(ADM_STORAGE, pass);
+              passInput.value = '';
+              abrirPainel();
+            } else {
+              loginErrText.textContent = 'Senha do instrutor incorreta.';
+              loginErr.classList.add('show');
+              passInput.focus();
+            }
+          })
+          .catch(function () {
+            loginErrText.textContent = 'Erro ao validar no banco. Confirme se rodou a função admin_gerenciar_aluno no SQL Editor do Supabase.';
+            loginErr.classList.add('show');
+          })
+          .finally(function () {
+            btnLogin.disabled = false;
+            btnLogin.innerHTML = '<i class="fa-solid fa-unlock-keyhole"></i> Entrar no Painel';
+          });
+      };
+
+      function showPanelFeedback(isOk, text) {
+        panelMsg.className = 'msg show ' + (isOk ? 'ok' : 'err');
+        panelMsgIcon.className = isOk ? 'fa-solid fa-circle-check' : 'fa-solid fa-circle-exclamation';
+        panelMsgText.textContent = text;
+      }
+
+      document.getElementById('form-aluno').onsubmit = function (e) {
+        e.preventDefault();
+        panelMsg.classList.remove('show');
+
+        var pass = sessionStorage.getItem(ADM_STORAGE) || '';
+        var email = String(emailInput.value || '').trim().toLowerCase();
+        var nome = String(nomeInput.value || '').trim() || 'Aluno';
+        var status = statusSelect.value;
+
+        if (!email || email.indexOf('@') === -1) {
+          showPanelFeedback(false, 'Digite um e-mail válido.');
+          return;
+        }
+
+        btnSalvar.disabled = true;
+        btnSalvar.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Salvando...';
+
+        callAdminRpc(pass, email, nome, status)
+          .then(function (res) {
+            if (res && res.ok === true) {
+              var acao = status === 'ativo' ? 'liberado com sucesso!' : 'bloqueado com sucesso!';
+              showPanelFeedback(true, 'O e-mail ' + email + ' foi ' + acao);
+              emailInput.value = '';
+              nomeInput.value = '';
+              emailInput.focus();
+            } else {
+              showPanelFeedback(false, 'Sessão expirada ou senha inválida. Faça login novamente.');
+              sessionStorage.removeItem(ADM_STORAGE);
+              setTimeout(function () { location.reload(); }, 1200);
+            }
+          })
+          .catch(function () {
+            showPanelFeedback(false, 'Erro de conexão ao salvar. Tente novamente.');
+          })
+          .finally(function () {
+            btnSalvar.disabled = false;
+            btnSalvar.innerHTML = '<i class="fa-solid fa-bolt"></i> Salvar Acesso Agora';
+          });
+      };
+
+      document.getElementById('btn-sair-adm').onclick = function () {
+        sessionStorage.removeItem(ADM_STORAGE);
+        location.reload();
+      };
+    })();
+  </script>
+</body>
+</html>

@@ -86,6 +86,53 @@ $$;
 revoke all on table public.alunos_autorizados from anon, authenticated;
 grant execute on function public.verificar_acesso_email(text) to anon, authenticated;
 
+-- 4. Função RPC Ultraleve para o Painel do Instrutor (admin.html) — 12 bytes de Egress
+create or replace function public.admin_gerenciar_aluno(
+  p_senha text,
+  p_email text,
+  p_nome text default 'Aluno',
+  p_status text default 'ativo'
+)
+returns jsonb
+language plpgsql
+security definer
+set search_path = public
+as $$
+declare
+  v_email text := lower(trim(coalesce(p_email, '')));
+  v_status text := lower(trim(coalesce(p_status, 'ativo')));
+begin
+  -- Validação da senha exclusiva do instrutor no servidor
+  if trim(coalesce(p_senha, '')) <> 'SUA_SENHA_ADMIN_AQUI' then
+    return jsonb_build_object('ok', false);
+  end if;
+
+  -- Apenas verificação de login no painel admin.html
+  if v_email = '__verificar__' then
+    return jsonb_build_object('ok', true);
+  end if;
+
+  if v_email = '' or position('@' in v_email) = 0 then
+    return jsonb_build_object('ok', false);
+  end if;
+
+  if v_status not in ('ativo', 'inativo', 'cancelado', 'reembolsado') then
+    v_status := 'ativo';
+  end if;
+
+  insert into public.alunos_autorizados (email, nome, status, origem)
+  values (v_email, coalesce(nullif(trim(p_nome), ''), 'Aluno'), v_status, 'manual')
+  on conflict (email) do update
+    set status = excluded.status,
+        nome = coalesce(nullif(trim(excluded.nome), ''), public.alunos_autorizados.nome),
+        updated_at = now();
+
+  return jsonb_build_object('ok', true);
+end;
+$$;
+
+grant execute on function public.admin_gerenciar_aluno(text, text, text, text) to anon, authenticated;
+
 -- ============================================================================
 -- 4. ALUNOS CADASTRADOS MANUALMENTE
 -- ============================================================================
