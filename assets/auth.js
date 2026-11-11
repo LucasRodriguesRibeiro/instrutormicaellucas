@@ -180,11 +180,11 @@
     gate.innerHTML =
       '<form class="iml-auth-card" id="iml-auth-form" autocomplete="on">' +
         '<img src="logomicaellucas.jpeg" alt="Instrutor Micael Lucas" class="iml-auth-logo">' +
-        '<div><span class="iml-auth-badge"><i class="fa-solid fa-lock"></i> Acesso Exclusivo Alunos</span></div>' +
+        '<div><span class="iml-auth-badge"><i class="fa-solid fa-lock"></i> Acesso Restrito</span></div>' +
         '<h1>Área do Aluno</h1>' +
-        '<p>Digite abaixo o <strong>mesmo e-mail utilizado na sua compra</strong> para liberar seu acesso imediato à plataforma.</p>' +
+        '<p>Plataforma exclusiva dos alunos do <strong>Instrutor Micael Lucas</strong>. Digite seu e-mail cadastrado para acessar.</p>' +
         '<div class="iml-auth-field">' +
-          '<label for="iml-email">E-mail da Compra</label>' +
+          '<label for="iml-email">E-mail de Acesso</label>' +
           '<div class="iml-auth-input-wrap">' +
             '<i class="fa-solid fa-envelope"></i>' +
             '<input class="iml-auth-input" id="iml-email" type="email" placeholder="seuemail@exemplo.com" required autocomplete="email">' +
@@ -195,12 +195,8 @@
           '<span id="iml-auth-err-msg">E-mail não encontrado.</span>' +
         '</div>' +
         '<button class="iml-auth-btn" id="iml-auth-submit" type="submit">' +
-          '<i class="fa-solid fa-right-to-bracket"></i> Acessar Plataforma' +
+          '<i class="fa-solid fa-right-to-bracket"></i> Entrar na Plataforma' +
         '</button>' +
-        '<div class="iml-auth-hint">' +
-          '<i class="fa-solid fa-bolt"></i>' +
-          '<span>Comprou agora na <strong>Hotmart</strong>? Seu acesso é liberado automaticamente assim que o pagamento é aprovado.</span>' +
-        '</div>' +
         '<div class="iml-auth-foot"><i class="fa-solid fa-shield-halved"></i> Instrutor Credenciado pelo Detran · Salvador e Região</div>' +
       '</form>';
 
@@ -244,11 +240,11 @@
             document.documentElement.classList.remove('iml-locked');
             injectLogoutButton(getSession());
           } else if (res && (res.s === 'reembolsado' || res.s === 'cancelado')) {
-            showError('O acesso vinculado a este e-mail foi cancelado ou reembolsado na Hotmart.');
+            showError('O acesso vinculado a este e-mail está inativo ou cancelado.');
           } else if (res && res.s === 'expirado') {
             showError('O prazo de acesso deste e-mail expirou. Entre em contato com o suporte.');
           } else {
-            showError('E-mail não encontrado. Verifique se digitou o mesmo e-mail usado na compra da Hotmart.');
+            showError('E-mail não autorizado. Verifique se digitou seu e-mail cadastrado corretamente.');
           }
         })
         .catch(function () {
@@ -256,7 +252,7 @@
         })
         .finally(function () {
           submitBtn.disabled = false;
-          submitBtn.innerHTML = '<i class="fa-solid fa-right-to-bracket"></i> Acessar Plataforma';
+          submitBtn.innerHTML = '<i class="fa-solid fa-right-to-bracket"></i> Entrar na Plataforma';
         });
     };
 
