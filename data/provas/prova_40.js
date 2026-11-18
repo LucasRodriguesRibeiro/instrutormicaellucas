@@ -11,298 +11,298 @@ window.PROVA_ATUAL = {
     {
       "n": 1,
       "mat": "Legislação de Trânsito",
-      "txt": "A Licença de Aprendizagem (LADV) suspensa poderá ser obtida novamente após decorridos:",
+      "txt": "De acordo com o CTB vigente, para condutores com idade igual ou superior a 50 anos e inferior a 70 anos, o exame de aptidão física e mental para renovação da CNH deverá ser renovado a cada:",
       "ops": [
-        "A) Seis meses.",
-        "B) Três meses.",
-        "C) Doze meses.",
-        "D) Nove meses."
-      ],
-      "img": null,
-      "ok": 0
-    },
-    {
-      "n": 2,
-      "mat": "Penalidades e Multas",
-      "txt": "O pagamento da multa poderá ser efetuado, até a data do vencimento, com desconto de:",
-      "ops": [
-        "A) 40%.",
-        "B) 80%.",
-        "C) 20%.",
-        "D) 30%."
-      ],
-      "img": null,
-      "ok": 3
-    },
-    {
-      "n": 3,
-      "mat": "Legislação de Trânsito",
-      "txt": "O candidato à obtenção da ACC ou da CNH deverá preencher os seguintes requisitos:",
-      "ops": [
-        "A) Ser maior de 21 anos, possuir CPF, saber ler e escrever.",
-        "B) Somente saber ler e escrever, e possuir documento de identidade.",
-        "C) Ser penalmente imputável, saber ler e escrever, possuir documento de identidade e CPF.",
-        "D) Ser maior de 18 anos, saber ler e escrever, possuir identidade e CPF."
-      ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 4,
-      "mat": "Penalidades e Multas",
-      "txt": "As penalidades aplicadas em razão dos crimes cometidos na direção do veículo automotor não são agravadas quando o condutor dirigir:",
-      "ops": [
-        "A) Utilizando o veículo sem placas, com placas falsas ou adulteradas.",
-        "B) Sem possuir Permissão para Dirigir ou Carteira Nacional de Habilitação.",
-        "C) Com a Carteira Nacional de Habilitação vencida há mais de trinta dias.",
-        "D) Com Permissão para Dirigir ou Carteira Nacional de Habilitação de categoria diferente da do veículo."
+        "A) 10 anos.",
+        "B) 5 anos.",
+        "C) 3 anos.",
+        "D) 2 anos."
       ],
       "img": null,
       "ok": 1
     },
     {
-      "n": 5,
-      "mat": "Legislação de Trânsito",
-      "txt": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CONTRAN, é aquela obtida:",
+      "n": 2,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-19 estabelece:",
       "ops": [
-        "A) No Brasil.",
-        "B) No seu Estado.",
-        "C) No seu Município.",
-        "D) Em outro país."
+        "A) Velocidade máxima permitida.",
+        "B) Velocidade obrigatória.",
+        "C) Uma sinalização de advertência.",
+        "D) Velocidade mínima permitida."
       ],
-      "img": null,
-      "ok": 3
+      "img": "assets/questoes/p7_q18.png",
+      "ok": 0
     },
     {
-      "n": 6,
-      "mat": "Penalidades e Multas",
-      "txt": "As penalidades atribuídas ao condutor que dirige veículo sob a influência de álcool, são:",
+      "n": 3,
+      "mat": "Direção Defensiva",
+      "txt": "A principal causa da grande maioria dos acidentes de trânsito no Brasil está relacionada a:",
       "ops": [
-        "A) Multa (três vezes) e suspensão do direito de dirigir.",
-        "B) Multa (três vezes) e cassação do documento de habilitação.",
-        "C) Multa (cinco vezes) e advertência por escrito.",
-        "D) Multa ( dez vezes) e suspensão do direito de dirigir."
-      ],
-      "img": null,
-      "ok": 3
-    },
-    {
-      "n": 7,
-      "mat": "Legislação de Trânsito",
-      "txt": "As categorias existentes à habilitação são:",
-      "ops": [
-        "A) A – B – C – D",
-        "B) B – C – D – E",
-        "C) B – C – D",
-        "D) A – B – C – D – E"
-      ],
-      "img": null,
-      "ok": 3
-    },
-    {
-      "n": 8,
-      "mat": "Penalidades e Multas",
-      "txt": "Deixar o condutor ou passageiro de usar o cinto de segurança é infração ________, gerando a penalidade de __________.",
-      "ops": [
-        "A) Grave; multa.",
-        "B) Gravíssima; multa (três vezes).",
-        "C) Gravíssima; multa (cinco vezes).",
-        "D) Gravíssima; multa."
+        "A) Falha humana (imprudência, imperícia ou negligência do condutor).",
+        "B) Falta de combustível na via.",
+        "C) Cor da pintura da carroceria.",
+        "D) Defeitos de fabricação nos veículos novos."
       ],
       "img": null,
       "ok": 0
     },
     {
-      "n": 9,
+      "n": 4,
       "mat": "Legislação de Trânsito",
-      "txt": "A idade mínima para conduzir um veículo automotor com capacidade acima de 20 passageiros é: 08",
+      "txt": "Ao conduzir um veículo em via pública, segurar ou manusear o telefone celular caracteriza infração de natureza:",
       "ops": [
-        "A) 20 anos.",
-        "B) 21 anos.",
-        "C) 18 anos.",
-        "D) 19 anos."
+        "A) Gravíssima.",
+        "B) Grave.",
+        "C) Leve.",
+        "D) Média."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 5,
+      "mat": "Primeiros Socorros",
+      "txt": "Uma vítima de acidente apresenta pele fria e pálida, suor intenso, pulso rápido e fraco e sede intensa. Esses sinais são característicos de:",
+      "ops": [
+        "A) Estado de choque, exigindo acionamento imediato do resgate e manutenção da temperatura corporal da vítima.",
+        "B) Câimbra muscular leve.",
+        "C) Resfriado comum.",
+        "D) Apenas um susto passageiro sem risco."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 6,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-8 alerta o condutor sobre:",
+      "ops": [
+        "A) Via lateral à esquerda.",
+        "B) Bifurcação em “Y”.",
+        "C) Entroncamento oblíquo à direita.",
+        "D) Interseção em “T”."
+      ],
+      "img": "assets/questoes/p7_q7.png",
+      "ok": 3
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "Em uma rodovia de pista dupla onde não haja sinalização regulamentadora de velocidade, qual é a velocidade máxima permitida para automóveis, camionetas e motocicletas?",
+      "ops": [
+        "A) 90 km/h.",
+        "B) 110 km/h.",
+        "C) 100 km/h.",
+        "D) 80 km/h."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Direção Defensiva",
+      "txt": "No trânsito, a diferença entre IMPRUDÊNCIA e NEGLIGÊNCIA consiste em que:",
+      "ops": [
+        "A) Ambas significam falta de habilidade prática para manobrar o carro.",
+        "B) Negligência é apenas desrespeitar semáforo vermelho.",
+        "C) Imprudência só ocorre quando o veículo está estacionado.",
+        "D) Imprudência é agir com precipitação e excesso (ex: correr demais); negligência é deixar de tomar um cuidado necessário (ex: rodar com pneus carecas)."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Qual gás incolor e inodoro liberado pelo escapamento dos veículos a combustão é altamente tóxico ao ser inalado em ambientes fechados, podendo causar asfixia?",
+      "ops": [
+        "A) Oxigênio.",
+        "B) Monóxido de carbono (CO).",
+        "C) Vapor d'água.",
+        "D) Nitrogênio puro."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 10,
-      "mat": "Penalidades e Multas",
-      "txt": "Dirigir com falta de atenção e sem os cuidados indispensáveis à segurança do trânsito é infração punível com:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Para habilitar-se na categoria 'D' (transporte de passageiros com mais de 8 lugares), o condutor deve ter idade mínima de 21 anos e estar habilitado há, no mínimo:",
       "ops": [
-        "A) Multa e apreensão da Carteira Nacional de Habilitação.",
-        "B) Multa.",
-        "C) Advertência por escrito.",
-        "D) Multa e retenção do veículo."
+        "A) 6 meses na PPD categoria B.",
+        "B) 1 ano na categoria A.",
+        "C) 5 anos na categoria B obrigatoriamente.",
+        "D) 2 anos na categoria B ou 1 ano na categoria C."
       ],
       "img": null,
-      "ok": 1
+      "ok": 3
     },
     {
       "n": 11,
-      "mat": "Legislação de Trânsito",
-      "txt": "No caso de reprovação no exame escrito de poderá repetir o exame:",
+      "mat": "Mecânica Básica",
+      "txt": "Qual componente do sistema elétrico é responsável por gerar energia elétrica enquanto o motor está em funcionamento, recarregando a bateria e alimentando os equipamentos do veículo?",
       "ops": [
-        "A) No 15º dia da divulgação do resultado.",
-        "B) No 16º dia da divulgação do resultado.",
-        "C) No dia seguinte da divulgação do resultado.",
-        "D) Não há período de interstício."
+        "A) Motor de partida (arranque).",
+        "B) Bobina de freio.",
+        "C) Alternador.",
+        "D) Vela de ignição."
       ],
       "img": null,
-      "ok": 1
+      "ok": 2
     },
     {
       "n": 12,
-      "mat": "Penalidades e Multas",
-      "txt": "A retenção do veículo dar-se-á quando:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-5a indica ao condutor:",
       "ops": [
-        "A) Não estiver devidamente licenciado ou registrado.",
-        "B) Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
-        "C) Transportar carga, arrastando-a.",
-        "D) Tiver falsificado os selos da placa."
+        "A) Proibido retornar à esquerda.",
+        "B) Retorno à direita.",
+        "C) Proibido retornar à direita.",
+        "D) Retorno à esquerda."
       ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 13,
-      "mat": "Legislação de Trânsito",
-      "txt": "O candidato que pretende se habilitar para a categoria “D” deverá realizar o exame de direção veicular no veículo que tenha:",
-      "ops": [
-        "A) No mínimo, 08 (oito) lugares, sem contar com o do condutor.",
-        "B) No mínimo, 20 (vinte) lugares.",
-        "C) Capacidade para transportar, no mínimo, 6000 (seis mil) quilogramas de carga.",
-        "D) Duas rodas."
-      ],
-      "img": null,
-      "ok": 1
-    },
-    {
-      "n": 14,
-      "mat": "Penalidades e Multas",
-      "txt": "Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos, ou atirar do veículo ou abandonar na via objetos ou substâncias, constitui infração:",
-      "ops": [
-        "A) Média.",
-        "B) Leve.",
-        "C) Grave.",
-        "D) Gravíssima."
-      ],
-      "img": null,
+      "img": "assets/questoes/p7_q9.png",
       "ok": 0
     },
     {
-      "n": 15,
-      "mat": "Legislação de Trânsito",
-      "txt": "O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplanagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado na(s) categoria(s):",
+      "n": 13,
+      "mat": "Direção Defensiva",
+      "txt": "Ao conduzir em um trecho com fumaça densa provocada por queimadas às margens da rodovia, o condutor deve:",
       "ops": [
-        "A) A ou B",
-        "B) AB",
-        "C) C, D ou E",
-        "D) Somente pela categoria B"
+        "A) Acender o farol alto e parar o veículo no meio da faixa central.",
+        "B) Acelerar no limite máximo para atravessar a cortina de fumaça rapidamente.",
+        "C) Reduzir a velocidade, fechar os vidros, acender o farol baixo e nunca parar sobre a pista de rolamento.",
+        "D) Ultrapassar todos os veículos lentos pelo acostamento."
       ],
       "img": null,
       "ok": 2
     },
     {
-      "n": 16,
-      "mat": "Penalidades e Multas",
-      "txt": "Disputar corrida é infração gravíssima, gerando como penalidade:",
+      "n": 14,
+      "mat": "Legislação de Trânsito",
+      "txt": "O condutor que avançar o sinal vermelho do semáforo ou o de parada obrigatória comete infração:",
       "ops": [
-        "A) Multa e cassação do documento de habilitação.",
-        "B) Multa gravíssima (cinco vezes), recolhimento do documento de habilitação e remoção do veículo.",
-        "C) Multa gravíssima (dez vezes), suspensão do direito de dirigir e apreensão do veículo.",
-        "D) Multa grave (cinco vezes) e retenção do veículo."
+        "A) Média (4 pontos).",
+        "B) Leve (3 pontos).",
+        "C) Grave (5 pontos).",
+        "D) Gravíssima (7 pontos)."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Primeiros Socorros",
+      "txt": "Ao sinalizar o local de um acidente em uma via urbana de 60 km/h com pista seca durante o dia, a recomendação prática de segurança para posicionar o triângulo ou sinalização de alerta é de aproximadamente:",
+      "ops": [
+        "A) 5 passos largos atrás do veículo.",
+        "B) Em cima do teto do veículo acidentado.",
+        "C) Apenas 10 metros à frente do acidente.",
+        "D) 60 passos largos (ou cerca de 60 metros) antes do local do acidente."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 16,
+      "mat": "Legislação de Trânsito",
+      "txt": "Quando um veículo de emergência (ambulância, bombeiros ou polícia) se aproxima com dispositivo sonoro (sirene) e luminoso vermelho intermitente acionados, os demais condutores devem:",
+      "ops": [
+        "A) Permanecer parados no meio da faixa da esquerda.",
+        "B) Seguir colado atrás da ambulância para aproveitar o trânsito livre.",
+        "C) Deixar livre a passagem pela faixa da esquerda, deslocando-se para a direita e parando se necessário.",
+        "D) Acelerar na frente dele para abrir caminho mais rápido."
       ],
       "img": null,
       "ok": 2
     },
     {
       "n": 17,
-      "mat": "Legislação de Trânsito",
-      "txt": "Para habilitar-se na categoria D, o condutor deverá possuir no mínimo:",
+      "mat": "Direção Defensiva",
+      "txt": "A colisão frontal é considerada o tipo de acidente mais grave e letal nas rodovias. A principal causa desse tipo de acidente é:",
       "ops": [
-        "A) 1 ano na categoria B, ou 2 anos na categoria C.",
-        "B) 2 anos na categoria B, ou 1 ano na categoria C.",
-        "C) Somente 1 ano na categoria C.",
-        "D) Somente 1 ano na categoria B."
+        "A) Dirigir com o ar-condicionado ligado.",
+        "B) Ultrapassagem forçada ou em local proibido (curvas, aclives e faixa contínua).",
+        "C) Usar farol baixo durante o dia.",
+        "D) Estacionar próximo à guia da calçada."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 18,
-      "mat": "Penalidades e Multas",
-      "txt": "Usar a buzina nas áreas urbanas, no período entre as 22 (vinte e duas) e 06 (seis) horas, é infração punível com:",
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Ao descartar óleo lubrificante usado, filtros e baterias automotivas no solo ou na rede de esgoto, o responsável causa grave contaminação ambiental. O destino correto desses materiais é:",
       "ops": [
-        "A) Multa grave e remoção do veículo.",
-        "B) Multa e retenção do veículo.",
-        "C) Multa e remoção do veículo.",
-        "D) Multa."
+        "A) Lixo doméstico comum.",
+        "B) Terrenos baldios afastados da cidade.",
+        "C) Pontos de coleta especializada, oficinas credenciadas ou logística reversa dos fabricantes.",
+        "D) Queima a céu aberto."
       ],
       "img": null,
-      "ok": 3
+      "ok": 2
     },
     {
       "n": 19,
-      "mat": "Legislação de Trânsito",
-      "txt": "Para habilitar-se na categoria E, o condutor deverá possuir no mínimo:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-36 avisa o condutor sobre a possível presença de:",
       "ops": [
-        "A) 2 anos na categoria B.",
-        "B) 1 ano na categoria B.",
-        "C) 2 anos na categoria AB.",
-        "D) 1 ano na categoria C."
+        "A) Área de campismo.",
+        "B) Proibido trânsito de veículo de tração animal.",
+        "C) Cuidado animais domésticos.",
+        "D) Animais selvagens."
       ],
-      "img": null,
+      "img": "assets/questoes/p7_q16.png",
       "ok": 3
     },
     {
       "n": 20,
-      "mat": "Penalidades e Multas",
-      "txt": "A remoção do veículo, como medida administrativa, é aplicada quando o condutor:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Ao ultrapassar um ciclista na via pública, qual é a distância lateral mínima obrigatória que o condutor de veículo motorizado deve guardar segundo o CTB?",
       "ops": [
-        "A) Tiver seu veículo imobilizado na via por falta de combustível.",
-        "B) Estacionar na contramão de direção.",
-        "C) Parar o veículo em desacordo com as posições estabelecidas.",
-        "D) Deixar de prestar socorro à vítima de acidente de trânsito."
+        "A) 3,00 metros.",
+        "B) 1,00 metro.",
+        "C) 1,50 metro.",
+        "D) 0,50 metro."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 21,
+      "mat": "Direção Defensiva",
+      "txt": "O que caracteriza a chamada 'direção corretiva' em comparação com a 'direção preventiva'?",
+      "ops": [
+        "A) A corretiva só pode ser praticada por motoristas profissionais de ônibus.",
+        "B) A preventiva exige menos atenção porque o motorista reage depois do problema.",
+        "C) Ambas são exatamente sinônimos no CTB.",
+        "D) A preventiva antecipa riscos para evitar situações de perigo; a corretiva exige ação imediata para remediar uma situação de risco já instalada."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação de Trânsito",
+      "txt": "O Certificado de Registro e Licenciamento de Veículo em meio digital (CRLV-e) tem o porte dispensado durante a fiscalização somente quando:",
+      "ops": [
+        "A) A autoridade ou agente de trânsito tiver acesso ao sistema informatizado para verificar se o veículo está licenciado.",
+        "B) O carro estiver circulando dentro do próprio bairro.",
+        "C) O veículo tiver menos de 5 anos de fabricação.",
+        "D) O motorista apresentar apenas a nota fiscal de compra."
       ],
       "img": null,
       "ok": 0
     },
     {
-      "n": 21,
-      "mat": "Legislação de Trânsito",
-      "txt": "A identificação do documento de habilitação e da autoridade expedidora são registrados no:",
-      "ops": [
-        "A) RENAVAM",
-        "B) RENACH",
-        "C) RENACOM",
-        "D) CETRAN"
-      ],
-      "img": null,
-      "ok": 1
-    },
-    {
-      "n": 22,
-      "mat": "Penalidades e Multas",
-      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são,, computados os seguintes pontos.",
-      "ops": [
-        "A) (07) sete.",
-        "B) (04) quatro.",
-        "C) (05) cinco.",
-        "D) (03) três."
-      ],
-      "img": null,
-      "ok": 3
-    },
-    {
       "n": 23,
-      "mat": "Legislação de Trânsito",
-      "txt": "O condutor habilitado na categoria B que, posteriormente, habilitar-se na categoria A, receberá:",
+      "mat": "Mecânica Básica",
+      "txt": "Qual é a finalidade dos amortecedores e molas que integram o sistema de suspensão do veículo?",
       "ops": [
-        "A) Dois registros no RENACH.",
-        "B) Um único registro no RENACOM.",
-        "C) Um único registro no RENACH.",
-        "D) Dois registros no RENACOM."
+        "A) Transmitir a força do motor diretamente para o volante.",
+        "B) Controlar a mistura de ar e combustível nos cilindros.",
+        "C) Absorver as irregularidades do piso e manter os pneus em contato constante com o solo, garantindo estabilidade e conforto.",
+        "D) Acionar as luzes de freio traseiras."
       ],
       "img": null,
       "ok": 2
@@ -310,93 +310,93 @@ window.PROVA_ATUAL = {
     {
       "n": 24,
       "mat": "Legislação de Trânsito",
-      "txt": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a ____________ anos e ser habilitado, pelo menos, na categoria ____________.",
+      "txt": "Transitar com o veículo na contramão de direção em vias com sinalização de regulamentação de sentido único de circulação constitui infração:",
       "ops": [
-        "A) 21, B",
-        "B) 18, D",
-        "C) 18, B",
-        "D) 21, D"
+        "A) Gravíssima.",
+        "B) Leve.",
+        "C) Grave.",
+        "D) Média."
       ],
       "img": null,
-      "ok": 3
-    },
-    {
-      "n": 25,
-      "mat": "Placas de Sinalização",
-      "txt": "A placa de nº R- 2 reg ulamenta:",
-      "ops": [
-        "A) Parada obrigatória à frente.",
-        "B) Alfândega.",
-        "C) Dê a preferência.",
-        "D) Parada obrigatória."
-      ],
-      "img": "assets/questoes/p7_q5.png",
-      "ok": 2
-    },
-    {
-      "n": 26,
-      "mat": "Placas de Sinalização",
-      "txt": "A placa de nº TAD-14 indica:",
-      "ops": [
-        "A) Marina.",
-        "B) Mirante.",
-        "C) Farol.",
-        "D) Monumento."
-      ],
-      "img": "assets/questoes/p7_q6.png",
       "ok": 0
     },
     {
-      "n": 27,
+      "n": 25,
       "mat": "Primeiros Socorros",
-      "txt": "Agir com prudência, respeitar os limites de seu conhecimento, seguir os protocolos estabelecidos, prevenir e evitar danos maiores são entre outras ações do:",
+      "txt": "Em caso de suspeita de fratura em um braço ou perna de uma vítima de acidente, qual conduta é INCORRETA?",
       "ops": [
-        "A) Ciclista.",
-        "B) Socorrista.",
-        "C) Pedestre.",
-        "D) Passageiro."
+        "A) Evitar movimentar o membro fraturado desnecessariamente.",
+        "B) Tentar colocar o osso quebrado 'no lugar' puxando o membro com força.",
+        "C) Acalmar a vítima e aguardar o atendimento especializado.",
+        "D) Se for estritamente necessário imobilizar, fazê-lo na posição em que o membro se encontra."
       ],
       "img": null,
       "ok": 1
     },
     {
-      "n": 28,
-      "mat": "Primeiros Socorros",
-      "txt": "SAMU significa:",
+      "n": 26,
+      "mat": "Direção Defensiva",
+      "txt": "Em uma descida longa de serra, para evitar o superaquecimento e a perda de eficiência dos freios (efeito 'fading'), o condutor deve:",
       "ops": [
-        "A) Seção de Atendimento Médico Urbano.",
-        "B) Serviço de Auxílio Médico de Urgência.",
-        "C) Seção de Auxílio Móvel ao Usuário.",
-        "D) Serviço de Atendimento Móvel de Urgência."
+        "A) Engatar a última marcha (5ª ou 6ª) para o carro correr mais solto.",
+        "B) Engatar uma marcha reduzida (freio-motor) para ajudar a segurar a velocidade do veículo.",
+        "C) Desligar a chave de ignição e controlar o carro apenas pelo volante.",
+        "D) Descer em ponto morto ('banguela') pisando continuamente no freio."
       ],
       "img": null,
-      "ok": 3
+      "ok": 1
+    },
+    {
+      "n": 27,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "A atitude de respeitar as vagas reservadas para pessoas com deficiência (PCD) e idosos demonstra cidadania e respeito à lei. Estacionar irregularmente nessas vagas sem credencial é infração:",
+      "ops": [
+        "A) Leve.",
+        "B) Média.",
+        "C) Gravíssima, sujeita a multa e remoção do veículo.",
+        "D) Grave."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Placas de Sinalização",
+      "txt": "Diante da placa de serviço auxiliar SVA-14, o condutor entende que se trata de uma área:",
+      "ops": [
+        "A) De proteção para indígenas.",
+        "B) Permitida para camping.",
+        "C) Com igreja do patrimônio histórico.",
+        "D) Com aeroporto nas proximidades."
+      ],
+      "img": "assets/questoes/p7_q17.png",
+      "ok": 1
     },
     {
       "n": 29,
-      "mat": "Primeiros Socorros",
-      "txt": "O sinal vital que não varia com a idade é:",
+      "mat": "Direção Defensiva",
+      "txt": "Ao dirigir sob chuva forte, a distância de frenagem do veículo em relação à pista seca:",
       "ops": [
-        "A) Temperatura.",
-        "B) Pulso.",
-        "C) Respiração.",
-        "D) Pressão arterial."
+        "A) Permanece exatamente igual se o carro tiver direção hidráulica.",
+        "B) Aumenta significativamente devido à redução do atrito entre os pneus e o asfalto molhado.",
+        "C) Diminui pela metade porque a água resfria os pneus.",
+        "D) Só aumenta em veículos com tração traseira."
       ],
       "img": null,
-      "ok": 0
+      "ok": 1
     },
     {
       "n": 30,
-      "mat": "Primeiros Socorros",
-      "txt": "Não constitui procedimento correto com uma vítima em estado de choque:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Pelo CTB atual, o condutor que NÃO cometer nenhuma infração gravíssima nos últimos 12 meses somente terá o direito de dirigir suspenso por pontuação ao atingir:",
       "ops": [
-        "A) Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
-        "B) Afrouxar suas roupas.",
-        "C) Monitorar a respiração.",
-        "D) Dar bastante líquido à vítima inconsciente que vomitou."
+        "A) 40 pontos.",
+        "B) 50 pontos.",
+        "C) 30 pontos.",
+        "D) 20 pontos."
       ],
       "img": null,
-      "ok": 3
+      "ok": 0
     }
   ]
 };

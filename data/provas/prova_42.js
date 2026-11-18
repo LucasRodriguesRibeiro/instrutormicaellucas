@@ -11,392 +11,392 @@ window.PROVA_ATUAL = {
     {
       "n": 1,
       "mat": "Legislação de Trânsito",
-      "txt": "Caminhonete e motocicleta são veículos, quanto à espécie, classificados como:",
+      "txt": "No Sistema Nacional de Trânsito, qual é o órgão máximo executivo de trânsito da União, responsável por manter o RENACH e o RENAVAM (antigo DENATRAN)?",
       "ops": [
-        "A) Passageiros.",
-        "B) Carga.",
-        "C) Misto.",
-        "D) Tração."
+        "A) CONTRAN.",
+        "B) DETRAN.",
+        "C) SENATRAN.",
+        "D) CETRAN."
       ],
       "img": null,
-      "ok": 1
+      "ok": 2
     },
     {
       "n": 2,
-      "mat": "Penalidades e Multas",
-      "txt": "Constitui infração grave:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-10 determina ao condutor:",
       "ops": [
-        "A) Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito.",
-        "B) Forçar passagem entre veículos que, transitando em sentidos opostos, estejam na iminência de passar um pelo outro ao realizar operação de ultrapassagem.",
-        "C) Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes.",
-        "D) Deixar de conservar o veículo, quando estiver em movimento, na faixa a ele destinada pela sinalização de regulamentação, exceto em situações de emergência."
+        "A) Proibido trânsito de veículos automotores.",
+        "B) Proibido trânsito de veículo de tração animal.",
+        "C) Proibido ultrapassar.",
+        "D) Permitido o trânsito somente de pedestres."
       ],
-      "img": null,
-      "ok": 2
+      "img": "assets/questoes/p7_q11.png",
+      "ok": 0
     },
     {
       "n": 3,
-      "mat": "Legislação de Trânsito",
-      "txt": "Segundo o Código de Trânsito Brasileiro a identificação externa de um veículo de duas rodas é feita por meio:",
+      "mat": "Direção Defensiva",
+      "txt": "Em uma situação de frenagem de emergência em um veículo SEM freios ABS, qual é a técnica correta para evitar o travamento das rodas e derrapagem?",
       "ops": [
-        "A) Do registro de propriedade do veículo.",
-        "B) Do número do motor.",
-        "C) Das placas dianteira e traseira com caracteres iguais as do registro do veículo.",
-        "D) Da placa traseira com caracteres iguais ao do registro do veículo."
+        "A) Pisar simultaneamente no acelerador e no freio.",
+        "B) Puxar o freio de mão com força máxima imediatamente.",
+        "C) Pisar no freio de forma progressiva e firme, aliviando levemente caso perceba as rodas travando, mantendo o controle da direção.",
+        "D) Desligar o motor e girar o volante todo para a direita."
       ],
       "img": null,
-      "ok": 3
+      "ok": 2
     },
     {
       "n": 4,
-      "mat": "Penalidades e Multas",
-      "txt": "É infração gravíssima para o condutor de motocicleta, motoneta ou ciclomotor:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Em uma via coletora urbana onde não exista sinalização regulamentadora, qual é a velocidade máxima permitida pelo CTB?",
       "ops": [
-        "A) Conduzir sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras.",
-        "B) Transportar criança menor de sete anos ou que não tenha, nas circunstâncias, condições de cuidar de sua própria segurança.",
-        "C) Conduzir transportando carga incompatível com suas especificações.",
-        "D) Conduzir rebocando outro veículo."
+        "A) 60 km/h.",
+        "B) 30 km/h.",
+        "C) 40 km/h.",
+        "D) 80 km/h."
       ],
       "img": null,
-      "ok": 1
+      "ok": 2
     },
     {
       "n": 5,
-      "mat": "Legislação de Trânsito",
-      "txt": "Assinale a alternativa que responda à questão: O quadriciclo é um veículo classificado quanto à espécie em de _______ e de ________.",
+      "mat": "Primeiros Socorros",
+      "txt": "Após um acidente, uma vítima apresenta incapacidade de movimentar ou sentir as pernas e os braços. Esse sintoma é um forte indício de:",
       "ops": [
-        "A) Misto; competição.",
-        "B) Passageiros; tração.",
-        "C) Passageiros; carga.",
-        "D) Espécie; coleção."
+        "A) Possível lesão na coluna vertebral (medula espinhal), exigindo imobilidade absoluta até a chegada do resgate.",
+        "B) Falta de açúcar no sangue.",
+        "C) Cansaço muscular passageiro.",
+        "D) Queda leve de pressão arterial."
       ],
       "img": null,
-      "ok": 2
+      "ok": 0
     },
     {
       "n": 6,
-      "mat": "Penalidades e Multas",
-      "txt": "Conduzir o veículo sem acionar o limpador de parabrisa durante a chuva é infração punida com:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-13a alerta o condutor sobre:",
       "ops": [
-        "A) Advertência pelo agente de trânsito.",
-        "B) Apreensão do veículo e multa.",
-        "C) Multa e retenção do veículo.",
-        "D) Remoção do veículo e multa."
+        "A) Confluência à direita.",
+        "B) Confluência à esquerda.",
+        "C) Via lateral à esquerda.",
+        "D) Entroncamento oblíquo à esquerda."
       ],
-      "img": null,
-      "ok": 2
+      "img": "assets/questoes/p8_q25.png",
+      "ok": 1
     },
     {
       "n": 7,
       "mat": "Legislação de Trânsito",
-      "txt": "Veículos destinados à formação de condutores são classificados, quanto à categoria, em:",
+      "txt": "O processo de habilitação para obtenção da CNH exige que o candidato preencha alguns requisitos básicos previstos no CTB, entre eles:",
       "ops": [
-        "A) De aluguel.",
-        "B) De aprendizagem.",
-        "C) Particular.",
-        "D) Oficial."
+        "A) Ter no mínimo 21 anos para qualquer categoria, inclusive A e B.",
+        "B) Ser penalmente imputável, saber ler e escrever e possuir documento de identidade e CPF.",
+        "C) Comprovar residência fixa no mesmo município há pelo menos 5 anos.",
+        "D) Ter ensino superior completo e possuir veículo próprio."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 8,
-      "mat": "Penalidades e Multas",
-      "txt": "É motivo de suspensão do direito de dirigir, ao condutor que cometer a infração de:",
+      "mat": "Direção Defensiva",
+      "txt": "A condição adversa de 'luz' que mais prejudica a visibilidade do condutor ao amanhecer ou ao entardecer (pôr do sol) é:",
       "ops": [
-        "A) Dirigir veículo com a Carteira Nacional de Habilitação vencida há mais de trinta dias.",
-        "B) Dirigir ameaçando os pedestres que estejam atravessando a via pública, ou os demais veículos.",
-        "C) Entregar ou confiar a direção do veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigí-lo com segurança.",
-        "D) Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes."
+        "A) O excesso de placas refletivas na rodovia.",
+        "B) A penumbra e o sol baixo incidindo diretamente nos olhos do motorista.",
+        "C) A luz verde do semáforo.",
+        "D) A iluminação interna do porta-luvas."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 9,
-      "mat": "Legislação de Trânsito",
-      "txt": "As características de um veículo podem ser modificadas quando:",
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "O que significa a prática da 'direção econômica' (ecodireção) e qual seu benefício ambiental?",
       "ops": [
-        "A) Sempre que for envolvido em acidente.",
-        "B) Houver prévia autorização da autoridade de trânsito.",
-        "C) O proprietário simplesmente quitar seus débitos com o órgão competente.",
-        "D) O infrator não houver completado 20 pontos."
+        "A) Retirar o filtro de ar do motor para melhorar a respiração.",
+        "B) Dirigir sempre em 1ª marcha; aumenta a emissão de fumaça.",
+        "C) Desligar o carro em todas as descidas; economiza pastilhas de freio.",
+        "D) Trocar as marchas na rotação correta, manter velocidade constante e evitar excesso de peso, reduzindo o consumo de combustível e a poluição atmosférica."
       ],
       "img": null,
-      "ok": 1
+      "ok": 3
     },
     {
       "n": 10,
-      "mat": "Penalidades e Multas",
-      "txt": "Transitar com o veículo desligado ou desengrenado, em declive, é uma infração:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Ao transferir a propriedade de um veículo, o comprador tem prazo legal para adotar as providências necessárias à efetivação da expedição do novo Certificado de Registro de Veículo (CRV/ATPV-e). Esse prazo é de:",
       "ops": [
-        "A) Média.",
-        "B) Gravíssima.",
-        "C) Grave.",
-        "D) Leve."
+        "A) 10 dias.",
+        "B) 15 dias.",
+        "C) 60 dias.",
+        "D) 30 dias."
       ],
       "img": null,
-      "ok": 0
+      "ok": 3
     },
     {
       "n": 11,
-      "mat": "Legislação de Trânsito",
-      "txt": "As bicicletas deverão ser dotadas dos seguintes equipamentos obrigatórios:",
+      "mat": "Mecânica Básica",
+      "txt": "Antes de iniciar uma viagem longa, quais itens de manutenção preventiva básica o condutor deve conferir regularmente?",
       "ops": [
-        "A) Campainha, sinalização noturna dianteira, traseira, lateral e nos pedais, e espelho retrovisor do lado esquerdo.",
-        "B) Campainha e espelho retrovisor do lado esquerdo e do lado direito.",
-        "C) Campainha e sinalização noturna.",
-        "D) Cinto de segurança."
+        "A) Calibragem e estado dos pneus (incluindo estepe), nível de óleo do motor, fluido de freio, água do radiador/limpador e funcionamento de todas as luzes.",
+        "B) Apenas o tamanho da placa dianteira.",
+        "C) Apenas o nível de combustível e o rádio.",
+        "D) Somente a pintura externa e a limpeza dos tapetes."
       ],
       "img": null,
       "ok": 0
     },
     {
       "n": 12,
-      "mat": "Penalidades e Multas",
-      "txt": "Conduzir veículo, sem atenção e os cuidados indispensáveis à segurança, caracteriza:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-30 assinala que:",
       "ops": [
-        "A) Infração média.",
-        "B) Infração gravíssima.",
-        "C) Infração grave.",
-        "D) Infração leve."
+        "A) O sentido de circulação para pedestre é pela direita.",
+        "B) É proibido o trânsito de pedestre no trecho sinalizado.",
+        "C) É proibida aglomeração no trecho sinalizado.",
+        "D) No local sinalizado, o pedestre deve andar obrigatoriamente pela esquerda."
       ],
-      "img": null,
+      "img": "assets/questoes/p8_q29.png",
       "ok": 3
     },
     {
       "n": 13,
-      "mat": "Legislação de Trânsito",
-      "txt": "O transporte de passageiros em veículo de carga será permitido:",
+      "mat": "Direção Defensiva",
+      "txt": "Ao trafegar em vias urbanas com intensa circulação de motocicletas nos corredores entre faixas, a atitude defensiva correta do motorista de automóvel é:",
       "ops": [
-        "A) Onde não houver linha regular de ônibus para transportar trabalhadores rurais.",
-        "B) Onde não houver linha regular de ônibus e autorizado pela autoridade competente, obedecidas as condições de segurança.",
-        "C) Desde que obedecidas as condições de segurança, para o transporte de desportistas.",
-        "D) Para o transporte de estudantes nas zonas rurais."
+        "A) Fechar propositalmente o espaço entre os carros para impedir a passagem de motos.",
+        "B) Sinalizar com antecedência toda mudança de faixa, checar os retrovisores e os pontos cegos antes de esterçar o volante.",
+        "C) Mudar de faixa rapidamente sem ligar a seta para surpreender quem vem atrás.",
+        "D) Abrir a porta do carro no congestionamento sem olhar o retrovisor."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 14,
-      "mat": "Penalidades e Multas",
-      "txt": "O proprietário de veículo que não comunicar ao órgão executivo de trânsito do estado, no prazo determinado, a transferência de propriedade de seu veículo, cabe-lhe:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Transitar com o veículo desligado ou desengrenado ('na banguela') em declive, além de extremamente perigoso, caracteriza infração de trânsito de natureza:",
       "ops": [
-        "A) A não responsabilidade pelas penalidades impostas e suas reincidências até a data da comunicação.",
-        "B) Responsabilidade, juntamente com o novo proprietário, pelas penalidades impostas e suas reincidências até a data da comunicação.",
-        "C) Responsabilidade exclusiva pela penalidade de multa.",
-        "D) A responsabilidade é, única e exclusiva, do novo proprietário do veículo."
+        "A) Média.",
+        "B) Leve.",
+        "C) Não é considerado infração.",
+        "D) Grave."
       ],
       "img": null,
-      "ok": 1
+      "ok": 0
     },
     {
       "n": 15,
-      "mat": "Legislação de Trânsito",
-      "txt": "O ciclomotor é veículo classificado quanto à espécie como:",
+      "mat": "Primeiros Socorros",
+      "txt": "Em caso de amputação traumática de um dedo ou parte de um membro em acidente, enquanto aguarda o atendimento de emergência, a conduta correta com a parte amputada é:",
       "ops": [
-        "A) Misto.",
-        "B) Tração.",
-        "C) Especial.",
-        "D) Passageiros."
+        "A) Jogar fora, pois não há chance de reimplante.",
+        "B) Tentar costurar o membro no local.",
+        "C) Envolver a parte amputada em pano limpo ou gaze úmida, colocar dentro de um saco plástico vedado e mantê-lo em recipiente com gelo (sem contato direto do gelo com o tecido).",
+        "D) Mergulhar a parte amputada diretamente em álcool ou gelo puro."
       ],
       "img": null,
-      "ok": 3
+      "ok": 2
     },
     {
       "n": 16,
-      "mat": "Penalidades e Multas",
-      "txt": "O condutor que utilizar veículo de carga para transportar pessoas na carroceria, sem permissão da autoridade competente sobre a via, estará cometendo infração de natureza:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Parar ou estacionar o veículo em frente a guias de calçada rebaixadas destinadas à entrada ou saída de veículos (garagens) caracteriza:",
       "ops": [
-        "A) Gravíssima.",
-        "B) Grave.",
-        "C) Média.",
-        "D) Leve."
+        "A) Infração média, com penalidade de multa e medida administrativa de remoção do veículo.",
+        "B) Crime de trânsito.",
+        "C) Conduta permitida desde que o pisca-alerta esteja ligado.",
+        "D) Infração leve sem remoção."
       ],
       "img": null,
       "ok": 0
     },
     {
       "n": 17,
-      "mat": "Legislação de Trânsito",
-      "txt": "São dispensados da placa dianteira os veículos de:",
+      "mat": "Direção Defensiva",
+      "txt": "O que deve fazer o condutor que percebe que outro veículo está tentando ultrapassá-lo em uma rodovia de pista simples?",
       "ops": [
-        "A) Quatro rodas.",
-        "B) Mais de quatro rodas.",
-        "C) Duas ou três rodas.",
-        "D) Todos os veículos são obrigados a ter placa dianteira."
+        "A) Facilitar a ultrapassagem, mantendo-se à direita da faixa e, se necessário, reduzindo levemente a velocidade para que a manobra termine em segurança.",
+        "B) Acelerar para impedir a ultrapassagem e manter sua posição.",
+        "C) Deslocar o carro para o centro da pista.",
+        "D) Frear bruscamente na frente do outro veículo."
       ],
       "img": null,
-      "ok": 2
+      "ok": 0
     },
     {
       "n": 18,
-      "mat": "Penalidades e Multas",
-      "txt": "Assinale a alternativa que completa a questão: Conduzir motocicleta, motoneta ou ciclomotor sem usar capacete de segurança com viseira ou óculos de proteção é infração ____, gerando como penalidade a (o)",
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Os veículos equipados com motor a combustão interna contribuem para o aquecimento global e a chuva ácida devido à emissão de gases poluentes. Uma forma eficiente de controlar essas emissões é:",
       "ops": [
-        "A) Gravíssima; recolhimento do documento de habilitação.",
-        "B) Grave; remoção do veículo.",
-        "C) Grave; apreensão do veículo.",
-        "D) Gravíssima; suspensão do direito de dirigir."
+        "A) Manter o motor ligado parado durante longas esperas.",
+        "B) Retirar o filtro de ar para o motor consumir mais combustível.",
+        "C) Aumentar a velocidade média nas avenidas.",
+        "D) Realizar a manutenção periódica do sistema de injeção eletrônica, velas, filtros e catalisador conforme o manual do fabricante."
       ],
       "img": null,
       "ok": 3
     },
     {
       "n": 19,
-      "mat": "Legislação de Trânsito",
-      "txt": "As placas com as cores verde e amarela da Bandeira Nacional são usadas pelos veículos de representação pessoal do(s):",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-48 alerta o condutor sobre:",
       "ops": [
-        "A) Governadores.",
-        "B) Presidente e Vice-Presidente da República.",
-        "C) Prefeitos.",
-        "D) Secretários municipais."
+        "A) Comprimento limitado.",
+        "B) Largura limitada.",
+        "C) Peso bruto total limitado.",
+        "D) Peso limitado por eixo."
       ],
-      "img": null,
-      "ok": 1
+      "img": "assets/questoes/p8_q30.png",
+      "ok": 0
     },
     {
       "n": 20,
-      "mat": "Penalidades e Multas",
-      "txt": "Constitui penalidade de suspensão do direito de dirigir conduzir motocicleta ou motoneta transportando criança:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual é o limite de velocidade padrão nas rodovias de pista SIMPLES, fora de perímetros urbanos, para automóveis, camionetas e motocicletas, quando não houver sinalização?",
       "ops": [
-        "A) Maior de 7 anos.",
-        "B) Menor de 7 anos",
-        "C) Maior de 9 anos.",
-        "D) Maior de 10 anos."
+        "A) 80 km/h.",
+        "B) 110 km/h.",
+        "C) 100 km/h.",
+        "D) 90 km/h."
       ],
       "img": null,
-      "ok": 1
+      "ok": 2
     },
     {
       "n": 21,
-      "mat": "Legislação de Trânsito",
-      "txt": "Ao registrar o veículo automotor, o órgão executivo de trânsito expedirá o documento:",
+      "mat": "Direção Defensiva",
+      "txt": "Qual fator humano relacionado ao estado emocional do condutor pode desencadear direção agressiva e aumentar drasticamente o risco de colisões?",
       "ops": [
-        "A) Certificado ambiental.",
-        "B) Certificado de Segurança Veicular.",
-        "C) Certificado de Registro de Veículo.",
-        "D) Certificado de Registro e Licenciamento de Veículo."
-      ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 22,
-      "mat": "Penalidades e Multas",
-      "txt": "Quando o condutor estiver dirigindo o veículo transportando pessoas, animais ou volume a sua esquerda ou entre os braços e pernas, será aplicada a penalidade:",
-      "ops": [
-        "A) Multa e apreensão do veículo.",
-        "B) Multa e suspensão do direito de dirigir.",
-        "C) Multa.",
-        "D) Multa e retenção do veículo."
-      ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 23,
-      "mat": "Legislação de Trânsito",
-      "txt": "Constitui documento de porte obrigatório:",
-      "ops": [
-        "A) Certificado de Registro de Veículo.",
-        "B) Autorização para Conduzir Ciclomotor, Permissão para Dirigir ou Carteira Nacional de Habilitação.",
-        "C) Comprovante do pagamento do Seguro Obrigatório.",
-        "D) Comprovante do pagamento atualizado do IPVA."
-      ],
-      "img": null,
-      "ok": 1
-    },
-    {
-      "n": 24,
-      "mat": "Legislação de Trânsito",
-      "txt": "A expedição de novo Certificado de Registro de Veículo, dar-se-á quando:",
-      "ops": [
-        "A) Houver transferência de propriedade.",
-        "B) Houver mudanças nos equipamentos obrigatórios.",
-        "C) De doze em doze meses.",
-        "D) Após o pagamento do I P V A."
-      ],
-      "img": null,
-      "ok": 0
-    },
-    {
-      "n": 25,
-      "mat": "Placas de Sinalização",
-      "txt": "A placa de nº R-5a reg ulamenta:",
-      "ops": [
-        "A) Proibido retornar à esquerda.",
-        "B) Proibido retornar à direita.",
-        "C) Retorno à direita.",
-        "D) Retorno à esquerda."
-      ],
-      "img": "assets/questoes/p7_q9.png",
-      "ok": 0
-    },
-    {
-      "n": 26,
-      "mat": "Placas de Sinalização",
-      "txt": "A placa de nº A-12 a dverte:",
-      "ops": [
-        "A) Proibido retornar.",
-        "B) Passagem de nível sem barreira.",
-        "C) Interseção em círculo.",
-        "D) Sentido circular obrigatório."
-      ],
-      "img": "assets/questoes/p7_q10.png",
-      "ok": 2
-    },
-    {
-      "n": 27,
-      "mat": "Primeiros Socorros",
-      "txt": "Não constitui medida básica para prestar assistência à vítima de acidente, após ter sinalizado o local:",
-      "ops": [
-        "A) Assumir a situação.",
-        "B) Proteger o acidentado.",
-        "C) Verificar, primeiramente, os sinais vitais.",
-        "D) Determinar que o acidentado busque socorro."
+        "A) Descanso adequado na noite anterior.",
+        "B) Respeito aos limites de velocidade.",
+        "C) Tranquilidade e planejamento prévio do trajeto.",
+        "D) Raiva, ansiedade, pressa excessiva e estresse ao volante."
       ],
       "img": null,
       "ok": 3
     },
     {
-      "n": 28,
-      "mat": "Primeiros Socorros",
-      "txt": "Vítima de acidente pede água para beber. Nessa situação, você deve:",
+      "n": 22,
+      "mat": "Legislação de Trânsito",
+      "txt": "Para efeitos do Código de Trânsito Brasileiro, os equipamentos obrigatórios das bicicletas incluem:",
       "ops": [
-        "A) Mantê-la em jejum.",
-        "B) Dar bastante líquido para hidratar a vítima.",
-        "C) Deixá-la beber, apenas o que quiser.",
-        "D) Dar leite ou líquido adocicados, de preferência."
+        "A) Campainha, sinalização noturna dianteira, traseira, lateral e nos pedais, e espelho retrovisor do lado esquerdo.",
+        "B) Cinto de segurança e extintor de incêndio.",
+        "C) Seta elétrica e velocímetro digital.",
+        "D) Apenas farol alto e placa traseira metálica."
       ],
       "img": null,
       "ok": 0
     },
     {
-      "n": 29,
-      "mat": "Primeiros Socorros",
-      "txt": "O procedimento correto na impossibilidade da presença do Resgate, quando a vítima apresenta objeto empalado no ferimento de acidente de trânsito, é:",
+      "n": 23,
+      "mat": "Mecânica Básica",
+      "txt": "Se a temperatura do motor subir rapidamente para a faixa vermelha no painel (superaquecimento), qual cuidado de segurança o condutor deve ter ao abrir o capô?",
       "ops": [
-        "A) Proteger o ferimento com bandagens e retire o objeto.",
-        "B) Proteger o ferimento com bandagens e não retire o objeto.",
-        "C) Remover o objeto empalado e controle o sangramento.",
-        "D) Remover o objeto empalado e lave o ferimento com água e sabão"
+        "A) Abrir imediatamente a tampa do reservatório de água/radiador com o motor quente para jogar água gelada.",
+        "B) Jogar água fria diretamente sobre o bloco do motor fervendo.",
+        "C) NÃO abrir a tampa do reservatório/radiador com o motor quente, pois a água sob pressão pode espirrar e causar queimaduras graves; aguardar o resfriamento.",
+        "D) Continuar acelerando em ponto morto até o ponteiro baixar."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 24,
+      "mat": "Legislação de Trânsito",
+      "txt": "Deixar o condutor envolvido em sinistro (acidente) com vítima de prestar ou providenciar socorro, podendo fazê-lo, configura:",
+      "ops": [
+        "A) Fato sem consequência se o condutor não teve culpa no acidente.",
+        "B) Infração leve com advertência.",
+        "C) Apenas infração média sem pontos.",
+        "D) Infração gravíssima (multa multiplicada por 5 e suspensão do direito de dirigir), além de poder caracterizar crime de trânsito."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Primeiros Socorros",
+      "txt": "Em uma cena de acidente com fios elétricos caídos sobre o veículo ou sobre o solo, a conduta correta do socorrista é:",
+      "ops": [
+        "A) Jogar água sobre os fios para desativar a corrente elétrica.",
+        "B) Manter distância segura, orientar os ocupantes a permanecerem dentro do carro (se não houver incêndio) e acionar imediatamente a concessionária de energia e os Bombeiros (193).",
+        "C) Puxar os fios com um galho verde ou com as mãos protegidas por pano.",
+        "D) Encostar na lataria do carro para abrir a porta rapidamente."
       ],
       "img": null,
       "ok": 1
     },
     {
-      "n": 30,
-      "mat": "Primeiros Socorros",
-      "txt": "Vítima que usava cinto de segurança está inconsciente dentro do veículo. Nessa situação você deve:",
+      "n": 26,
+      "mat": "Direção Defensiva",
+      "txt": "Ao estacionar o veículo em uma rua com declive acentuado (descida), qual cuidado adicional de segurança evita que o carro desça desgovernado?",
       "ops": [
-        "A) Sinalizar o local e chamar o resgate.",
-        "B) Retirar o cinto de segurança.",
-        "C) Retirar a vítima do veículo e deitá-la.",
-        "D) Se for banco reclinável, incliná-lo o máximo possível."
+        "A) Virar as rodas para o centro da rua e deixar em 5ª marcha.",
+        "B) Apenas ligar o pisca-alerta.",
+        "C) Acionar bem o freio de estacionamento, engatar a marcha à ré e virar as rodas dianteiras em direção ao meio-fio (guia da calçada).",
+        "D) Deixar o câmbio em ponto morto e confiar apenas no freio de mão."
       ],
       "img": null,
-      "ok": 0
+      "ok": 2
+    },
+    {
+      "n": 27,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "O desrespeito às ciclovias e ciclofaixas — como estacionar ou trafegar com carros e motos sobre esses espaços — compromete a mobilidade sustentável e constitui:",
+      "ops": [
+        "A) Prática tolerada em horários de pico.",
+        "B) Infração de trânsito gravíssima (transitar) ou grave (estacionar), além de colocar em risco direto a vida dos ciclistas.",
+        "C) Infração leve sem pontuação.",
+        "D) Conduta permitida apenas para entregas rápidas."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Placas de Sinalização",
+      "txt": "Uma placa educativa de trânsito é identificada pelas cores e formato:",
+      "ops": [
+        "A) Branca e azul e formato redondo.",
+        "B) Branca e preta e formato retangular.",
+        "C) Branca e amarela e formato retangular.",
+        "D) Branca e verde e formato quadrado."
+      ],
+      "img": "assets/questoes/p7_q8.png",
+      "ok": 1
+    },
+    {
+      "n": 29,
+      "mat": "Direção Defensiva",
+      "txt": "Ao conduzir à noite em rodovias sem iluminação pública, o condutor deve utilizar o farol alto, porém é obrigatório trocar para o farol baixo sempre que:",
+      "ops": [
+        "A) Estiver acima de 80 km/h.",
+        "B) Passar por placas de quilometragem.",
+        "C) A pista estiver completamente vazia e reta.",
+        "D) Cruzar com outro veículo em sentido contrário ou ao seguir outro veículo de perto, evitando ofuscar os demais motoristas."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual categoria de habilitação é exigida para conduzir um veículo motorizado de duas ou três rodas (motocicleta, motoneta ou triciclo), com ou sem carro lateral?",
+      "ops": [
+        "A) Categoria D.",
+        "B) Categoria A.",
+        "C) Categoria B.",
+        "D) Categoria C."
+      ],
+      "img": null,
+      "ok": 1
     }
   ]
 };

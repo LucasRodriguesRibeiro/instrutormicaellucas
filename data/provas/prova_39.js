@@ -11,392 +11,392 @@ window.PROVA_ATUAL = {
     {
       "n": 1,
       "mat": "Legislação de Trânsito",
-      "txt": "A autorização para conduzir veículos de propulsão humana e de tração animal ficará a cargo do:",
+      "txt": "Qual órgão é o coordenador máximo normativo e consultivo do Sistema Nacional de Trânsito (SNT), responsável por estabelecer as normas e resoluções regulamentares do CTB?",
       "ops": [
-        "A) Estado.",
-        "B) DETRAN.",
-        "C) Município.",
-        "D) DENATRAN."
-      ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 2,
-      "mat": "Penalidades e Multas",
-      "txt": "Caso o veículo tenha pendência de multa por infração de trânsito, não poderá:",
-      "ops": [
-        "A) Renovar o Certificado de Registro do Veículo.",
-        "B) Renovar o Licenciamento Anual do Veículo.",
-        "C) Renovar o Seguro Obrigatório.",
-        "D) Adquirir novo veículo."
+        "A) DETRAN.",
+        "B) CONTRAN.",
+        "C) PRF.",
+        "D) JARI."
       ],
       "img": null,
       "ok": 1
     },
     {
-      "n": 3,
-      "mat": "Legislação de Trânsito",
-      "txt": "Obedece a legislação municipal do domicílio ou residência de seus proprietários o registro e o licenciamento dos veículos de:",
+      "n": 2,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-1 (formato octogonal) determina ao condutor:",
       "ops": [
-        "A) Somente os ciclomotores e bicicletas.",
-        "B) Propulsão humana e de tração animal.",
-        "C) Reboque, semirreboque e bonde.",
-        "D) Somente os de propulsão humana."
+        "A) Dê a preferência.",
+        "B) Parada obrigatória.",
+        "C) Parada obrigatória à frente.",
+        "D) Semáforo à frente."
+      ],
+      "img": "assets/questoes/p8_q26.png",
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Direção Defensiva",
+      "txt": "O conjunto de condições desfavoráveis que podem aumentar o risco de acidentes — como chuva, neblina, buracos na pista, sono e estresse — é conhecido na Direção Defensiva como:",
+      "ops": [
+        "A) Infrações administrativas.",
+        "B) Condições adversas.",
+        "C) Fatores mecânicos obrigatórios.",
+        "D) Sinais de trânsito ocultos."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 4,
-      "mat": "Penalidades e Multas",
-      "txt": "O órgão executivo de trânsito não expedirá novo Certificado de Registro de Veículo com apresentação de:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Em rodovias de pista simples situadas fora dos perímetros urbanos, o uso do farol baixo durante o dia é obrigatório para os veículos que:",
       "ops": [
-        "A) Certificado de segurança veicular.",
-        "B) Débitos fiscais e de multas de trânsito e ambientais, vinculadas ao veículo.",
-        "C) Autorização do Ministério das Relações Exteriores.",
-        "D) Certificado de inalteração das características do veículo."
+        "A) Estejam trafegando abaixo de 60 km/h.",
+        "B) Não dispuserem de luz de rodagem diurna (DRL).",
+        "C) Sejam exclusivamente veículos de carga.",
+        "D) Possuam apenas dois eixos e cor escura."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 5,
-      "mat": "Legislação de Trânsito",
-      "txt": "Assinale a alternativa correta: Compete aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição:",
+      "mat": "Primeiros Socorros",
+      "txt": "Em um acidente envolvendo motociclista caído na via, o que o socorrista leigo NÃO deve fazer em nenhuma hipótese, salvo risco extremo de morte iminente (como incêndio)?",
       "ops": [
-        "A) Estabelecer procedimentos sobre a aprendizagem e habilitação de condutores de veículos.",
-        "B) Proceder à supervisão e fiscalização da Política Nacional de Trânsito.",
-        "C) Fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veículos automotores.",
-        "D) Conceder autorização para conduzir veículos de propulsão humana e de tração animal, registrar e licenciar na forma da legislação."
+        "A) Retirar o capacete da vítima, pois isso pode agravar lesões na coluna cervical.",
+        "B) Sinalizar a via e acionar o SAMU (192) ou Bombeiros (193).",
+        "C) Conversar com a vítima para mantê-la calma e imóvel.",
+        "D) Verificar se a vítima está consciente e respirando."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 6,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-4b alerta o condutor para:",
+      "ops": [
+        "A) Curva acentuada em “S” à esquerda.",
+        "B) Curva acentuada em “S” à direita.",
+        "C) Pista sinuosa à direita.",
+        "D) Curva acentuada à direita."
+      ],
+      "img": "assets/questoes/p7_q4.png",
+      "ok": 1
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual é a velocidade máxima permitida nas vias de trânsito rápido urbanas, quando não houver sinalização regulamentadora em contrário?",
+      "ops": [
+        "A) 80 km/h.",
+        "B) 70 km/h.",
+        "C) 100 km/h.",
+        "D) 60 km/h."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 8,
+      "mat": "Direção Defensiva",
+      "txt": "Qual é a postura ergonômica correta ao volante para garantir segurança e menor fadiga em viagens?",
+      "ops": [
+        "A) Costas bem apoiadas no encosto, braços levemente flexionados, mãos na posição '9h15' (ou '10h10') e encosto de cabeça na altura dos olhos/orelhas.",
+        "B) Dirigir com apenas uma mão no topo do volante e o outro braço apoiado na janela.",
+        "C) Banco totalmente reclinado para trás e braços esticados ao máximo.",
+        "D) Banco muito próximo ao volante com o peito encostado na direção."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 9,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "A poluição sonora gerada pelos veículos automotores pode ser significativamente reduzida pelo condutor quando ele:",
+      "ops": [
+        "A) Usa o som automotivo no volume máximo com os vidros abertos.",
+        "B) Acelera fortemente o motor com o carro parado no semáforo.",
+        "C) Retira o silenciador do escapamento para dar mais potência ao motor.",
+        "D) Mantém o sistema de escapamento original em bom estado e usa a buzina apenas em toques breves quando indispensável à segurança."
       ],
       "img": null,
       "ok": 3
     },
     {
-      "n": 6,
-      "mat": "Penalidades e Multas",
-      "txt": "Assinale a alternativa correta:",
-      "ops": [
-        "A) O veículo será licenciado mesmo estando em débito com tributos, encargos e multas de trânsito e ambientais.",
-        "B) Os veículos novos estão sujeitos ao licenciamento durante o trajeto entre a fábrica e o município de destino.",
-        "C) É obrigatório o porte do Certificado de Licenciamento Anual.",
-        "D) O primeiro licenciamento não será feito simultaneamente ao registro."
-      ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 7,
-      "mat": "Legislação de Trânsito",
-      "txt": "A fiscalização da gestão de trânsito poderá ser realizada com a utilização de aparelhos que, quanto ao modo de operação, podem ser classificados em:",
-      "ops": [
-        "A) Automático e não automático.",
-        "B) Radar e medidor ótico.",
-        "C) Fixo, estático, móvel e portátil.",
-        "D) Eletrônico e audiovisual."
-      ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 8,
-      "mat": "Penalidades e Multas",
-      "txt": "O condutor que for multado por desobedecer a prontuário a pontuação equivalente a:",
-      "ops": [
-        "A) Quatro pontos.",
-        "B) Três pontos.",
-        "C) Sete pontos.",
-        "D) Cinco pontos."
-      ],
-      "img": null,
-      "ok": 2
-    },
-    {
-      "n": 9,
-      "mat": "Legislação de Trânsito",
-      "txt": "Somente poderá transitar pelas vias terrestres o veículo cujo peso e dimensões atenderem aos limites estabelecidos pelo:",
-      "ops": [
-        "A) DENATRAN.",
-        "B) CONTRAN.",
-        "C) DETRAN.",
-        "D) CONTRANDIFE."
-      ],
-      "img": null,
-      "ok": 1
-    },
-    {
       "n": 10,
-      "mat": "Penalidades e Multas",
-      "txt": "O que não é obrigatório constar no auto de infração?",
+      "mat": "Legislação de Trânsito",
+      "txt": "Pelo CTB atualizado, o transporte de crianças com idade inferior a 10 anos que NÃO tenham atingido 1,45 m de altura deve ser feito:",
       "ops": [
-        "A) Identificação do veículo.",
-        "B) Prontuário do condutor.",
-        "C) Identificação do agente fiscalizador.",
-        "D) Tipificação da infração cometida."
+        "A) No banco dianteiro, no colo de um adulto com cinto.",
+        "B) No banco traseiro, utilizando o dispositivo de retenção adequado (bebê conforto, cadeirinha ou assento de elevação) conforme idade, peso e altura.",
+        "C) No banco dianteiro com o airbag ligado.",
+        "D) Em qualquer banco do veículo, desde que usando apenas o cinto de dois pontos."
       ],
       "img": null,
       "ok": 1
     },
     {
       "n": 11,
-      "mat": "Legislação de Trânsito",
-      "txt": "Qual o órgão máximo normativo e consultivo do Sistema Nacional de Trânsito?",
+      "mat": "Mecânica Básica",
+      "txt": "Os sulcos da banda de rodagem dos pneus têm como função principal escoar a água da pista e garantir aderência. Qual é a profundidade mínima legal desses sulcos (indicada pelo TWI)?",
       "ops": [
-        "A) CONTRAN.",
-        "B) CETRAN.",
-        "C) CONTRANDIFE.",
-        "D) CIRETRAN."
+        "A) 0,5 milímetro.",
+        "B) 10,0 milímetros.",
+        "C) 5,0 milímetros.",
+        "D) 1,6 milímetro."
       ],
       "img": null,
-      "ok": 0
+      "ok": 3
     },
     {
       "n": 12,
-      "mat": "Penalidades e Multas",
-      "txt": "Dirigir veículo com Carteira Nacional de Habilitação ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir é infração gravíssima, gerando como penalidade:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-6c indica ao condutor que é:",
       "ops": [
-        "A) Multa (cinco vezes) e apreensão do veículo.",
-        "B) Multa (duas vezes) e advertência por escrito.",
-        "C) Multa (três vezes) e retenção do veículo até apresentação de condutor habilitado.",
-        "D) Multa simples e frequência obrigatória em curso."
+        "A) Proibido parar.",
+        "B) Proibido estacionar.",
+        "C) Proibido parar e estacionar.",
+        "D) Área de estacionamento."
+      ],
+      "img": "assets/questoes/p7_q15.png",
+      "ok": 2
+    },
+    {
+      "n": 13,
+      "mat": "Direção Defensiva",
+      "txt": "O consumo de bebidas alcoólicas, mesmo em pequenas quantidades, afeta o condutor principalmente porque:",
+      "ops": [
+        "A) Elimina completamente o risco de sono ao volante.",
+        "B) Melhora o tempo de reação em curvas fechadas.",
+        "C) Reduz os reflexos, prejudica a noção de distância/velocidade e gera falsa sensação de confiança.",
+        "D) Aumenta o campo de visão periférica durante a noite."
       ],
       "img": null,
       "ok": 2
     },
     {
-      "n": 13,
-      "mat": "Legislação de Trânsito",
-      "txt": "A qual órgão abaixo compete criar Câmaras Temáticas?",
-      "ops": [
-        "A) DENATRAN.",
-        "B) CONTRAN.",
-        "C) DETRAN.",
-        "D) Às JARIs."
-      ],
-      "img": null,
-      "ok": 1
-    },
-    {
       "n": 14,
-      "mat": "Penalidades e Multas",
-      "txt": "O condutor habilitado na categoria “B” que dirigir uma motocicleta será punido com:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual é a punição em pontos no prontuário para infrações classificadas, respectivamente, como Leve, Média, Grave e Gravíssima?",
       "ops": [
-        "A) Multa e advertência pelo Diretor Geral do DETRAN.",
-        "B) Multa e cassação da Carteira Nacional de Habilitação.",
-        "C) Multa e prisão.",
-        "D) Multa gravíssima (x2) e retenção do veículo até a apresentação de condutor habilitado."
+        "A) 1, 3, 5 e 10 pontos.",
+        "B) 3, 5, 7 e 9 pontos.",
+        "C) 2, 4, 6 e 8 pontos.",
+        "D) 3, 4, 5 e 7 pontos."
       ],
       "img": null,
       "ok": 3
     },
     {
       "n": 15,
-      "mat": "Legislação de Trânsito",
-      "txt": "A função exercida pela Polícia Rodoviária Federal com o objetivo de garantir obediência às normas de trânsito é:",
+      "mat": "Primeiros Socorros",
+      "txt": "Em uma queimadura térmica recente na pele de uma vítima de acidente, a medida de primeiros socorros recomendada é:",
       "ops": [
-        "A) Fiscalização.",
-        "B) Operação.",
-        "C) Policiamento.",
-        "D) Patrulhamento ostensivo."
-      ],
-      "img": null,
-      "ok": 3
-    },
-    {
-      "n": 16,
-      "mat": "Penalidades e Multas",
-      "txt": "Dirigir veículo sem as adaptações impostas pela Comissão de Exames Especiais do DETRAN por ocasião da concessão ou da renovação de licença para dirigir, constitui infração _____________, gerando como penalidade ____________.",
-      "ops": [
-        "A) Gravíssima; retenção do veículo.",
-        "B) Gravíssima; multa.",
-        "C) Grave; multa (três vezes).",
-        "D) Grave; advertência por escrito."
+        "A) Estourar todas as bolhas formadas para aliviar a pressão.",
+        "B) Passar manteiga, pasta de dente ou pó de café sobre o local queimado.",
+        "C) Resfriar a área queimada com água limpa em temperatura ambiente (fria) e cobrir com pano limpo e úmido sem apertar.",
+        "D) Arrancar imediatamente as roupas que estiverem grudadas na pele queimada."
       ],
       "img": null,
       "ok": 2
     },
     {
-      "n": 17,
+      "n": 16,
       "mat": "Legislação de Trânsito",
-      "txt": "O Sistema Nacional de Trânsito é integrado por:",
+      "txt": "Ao aproximar-se de uma rotatória sem sinalização específica, qual veículo tem a preferência de passagem?",
       "ops": [
-        "A) Órgãos normativos, consultivos, executivos, fiscalizadores e recursais.",
-        "B) Órgãos de direção e executivos apenas.",
-        "C) Órgãos executivos apenas.",
-        "D) Órgãos colegiados e temáticos apenas."
+        "A) O veículo que já estiver circulando por ela.",
+        "B) O veículo que vier pela via de maior largura.",
+        "C) O veículo que está entrando na rotatória pela esquerda.",
+        "D) O veículo que trafegar em maior velocidade."
       ],
       "img": null,
       "ok": 0
+    },
+    {
+      "n": 17,
+      "mat": "Direção Defensiva",
+      "txt": "Ao entrar em uma curva acentuada em rodovia, o procedimento defensivo correto para evitar a perda de controle pela força centrífuga é:",
+      "ops": [
+        "A) Frear bruscamente exatamente no meio da curva.",
+        "B) Mudar para uma marcha mais alta na entrada da curva.",
+        "C) Reduzir a velocidade ANTES de iniciar a curva e manter aceleração suave e constante durante o contorno.",
+        "D) Pisar na embreagem e fazer a curva em ponto morto ('banguela')."
+      ],
+      "img": null,
+      "ok": 2
     },
     {
       "n": 18,
-      "mat": "Penalidades e Multas",
-      "txt": "A multa reparatória, determinada pelo Código de Trânsito Brasileiro destina-se a:,",
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Manter o motor regulado, calibrar os pneus semanalmente e evitar arrancadas bruscas são atitudes que:",
       "ops": [
-        "A) Reparar ou indenizar prejuízo material que tenha resultado de crime.",
-        "B) Indenizar qualquer prejuízo material.",
-        "C) Suspender a penalidade de cassação da Carteira Nacional de Habilitação.",
-        "D) Indenizar dano moral."
+        "A) Não influenciam na preservação do meio ambiente.",
+        "B) Aumentam o desgaste das peças e elevam a emissão de poluentes.",
+        "C) Servem apenas para veículos movidos a diesel.",
+        "D) Reduzem o consumo de combustível e diminuem a emissão de gases poluentes na atmosfera."
       ],
       "img": null,
-      "ok": 0
+      "ok": 3
     },
     {
       "n": 19,
-      "mat": "Legislação de Trânsito",
-      "txt": "Realizar, fiscalizar e controlar o processo de habilitação, reciclagem e suspensão de condutores é competência:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-42b avisa o condutor sobre:",
       "ops": [
-        "A) Dos órgãos executivos de trânsito dos Estados e DF (DETRAN).",
-        "B) Dos órgãos executivos rodoviários da União.",
-        "C) Dos órgãos executivos rodoviários dos Estados.",
-        "D) Dos órgãos normativos dos Estados."
+        "A) Mão dupla adiante.",
+        "B) Sentido duplo.",
+        "C) Fim de pista dupla.",
+        "D) Início de pista dupla."
       ],
-      "img": null,
-      "ok": 0
+      "img": "assets/questoes/p7_q14.png",
+      "ok": 2
     },
     {
       "n": 20,
-      "mat": "Penalidades e Multas",
-      "txt": "O pagamento da multa poderá ser efetuado até a data do vencimento expressa na notificação, por:",
+      "mat": "Legislação de Trânsito",
+      "txt": "Deixar o condutor ou o passageiro de usar o cinto de segurança é infração de natureza:",
       "ops": [
-        "A) 100% do seu valor.",
-        "B) 80% do seu valor.",
-        "C) 50% do seu valor.",
-        "D) 90% do seu valor"
+        "A) Média, sujeita apenas a multa.",
+        "B) Gravíssima, com suspensão imediata da CNH.",
+        "C) Grave, sujeita a multa e retenção do veículo até colocação do cinto pelo infrator.",
+        "D) Leve, com advertência verbal."
       ],
       "img": null,
-      "ok": 1
+      "ok": 2
     },
     {
       "n": 21,
-      "mat": "Legislação de Trânsito",
-      "txt": "Para que os veículos destinados à condução coletiva de escolares possam circular nas vias, exige-se:",
+      "mat": "Direção Defensiva",
+      "txt": "Um condutor está sentindo muito sono e cansaço durante uma viagem noturna. A única medida verdadeiramente segura é:",
       "ops": [
-        "A) Cintos de segurança para o condutor e seu auxiliar.",
-        "B) Registro de veículo especial.",
-        "C) Lanternas de luz verde nas extremidades laterais direita e esquerda.",
-        "D) Inspeção semestral para verificação dos equipamentos obrigatórios e de segurança."
+        "A) Aumentar o volume do rádio e abrir os vidros para tomar vento.",
+        "B) Tomar bastante água gelada sem interromper a direção.",
+        "C) Acelerar mais rápido para chegar logo ao destino.",
+        "D) Parar o veículo em um local seguro (posto ou ponto de apoio) e descansar ou dormir antes de prosseguir."
       ],
       "img": null,
       "ok": 3
     },
     {
       "n": 22,
-      "mat": "Penalidades e Multas",
-      "txt": "A notificação da penalidade da multa a pessoal de missões diplomáticas, de repartições consulares de carreira e de seus integrantes será remetida ao:",
+      "mat": "Legislação de Trânsito",
+      "txt": "A faixa longitudinal amarela dupla contínua pintada no centro da pista indica ao condutor que:",
       "ops": [
-        "A) Ministério do Exército.",
-        "B) Ministério da Justiça.",
-        "C) Ministério das Cidades.",
-        "D) Ministério das Relações Exteriores."
+        "A) A via é de duplo sentido de circulação e a ultrapassagem é proibida para ambos os sentidos.",
+        "B) É permitido estacionar no centro da via.",
+        "C) A ultrapassagem é permitida apenas para motocicletas.",
+        "D) A via é de sentido único e a ultrapassagem é livre."
       ],
       "img": null,
-      "ok": 2
+      "ok": 0
     },
     {
       "n": 23,
-      "mat": "Legislação de Trânsito",
-      "txt": "O candidato para se habilitar para conduzir veículo automotor e elétrico deverá preencher os seguintes requisitos:",
+      "mat": "Mecânica Básica",
+      "txt": "A função do sistema de freios ABS (Sistema Antitravamento) em uma frenagem de emergência é:",
       "ops": [
-        "A) Saber ler e escrever.",
-        "B) Saber ler e escrever e possuir documento de identidade.",
-        "C) Saber ler e escrever, ser penalmente imputável e possuir carteira de identidade ou equivalente.",
-        "D) Ser penalmente imputável."
+        "A) Impedir o travamento das rodas, permitindo que o condutor mantenha o controle da direção enquanto freia.",
+        "B) Substituir completamente a necessidade de trocar as pastilhas de freio.",
+        "C) Fazer o veículo parar instantaneamente sem necessidade de pisar no pedal.",
+        "D) Desligar o motor automaticamente para economizar combustível."
       ],
       "img": null,
-      "ok": 2
+      "ok": 0
     },
     {
       "n": 24,
       "mat": "Legislação de Trânsito",
-      "txt": "A cópia fotostática ou a fotocópia da Carteira Nacional de Habilitação:",
+      "txt": "O pagamento de uma multa de trânsito realizado até a data de vencimento expressa na notificação poderá ser efetuado com desconto padrão de:",
       "ops": [
-        "A) Não é válida para substituir documento original.",
-        "B) É válida quando autenticada em cartório.",
-        "C) É válida quando não plastificada.",
-        "D) É válida quando apresentada junto com o documento de identidade do portador."
+        "A) Não existe previsão legal de desconto.",
+        "B) 10% do seu valor.",
+        "C) 50% sem qualquer condição.",
+        "D) 20% do seu valor (ou até 40% via SNE, abrindo mão de recurso)."
       ],
       "img": null,
-      "ok": 0
+      "ok": 3
     },
     {
       "n": 25,
-      "mat": "Placas de Sinalização",
-      "txt": "A placa de nº R-24b reg ulamenta:",
+      "mat": "Primeiros Socorros",
+      "txt": "Ao verificar os sinais vitais de uma vítima de acidente de trânsito, qual é um dos locais mais indicados e práticos para sentir a pulsação?",
       "ops": [
-        "A) Passagem obrigatória.",
-        "B) Sentido de circulação da via.",
-        "C) Sentido único.",
-        "D) Siga em frente."
+        "A) No meio das costas.",
+        "B) Na artéria carótida (lateral do pescoço) ou artéria radial (no pulso).",
+        "C) Na parte superior da testa.",
+        "D) Na ponta dos dedos dos pés."
       ],
-      "img": "assets/questoes/p7_q3.png",
-      "ok": 0
+      "img": null,
+      "ok": 1
     },
     {
       "n": 26,
-      "mat": "Placas de Sinalização",
-      "txt": "A placa de nº A-4b adverte:",
+      "mat": "Direção Defensiva",
+      "txt": "O 'ponto cego' de um veículo corresponde à:",
       "ops": [
-        "A) Curva acentuada em “S “ à esquerda.",
-        "B) Curva acentuada em “S “ à direita.",
-        "C) Curva acentuada à direita.",
-        "D) Pista sinuosa à direita."
+        "A) Parte escura do painel de instrumentos quando o farol está desligado.",
+        "B) Região ao redor do veículo que não é visível pelos espelhos retrovisores, exigindo atenção redobrada ao mudar de faixa.",
+        "C) Área à frente do capô iluminada pelo farol alto.",
+        "D) Sombra projetada pelo veículo ao meio-dia."
       ],
-      "img": "assets/questoes/p7_q4.png",
+      "img": null,
       "ok": 1
     },
     {
       "n": 27,
-      "mat": "Primeiros Socorros",
-      "txt": "O melhor local no corpo para se verificar a pulsação é:",
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Ao perceber um pedestre que já iniciou a travessia na faixa de pedestres sem semáforo, o condutor cidadão deve:",
       "ops": [
-        "A) No pescoço (carotídea).",
-        "B) No pé.",
-        "C) No punho.",
-        "D) Em alguma veia saliente."
+        "A) Reduzir a velocidade e parar o veículo antes da faixa, dando preferência total ao pedestre até concluir a travessia.",
+        "B) Buzinar para que o pedestre apresse o passo.",
+        "C) Desviar por trás do pedestre sem reduzir a velocidade.",
+        "D) Piscar o farol alto indicando que o veículo tem prioridade."
       ],
       "img": null,
       "ok": 0
     },
     {
       "n": 28,
-      "mat": "Primeiros Socorros",
-      "txt": "Não sendo possível, a chegada imediata do resgate, o cuidado indicado na presença de sangramento abundante é:",
+      "mat": "Placas de Sinalização",
+      "txt": "A placa indicativa de serviço auxiliar SAU-19 informa a existência de:",
       "ops": [
-        "A) Dar bastante líquido para a pessoa ir tomando.",
-        "B) Fazer compressão no local do sangramento.",
-        "C) Jogar bastante água oxigenada para coagular e limpar o ferimento.",
-        "D) Deixar o sangramento parar sozinho."
+        "A) Terminal Rodoviário.",
+        "B) Terminal Rodoferroviário.",
+        "C) Abastecimento.",
+        "D) Terminal Ferroviário."
       ],
-      "img": null,
-      "ok": 1
-    },
-    {
-      "n": 29,
-      "mat": "Primeiros Socorros",
-      "txt": "O procedimento correto com o acidentado que sofreu queimaduras provocadas por chamas é:",
-      "ops": [
-        "A) Esfriar a área com água corrente.",
-        "B) Passar pasta de dente na ferida.",
-        "C) Cobrir a ferida com um pano seco.",
-        "D) Dar leite para a pessoa tomar."
-      ],
-      "img": null,
+      "img": "assets/questoes/p7_q12.png",
       "ok": 0
     },
     {
-      "n": 30,
-      "mat": "Primeiros Socorros",
-      "txt": "Não constitui requisito obrigatório a um socorrista:",
+      "n": 29,
+      "mat": "Direção Defensiva",
+      "txt": "A distância total percorrida pelo veículo desde o instante em que o motorista percebe o perigo até a parada completa é chamada de:",
       "ops": [
-        "A) Ser solidário.",
-        "B) Ser firme e dedicado.",
-        "C) Ser calmo.",
-        "D) Ser da área de saúde."
+        "A) Distância lateral.",
+        "B) Distância de frenagem.",
+        "C) Distância de reação.",
+        "D) Distância de parada."
       ],
       "img": null,
       "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação de Trânsito",
+      "txt": "Em relação à habilitação na categoria 'B', o condutor está autorizado a dirigir veículos motorizados de quatro rodas cujo peso bruto total (PBT) não exceda:",
+      "ops": [
+        "A) 2.000 kg e lotação de até 5 lugares.",
+        "B) 3.500 kg incluindo motocicletas e ciclomotores.",
+        "C) 3.500 kg e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+        "D) 6.000 kg e lotação de até 12 passageiros."
+      ],
+      "img": null,
+      "ok": 2
     }
   ]
 };
